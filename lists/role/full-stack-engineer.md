@@ -2,7 +2,7 @@
 
 # Full-Stack Engineer
 
-**226 open roles.** 185 in the United States & Canada · 41 elsewhere in the world.
+**216 open roles.** 184 in the United States & Canada · 32 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,6 +18,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Greycell Labs Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/a1b4e8c8-7823-476b-92fb-1437cc6298f8">.NET Full Stack Developer - HBITS-08-15102</a></td>
+<td>Albany, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490206130/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ArrowCore Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/da7f4926-187b-4467-8f8b-4c5e1ef72d52">.Net Full stack Engineer</a></td>
+<td>Fremont, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4449632298/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>SwankTek Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/56a1b81c-c9a2-4ebd-bc23-ca606194f8c1">Dot Net Full Stack Developer</a></td>
+<td>Hercules, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489335460/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Peregrine Advisors</strong></td>
 <td><a href="https://trueinterview.io/jobs/64361cd2-e8f0-4d17-a441-dd9aa4a8357a">Fullstack Developer (Python, React)</a></td>
 <td>Washington, DC</td>
@@ -29,6 +50,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/43e890f2-88b8-4636-9642-75445bab9ca0">Full Stack Engineer</a></td>
 <td>Ohio, United States</td>
 <td align="center"><a href="https://www.careers.peraton.com/jobs/full-stack-engineer-home-ohio-173596-jobs--information-technology--">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Pavago</strong></td>
+<td><a href="https://trueinterview.io/jobs/278b9300-ba8e-41a8-a66a-8218a2640c83">Full Stack Developer</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://jobs.workable.com/view/hqMy31YZ7eWGbVMUdqSRfR/remote-full-stack-developer-in-united-states-at-pavago">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
@@ -1277,41 +1305,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484363645/">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
-<tr>
-<td><strong>OpenAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/a3b43eba-2e42-471f-9496-86566f03193a">Full Stack Software Engineer, Cybersecurity Products</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/88654e7f-4e23-4e75-8e54-18c10d09b093">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>ClinDCast LLC</strong></td>
-<td><a href="https://trueinterview.io/jobs/5fec9086-0845-4da5-baf0-6e4dc3415c31">Java Full Stack Developer</a></td>
-<td>Jersey City, NJ</td>
-<td align="center"><a href="https://clindcast-llc.careerplug.com/j/036s2xh">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>ProLiant</strong></td>
-<td><a href="https://trueinterview.io/jobs/0bd08210-ed89-4096-a304-ee17f2955630">.NET Full Stack Web Developer</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/3541782917/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>OMG Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/60a423bd-ed58-4a0d-80cd-adeadd80409e">MES Software Developer( Full-stack Dev) | Life Sciences / Pharma | Remote (US)</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://omgtech.bamboohr.com/careers/378?postedDate=2026-11-02">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Fortune</strong></td>
-<td><a href="https://trueinterview.io/jobs/94823f44-bcb7-4eb5-a197-86f71b334da9">Full Stack Software Engineer Next.js</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4450336889/">Apply</a></td>
-<td align="center">1 Nov 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -1324,6 +1317,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>ByteDance</strong></td>
+<td><a href="https://trueinterview.io/jobs/fa6e1908-afcb-4737-b56c-88473eaa8342">AI Full-Stack Engineer Graduate (Corporate Service System - Frontend) - 2027 Start</a></td>
+<td>Dubai, Dubai, United Arab Emirates</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474557154/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>TikTok</strong></td>
 <td><a href="https://trueinterview.io/jobs/7d148a9a-634e-44e2-80d2-639ccf6237b1">Fullstack Engineer (Data Application &amp; AI Agent) - TikTok Live - Singapore</a></td>
@@ -1539,76 +1539,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/22cf00ee-0439-4fa6-8ec6-04e877cb9adb">Full Stack Engineer</a></td>
 <td>Cincinnati Metropolitan Area</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4486193524/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Qube Research &amp; Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/422fe4cb-3077-4fcb-a61d-4286213ceb8b">Full Stack Developer - HR Technology</a></td>
-<td>London</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8926547002">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Cegeka</strong></td>
-<td><a href="https://trueinterview.io/jobs/4af32b53-0e0a-4089-8165-f12c9747f018">Full-Stack Developer React / C# / Graph #11310 Database</a></td>
-<td>Home Office, Deutschland</td>
-<td align="center"><a href="https://jobs.cegeka.de/vacancy/11310/full-stack-developer-react-c-graph-11310-database">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Citi</strong></td>
-<td><a href="https://trueinterview.io/jobs/4354ef02-7d10-4122-9377-2ff66f465dc7">Java React Full stack Developer</a></td>
-<td>India</td>
-<td align="center"><a href="https://jobs.citi.com/job/chennai/java-react-full-stack-developer/287/102756311088">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Deloitte</strong></td>
-<td><a href="https://trueinterview.io/jobs/2e1b2858-b18e-4b13-b155-a200ba38eba7">Forward Deployed Full Stack Engineer</a></td>
-<td>Sydney, Australia</td>
-<td align="center"><a href="https://jobs.deloitte.com.au/job/Sydney-Forward-Deployed-Full-Stack-Engineer-NSW/1369816266/&amp;jobPipeline=Indeed&amp;utm_source=Indeed&amp;utm_medium=organic&amp;utm_campaign=Indeed">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>HTC Software Singapore Pte Ltd</strong></td>
-<td><a href="https://trueinterview.io/jobs/71d64daa-b1ca-4049-8986-68fdf27bba7c">Java Full-stack developer</a></td>
-<td>Outram, Singapore</td>
-<td align="center"><a href="https://www.mycareersfuture.gov.sg/job/679f801d5bddfda13cd3749f65807712">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Jacobs</strong></td>
-<td><a href="https://trueinterview.io/jobs/e358f6b1-e777-4d51-ad19-c4456e04f9af">Full Stack Developer</a></td>
-<td>India</td>
-<td align="center"><a href="https://careers.jacobs.com/en_US/careers/JobDetail/Full-Stack-Developer/47438">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Optimax Energy GmbH</strong></td>
-<td><a href="https://trueinterview.io/jobs/21f4457d-3cf7-42e8-953a-ba095b1471c3">Full Stack Developer - Frontend Fokus (w/m/d)</a></td>
-<td>Leipzig, Deutschland</td>
-<td align="center"><a href="https://t.gohiring.com/h/b6d2fe40061e7cd3555f6336236aa2218ad8c028059db56d7788e098c1511871">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>PhotoPress</strong></td>
-<td><a href="https://trueinterview.io/jobs/de2dee56-d0c1-45a8-94e5-8b1e642941b4">FULL STACK DEVELOPER</a></td>
-<td>Jurong Island, Singapore</td>
-<td align="center"><a href="https://www.mycareersfuture.gov.sg/job/71a9d59ec81d5dc35cbbfc158f0279a1">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Quest Global</strong></td>
-<td><a href="https://trueinterview.io/jobs/debd9e50-866c-4670-9e24-96b660be2e82">Fullstack Engineer</a></td>
-<td>India</td>
-<td align="center"><a href="https://careers.quest-global.com/global/en/job/QGRQGAGLOBALP124229EXTERNALENGLOBAL/Fullstack-Engineer">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>XO Health</strong></td>
-<td><a href="https://trueinterview.io/jobs/79a47403-8f41-4d21-9fdf-3e3fb703a1a5">Full Stack Engineer (Front-End)</a> 🌐</td>
-<td>Remote — India</td>
-<td align="center"><a href="https://grnh.se/qwz93cw87us">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 </tbody>

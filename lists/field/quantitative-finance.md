@@ -2,7 +2,7 @@
 
 # 📈 Quantitative Finance
 
-**122 open roles.** 97 in the United States & Canada · 25 elsewhere in the world.
+**120 open roles.** 100 in the United States & Canada · 20 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,10 +18,59 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>G-20 Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/80932e50-1370-4c6a-8dc2-6aa430a9b2b1">Prediction Markets Quantitative Engineer</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491088804/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Netrolynx AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/3483c6f1-d5da-4df9-b864-1ca8e2539345">Quant Developer</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489357149/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Voloridge Investment Management, LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/7168d285-9fbf-4a14-934e-2aff5f6c23bb">Quantitative Research Fellowship 2027</a></td>
+<td>Jupiter, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4426889409/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Two Sigma</strong></td>
+<td><a href="https://trueinterview.io/jobs/55c0bd4c-74d4-4688-928a-7f7d78cd46fb">Quantitative Researcher: Machine Learning</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4376204181/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Trexquant Investment LP</strong></td>
+<td><a href="https://trueinterview.io/jobs/685fdb2e-5e4d-4b7e-87e2-7860127f5eca">Quantitative Developer (USA)</a></td>
+<td>Stamford, CT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4427773595/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Nationwide</strong></td>
+<td><a href="https://trueinterview.io/jobs/91a63779-8205-4a62-a27c-703c6f2253c3">Credit Quantitative Analyst, Investment Professional</a></td>
+<td>Columbus, OH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4463916063/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Susquehanna International Group</strong></td>
 <td><a href="https://trueinterview.io/jobs/f30f773f-25d1-422d-acb8-89a9592e325f">Quantitative Strategy Developer - New Grad</a></td>
 <td>Bala-Cynwyd, PA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4453487626/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Urban Institute</strong></td>
+<td><a href="https://trueinterview.io/jobs/0bb17243-1d98-44e3-aed4-7a5cd273ab74">Research Assistant – Quantitative (Health, Income, and Benefits Policy Division)</a></td>
+<td>Washington DC-Baltimore Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4456205365/">Apply</a></td>
 <td align="center">14 Nov 2026</td>
 </tr>
 <tr>
@@ -668,34 +717,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4480079793/">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
-<tr>
-<td><strong>Robeco</strong></td>
-<td><a href="https://trueinterview.io/jobs/3667f1a2-efb6-4bb6-993a-6b98655680bd">Quant Equity Researcher</a></td>
-<td>Boston, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486148920/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>NJF Global Holdings Ltd</strong></td>
-<td><a href="https://trueinterview.io/jobs/14876069-2f94-472c-9604-cc1e86b422be">Quantitative Developer – Applied AI Research &amp; C++ Engineering</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486160231/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>DRW</strong></td>
-<td><a href="https://trueinterview.io/jobs/35cee2db-e813-407d-ab2f-7f50a12c019b">Quantitative Developer</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/drweng/jobs/7985591">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Scotiabank</strong></td>
-<td><a href="https://trueinterview.io/jobs/a744ef91-abc4-4d10-ab74-5ff8ea25bd42">Trader (1832 Asset Management)</a></td>
-<td>Toronto, ON<br/>Toronto, Canada</td>
-<td align="center"><a href="https://jobs.scotiabank.com/job/Toronto-Trader-%281832-Asset-Management%29-ON-M5C2V9/607630517/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -847,41 +868,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Genève, Switzerland</td>
 <td align="center"><a href="https://jobs.totalenergies.com/fr_FR/careers/JobDetail/Quant-Modeling-Analyst-Oil/85173">Apply</a></td>
 <td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>DRW</strong></td>
-<td><a href="https://trueinterview.io/jobs/25fc8452-27bc-4538-9515-ef7127a8f7c4">Quantitative Researcher - Commodities</a></td>
-<td>London, England, United Kingdom</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/drweng/jobs/6362259">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>CNRS</strong></td>
-<td><a href="https://trueinterview.io/jobs/f351ae23-0016-4be8-a2fd-477723e3d90c">Doctorant (H/F) en biologie du développement et imagerie quantitative</a></td>
-<td>Montpellier, France</td>
-<td align="center"><a href="https://emploi.cnrs.fr/Offres/Doctorant/UMR5237-ALBTSA-005/Default.aspx">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Gravitas Recruitment Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/90044a19-6963-4fc8-b073-811153c8cd8e">Quant Developer</a></td>
-<td>Hong Kong</td>
-<td align="center"><a href="https://www.efinancialcareers.hk/jobs-Hong_Kong-Hong_Kong-Quant_Developer.id24963830">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>UniCredit Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/da44c3ae-550f-4e2b-8f55-1a1c381665c8">Praktikant Produktentwicklung Quantitative Investment-Strategien (m/w/d)</a></td>
-<td>München, Deutschland</td>
-<td align="center"><a href="https://careers.unicredit.eu/de_DE/jobsuche/JobDetail/Praktikant-Produktentwicklung-Quantitative-Investment-Strategien-m-w-d/117234">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>JPMorgan Chase</strong></td>
-<td><a href="https://trueinterview.io/jobs/07050dd0-c929-49ac-a79e-7b485c824429">Quantitative Trading &amp; Research - Commodities Quantitative Trading – Analyst</a></td>
-<td>Singapore</td>
-<td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210738947">Apply</a></td>
-<td align="center">2 Nov 2026</td>
 </tr>
 </tbody>
 </table>

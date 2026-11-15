@@ -18,6 +18,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/229a8394-7452-4515-b155-4ba39a1aacb0">Software Development Engineer, Enterprise and Education, CoreOS</a></td>
+<td>Cupertino, California, 95014, United States</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200694773/software-development-engineer-enterprise-and-education-coreos">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Cisco</strong></td>
 <td><a href="https://trueinterview.io/jobs/75f18ab4-ffb4-44bc-b137-d24a894ffe2d">Software Developer I (Full Time) - Canada</a></td>
 <td>Ottawa, Ontario, Canada<br/>Kanata, Ontario, Canada</td>
@@ -25,10 +32,17 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong>AMAX</strong></td>
+<td><a href="https://trueinterview.io/jobs/95ded716-4c85-4472-9721-2a6fb98b0ba8">Data Center Operations Engineer</a></td>
+<td>Fremont, California, United States</td>
+<td align="center"><a href="https://jobs.workable.com/view/bDVW3gKnaomwhKZYoyMZnA/data-center-operations-engineer-in-fremont-at-amax">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Cisco</strong></td>
 <td><a href="https://trueinterview.io/jobs/bc38cc51-a1f7-4658-a6b1-7ae8c6a28624">System Reliability Engineer II (Full Time) - United States</a></td>
-<td>Durham, NC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4490749804/">Apply</a></td>
+<td>Durham, NC<br/>Research Triangle Park, NC</td>
+<td align="center"><a href="https://careers.cisco.com/global/en/job/2031595">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
@@ -46,7 +60,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">12 Nov 2026</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/e3f8a65b-86f8-44d3-9f90-8769f1a0a603">Graphics Design Verification Flow Engineer</a></td>
+<td>Santa Clara, CA</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200694960-3760?board_id=JB001">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Nokia</strong></td>
 <td><a href="https://trueinterview.io/jobs/ba9a2359-932f-47c2-99c8-2c0b89ce5ac7">Optical Coherent System Engineer</a></td>
 <td>Germany<br/>Canada</td>
 <td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39552">Apply</a></td>
@@ -134,13 +155,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a0cfde37-ea0a-47f8-849b-228b5ccb288d">ASIC Packaging SI/PI Engineer (Hybrid)</a></td>
 <td>San Jose, CA</td>
 <td align="center"><a href="https://careers.cisco.com/global/en/job/2030802">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/6a824fe4-14a1-421f-b7f7-2374bdeb2d8c">Software Engineer - Splunk</a></td>
-<td>Cracow, Małopolskie, Poland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4471831850/">Apply</a></td>
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>
@@ -481,13 +495,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/729b0526-2bb7-49b6-b665-f2db74b8931f">Systems Software Engineer, Platform Architecture</a></td>
-<td>Cambridge, Massachusetts, United States<br/>Cupertino, California, United States</td>
-<td align="center"><a href="https://jobs.apple.com/en-us/details/200687597">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/d12995ae-c413-402a-9f37-ab557dddb779">Silicon Photonics Process Integration Engineer</a></td>
 <td>Cupertino, California, United States</td>
 <td align="center"><a href="https://jobs.apple.com/en-us/details/200693031">Apply</a></td>
@@ -521,13 +528,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://jobs.apple.com/en-us/details/200692103">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/6089cb82-be66-44d0-8c19-e50e0448aba8">Component Engineer</a></td>
-<td>Cupertino, CA</td>
-<td align="center"><a href="https://jobs.apple.com/en-us/details/200600679-0836?board_id=JB001">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -540,6 +540,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Cisco</strong></td>
+<td><a href="https://trueinterview.io/jobs/0447195a-807a-4d77-a977-725c3a87791f">Security Deployment Engineer Technical Leader</a></td>
+<td>Tokyo, Tokyo, Japan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4446741584/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Western Digital</strong></td>
 <td><a href="https://trueinterview.io/jobs/6dc68f2e-02d3-4ac2-a27c-45cd0b891f83">AI Application Engineer, Product Engineering</a></td>
@@ -853,13 +860,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/e762f845-2e42-4e8e-824e-7086ed8a3f52">Agentic AI Researcher</a></td>
 <td>Herzliya, Tel-Aviv District, Israel</td>
 <td align="center"><a href="https://jobs.apple.com/en-us/details/200690118">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Us Conec, Ltd</strong></td>
-<td><a href="https://trueinterview.io/jobs/7bea33a9-8397-4670-8908-b7e8af2a3364">Applications Engineer</a> 🌐</td>
-<td>Remote — Ireland</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/usconec/jobs/4472685009">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 </tbody>

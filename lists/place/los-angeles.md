@@ -2,7 +2,7 @@
 
 # 🌴 Los Angeles & Orange County
 
-**166 open roles.**
+**163 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Wesley Health Centers - JWCH Institute, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/2f26151b-23d7-49e1-a9d3-c13938eeb247">Data Analyst</a></td>
+<td>Los Angeles, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491097439/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>HARMAN International</strong></td>
+<td><a href="https://trueinterview.io/jobs/040c51cb-0fda-48f7-a257-7cf983594e45">Perceptual Audio Engineer (Research)</a></td>
+<td>Los Angeles, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4378123133/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/528bed54-a79f-43dd-8172-55121400693f">Applied Scientist, Quantum Algorithms, Center for Quantum Computing</a></td>
+<td>Pasadena, CA<br/>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4455903773/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Anduril</strong></td>
 <td><a href="https://trueinterview.io/jobs/cd41f97a-c7de-497b-86e0-6cb0e0191c30">Platform Software Security Engineer, Air Defense</a> 🌐</td>
@@ -53,10 +74,45 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Castelion</strong></td>
+<td><a href="https://trueinterview.io/jobs/a6840dcf-b96b-41f9-9788-e2da99662bd1">Deputy Program Engineer, Hypersonic Strike</a></td>
+<td>Torrance, CA</td>
+<td align="center"><a href="https://grnh.se/pztnl2u59us">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Deloitte</strong></td>
 <td><a href="https://trueinterview.io/jobs/3167b6b0-c6b9-4770-940e-d7fcd0636c48">Cyber - Manger: Forward Deployed Engineering</a></td>
 <td>El Segundo, CA</td>
 <td align="center"><a href="https://deloitteus.avature.net/careers/InviteToApply?jobId=362390">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ＳＴＯＮＥ ＰＯＷＥＲ</strong></td>
+<td><a href="https://trueinterview.io/jobs/1579f93d-71fb-4d90-85e2-26980b450681">Build Engineer (All Levels)</a></td>
+<td>Los Angeles, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/stonepower/259d42c1-29dc-4374-8b50-3315e4ae1f5a">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/15bd1a5c-2502-4eb4-bb43-097ee34a1466">Fluid Systems Engineer (All Levels)</a></td>
+<td>Los Angeles, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/stonepower/cd078c3d-be61-4d91-80bd-288a2a84e875">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/547ef148-2b73-4299-8d7b-5f63c784d8a3">Stress &amp; Structures Engineer (All Levels)</a></td>
+<td>Los Angeles, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/stonepower/b4855eaf-4aae-4adf-ab02-029f6415bff0">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/67d76ec8-9ec4-4d16-9070-4b66b3a520d8">Turbomachinery Engineer (All Levels)</a></td>
+<td>Los Angeles, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/stonepower/9d28b997-de63-4d56-a06d-b188e36a883a">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
@@ -71,6 +127,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/d75fcfc9-778c-4a1c-96fc-af7317a64600">New Graduate Engineer, Aerospace Software (Starfall)</a></td>
 <td>Hawthorne, CA</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8939697002?gh_jid=8939697002">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Collins Aerospace</strong></td>
+<td><a href="https://trueinterview.io/jobs/30cf494c-56f6-43a4-bac7-cf41fec760ef">Systems Engineering I, SAOC SEIT, El Segundo (Onsite)</a></td>
+<td>El Segundo, CA</td>
+<td align="center"><a href="https://careers.rtx.com/global/en/job/01889122">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
 <tr>
@@ -372,13 +435,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/3f86eb41-4822-4aa6-859f-084f96e943c9">System Safety Engineer</a></td>
 <td>El Segundo, California, United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/ensco/jobs/5475396008">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Pomeroy IT Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/2e6b9a7d-2d83-426f-98bd-e345fd8ba12c">Desktop Support Technician</a></td>
-<td>Irvine, CA</td>
-<td align="center"><a href="https://myjobs.adp.com/pomeroy/cx/job-details?reqId=5001236713706">Apply</a></td>
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>
@@ -928,13 +984,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Hydrafacial</strong></td>
-<td><a href="https://trueinterview.io/jobs/be31e146-d1a9-441d-95e7-c04f8213a0c5">Forward Deployed Engineer</a></td>
-<td>Long Beach, CA</td>
-<td align="center"><a href="https://beautyhealth.wd12.myworkdayjobs.com/BeautyHealthCareer/job/USA-California---Long-Beach/Sr-Business-Intelligence-Engineer_JR101511">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Northrop Grumman</strong></td>
 <td><a href="https://trueinterview.io/jobs/4d8fd3ba-9a86-46c3-9613-962cb0d8155a">Launch Systems Integration Systems Engineer - Level 3 or 4 (AHT)</a></td>
 <td>Redondo Beach, CA</td>
@@ -1108,76 +1157,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Los Angeles, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4434034832/">Apply</a></td>
 <td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>West Yost</strong></td>
-<td><a href="https://trueinterview.io/jobs/8856d3d5-3f89-4c2c-9b45-e0bbba61c8f8">OTCR Business Sector Leader (Operations Technology, Cybersecurity, &amp; Resilience) - Municipal Water</a></td>
-<td>Irvine, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4394678385/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Google</strong></td>
-<td><a href="https://trueinterview.io/jobs/f74c2599-f81c-4b1b-aef6-7fe3cbb0f125">Software Engineer II, Early Career</a></td>
-<td>Los Angeles, California, United States<br/>New York, NY<br/>Mountain View, California, United States<br/>+12 more</td>
-<td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/109116638069957318">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Day &amp; Zimmermann</strong></td>
-<td><a href="https://trueinterview.io/jobs/354bd739-d384-49bc-bbb0-ef26e0abd4bd">Engineer, Network, 1, HWAD</a></td>
-<td>Hawthorne, NV</td>
-<td align="center"><a href="https://jobs.dayzim.com/job/Hawthorne-Engineer%2C-Network%2C-1%2C-HWAD-NV-89415/1447016500/?feedId=397200">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Ford Motor Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/6b6bf30c-67ea-4bf9-9491-f3260d3f4d7f">CAE Engineer - Early Career Program, Advanced EV</a></td>
-<td>Long Beach, CA</td>
-<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73523">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Sony Interactive Entertainment</strong></td>
-<td><a href="https://trueinterview.io/jobs/9bf987f7-c17a-4fc3-93d7-574998b32eb9">Technical Game Designer</a></td>
-<td>Santa Monica, CA</td>
-<td align="center"><a href="https://careers.playstation.com/technical-game-designer/job/6240756004">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Teledyne FLIR</strong></td>
-<td><a href="https://trueinterview.io/jobs/712147d8-562e-490c-a60d-498126a347ec">Component Engineer</a></td>
-<td>El Segundo, CA</td>
-<td align="center"><a href="https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---El-Segundo-CA/Component-Engineer_REQ37241-1">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>The Aerospace Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/bf91e3b8-8b70-43f9-94f5-35a64d35fb3d">Laser Communication Engineer</a></td>
-<td>El Segundo, CA</td>
-<td align="center"><a href="https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/Laser-Communication-Engineer_R017059">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>University of California Los Angeles</strong></td>
-<td><a href="https://trueinterview.io/jobs/6bc71325-5fd9-4840-bff6-13d3291b3916">System Engineer</a></td>
-<td>Los Angeles, CA</td>
-<td align="center"><a href="https://jobs.ucla.edu/careers-home/jobs/11909?lang=en-us">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Silvus Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/4ba6c938-5a10-48d7-907a-d50a13a64a4e">Web Interface Software Engineer</a></td>
-<td>Los Angeles, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4440840754/">Apply</a></td>
-<td align="center">1 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Eliassen Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/fa18b084-61c8-4f1c-ae2c-41ef34220e6c">AI Prototyping Engineer</a></td>
-<td>Burbank, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4401651202/">Apply</a></td>
-<td align="center">1 Nov 2026</td>
 </tr>
 </tbody>
 </table>

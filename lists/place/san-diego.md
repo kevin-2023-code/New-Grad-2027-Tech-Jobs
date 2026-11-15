@@ -2,7 +2,7 @@
 
 # 🏖️ San Diego
 
-**76 open roles.**
+**80 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,10 +18,52 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Dassault Systèmes</strong></td>
+<td><a href="https://trueinterview.io/jobs/0ca1aab7-cd9e-4fc5-b434-2c3fadf9bd7c">AI QA Engineer</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474785904/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Arlo Technologies, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/e349efeb-09ec-42bb-bae8-57d7e1afa5ea">Hardware Engineer</a></td>
+<td>Carlsbad, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4452570902/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Qualcomm</strong></td>
+<td><a href="https://trueinterview.io/jobs/8200aed7-15b5-4b77-b246-051b884cf3f4">#Agentic AI Windows Power and Thermal Engineer</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4437061342/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/d8ccf0a7-cae6-4765-a11a-9c33c9242d12">Wireless Embedded Software Developer, KMM, Amazon Leo</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4456425430/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon Web Services (AWS)</strong></td>
+<td><a href="https://trueinterview.io/jobs/350cbc91-955d-486c-af6c-c2816459cee9">Software Development Engineer, EC2 Nitro Networking</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475308721/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Shield</strong></td>
 <td><a href="https://trueinterview.io/jobs/8f891b1f-e47c-4182-964d-7710566bcae4">Software Development Engineer - New Graduate</a></td>
 <td>San Diego, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4491009269/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>JSL Technologies, Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/b789c174-efb1-4a1c-92c5-cf9fe36e4b2f">Copy of FFX CSHW ISEA Support Hardware Engineer</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4666051/JSL-Technologies-Inc/Copy-of-FFX-CSHW-ISEA-Support-Hardware-Engineer">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
@@ -533,20 +575,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/6430def7-de47-4c3f-ae4d-79aba64e12cb">Software Engineer</a></td>
 <td>Poway, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4486190710/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Keck Medicine of USC</strong></td>
-<td><a href="https://trueinterview.io/jobs/d8a42d8a-f91b-4d51-817d-2477a71f27ee">Analytics Developer</a></td>
-<td>San Diego, CA</td>
-<td align="center"><a href="https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/San-Diego-CA/Analytics-Developer_REQ20182601-1">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Quartus Engineering</strong></td>
-<td><a href="https://trueinterview.io/jobs/7b08b201-ba44-4143-9bba-19bf2f4f69a6">Optical Engineer (Early Career) - 069QE</a></td>
-<td>San Diego, CA</td>
-<td align="center"><a href="https://quartus.recruiterbox.com/jobs/fk0z2b7?fjb_hash=ezLpq610">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 </tbody>

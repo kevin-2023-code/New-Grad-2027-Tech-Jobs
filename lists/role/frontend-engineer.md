@@ -2,7 +2,7 @@
 
 # Frontend Engineer
 
-**79 open roles.** 63 in the United States & Canada · 16 elsewhere in the world.
+**74 open roles.** 61 in the United States & Canada · 13 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Lenovo</strong></td>
+<td><a href="https://trueinterview.io/jobs/c3bfb486-8d53-49b9-8931-cd386d8fa349">Web Front-End Developer</a></td>
+<td>North Carolina, United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4423955711/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Miami HEAT</strong></td>
+<td><a href="https://trueinterview.io/jobs/078de262-0196-40de-b17c-4412b8b0799a">Front-End Web Developer</a></td>
+<td>Miami, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483141535/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Nomad</strong></td>
+<td><a href="https://trueinterview.io/jobs/a002debf-34a6-4b83-8b8e-29f8483be01c">Web Developer</a></td>
+<td>Toronto, ON<br/>Toronto, Canada</td>
+<td align="center"><a href="https://ats.rippling.com/nomad/jobs/fb2a7221-a6df-43ba-bdc9-0c115ec5f0ff">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Marlabs</strong></td>
 <td><a href="https://trueinterview.io/jobs/abf5e116-5ce5-4280-947b-12ed2105a49e">Front-end Software Engineer</a></td>
@@ -423,41 +444,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4383244282/">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
-<tr>
-<td><strong>Andrews University</strong></td>
-<td><a href="https://trueinterview.io/jobs/2b8bd386-cf18-4171-8901-24b12db89358">Web Developer/Designer, Office Tech &amp; Photographer</a></td>
-<td>Berrien Springs, MI</td>
-<td align="center"><a href="https://www.andrews.edu/admres/jobs/4437/details">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Sander Geophysics</strong></td>
-<td><a href="https://trueinterview.io/jobs/c592d181-d762-4231-8227-5e50a4f2d635">Web Developer - IT Assistant NEW</a></td>
-<td>Ottawa, ON<br/>Ottawa, Canada</td>
-<td align="center"><a href="https://www.sgl.com/careers-Web%20Developer%20-%20IT%20Assistant.html">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Harrison Clarke</strong></td>
-<td><a href="https://trueinterview.io/jobs/a4442a5f-a27e-446e-b0d0-1157b703ead5">Frontend Product Engineer</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484404178/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>SAP Bangladesh</strong></td>
-<td><a href="https://trueinterview.io/jobs/59ec0a68-e2d0-405c-a523-2c8b20d24a70">Frontend Developer</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485424595/">Apply</a></td>
-<td align="center">1 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Office of the Prime Minister and Council of Ministers (OPMCM), Nepal</strong></td>
-<td><a href="https://trueinterview.io/jobs/9a496d5d-1989-4c37-a938-4dd23b702327">Frontend Developer</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485402838/">Apply</a></td>
-<td align="center">1 Nov 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -470,6 +456,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>ByteDance</strong></td>
+<td><a href="https://trueinterview.io/jobs/630c4682-7ee6-4c18-9e52-24682d033432">Front-end Development Software Engineer Graduate (BytePlus) - 2027 Start</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475063173/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>TikTok</strong></td>
 <td><a href="https://trueinterview.io/jobs/25baab3b-d2bd-421c-b4d4-6ad0157ad3c1">Frontend Software Engineer Graduate (TikTok Foundation) - 2027 Start (BS/MS)</a></td>
@@ -553,34 +546,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Bendern, Switzerland</td>
 <td align="center"><a href="https://www.lgt.com/global-de/karriere/jobs/frontend-developer-b2b-digital-banking-app-development-80-100-w-m-d--382812">Apply</a></td>
 <td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Valarian Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/075ccfc0-18ed-4ec9-978c-d0f65276156a">UI Engineer</a></td>
-<td>London, United Kingdom</td>
-<td align="center"><a href="https://jobs.lever.co/valarian/20d5c9b1-3928-4ce4-a8f6-0e9bb3594151">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>NS</strong></td>
-<td><a href="https://trueinterview.io/jobs/c9ed1fa1-5326-4e15-b9c5-1bf25301a29c">Frontend Developer Bijsturing Personeel</a></td>
-<td>Utrecht Binnenstad, Netherlands</td>
-<td align="center"><a href="https://www.werkenbijns.nl/v/1348870">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Pretius Software</strong></td>
-<td><a href="https://trueinterview.io/jobs/30480e1e-6ca6-4523-a8ea-46ac494f550c">Frontend Developer New</a></td>
-<td>Warszawa, Poland</td>
-<td align="center"><a href="https://pretiushr.traffit.com/public/an/441269b961646e3017bce49874cac5aa51734c43">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>WebPreneurs</strong></td>
-<td><a href="https://trueinterview.io/jobs/798e6928-2d26-487b-8ff2-d205e1530802">WEB DEVELOPER (Urgent Hiring)</a></td>
-<td>India</td>
-<td align="center"><a href="https://websolutions.world/join-us/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
 </tr>
 </tbody>
 </table>

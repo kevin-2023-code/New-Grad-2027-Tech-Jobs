@@ -2,7 +2,7 @@
 
 # ⛰️ Vancouver & British Columbia
 
-**24 open roles.**
+**26 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Match Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/39506384-36e2-4f32-8592-f2e6dc7be450">Platform Engineer</a></td>
+<td>Vancouver, BC<br/>Vancouver, British Columbia</td>
+<td align="center"><a href="https://jobs.lever.co/matchgroup/a086e742-7817-4abf-a22f-d00d10567bc6">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/931bc232-34b0-4de9-afd3-01107076bf2c">Security Engineer, AI Security</a></td>
+<td>Vancouver, BC<br/>Vancouver, British Columbia, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475055542/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/01f45f41-b112-4a48-a5fd-703b51ad1a39">Applied Scientist, Amazon Canada Technology, Amazon Canada</a></td>
+<td>Vancouver, British Columbia, Canada<br/>Toronto, Ontario, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483183142/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon Web Services (AWS)</strong></td>
+<td><a href="https://trueinterview.io/jobs/fc43d54f-74aa-4a1e-917a-8bc0da27be85">Software Development Engineer, AWS IAM Identity Center</a></td>
+<td>Vancouver, BC<br/>Vancouver, British Columbia, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4455914326/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Amazon</strong></td>
 <td><a href="https://trueinterview.io/jobs/54669377-526a-444a-806e-78d253815b25">Software Development Engineer, North America Stores Expansion</a></td>
@@ -169,20 +197,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/c720561a-be0c-4b98-8a6d-88463842fb2b">Security Engineer, AWS AppSec</a></td>
 <td>Vancouver, BC<br/>Vancouver, British Columbia, Canada</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4460814540/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon Web Services</strong></td>
-<td><a href="https://trueinterview.io/jobs/4af172bc-5ce3-4a6a-a3f1-c3e15af9eecd">AI Security Engineer, AWS Security - AISec</a></td>
-<td>Vancouver, BC<br/>Vancouver, Canada</td>
-<td align="center"><a href="https://www.amazon.jobs/jobs/10595850/ai-security-engineer-aws-security--aisec?cmpid=DA_INAD200785B">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Patriot Contract Services</strong></td>
-<td><a href="https://trueinterview.io/jobs/be7505fa-fa03-4138-9a97-8d22c6cffabf">Asst. Port Engineer/NSE Analyst</a></td>
-<td>Vancouver, BC<br/>Vancouver, WA</td>
-<td align="center"><a href="https://patriotships.bamboohr.com/careers/129?postedDate=2026-11-02">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 </tbody>

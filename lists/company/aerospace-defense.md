@@ -2,7 +2,7 @@
 
 # 🚀 Aerospace & defence
 
-**63 open roles.** 45 in the United States & Canada · 18 elsewhere in the world. Space, satellites, defence primes and defence technology.
+**61 open roles.** 44 in the United States & Canada · 17 elsewhere in the world. Space, satellites, defence primes and defence technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -325,13 +325,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/4672868007?gh_jid=4672868007">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
-<tr>
-<td><strong>Two Six Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/ff64fb40-4c6c-4839-96c5-de6af11308f5">UI/UX Developer</a></td>
-<td>Herndon, VA<br/>Aurora, Colorado<br/>Herndon, Virginia</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/twosixtechnologies/jobs/5838177004">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -461,13 +454,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/e3e36039-e491-4b80-9034-be6ae893e1d6">IT Administrator</a></td>
 <td>Turin, Italy</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/the-exploration-company/02f0201a-2141-47a0-b6cb-461edd1afa1d">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Isar Aerospace Se</strong></td>
-<td><a href="https://trueinterview.io/jobs/1c64ae14-59d3-44af-b706-b612c3669cdf">Product Assurance Engineer - Structures &amp; CFRP (m/f/d)</a></td>
-<td>Parsdorf, Bavaria, Germany</td>
-<td align="center"><a href="https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5024656101">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # 🏔️ Denver, Boulder & Colorado
 
-**140 open roles.**
+**135 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,10 +18,45 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Rincon Research Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/13e03103-47c7-4742-bd30-27a20608cc34">UI/UX Engineer</a></td>
+<td>Colorado Springs, CO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474548029/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Technical Integrity</strong></td>
+<td><a href="https://trueinterview.io/jobs/e72106e6-b9e7-42f4-b435-7a3482e85c78">AI/ML Engineer- PhD, MS in Mathematics, CS or Physics</a></td>
+<td>Boulder, CO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489886023/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>XVIVO</strong></td>
+<td><a href="https://trueinterview.io/jobs/4aac95ad-53bd-4ce7-9bf7-74ba510d0e93">Software Test Engineer</a></td>
+<td>Golden, Colorado</td>
+<td align="center"><a href="https://www.comeet.com/jobs/xvivo/A9.00A/software-test-engineer/40.37E">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Trace3</strong></td>
 <td><a href="https://trueinterview.io/jobs/07ebd62e-144e-4efc-9a9d-9ec40e3b7dec">System Integration Engineer - C2BMC</a></td>
 <td>Colorado Springs, CO</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/trace3/jobs/8386882">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Summit Interconnect</strong></td>
+<td><a href="https://trueinterview.io/jobs/7648fd7c-6d3e-43f6-a62b-829ef95fcd3e">CAM/CAD Technican</a></td>
+<td>20100 East 32nd Parkway, Aurora, CO, 80011, USA</td>
+<td align="center"><a href="https://secure7.saashr.com/ta/6217790.careers?ShowJob=654788360&amp;lang=en-US">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Cardinal Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/c9ff5e34-82c7-4ca7-ba7e-9ca59be94dc9">Software Engineer, AI Solutions</a></td>
+<td>Denver, CO</td>
+<td align="center"><a href="https://recruiting2.ultipro.com/car1054cgma/JobBoard/49be3260-4e42-4260-b93e-6c36c2807ea9/OpportunityDetail?opportunityId=d60bb66a-717a-4905-8775-a985106b268b">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
@@ -42,7 +77,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/9cbaea1b-421b-4dc1-9e9f-ea0cbb1d0970">2027 Associate Software Engineer - Pathways - Boulder CO</a></td>
 <td>Boulder, CO</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4490706604/">Apply</a></td>
+<td align="center"><a href="https://jobs.northropgrumman.com/careers/job/1340075272916?code=JB-17946&amp;domain=ngc.com">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
@@ -64,6 +99,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a474c673-2e2d-49e1-b8f8-f552fad5dbce">Electronic Design Engineer I</a></td>
 <td>Colorado Springs, CO</td>
 <td align="center"><a href="https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/128472">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Trinzic</strong></td>
+<td><a href="https://trueinterview.io/jobs/6412dd2b-ca9a-4afd-be00-31d29b7ab865">Systems Engineer – Program Liaison</a></td>
+<td>Colorado Springs, CO</td>
+<td align="center"><a href="https://careers.trinzic.com/us/en/job/R3001519">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
@@ -919,83 +961,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Denver, CO<br/>Dallas, TX<br/>Charlotte, NC<br/>+1 more</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/holderconstruction/jobs/4467889009">Apply</a></td>
 <td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Two Six Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/ff64fb40-4c6c-4839-96c5-de6af11308f5">UI/UX Developer</a></td>
-<td>Aurora, Colorado<br/>Herndon, VA<br/>Herndon, Virginia</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/twosixtechnologies/jobs/5838177004">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>EVONA</strong></td>
-<td><a href="https://trueinterview.io/jobs/17ec398b-3a4d-48be-8317-d86c1901f021">Back-end Engineer</a></td>
-<td>Denver, CO</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4454644770/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Anduril</strong></td>
-<td><a href="https://trueinterview.io/jobs/d090fcca-6c9a-4365-9d86-2f4ee1cb5bfd">Research Scientist, Battlespace Awareness</a></td>
-<td>Broomfield, CO</td>
-<td align="center"><a href="https://grnh.se/193aihq77us">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>City of Westminster, CO</strong></td>
-<td><a href="https://trueinterview.io/jobs/776aa24f-e0a0-478f-9e9d-c1005855cca2">Control Systems Engineer (SCADA)</a></td>
-<td>Westminster, CO</td>
-<td align="center"><a href="https://www.governmentjobs.com/careers/westminsterco/applications/jobs/5533410/control-systems-engineer-scada">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Colorado Access</strong></td>
-<td><a href="https://trueinterview.io/jobs/d94f6713-ed7c-40a2-a3ad-f605b6ff55b1">Product Owner (Digital Engagement products)</a></td>
-<td>Denver, CO</td>
-<td align="center"><a href="https://jobs.dayforcehcm.com/en-US/coaccess/CANDIDATEPORTAL/jobs/2634">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Colorado State University</strong></td>
-<td><a href="https://trueinterview.io/jobs/61ca5540-ff4f-4562-ba83-cb01ed1e6351">26-124 Research Data Engineer/Statistical Programmer Part-time</a> 🌐</td>
-<td>Remote — United States<br/>Fort Collins, CO</td>
-<td align="center"><a href="https://csusystem.wd12.myworkdayjobs.com/en-US/fortcollins_careers/job/Fort-Collins-CO/XMLNAME-26-124-Research-Data-Engineer-Statistical-Programmer-Part-time_R2026108264">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Northrop Grumman</strong></td>
-<td><a href="https://trueinterview.io/jobs/58f1a80f-1962-4a87-a109-860663fff0eb">Sentinel - Systems Engineer - Support Systems Integration</a></td>
-<td>Colorado Springs, CO</td>
-<td align="center"><a href="https://jobs.northropgrumman.com/careers/job/1340075142025?code=JB-17946&amp;domain=ngc.com">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Persistent Systems LLC</strong></td>
-<td><a href="https://trueinterview.io/jobs/48599b45-5d0f-489b-940a-f60dc5afe523">Field Application Engineer, WaRTAK Logistics &amp; Reporting</a></td>
-<td>Fort Collins, CO</td>
-<td align="center"><a href="https://careers-persistentsystems.icims.com/jobs/2449/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Social Security Administration</strong></td>
-<td><a href="https://trueinterview.io/jobs/a7fe543e-ab14-42ce-8d13-78ca8fdea893">IT Cybersecurity Specialist (InfoSec)</a></td>
-<td>Denver County, CO</td>
-<td align="center"><a href="https://www.usajobs.gov/job/891156800">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon Web Services (AWS)</strong></td>
-<td><a href="https://trueinterview.io/jobs/e924f7c4-ae75-4ceb-8e9d-6c0934929a70">Hardware Dev Engineer, OEM Solid State Drives Team</a></td>
-<td>Denver, CO<br/>Seattle, WA<br/>Cupertino, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4469191984/">Apply</a></td>
-<td align="center">1 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/315a96a6-3be7-48ad-993d-e9747bfa9b46">Software Development Engineer, Amazon Devices, DS2 (Device Software &amp; Services)</a></td>
-<td>Denver, CO</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4469263460/">Apply</a></td>
-<td align="center">1 Nov 2026</td>
 </tr>
 </tbody>
 </table>

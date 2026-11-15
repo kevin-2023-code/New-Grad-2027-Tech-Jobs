@@ -2,7 +2,7 @@
 
 # 🌵 Phoenix & Arizona
 
-**110 open roles.**
+**107 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Raytheon</strong></td>
+<td><a href="https://trueinterview.io/jobs/c8c88b47-7ffc-4c67-89da-70f4d5e75b73">Software Test Engineer I</a></td>
+<td>Tucson, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474576852/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>American Board of Radiology</strong></td>
+<td><a href="https://trueinterview.io/jobs/0a3e42f8-3b0d-4b9b-8c9e-261c1be73b97">Quality Test Engineer</a></td>
+<td>5541 E Williams Circle, TUCSON, AZ, 85711, US<br/>Tucson, AZ</td>
+<td align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4666604?listingId=3261693e-8166-4bed-9ea3-ddd877b595df">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>First Credit Union</strong></td>
+<td><a href="https://trueinterview.io/jobs/25e08e66-ac81-466a-86c0-fe61af9a3983">Software Developer</a></td>
+<td>Chandler, AZ</td>
+<td align="center"><a href="https://www.paycomonline.net/v4/ats/web.php/portal/2CDF214108C880FA17A213F5B114EEDC/jobs/367506">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Marketech International Corporation USA</strong></td>
+<td><a href="https://trueinterview.io/jobs/89f626a9-151c-40dc-9421-852819078a27">ISO Engineer</a></td>
+<td>Phoenix, AZ</td>
+<td align="center"><a href="https://grnh.se/xhlmr04s9us">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Raytheon</strong></td>
 <td><a href="https://trueinterview.io/jobs/ece32ad5-f670-482a-b084-3961d8c4dea0">Digital Design Engineer I - onsite</a></td>
@@ -736,55 +764,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/d45ba0b3-3a8e-4b9f-b1b1-461d653a4e4b">Site Reliability Engineer I - Paze</a></td>
 <td>Scottsdale, AZ<br/>San Francisco, CA<br/>Chicago, IL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4486415469/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Shambaugh &amp; Son, L.P.</strong></td>
-<td><a href="https://trueinterview.io/jobs/d8022c8b-c445-4fb2-a211-2b13c5481d9f">Controls Programmer</a></td>
-<td>Phoenix, AZ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4441633273/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Arizona State University</strong></td>
-<td><a href="https://trueinterview.io/jobs/db1a4752-4382-4cd5-a169-c9bbdb9f8c2d">VR Programmer/Developer</a></td>
-<td>Tempe, AZ</td>
-<td align="center"><a href="https://asu.wd1.myworkdayjobs.com/en-US/ASUStaffCareers/job/Campus-Tempe/VR-Programmer-Developer_JR128819">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Banner Health</strong></td>
-<td><a href="https://trueinterview.io/jobs/25eb5c70-674a-4609-a13b-0377317104a2">IT Technician</a></td>
-<td>Mesa, AZ</td>
-<td align="center"><a href="https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Banner-Staffing-Svcs-Mesa-525-W-Brown-Rd/IT-Technician_R4459476">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Cable One</strong></td>
-<td><a href="https://trueinterview.io/jobs/9da46ff6-39a4-4cbd-aa82-cd1c72eb8d46">Desktop Support Technician I</a></td>
-<td>Phoenix, AZ</td>
-<td align="center"><a href="https://cableone.wd1.myworkdayjobs.com/en-US/cable_one_external_careers/job/Phoenix-AZ/Desktop-Support-Technician-I_R-107672">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>ENGINEERING ECONOMICS, INC.</strong></td>
-<td><a href="https://trueinterview.io/jobs/2b4245f6-2ed2-4413-8fa4-411d33c69e45">Support Engineer</a></td>
-<td>Phoenix, AZ</td>
-<td align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4619847/Engineering-Economics-Inc/Support-Engineer">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Isola Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/e9de4644-8df0-4f37-8711-c73a37791535">Global Manufacturing Systems Engineer - Chandler</a></td>
-<td>Chandler, AZ</td>
-<td align="center"><a href="https://jobs.dayforcehcm.com/en-US/isola/CANDIDATEPORTAL/jobs/4879">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Judicial Branch of Arizona in Maricopa County</strong></td>
-<td><a href="https://trueinterview.io/jobs/71b0ae02-16b3-49c5-a373-72c1a83e5ec4">Network Engineer</a></td>
-<td>Phoenix, AZ</td>
-<td align="center"><a href="https://maricopa.wd1.myworkdayjobs.com/en-US/JB_External/job/101-W-Jefferson-St-Phoenix-AZ-85003/Network-Engineer_JR26637">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 </tbody>

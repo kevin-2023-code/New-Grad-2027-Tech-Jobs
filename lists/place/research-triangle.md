@@ -2,7 +2,7 @@
 
 # 🔺 Research Triangle & the Carolinas
 
-**137 open roles.**
+**133 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,41 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Kaleidoscope Innovation</strong></td>
+<td><a href="https://trueinterview.io/jobs/7afe6839-e07d-4d04-98e7-51e3f74a151b">DOT NET Developer</a></td>
+<td>Charlotte, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483157997/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>LSEG</strong></td>
+<td><a href="https://trueinterview.io/jobs/c320a471-033a-4a67-9cad-858e10b0bff0">FTSE Software Engineering &amp; Data Engineering Opportunities</a></td>
+<td>Charlotte, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4437914958/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>The University of North Carolina at Chapel Hill</strong></td>
+<td><a href="https://trueinterview.io/jobs/7a81e88c-fe34-4bb1-ad7d-410cca4974d2">Research Assistant – Gaia Variable Star Machine Learning</a></td>
+<td>Chapel Hill, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491093298/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/95ad1ca4-e7be-4207-9cbd-506ec96fb397">Data Scientist &amp; AI ELH - RTP 2027</a></td>
+<td>Durham, NC<br/>Research Park, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466230352/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Northrop Grumman</strong></td>
+<td><a href="https://trueinterview.io/jobs/cd20a6ba-de18-4ea6-9508-403076cfaaf8">Software Engineer - Level 3 or 4 - Morrisville</a></td>
+<td>Morrisville, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491068568/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Greystar</strong></td>
 <td><a href="https://trueinterview.io/jobs/aa9bf5ef-af4e-4370-aaa6-b01be5be2c91">Associate Analytics Engineer</a></td>
@@ -41,8 +76,8 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Cisco</strong></td>
 <td><a href="https://trueinterview.io/jobs/bc38cc51-a1f7-4658-a6b1-7ae8c6a28624">System Reliability Engineer II (Full Time) - United States</a></td>
-<td>Durham, NC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4490749804/">Apply</a></td>
+<td>Durham, NC<br/>Research Triangle Park, NC</td>
+<td align="center"><a href="https://careers.cisco.com/global/en/job/2031595">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
@@ -912,69 +947,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Charlotte, NC<br/>Denver, CO<br/>Dallas, TX<br/>+1 more</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/holderconstruction/jobs/4467889009">Apply</a></td>
 <td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Barings</strong></td>
-<td><a href="https://trueinterview.io/jobs/9ba3e7c1-c163-4c3e-86fd-1b2d0b798bc6">Microsoft 365 Product Owner</a></td>
-<td>Charlotte, NC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4419674596/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>RVO Health</strong></td>
-<td><a href="https://trueinterview.io/jobs/4fe78b85-10b6-4d3f-8e26-aa36b74f220a">People Data Analyst</a></td>
-<td>Charlotte, NC<br/>Charlotte, North Carolina, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/rvohealth/jobs/4721689005">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Google</strong></td>
-<td><a href="https://trueinterview.io/jobs/f74c2599-f81c-4b1b-aef6-7fe3cbb0f125">Software Engineer II, Early Career</a></td>
-<td>Durham, North Carolina, United States<br/>Raleigh, North Carolina, United States<br/>Durham, NC<br/>+12 more</td>
-<td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/109116638069957318">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Capgemini</strong></td>
-<td><a href="https://trueinterview.io/jobs/3fc39af7-6e5d-4cd3-91b1-d0b38719a24b">Java or Python Engineer</a></td>
-<td>Charlotte, NC</td>
-<td align="center"><a href="https://capgemini.talentnet.community/jobs/529ffe36-c0a2-4eb7-8dbc-ff3ed70b7614">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Cypress Creek Renewables</strong></td>
-<td><a href="https://trueinterview.io/jobs/277832a4-bcde-41cc-8411-5ecc8c7bc42f">OT Security Engineer</a></td>
-<td>Durham, NC</td>
-<td align="center"><a href="https://grnh.se/e34ema7l1us">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Fortis</strong></td>
-<td><a href="https://trueinterview.io/jobs/cf5c7b32-624d-401d-a248-ad0f06f424d0">IT Support Analyst</a></td>
-<td>Greenville, SC</td>
-<td align="center"><a href="https://fortis.bamboohr.com/careers/75?postedDate=2026-11-02">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>GE Vernova</strong></td>
-<td><a href="https://trueinterview.io/jobs/7541efe9-9749-4c5a-a44b-54f97c9a08f7">Engineer - Mechanical Engineering</a></td>
-<td>Greenville, SC</td>
-<td align="center"><a href="https://careers.gevernova.com/engineer-mechanical-engineering/job/R5052684">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Nexstar Media Group, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/8a26cd26-954b-41f2-81db-3710748d51ed">Engineer, IT Network</a></td>
-<td>Charlotte, NC</td>
-<td align="center"><a href="https://nexstar.wd5.myworkdayjobs.com/en-US/nexstar/job/NC-Charlotte/Engineer--IT-Network_REQ-43564">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Randstad Digital Americas</strong></td>
-<td><a href="https://trueinterview.io/jobs/99fe9046-0bee-48bb-9514-86d643ff00e9">Programmer (Vulnerability Remediation and Coordination)</a></td>
-<td>Charlotte, NC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483699719/">Apply</a></td>
-<td align="center">1 Nov 2026</td>
 </tr>
 </tbody>
 </table>

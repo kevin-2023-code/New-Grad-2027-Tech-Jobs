@@ -2,7 +2,7 @@
 
 # 🏢 Enterprise & business software
 
-**57 open roles.** 30 in the United States & Canada · 27 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
+**54 open roles.** 28 in the United States & Canada · 26 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -213,20 +213,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://www.esri.com/careers/5173232007?gh_jid=5173232007">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
-<tr>
-<td><strong>Oracle</strong></td>
-<td><a href="https://trueinterview.io/jobs/24f85611-c8d0-4ea6-b7e9-b8e2ed096bcf">Support Engineer - Oracle Health</a></td>
-<td>Kansas City, MO<br/>Orlando, FL, United States<br/>Nashville, TN, United States</td>
-<td align="center"><a href="https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/349004">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Notion</strong></td>
-<td><a href="https://trueinterview.io/jobs/649c9d5f-4798-4ad8-8e44-c295aafba176">Software Engineer, Infrastructure Security</a></td>
-<td>New York, NY<br/>San Francisco, California<br/>New York, New York</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/notion/e3d8dc06-da05-4e9d-a143-2e9c51fa3d51">Apply</a></td>
-<td align="center">1 Nov 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -241,6 +227,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tbody>
 <tr>
 <td><strong>Salesforce</strong></td>
+<td><a href="https://trueinterview.io/jobs/632540a2-ccd8-49d3-8e19-8bd62f810e05">AI Research Scientist, Singapore</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4445677300/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/209893b5-1c81-432f-8755-346cf6b53e4c">AI Builder, Emerging Talent - English Speaking Market</a></td>
 <td>Madrid, Community of Madrid, Spain</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4482061639/">Apply</a></td>
@@ -331,14 +324,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Microsoft</strong></td>
-<td><a href="https://trueinterview.io/jobs/ea8a6531-f81a-40c8-a0ff-8c59e1373da6">Cybersecurity Threat Hunter</a></td>
-<td>Tokyo, Tokyo, Japan</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4479506918/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>SAP</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/aa8e811b-0f73-46a7-97ff-a89310e5d1c5">Platform Engineer for HANA Cloud SQL Optimizer</a></td>
 <td>Seoul Incheon Metropolitan Area</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4476611920/">Apply</a></td>
@@ -419,13 +405,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/f35a252a-52f4-403e-8b69-5b86d53f1827">Software Engineer-1</a></td>
 <td>Bengaluru, Karnataka, India<br/>India</td>
 <td align="center"><a href="https://ats.rippling.com/rippling/jobs/277b7caf-3092-44a7-9e8c-45769e5a3ea5?jobSite=Indeed">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>SAP</strong></td>
-<td><a href="https://trueinterview.io/jobs/698431f2-fc7f-4162-907a-2b655c8fe772">AI Scientist (Document AI) – SAP Labs East Asia Singapore</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484347516/">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 </tbody>

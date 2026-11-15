@@ -2,7 +2,7 @@
 
 # 🇨🇭 Zürich & Switzerland
 
-**38 open roles.** 4 in the United States & Canada · 34 elsewhere in the world.
+**31 open roles.** 4 in the United States & Canada · 27 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -244,55 +244,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/967beeba-7b4f-4f38-94ba-298e97dda974">CAD-/CAM Programmer</a></td>
 <td>Hinwil, Zurich, Switzerland</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4432677019/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>BLP</strong></td>
-<td><a href="https://trueinterview.io/jobs/5c1dc1d0-cf3a-45d7-9b46-932c69d9d37a">Forward Deployed Engineer</a></td>
-<td>Zürich, Switzerland<br/>Madrid, Spain<br/>Barcelona, Spain<br/>+12 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/blp-digital/95e7e3a9-8f14-428b-9d66-afa5d36c8d43">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>ControlTech Engineering AG</strong></td>
-<td><a href="https://trueinterview.io/jobs/11b07e85-4cc9-44aa-9269-3419732263de">Automation System Engineer</a></td>
-<td>Basel, Switzerland</td>
-<td align="center"><a href="https://cte.ch/jobs/system-engineer">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>McKinsey &amp; Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/f9bccd03-3100-4e2e-9036-dd348e2ab72e">Data Engineer - QuantumBlack, AI by McKinsey</a></td>
-<td>Zürich, Switzerland</td>
-<td align="center"><a href="https://www.mckinsey.com/careers/search-jobs/jobs/dataengineer-quantumblackaibymckinsey-113981">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Swisscom AG</strong></td>
-<td><a href="https://trueinterview.io/jobs/f4b32341-e5da-421c-8892-4d4773df03d8">Software Developer .NET</a></td>
-<td>Lausanne, Switzerland</td>
-<td align="center"><a href="https://swisscom.wd103.myworkdayjobs.com/en-US/SwisscomExternalCareers/job/Lausanne/Software-Developer-NET_R-0006885-1">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>United Nations</strong></td>
-<td><a href="https://trueinterview.io/jobs/5398807d-b5e3-4077-8e2f-994c8e3af86b">Mining Data Analyst</a></td>
-<td>Genève, Switzerland</td>
-<td align="center"><a href="https://careers.un.org/jobSearchDescription/287184?language=en">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>VZ VermögensZentrum</strong></td>
-<td><a href="https://trueinterview.io/jobs/5717cdbf-73d5-4ce9-8bc1-1b02c0c22bce">Professional Software Engineer (.NET, Web, AI), 80-100%, Zürich</a></td>
-<td>Zürich, Switzerland</td>
-<td align="center"><a href="https://jobs.vermoegenszentrum.ch/offene-stellen/professional-software-engineer-net-web-ai/74242cee-1dc3-4812-b5bc-0933e883ca69">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Siemens</strong></td>
-<td><a href="https://trueinterview.io/jobs/e726a8be-a28f-4ba4-83d8-ab2633339c16">Working Student Cybersecurity &amp; AI Automation 50-60%</a></td>
-<td>Zug, Zug, Switzerland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484101664/">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # Mobile Engineer
 
-**69 open roles.** 57 in the United States & Canada · 12 elsewhere in the world.
+**65 open roles.** 56 in the United States & Canada · 9 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Nightwing</strong></td>
+<td><a href="https://trueinterview.io/jobs/db0f65c8-61b3-47a8-8fa0-546b8c9ccfd9">Android Mobile Application Developer with Security Clearance</a></td>
+<td>Sterling, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489884700/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>TikTok</strong></td>
 <td><a href="https://trueinterview.io/jobs/ebdc7140-654c-430a-8fbe-9e04e123880a">Software Engineer/Mobile Engineer Graduate (Ads Core Demonstration) - 2027 Start</a></td>
@@ -402,20 +409,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://jobs.ashbyhq.com/ramp/f564dcf9-9390-4a3f-896f-8047a5086040">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
-<tr>
-<td><strong>Fanatics</strong></td>
-<td><a href="https://trueinterview.io/jobs/875805b8-b8bf-4362-bb89-f40b3ff3c187">Software Engineer, Android</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4469547471/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Netrolynx AI</strong></td>
-<td><a href="https://trueinterview.io/jobs/86d30c50-182a-4ba4-bf1a-f22423e3ed23">Remote Android Engineer</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485992088/">Apply</a></td>
-<td align="center">1 Nov 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -489,27 +482,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/f84d5978-05a4-4774-80fa-7115927b3481">Android Developer</a></td>
 <td>Dallas-Fort Worth Metroplex</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485741203/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Delivery Hero</strong></td>
-<td><a href="https://trueinterview.io/jobs/790daaae-eecd-4805-b0fa-006edd883f7c">Software Engineer Android</a></td>
-<td>Montevideo, Uruguay<br/>Buenos Aires, Buenos Aires, Argentina</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/DeliveryHero/744000159136354-software-engineer-android">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Giesecke+Devrient</strong></td>
-<td><a href="https://trueinterview.io/jobs/9fd05c82-ba30-420b-914a-800713e3ef0b">Mobile Developer Engineer</a></td>
-<td>Spain</td>
-<td align="center"><a href="https://www.gi-de.com/en/careers/jobs/jobs-detail-view/27933-en-US">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Snapmint</strong></td>
-<td><a href="https://trueinterview.io/jobs/2706564e-feca-4dcf-b63b-e3918655424a">SDE 1 - iOS Developer</a></td>
-<td>Gurugram, Haryana, India</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4475541431/">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # Research Scientist
 
-**160 open roles.** 137 in the United States & Canada · 23 elsewhere in the world.
+**170 open roles.** 148 in the United States & Canada · 22 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,7 +18,133 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>The Infinity Fellowship</strong></td>
+<td><a href="https://trueinterview.io/jobs/93b4f3e7-8e83-4b2f-bbdb-6fb15bb9899b">Research Scientist, Biology</a></td>
+<td>San Francisco Bay Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491094741/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Texas A&amp;M AgriLife Research</strong></td>
+<td><a href="https://trueinterview.io/jobs/7f6d8eab-e359-4c37-979d-3dbb5b7bdf9a">Assistant Research Scientist</a></td>
+<td>College Station, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491092650/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>OpenAI</strong></td>
+<td><a href="https://trueinterview.io/jobs/45c34f7d-2b87-4eb8-a436-6be2775ab569">Applied Scientist, Product Policy Research &amp; Measurement</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/openai/73875295-889e-4373-b20f-654e85c66ba4">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>CHEManager International</strong></td>
+<td><a href="https://trueinterview.io/jobs/d5c72d39-03c5-4aa5-9457-1d167391b63e">Research Scientist- SLAM &amp; VIO</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490200363/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>The University of Texas at Arlington</strong></td>
+<td><a href="https://trueinterview.io/jobs/4e95e486-f9ea-4c89-a4e6-11f70b2c8cde">Research Engineer Scientist Assoc I - Austin, TX</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4463628162/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/01f45f41-b112-4a48-a5fd-703b51ad1a39">Applied Scientist, Amazon Canada Technology, Amazon Canada</a></td>
+<td>Toronto, Ontario, Canada<br/>Vancouver, British Columbia, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483183142/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Archer</strong></td>
+<td><a href="https://trueinterview.io/jobs/85ba272d-7d38-47d8-8bdd-71f9ddf712b5">Research Engineer, Applied Research</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4481691319/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/f8eecb79-3471-4a2b-bacf-30e44dbfa011">Simulation &amp; Modeling Applied Scientist, Prime Air Flight Sciences High Fidelity Methods</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4456709187/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/528bed54-a79f-43dd-8172-55121400693f">Applied Scientist, Quantum Algorithms, Center for Quantum Computing</a></td>
+<td>San Francisco, CA<br/>Pasadena, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4455903773/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Two Sigma</strong></td>
+<td><a href="https://trueinterview.io/jobs/889c0df3-32a6-4fad-8b97-3d12635ad9aa">AI Research Scientist - Campus Full-Time</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4353221258/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/ca29056c-fe13-4faf-8569-3a716ebec7c5">Applied Scientist - On-Robot Learning, Amazon Robotics - Vulcan Stow</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4455918489/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>David AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/3614ee38-7d6d-4327-bad5-69499a09706a">Research Engineer</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4481011564/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Google DeepMind</strong></td>
+<td><a href="https://trueinterview.io/jobs/3c26712c-96ce-46ae-850e-2d81084f0eb3">Research Scientist, Multimodal Alignment, Safety and Fairness, DeepMind</a></td>
+<td>Kirkland, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482300071/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>ByteDance</strong></td>
+<td><a href="https://trueinterview.io/jobs/1719541d-c349-4f9a-85c9-2db3f7926da3">Research Scientist - Compute AI Infra - Global Frontier Tech Recruitment Program - 2027 Start (PhD)</a></td>
+<td>Seattle, WA<br/>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475059287/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/05c009a2-4edd-45f0-adf9-69f0f6db78a7">Research Scientist - Technologies of Data Management, LLM and AI Agents - Global Frontier Tech Recruitment Program - 2027 Start (PhD)</a></td>
+<td>Seattle, WA<br/>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475051646/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>TikTok</strong></td>
+<td><a href="https://trueinterview.io/jobs/62d2e304-d625-4e6c-be00-b740ce22a68d">Research Scientist/Software Engineer, Neural Graphics and World Models - Global Frontier Tech Recruitment Program - 2027 Start (PhD)</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4455486940/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ByteDance</strong></td>
+<td><a href="https://trueinterview.io/jobs/3d8e633b-7bc4-449b-8f73-ed6a93a3754f">Research Scientist - Recommendation Modeling &amp; Large-scale Computing Infrastructure - Global Frontier Tech Recruitment Program - 2027 Start (PhD)</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475064127/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/fb0c8dd6-c376-4db2-9004-99287fcfe167">Research Scientist, Generative AI Graduate (Intelligent Creation) -Global Frontier Tech Recruitment Program -2027 Start (PhD)</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475058363/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/77e842af-c68b-4b57-9235-b1123c9c1c69">Research Scientist - Model Capability Boundary Exploration and AI Data Flywheel System Development - Global Frontier Tech Recruitment Program - 2027 Start (PhD)</a></td>
 <td>Seattle, WA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4474546780/">Apply</a></td>
@@ -29,6 +155,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/555b8a76-a733-4824-bd26-e834d05f76d9">Research Scientist - LLM Training System as a Service - Global Frontier Tech Recruitment Program - 2027 Start (PhD)</a></td>
 <td>San Jose, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4474548610/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>DeepMind</strong></td>
+<td><a href="https://trueinterview.io/jobs/8068cfce-2af6-4d45-bad4-53843600627f">Research Scientist, AI Safety and Alignment, DeepMind</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://careers.google.com/jobs/results/112836257989436102-research-scientist/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>The University of Iowa</strong></td>
+<td><a href="https://trueinterview.io/jobs/3655167a-15ce-47b0-8193-1c0edd23dddd">Assoc Research Scientist/Engin- Otolaryngology</a></td>
+<td>Iowa City, IA</td>
+<td align="center"><a href="https://uiowa.referrals.selectminds.com/jobs/assoc-research-scientist-engin-otolaryngology-51694">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>University of Illinois</strong></td>
+<td><a href="https://trueinterview.io/jobs/bd227781-16cf-464c-8eb0-5f59b3bc97b8">Visiting Research Scientist- Department of Biochemistry and Molecular Genetics</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://uic.csod.com/ux/ats/careersite/1/home/requisition/21368?c=uic">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
@@ -906,76 +1053,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4433053130/">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
-<tr>
-<td><strong>TTN Talent</strong></td>
-<td><a href="https://trueinterview.io/jobs/bda44605-a040-44a7-a1c6-cfda20709c97">Research Scientist - Safety</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486181117/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Acceler8 Talent</strong></td>
-<td><a href="https://trueinterview.io/jobs/f62642eb-aac7-4c57-8250-54a26684a363">Research Scientist - Robot Learning &amp; RL</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484340926/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Mentor Talent Acquisition</strong></td>
-<td><a href="https://trueinterview.io/jobs/73c69ec2-5b26-43a2-809d-caba67b3e646">Research Engineer</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4474091548/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>GALLO</strong></td>
-<td><a href="https://trueinterview.io/jobs/2490a3ac-261f-47de-9a69-f476afab962d">Research Scientist 1 - Grape Breeding</a></td>
-<td>Madera, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467577222/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Physical Intelligence</strong></td>
-<td><a href="https://trueinterview.io/jobs/5ad84cc8-cec6-403e-8e17-2b8cfca272fe">Research Scientist</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/physicalintelligence/f83ba447-2261-4832-95db-a2f88454e0ba">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Ladders</strong></td>
-<td><a href="https://trueinterview.io/jobs/f9436e05-2b17-4e2a-ade0-0c662c25e17a">Abuse Research Engineer</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484359139/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Anduril</strong></td>
-<td><a href="https://trueinterview.io/jobs/d090fcca-6c9a-4365-9d86-2f4ee1cb5bfd">Research Scientist, Battlespace Awareness</a></td>
-<td>Broomfield, CO</td>
-<td align="center"><a href="https://grnh.se/193aihq77us">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Indiana University</strong></td>
-<td><a href="https://trueinterview.io/jobs/e43f84ca-69f2-4850-a74f-9314670c356f">Prevention Insights: Assistant Research Scientist</a></td>
-<td>Bloomington, IN</td>
-<td align="center"><a href="https://indiana.peopleadmin.com/postings/34973">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>University of North Texas</strong></td>
-<td><a href="https://trueinterview.io/jobs/1fbd9836-ee2e-4bed-baf1-8ece73cd2518">Research Scientist I - Vascular Biology Laboratory</a></td>
-<td>Denton, TX</td>
-<td align="center"><a href="https://careers.untsystem.edu/jobs/research-scientist-i-vascular-biology-laboratory-denton-texas-united-states-d1c9939c-55a5-46c9-bd18-8525ca8034e7">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>BioSpace</strong></td>
-<td><a href="https://trueinterview.io/jobs/77595ae3-2aab-44bf-bcaa-500d5dc4e9d8">Research Scientist, Lipid Chemistry</a></td>
-<td>Redmond, WA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486120549/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -988,6 +1065,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/971bd52a-2a1f-40f1-ba79-3a5620ddb1f1">Applied Scientist, EU INTech Consumer Selection Discovery, NintAI</a></td>
+<td>Madrid, Community of Madrid, Spain</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4455794787/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Salesforce</strong></td>
+<td><a href="https://trueinterview.io/jobs/632540a2-ccd8-49d3-8e19-8bd62f810e05">AI Research Scientist, Singapore</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4445677300/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Amazon</strong></td>
 <td><a href="https://trueinterview.io/jobs/720504f3-d048-4512-b78e-b4fd985cf77c">Applied Scientist (2026-27 Campus, International Technology Team), Beijing</a></td>
@@ -1126,27 +1217,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/58bc4805-b7f2-4e78-b2c6-b40567a7ef3d">Algorithm Research Engineer</a></td>
 <td>Rehovot, Center District, Israel</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484392187/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>LG Electronics</strong></td>
-<td><a href="https://trueinterview.io/jobs/beba4eb4-efd4-4d75-9728-f834015d4049">Research Engineer</a></td>
-<td>Bengaluru, Karnataka, India</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485455761/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Inria</strong></td>
-<td><a href="https://trueinterview.io/jobs/7ec98797-d22e-4898-805c-7019b6c8e1f7">Research Engineer in Quantum Error Correction</a></td>
-<td>Lyon, France</td>
-<td align="center"><a href="https://jobs.inria.fr/public/classic/fr/offres/2026-10671">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>TCL Corporate Research (Hong Kong) Co., Limited</strong></td>
-<td><a href="https://trueinterview.io/jobs/44db40ad-0bd8-4177-9771-04b1791bf09c">Research Scientist / Engineer – Artificial Intelligence</a></td>
-<td>Hong Kong</td>
-<td align="center"><a href="https://www.ctgoodjobs.hk/jbt/10311538/indeed/9887/">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 </tbody>

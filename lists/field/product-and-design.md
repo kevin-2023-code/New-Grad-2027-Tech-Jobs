@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**314 open roles.** 191 in the United States & Canada · 123 elsewhere in the world.
+**274 open roles.** 181 in the United States & Canada · 93 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Superworq</strong></td>
+<td><a href="https://trueinterview.io/jobs/004f8433-2b6d-4427-9684-0cfa7145674a">Product Designer - Remote</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489882345/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Rincon Research Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/13e03103-47c7-4742-bd30-27a20608cc34">UI/UX Engineer</a></td>
+<td>Colorado Springs, CO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474548029/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Superworq</strong></td>
 <td><a href="https://trueinterview.io/jobs/e960bb44-6159-4740-98b0-3e58cae92bb0">UX (User Experience) Designer</a></td>
@@ -60,6 +74,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Metropolitan Council of the Twin Cities</strong></td>
+<td><a href="https://trueinterview.io/jobs/31375506-661f-4d28-8faa-a648a438dd01">UX Designer</a></td>
+<td>Saint Paul, MN</td>
+<td align="center"><a href="https://www.governmentjobs.com/careers/metrocouncil/jobs/5545332/ux-designer">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ProVation</strong></td>
+<td><a href="https://trueinterview.io/jobs/8a6d7773-8b83-48ad-a23a-39fee9261821">UX/UI Designer</a></td>
+<td>United States</td>
+<td align="center"><a href="https://fortive.eightfold.ai/careers/job/893398716743?domain=fortive.com">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>The Pokémon Company International</strong></td>
+<td><a href="https://trueinterview.io/jobs/86b88736-469c-4904-a639-08e353d543f0">Game Systems Designer</a></td>
+<td>Bellevue, WA</td>
+<td align="center"><a href="https://grnh.se/qxxjf2ia3us">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Chubb</strong></td>
 <td><a href="https://trueinterview.io/jobs/a55c4dbc-1fcd-4291-8fc6-829db741fd9c">Chubb Associate, Presentation Designer Client Services</a></td>
 <td>Philadelphia, PA, United States</td>
@@ -71,6 +106,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/c0f21e33-5496-4bc7-8a30-20330fe64f10">Product Manager, Founder In Training Program</a></td>
 <td>Hoboken, NJ</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4490515631/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Bask Health</strong></td>
+<td><a href="https://trueinterview.io/jobs/0c20cdad-c8e8-4e78-aadc-620ac8cb4997">Associate Product Designer, New Grad</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://apply.workable.com/j/A9BD345698">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
 <tr>
@@ -1242,118 +1284,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://job-boards.greenhouse.io/dept/jobs/8338020">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
-<tr>
-<td><strong>Barings</strong></td>
-<td><a href="https://trueinterview.io/jobs/9ba3e7c1-c163-4c3e-86fd-1b2d0b798bc6">Microsoft 365 Product Owner</a></td>
-<td>Charlotte, NC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4419674596/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Creative People</strong></td>
-<td><a href="https://trueinterview.io/jobs/efac69c5-4a5d-4c6c-8091-8e2e65c8b3b6">Product Designer</a></td>
-<td>Sunnyvale, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484355707/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Netic</strong></td>
-<td><a href="https://trueinterview.io/jobs/61e60a37-1ed9-4de0-bd2e-a012cb2fb4f9">Product Designer</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/netic/2b65d752-605f-4ccc-a25e-c7a8b18c191e">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Prometric</strong></td>
-<td><a href="https://trueinterview.io/jobs/11e62dc3-63b0-4965-93dd-478dba02e2b2">Product Owner</a></td>
-<td>Remote</td>
-<td align="center"><a href="https://jobs.dayforcehcm.com/en-US/prometric/CANDIDATEPORTAL/jobs/66490">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Oremda Infotech Inc</strong></td>
-<td><a href="https://trueinterview.io/jobs/a9503f17-a051-4045-b207-b90303fa7690">UX (User Experience) Design - UX (User Experience) Design</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486134434/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Torentify</strong></td>
-<td><a href="https://trueinterview.io/jobs/f6490085-ff80-46fb-b630-91a6c4abe1c7">Graphic Designer - AI Image Evaluation (Remote)</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486124487/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Alithya</strong></td>
-<td><a href="https://trueinterview.io/jobs/40c7f4ff-9e3f-49d7-b91a-a3585cd9eaa7">Product Owner</a></td>
-<td>Canada</td>
-<td align="center"><a href="https://effx.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/requisitions/preview/2358">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Colorado Access</strong></td>
-<td><a href="https://trueinterview.io/jobs/d94f6713-ed7c-40a2-a3ad-f605b6ff55b1">Product Owner (Digital Engagement products)</a></td>
-<td>Denver, CO</td>
-<td align="center"><a href="https://jobs.dayforcehcm.com/en-US/coaccess/CANDIDATEPORTAL/jobs/2634">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Computershare</strong></td>
-<td><a href="https://trueinterview.io/jobs/b11277f2-a14b-4c22-a279-9dc331182b13">Product Owner</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://fa-evdq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/13231">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Gainwell Technologies LLC</strong></td>
-<td><a href="https://trueinterview.io/jobs/ddd0f94f-1736-4672-85fc-03a58a07ee3d">T-MMIS Application Designer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.gainwelltechnologies.com/job/Any-city-T-MMIS-Application-Designer-VT-99999/1446717700/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>LPL Financial</strong></td>
-<td><a href="https://trueinterview.io/jobs/6b66ffd3-4027-425d-a283-aeb226b56afc">VPII Product Management, Agentic Product Development Lifecycle</a></td>
-<td>Fort Mill, SC</td>
-<td align="center"><a href="https://lplfinancial.wd1.myworkdayjobs.com/External/job/Fort-MillCharlotte/VPII-Product-Management--Agentic-Product-Development-Lifecycle_R-054546-1">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>LX Hausys America, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/34b79162-d903-4ce8-9d90-529f04f34223">Autoskin Product Management Specialist</a></td>
-<td>Alpharetta, GA</td>
-<td align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4634064/LG-HAUSYS-AMERICA-INC/Autoskin-Product-Management-Specialist">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Sony Interactive Entertainment</strong></td>
-<td><a href="https://trueinterview.io/jobs/9bf987f7-c17a-4fc3-93d7-574998b32eb9">Technical Game Designer</a></td>
-<td>Santa Monica, CA</td>
-<td align="center"><a href="https://careers.playstation.com/technical-game-designer/job/6240756004">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>VHB</strong></td>
-<td><a href="https://trueinterview.io/jobs/d2fd4347-d2e6-4182-9808-5267db304bef">Learning Experience Designer</a></td>
-<td>Orlando, FL</td>
-<td align="center"><a href="https://careers-vhb.icims.com/jobs/6510/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Fluidstack</strong></td>
-<td><a href="https://trueinterview.io/jobs/8cb4b1e7-351c-43ea-9668-783a3edfd849">Civil Designer, Capacity Delivery</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/f2d9b5d9-ebf3-4f9a-bf6b-5d22533b9194">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Emerson</strong></td>
-<td><a href="https://trueinterview.io/jobs/64de1b16-c2ae-4499-90f0-3b426612b468">Corporate Graphic Designer</a></td>
-<td>Austin, TX<br/>St. Louis, MO, United States</td>
-<td align="center"><a href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012694">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -1366,6 +1296,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/d21d4a12-5db7-4991-a33a-226a2ba2df9f">Fullstack UI/UX</a></td>
+<td>Heredia, Heredia, Costa Rica</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4472964615/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Shopee</strong></td>
 <td><a href="https://trueinterview.io/jobs/059e8380-a0ff-47d5-9991-c1b656e31f77">Regional Supply Chain Product Manager, Regional Logistics (2027 Graduate)</a></td>
@@ -2008,223 +1945,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/5507a6b6-5896-49a3-aa7d-7e81f1bbe04a">IT Product Owner – Engineering / R&amp;D</a></td>
 <td>London, England, United Kingdom</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4486173412/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>CloudLinux</strong></td>
-<td><a href="https://trueinterview.io/jobs/5723a809-7c76-4999-9aad-a25fc83900ff">Product Owner - Innovation Team (remote work)</a></td>
-<td>Madrid, Spain</td>
-<td align="center"><a href="https://apply.workable.com/j/66688B3310">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>ALTEN</strong></td>
-<td><a href="https://trueinterview.io/jobs/e7674764-443b-43d0-8428-d3855918175b">Subsystem Designer HMI</a></td>
-<td>Rabat, Rabat-Salé-Kénitra, Morocco</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/ALTEN/744000159089180-subsystem-designer-hmi">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>NXP Semiconductors</strong></td>
-<td><a href="https://trueinterview.io/jobs/22d90666-fb66-4ea7-88b3-41acb512323e">SoC Physical Designer</a></td>
-<td>Tianjin, Tianjin, China</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4478345263/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>TSMC</strong></td>
-<td><a href="https://trueinterview.io/jobs/f9ae7f74-0fc0-4459-b1ee-c75331bb066d">IO Cell Designer</a></td>
-<td>Yokohama, Kanagawa, Japan</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4366451343/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Talan</strong></td>
-<td><a href="https://trueinterview.io/jobs/b212d588-77ab-46da-b3af-d119d5eeaee9">Product Owner - H/F</a></td>
-<td>Lyon, Auvergne-Rhône-Alpes, France<br/>Nantes, Pays de la Loire, France</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Talan/744000159083449-product-owner-h-f">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Revive Retail</strong></td>
-<td><a href="https://trueinterview.io/jobs/6d873b4a-8fe7-442a-b8fb-491cb9861624">Graduate Graphic Designer</a></td>
-<td>Galway, Ireland</td>
-<td align="center"><a href="https://ie.indeed.com/viewjob?jk=ef72dfc53eefdd0e">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Masdar</strong></td>
-<td><a href="https://trueinterview.io/jobs/0683766d-7cff-44c2-a41b-5ddef3c19931">ServiceNow Product Owner</a></td>
-<td>Abu Dhabi, UAE<br/>Abu Dhabi, Abu Dhabi, United Arab Emirates</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Masdar/744000159060868-servicenow-product-owner">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Adlook</strong></td>
-<td><a href="https://trueinterview.io/jobs/541fb0bc-72ce-4a15-a323-724db0d6c8d2">AI-first Creative Designer</a></td>
-<td>Warszawa, Poland</td>
-<td align="center"><a href="https://jobs.lever.co/adlook/fb9ede03-a7d2-425e-9d77-7072fddf2571">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Arlettie</strong></td>
-<td><a href="https://trueinterview.io/jobs/94079bf8-db2c-4cdb-811d-af62b653f6bc">Stage - Assistant(e) Product Owner H/F</a></td>
-<td>Paris, France</td>
-<td align="center"><a href="https://www.arlettie.com/job/jn57wen8uf">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Assecor GmbH</strong></td>
-<td><a href="https://trueinterview.io/jobs/177d12ec-a47c-4c5b-918c-1ddb193437aa">Product Owner (m|w|d)</a></td>
-<td>Berlin, Deutschland</td>
-<td align="center"><a href="https://t.gohiring.com/h/1e347751b950d38dfd6c2f1060cf1cec6c5674512c1958c7f5184b3acec8477c">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>BPCE Equipment Solutions SAS</strong></td>
-<td><a href="https://trueinterview.io/jobs/e8d6e548-54db-4374-b8d5-5994d2599189">Product Owner Systèmes Comptables et Financiers (F/H) - Contrat Durée Indéterminée</a></td>
-<td>Puteaux, France</td>
-<td align="center"><a href="https://recrutement.bpce.fr/job/product-owner-systemes-comptables-et-financiers-f-h-contrat-duree-indeterminee">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>EY</strong></td>
-<td><a href="https://trueinterview.io/jobs/4cbcea1a-9208-4ac9-b159-f6cdcf8e6742">Digital Experience Product Owner</a></td>
-<td>India</td>
-<td align="center"><a href="https://careers.ey.com/ey/job/Noida-Digital-Experience-Product-Owner-UP-201301/1414606033/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Groupe SYD</strong></td>
-<td><a href="https://trueinterview.io/jobs/73a0aa40-72ad-4d38-b933-ddae2892c409">Product Owner Data H/F</a></td>
-<td>Boulogne-Billancourt, France</td>
-<td align="center"><a href="https://www.free-work.com/fr/tech-it/job-mission/product-owner/product-owner-data-h-f-91">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>HAPPY HOUR GAMES PTE. LTD.</strong></td>
-<td><a href="https://trueinterview.io/jobs/41a21dda-7e24-4014-80fa-0932f1a0e780">Creative Content Designer</a></td>
-<td>Outram, Singapore</td>
-<td align="center"><a href="https://www.mycareersfuture.gov.sg/job/8df02b4ef7bc82cbf2abfca475e4805d">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>I8IS INC.</strong></td>
-<td><a href="https://trueinterview.io/jobs/0fd4ed78-4470-41c4-a33a-e321d99a9102">Salesforce Product Owner - Remote</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://i8is.zohorecruit.ca/jobs/Careers/5829000007955612/Salesforce-Product-Owner-Remote">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>iTekway</strong></td>
-<td><a href="https://trueinterview.io/jobs/d890baa8-cd85-4933-b5de-d44489f14f69">PRODUCT OWNER F/H</a></td>
-<td>Nanterre, France</td>
-<td align="center"><a href="https://taleez.com/apply/product-owner-f-h-nanterre-itekway-cdi">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>John Lewis &amp; Partners</strong></td>
-<td><a href="https://trueinterview.io/jobs/e004c4de-aeb3-4767-b3c1-2e50b191ee9f">UX Writer</a></td>
-<td>London, United Kingdom</td>
-<td align="center"><a href="https://www.jlpjobs.com/job/ux-writer-220507/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Kotak Securities Ltd</strong></td>
-<td><a href="https://trueinterview.io/jobs/e001015c-48a1-4ae6-b3ef-fc631829bfce">Asst Product Sales Manager_BRANCH BANKING_0733_7676_1007489</a></td>
-<td>India</td>
-<td align="center"><a href="https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/preview/273303">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Natixis</strong></td>
-<td><a href="https://trueinterview.io/jobs/2e45fd4f-6d1a-4921-aca9-ab83e0d727f4">Product Owner Accounting and Financial Systems (F/H) - Indefinite Term Contract</a></td>
-<td>Puteaux, France</td>
-<td align="center"><a href="https://recrutement.natixis.com/en/job/product-owner-accounting-and-financial-systems-f-h-indefinite-term-contract">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/5aeeb0a7-e356-4095-ad9c-baef85aebac3">Product Owner Systèmes Comptables et Financiers (F/H) - Contrat Durée Indéterminée</a></td>
-<td>Puteaux, France</td>
-<td align="center"><a href="https://recrutement.natixis.com/job/product-owner-systemes-comptables-et-financiers-f-h-contrat-duree-indeterminee">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Step Up</strong></td>
-<td><a href="https://trueinterview.io/jobs/3d0ad0eb-d187-498d-89de-e548f1abcfe4">Business Analyst / Product Owner Technique (H/F)</a></td>
-<td>Toulouse, France</td>
-<td align="center"><a href="https://www.jobposting.pro/emploi-2740140-109">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>SThree</strong></td>
-<td><a href="https://trueinterview.io/jobs/0a14ff90-c84d-4a54-9dc4-0e268628ffb6">Product Owner (IT) / Freelance</a></td>
-<td>Paris, France</td>
-<td align="center"><a href="https://www.free-work.com/fr/tech-it/job-mission/product-owner/product-owner-1383">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>SYD GROUPE</strong></td>
-<td><a href="https://trueinterview.io/jobs/39042309-5041-45af-8572-79fa74b392ff">Product Owner Data H/F</a></td>
-<td>Boulogne-Billancourt, France</td>
-<td align="center"><a href="https://taleez.com/apply/product-owner-data-h-f-boulogne-billancourt-syd-groupe-cdi-1">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>TALENTSIS PTE. LTD.</strong></td>
-<td><a href="https://trueinterview.io/jobs/465dcf43-e01c-4e5d-b2ca-aa1e84312cb0">UI/UX Engineer</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.mycareersfuture.gov.sg/job/b0595295ed685b70eea27937f5b73e74">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Thales</strong></td>
-<td><a href="https://trueinterview.io/jobs/b80a4fc9-8642-4a7e-9924-04e16193d583">Product Owner Ontologie (F/H)</a></td>
-<td>Vélizy-Villacoublay, France</td>
-<td align="center"><a href="https://careers.thalesgroup.com/global/en/job/TGPTGWGLOBALR0346343EXTERNALENGLOBAL/Product-Owner-Ontologie-F-H">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>VINCI</strong></td>
-<td><a href="https://trueinterview.io/jobs/cab9ac58-86a9-4624-a949-12e827e981b9">Product Owner - Coordinateur produit solution d'enregistrement règlementaire F/H</a></td>
-<td>Guyancourt, France</td>
-<td align="center"><a href="https://jobs.vinci.com/fr/job/-/-/1440/46566686848?idorigine=2290">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Visa</strong></td>
-<td><a href="https://trueinterview.io/jobs/597bab0b-4334-48b0-8a44-e2e12b4e8548">Associate Product Manager Program</a></td>
-<td>Singapore, Singapore<br/>Downtown Core, Singapore</td>
-<td align="center"><a href="https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/SG---Singapore/Associate-Product-Manager-Program_REF089093W">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>VO2 GROUP</strong></td>
-<td><a href="https://trueinterview.io/jobs/ec472554-e4e2-4810-887e-233554eacde2">[VO2 Force] - Product Owner Clienteling</a></td>
-<td>Paris, France</td>
-<td align="center"><a href="https://jobs.lever.co/vo2-group/1e5bd752-8ada-4050-a288-250d29cdd5db">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Shopee</strong></td>
-<td><a href="https://trueinterview.io/jobs/e9459241-e448-4e72-a0d1-df0148618656">UX Writer – Product</a></td>
-<td>Jakarta, Indonesia</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4458355815/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Chubb</strong></td>
-<td><a href="https://trueinterview.io/jobs/97284aef-004d-4a29-853f-22a67e5723e6">Experience Designer</a></td>
-<td>Malaysia</td>
-<td align="center"><a href="https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/38029">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Shopee</strong></td>
-<td><a href="https://trueinterview.io/jobs/7dc46d88-6f52-471f-a99c-d1cae891edb1">UI/UX Designer - Product</a></td>
-<td>Jakarta, Indonesia</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4479962465/">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 </tbody>

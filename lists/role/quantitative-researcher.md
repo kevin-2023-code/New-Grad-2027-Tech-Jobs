@@ -2,7 +2,7 @@
 
 # Quantitative Researcher
 
-**37 open roles.** 32 in the United States & Canada · 5 elsewhere in the world.
+**37 open roles.** 34 in the United States & Canada · 3 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Voloridge Investment Management, LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/7168d285-9fbf-4a14-934e-2aff5f6c23bb">Quantitative Research Fellowship 2027</a></td>
+<td>Jupiter, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4426889409/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Two Sigma</strong></td>
+<td><a href="https://trueinterview.io/jobs/55c0bd4c-74d4-4688-928a-7f7d78cd46fb">Quantitative Researcher: Machine Learning</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4376204181/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Urban Institute</strong></td>
+<td><a href="https://trueinterview.io/jobs/0bb17243-1d98-44e3-aed4-7a5cd273ab74">Research Assistant – Quantitative (Health, Income, and Benefits Policy Division)</a></td>
+<td>Washington DC-Baltimore Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4456205365/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Xantium Group - Tudor Investment Corporation</strong></td>
 <td><a href="https://trueinterview.io/jobs/e2a35ac1-47a3-499e-9de5-765c907f526d">Quantitative Researcher</a></td>
@@ -234,13 +255,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4439273223/">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
-<tr>
-<td><strong>Robeco</strong></td>
-<td><a href="https://trueinterview.io/jobs/3667f1a2-efb6-4bb6-993a-6b98655680bd">Quant Equity Researcher</a></td>
-<td>Boston, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486148920/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -273,20 +287,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Shanghai</td>
 <td align="center"><a href="https://job-boards.eu.greenhouse.io/mangroup/jobs/4882440101">Apply</a></td>
 <td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>DRW</strong></td>
-<td><a href="https://trueinterview.io/jobs/25fc8452-27bc-4538-9515-ef7127a8f7c4">Quantitative Researcher - Commodities</a></td>
-<td>London, England, United Kingdom</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/drweng/jobs/6362259">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>JPMorgan Chase</strong></td>
-<td><a href="https://trueinterview.io/jobs/07050dd0-c929-49ac-a79e-7b485c824429">Quantitative Trading &amp; Research - Commodities Quantitative Trading – Analyst</a></td>
-<td>Singapore</td>
-<td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210738947">Apply</a></td>
-<td align="center">2 Nov 2026</td>
 </tr>
 </tbody>
 </table>

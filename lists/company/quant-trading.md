@@ -2,7 +2,7 @@
 
 # 📈 Quant trading & hedge funds
 
-**41 open roles.** 21 in the United States & Canada · 20 elsewhere in the world. Market makers, proprietary trading firms and quantitative funds.
+**40 open roles.** 22 in the United States & Canada · 18 elsewhere in the world. Market makers, proprietary trading firms and quantitative funds.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>Two Sigma</strong></td>
+<td><a href="https://trueinterview.io/jobs/55c0bd4c-74d4-4688-928a-7f7d78cd46fb">Quantitative Researcher: Machine Learning</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4376204181/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/889c0df3-32a6-4fad-8b97-3d12635ad9aa">AI Research Scientist - Campus Full-Time</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4353221258/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/e6767f65-e76c-4917-8b2b-ebb2e25d4d9c">Software Engineering Full-Time Campus Hire (Houston)</a></td>
 <td>New York, NY<br/>Houston, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4462529784/">Apply</a></td>
@@ -155,13 +169,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/5ca1a5ef-5d71-4722-9b5e-b315c1b14c6f">Quantitative Research Engineer – PhD Graduate (US)</a></td>
 <td>Miami, FL<br/>New York City Metropolitan Area</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4439266376/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>DRW</strong></td>
-<td><a href="https://trueinterview.io/jobs/35cee2db-e813-407d-ab2f-7f50a12c019b">Quantitative Developer</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/drweng/jobs/7985591">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 </tbody>
@@ -301,20 +308,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Chicago, IL<br/>Tel Aviv-Yafo, Tel Aviv District, Israel</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/drweng/jobs/7921963">Apply</a></td>
 <td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/f1824345-4ba7-4f06-a9ec-2b694a62e7e4">Options Trading Systems Engineer</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/drweng/jobs/7182464">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/25fc8452-27bc-4538-9515-ef7127a8f7c4">Quantitative Researcher - Commodities</a></td>
-<td>London, England, United Kingdom</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/drweng/jobs/6362259">Apply</a></td>
-<td align="center">2 Nov 2026</td>
 </tr>
 </tbody>
 </table>

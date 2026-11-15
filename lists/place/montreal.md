@@ -2,7 +2,7 @@
 
 # 🥐 Montréal & Québec
 
-**19 open roles.**
+**18 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Indero</strong></td>
+<td><a href="https://trueinterview.io/jobs/a3268b02-b628-4700-970b-1d87c1b6d481">Technicien(ne) TI/IT Technician-Montreal MTL</a></td>
+<td>Montreal, QC</td>
+<td align="center"><a href="https://www.comeet.com/jobs/innovaderm/15.003/technicienne-tiit-technician-montreal-mtl/84.57A">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Ubisoft</strong></td>
 <td><a href="https://trueinterview.io/jobs/dbbc1366-4a8d-4901-ae47-d869baa0aa01">UI Programmer</a></td>
@@ -134,20 +141,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/45d0499c-d500-4972-980c-d9f8fae1a574">Flight Controls Engineer</a></td>
 <td>Montreal, QC<br/>Ottawa HQ</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/Dominion%20Dynamics/bd7ddb97-5fd9-4067-98a7-249e47f59b1e">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>CCM Hockey</strong></td>
-<td><a href="https://trueinterview.io/jobs/26f3894d-b371-4a33-98a5-d3ad096ad839">Product Developer – Skates</a></td>
-<td>Montréal, Canada</td>
-<td align="center"><a href="https://jobs.dayforcehcm.com/en-US/ccmhockey/CANDIDATEPORTAL/jobs/5025">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Unity Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/f7bef6bb-4ae6-4426-85b2-6f3d1d183fc6">U-Accelerate : Développeur(euse) de logiciels, nouveau(elle) diplômé(e) // U-Accelerate: Software Developer, New Grad</a></td>
-<td>Montreal, QC<br/>Montreal, Quebec, Canada<br/>Montréal, Canada</td>
-<td align="center"><a href="https://unitytech.wd1.myworkdayjobs.com/Unity/job/Montreal-Canada/U-Accelerate---Dveloppeur-euse--de-logiciels--nouveau-elle--diplm-e-----U-Accelerate--Software-Developer--New-Grad_JOBREQ-2616768">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 </tbody>

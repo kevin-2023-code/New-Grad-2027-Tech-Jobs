@@ -2,7 +2,7 @@
 
 # Embedded Engineer
 
-**115 open roles.** 91 in the United States & Canada · 24 elsewhere in the world.
+**111 open roles.** 90 in the United States & Canada · 21 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Exponent</strong></td>
+<td><a href="https://trueinterview.io/jobs/4f3711dd-c3c8-4f69-bf98-f7306793fe76">Embedded Systems Engineer/Evaluator (Ph.D.)</a></td>
+<td>Menlo Park, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4051281342/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/d8ccf0a7-cae6-4765-a11a-9c33c9242d12">Wireless Embedded Software Developer, KMM, Amazon Leo</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4456425430/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Kearfott Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/ff0b993e-891c-41fc-83d2-2db67ccf1165">Embedded Software Verification Engineer</a></td>
+<td>Pine Brook, NJ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489864974/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>HEICO</strong></td>
 <td><a href="https://trueinterview.io/jobs/75917c08-f0b3-422e-a961-7b0d05795925">Embedded Software Engineer</a></td>
@@ -39,6 +60,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Wipro Limited</strong></td>
+<td><a href="https://trueinterview.io/jobs/3762d598-5a3e-4333-a3c8-7ce5d78923c2">Embedded Software TDR Engineer L3</a></td>
+<td>Dearborn, MI</td>
+<td align="center"><a href="https://careers.wipro.com/job/Embedded-Software-TDR-Engineer-L3/219086-en_US">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Stanley Black &amp; Decker, Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/54abaee7-a4ae-4b8f-83c8-596231b35b78">Stanley Leadership Program Engineering, Embedded Software</a></td>
 <td>Towson, MD</td>
@@ -50,6 +78,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/c9fa7933-9a5c-41e5-9f40-aa564020a109">Specialist Firmware Engineering BUILD Program (July)</a></td>
 <td>Atlanta, GA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4464876101/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Wipro</strong></td>
+<td><a href="https://trueinterview.io/jobs/fda1704d-a544-4cf4-820f-f41497ae8079">Embedded Triage &amp; Validation Engineer- L3</a></td>
+<td>Dearborn, MI</td>
+<td align="center"><a href="https://careers.wipro.com/job/Embedded-Triage-&amp;-Validation-Engineer-L3/219087-en_US">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
@@ -612,48 +647,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485733278/">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
-<tr>
-<td><strong>Nord Resume</strong></td>
-<td><a href="https://trueinterview.io/jobs/97370be5-d320-41de-b0f5-5e004c8db0ad">Embedded Firmware Engineer – Android XR MCU Bring-Up</a></td>
-<td>Fremont, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486175008/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/89765739-ebcb-425f-8cf9-546e19fef2a0">Firmware Engineer</a></td>
-<td>Sunnyvale, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486160761/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Thermo Fisher Scientific</strong></td>
-<td><a href="https://trueinterview.io/jobs/d5fb13ae-8a51-4f4d-967a-425bcc0efc40">Embedded Controls Engineer</a></td>
-<td>Marietta, OH</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4474043774/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>247 GLOBAL RECRUIT</strong></td>
-<td><a href="https://trueinterview.io/jobs/3bd4fd41-1add-49d4-b793-c030803be1cf">Embedded Software Engineer</a></td>
-<td>Mountain View, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486146533/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>BayOne Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/b16297e3-ffae-4f91-ac9a-cb06f2c22588">Embedded Imaging Engineer</a></td>
-<td>Sunnyvale, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485473039/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Percival Engineering</strong></td>
-<td><a href="https://trueinterview.io/jobs/e6f5df30-9d83-4d8f-9359-560c91d25366">Embedded Developer with Security Clearance</a></td>
-<td>Columbia, MD</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485422223/">Apply</a></td>
-<td align="center">1 Nov 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -811,27 +804,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/3988e22d-a02d-42a9-aeae-d5a54e34fa59">Ingénieur développement firmware embarqué (H/F)</a></td>
 <td>Strasbourg, Grand Est, France</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/ALTEN/744000159155408-ingenieur-developpement-firmware-embarque-h-f-">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>BITMAIN DEVELOPMENT PTE. LTD.</strong></td>
-<td><a href="https://trueinterview.io/jobs/7fd0b443-e7d4-4f9f-9630-72f7cd14a9de">Embedded Software Engineer</a></td>
-<td>Outram, Singapore</td>
-<td align="center"><a href="https://www.mycareersfuture.gov.sg/job/a2ec9fcee835b5a0375805f855af1cc2">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Knowit</strong></td>
-<td><a href="https://trueinterview.io/jobs/9f072bf5-6812-470c-9a83-f1d8441850a7">Embedded Software Developer - Automotive</a></td>
-<td>Stockholm, Sweden</td>
-<td align="center"><a href="https://careersweden.knowit.se/jobs/8649118-embedded-software-developer-automotive">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Bosch</strong></td>
-<td><a href="https://trueinterview.io/jobs/ed95ad3a-0804-4d08-a159-23858683b3dd">[SX/EIT-MM] Embedded Test Engineer (1-year contract)</a></td>
-<td>Tân Bình, Hồ Chí Minh, Vietnam</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000159047439--sx-eit-mm-embedded-test-engineer-1-year-contract-">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # 🤠 Dallas–Fort Worth
 
-**190 open roles.**
+**188 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,10 +18,59 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Shield</strong></td>
+<td><a href="https://trueinterview.io/jobs/1b7fe9b8-404e-451b-b641-ba9acd57e112">Electrical Engineer, Hardware Test (R5099)</a></td>
+<td>Dallas, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491093918/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Kyndryl</strong></td>
+<td><a href="https://trueinterview.io/jobs/569ad234-3501-471b-b791-eebdb74655c9">AI Platform Operations Engineer</a></td>
+<td>Dallas, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490201339/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>CyberCoders</strong></td>
+<td><a href="https://trueinterview.io/jobs/7b8cf71f-ed14-4de0-9c6c-d2334d4c6381">AI/ML Technical Instructor</a></td>
+<td>Dallas, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4444186854/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Ektello</strong></td>
+<td><a href="https://trueinterview.io/jobs/e6d5d3a9-022f-4bdc-8a09-270bd4321515">Risk Data Analyst</a></td>
+<td>Irving, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483124053/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>HCA Healthcare</strong></td>
+<td><a href="https://trueinterview.io/jobs/49e8c17d-8e14-4b32-9e23-1417dc63a9ae">Training Developer</a></td>
+<td>Dallas, TX<br/>Nashville, TN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483303305/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon Web Services (AWS)</strong></td>
+<td><a href="https://trueinterview.io/jobs/0da41cf3-e0ef-4c9d-9999-c3c8d2c3583e">Software Development Engineer, AWS Private Pricing</a></td>
+<td>Dallas, TX<br/>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483165901/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Westwood Professional Services</strong></td>
 <td><a href="https://trueinterview.io/jobs/0c8f4101-c8ff-4658-863d-b1906191c907">Graduate Engineer, Infrastructure Design</a></td>
 <td>Fort Worth, TX<br/>Dallas, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4465886381/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Pomeroy IT Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/1ff9f074-f682-4921-81da-a91654915fb2">Help Desk Technician</a></td>
+<td>Plano, TX</td>
+<td align="center"><a href="https://myjobs.adp.com/pomeroy/cx/job-details?reqId=5001238265800">Apply</a></td>
 <td align="center">14 Nov 2026</td>
 </tr>
 <tr>
@@ -50,6 +99,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/ee3d29ae-baad-41a7-a3db-95e4c208d053">Graduate High Voltage Electrical Engineer (Available 2027)</a></td>
 <td>Dallas, TX</td>
 <td align="center"><a href="https://jobs.arup.com/jobs/graduate-high-voltage-electrical-engineer-available-2027-36204">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>McAfee</strong></td>
+<td><a href="https://trueinterview.io/jobs/cd7d157a-9d53-49e9-91ec-1d9572798be4">Technical Support, Customer Experience Lab Support</a></td>
+<td>Frisco, TX</td>
+<td align="center"><a href="https://careers.mcafee.com/jobs/1831/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Planmeca USA Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/2161d11f-cd16-4ef7-8de6-74e078d3c635">3D Software Engineer</a></td>
+<td>Dallas, TX</td>
+<td align="center"><a href="https://jobs.localjobnetwork.com/j/t-3d-software-engineer-e-planmeca-usa-inc-l-dallas,-tx;-richland,-tx-jobs-j88864239.html">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Siemens</strong></td>
+<td><a href="https://trueinterview.io/jobs/8c6273c5-e099-4c34-992d-379b0e0faae8">ISO Quality Engineer - Fort Worth</a></td>
+<td>Fort Worth, TX<br/>Dallas, TX</td>
+<td align="center"><a href="https://jobs.siemens.com/externaljobs/JobDetail/529530">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
@@ -914,13 +984,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Infosys</strong></td>
-<td><a href="https://trueinterview.io/jobs/0ebcd38b-f1dc-4b77-b47c-4afe0d8ee6fc">Springboot Angular Developer</a></td>
-<td>Richardson, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476427077/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>SDVS Technologies LLC</strong></td>
 <td><a href="https://trueinterview.io/jobs/d0a3b685-ca0b-44f9-a744-a61999cd2946">PLSQL Developer</a></td>
 <td>Plano, TX</td>
@@ -1269,83 +1332,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Dallas, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485722883/">Apply</a></td>
 <td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Synechron</strong></td>
-<td><a href="https://trueinterview.io/jobs/6158b9bf-80af-4309-8be3-c8b7364f0fc1">Java Developer with Flowable BPM</a></td>
-<td>Dallas, TX<br/>Cleveland, OH<br/>Pittsburgh, PA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484354655/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Accenture</strong></td>
-<td><a href="https://trueinterview.io/jobs/24d46d24-eea7-45e6-86dc-9156a70c2593">AI ML Engineer 6564206</a></td>
-<td>Irving, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485432863/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Perma Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/998a2ec1-31e4-4b4a-959b-3055cab7b671">Data &amp; Analytics Engineer – SQL, Python, Tableau &amp; AWS</a></td>
-<td>Plano, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485448723/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>2020 Companies</strong></td>
-<td><a href="https://trueinterview.io/jobs/e834799f-0964-416f-8884-a40c2d0e2e24">Data Analyst, Repair Quality / Samsung Electronics America - Plano, TX 75023</a></td>
-<td>Plano, TX</td>
-<td align="center"><a href="https://2020companies.wd1.myworkdayjobs.com/External_Careers/job/Plano-TX/Data-Analyst--Repair-Quality---Samsung-Electronics-America---Plano--TX-75023_REQ_113953">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Brown &amp; Brown Insurance</strong></td>
-<td><a href="https://trueinterview.io/jobs/6e5bcbe7-23a1-487b-a45a-d7e56ae3bbfa">HubSpot Developer</a></td>
-<td>Plano, TX</td>
-<td align="center"><a href="https://bbinsurance.wd1.myworkdayjobs.com/en-US/Careers/job/Plano-TX-USA/HubSpot-Developer_R26_0000003693">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Capgemini</strong></td>
-<td><a href="https://trueinterview.io/jobs/1b878151-c29f-4c0a-bb45-456b0c18668b">RMS Developer - Retail &amp; Cards Domain</a></td>
-<td>Dallas, TX</td>
-<td align="center"><a href="https://capgemini.talentnet.community/jobs/3e6474b3-adc7-4c5a-a5cf-286e0af692e2">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Fortis Payments</strong></td>
-<td><a href="https://trueinterview.io/jobs/5cec316f-f969-4d2a-b21f-1ed430212c5d">Technical Support Specialist</a></td>
-<td>Plano, TX</td>
-<td align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4622998/Fortis-Payment-Systems-LLC/Technical-Support-Specialist">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Verizon</strong></td>
-<td><a href="https://trueinterview.io/jobs/f3dabd30-bcba-4f0e-9d98-ea6ace3ca702">Forward Deployed Engineer</a></td>
-<td>Irving, TX</td>
-<td align="center"><a href="https://mycareer.verizon.com/jobs/r-1102402/forward-deployed-engineer/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>VOFOX SOLUTIONS PVT LTD</strong></td>
-<td><a href="https://trueinterview.io/jobs/d8c2fbdd-9d80-4911-b6c3-b8246f1a3b5e">Java Developer – Healthcare</a></td>
-<td>Irving, TX</td>
-<td align="center"><a href="https://vofoxsolutions.com/career-at-vofox">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Brown &amp; Brown</strong></td>
-<td><a href="https://trueinterview.io/jobs/3eee6aa9-e707-4923-a575-20af769a3eb8">HubSpot Developer</a></td>
-<td>Plano, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486108828/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>FASCore Construction LLC</strong></td>
-<td><a href="https://trueinterview.io/jobs/80f96985-da72-404a-93e5-e6125f42d511">Electrical Engineer</a></td>
-<td>Plano, TX<br/>Jeffersonville, IN</td>
-<td align="center"><a href="https://fascore-construction-llc.careerplug.com/j/036qqyh">Apply</a></td>
-<td align="center">1 Nov 2026</td>
 </tr>
 </tbody>
 </table>

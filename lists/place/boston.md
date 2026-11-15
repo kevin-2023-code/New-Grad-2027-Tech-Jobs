@@ -2,7 +2,7 @@
 
 # 🎓 Boston & Cambridge
 
-**128 open roles.**
+**126 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,11 +18,60 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Troutman Pepper Locke LLP</strong></td>
+<td><a href="https://trueinterview.io/jobs/f166fe31-c005-45f6-8cbd-c5be91366b46">Private Equity Business Developer</a></td>
+<td>Boston, MA<br/>New Orleans, LA<br/>Princeton, NJ<br/>+1 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491096320/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Stefanini North America and APAC</strong></td>
+<td><a href="https://trueinterview.io/jobs/ae66fd85-126a-4c71-8f66-282eb6053403">Python Automation Developer</a></td>
+<td>Boston, MA<br/>Boston, KY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483133582/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/a184a53e-1d50-4671-b3cf-7897de105901">Security Software Development Engineer, Corporate Services Security</a></td>
+<td>Boston, MA<br/>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475047838/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/2f7c0c99-ef53-4947-aacf-28137fc572e4">Software Development Engineer, Alexa Endpoint Experiences</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4455793847/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon Web Services (AWS)</strong></td>
+<td><a href="https://trueinterview.io/jobs/763068a0-14d6-46f6-a72a-d7c3e6b92f09">Software Development Engineer, Elastic Block Storage (EBS), Capacity Optimization</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4455921024/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>aPriori Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/e9d3ea18-6c27-4ac0-9c8e-b12925ae7a5f">IT Support Technician</a> 🌐</td>
+<td>Remote — United States<br/>Boston, MA, 02109, US</td>
+<td align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4658220?listingId=53da37ff-3177-4ee9-8111-0522697c7d3b">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>PwC</strong></td>
 <td><a href="https://trueinterview.io/jobs/7de47feb-4913-4404-b515-25d1148b9021">Cybersecurity Consulting Associate - Winter 2027</a></td>
 <td>Boston, MA<br/>Atlanta, GA<br/>New York, NY<br/>+11 more</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4491032010/">Apply</a></td>
 <td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Elevaris Medical Devices</strong></td>
+<td><a href="https://trueinterview.io/jobs/77bb724e-d633-4beb-a102-06af027e91f7">Quality Engineer, Level I</a></td>
+<td>Wilmington, MA</td>
+<td align="center"><a href="https://ats.rippling.com/elevaris-medical-devices/jobs/407e82eb-3ce1-4bf5-a435-1b714cf562f3?jobSite=Indeed">Apply</a></td>
+<td align="center">13 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Collins Aerospace</strong></td>
@@ -774,13 +823,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Apple</strong></td>
-<td><a href="https://trueinterview.io/jobs/729b0526-2bb7-49b6-b665-f2db74b8931f">Systems Software Engineer, Platform Architecture</a></td>
-<td>Cambridge, Massachusetts, United States<br/>Cupertino, California, United States</td>
-<td align="center"><a href="https://jobs.apple.com/en-us/details/200687597">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Rise Robotics</strong></td>
 <td><a href="https://trueinterview.io/jobs/4db2de15-ebbe-431e-9c95-7424757b72f6">Mechanical &amp; Test Engineer (Spring 2027)</a></td>
 <td>Somerville, MA</td>
@@ -855,62 +897,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/d41355c4-6490-416f-b1f7-6bfc2dd3abaa">Entry Level Mechanical Engineer</a></td>
 <td>Wilmington, MA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/rebuildmanufacturing/jobs/4748455005">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Robeco</strong></td>
-<td><a href="https://trueinterview.io/jobs/3667f1a2-efb6-4bb6-993a-6b98655680bd">Quant Equity Researcher</a></td>
-<td>Boston, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486148920/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Affiliated Engineers, Inc</strong></td>
-<td><a href="https://trueinterview.io/jobs/6d3e3fe9-7ba3-4467-af61-360ea521c36f">Electrical Engineer I</a></td>
-<td>Boston, MA</td>
-<td align="center"><a href="https://jobs.dayforcehcm.com/en-US/facllc/AEI/jobs/2159">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Draper</strong></td>
-<td><a href="https://trueinterview.io/jobs/9cba8287-d0cf-458e-9247-41608e64a338">Integration and Test Engineer</a></td>
-<td>Cambridge, MA</td>
-<td align="center"><a href="https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Integration-and-Test-Engineer_JR003104">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Main Street Bank</strong></td>
-<td><a href="https://trueinterview.io/jobs/80e1d8f0-0131-4cac-a895-ab54c69f26de">AVP, Business Intelligence &amp; Data Analytics</a></td>
-<td>Marlborough, MA</td>
-<td align="center"><a href="https://www.paycomonline.net/v4/ats/web.php/portal/71849210BE27F383CC69C368B3CE9B78/jobs/550665">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>National Grid</strong></td>
-<td><a href="https://trueinterview.io/jobs/88e2e704-f5c8-4eb8-82cd-cc5ab6506a1d">Graduate Development Program, Associate Engineer, Distribution Planning &amp; Asset Management</a></td>
-<td>Waltham, MA</td>
-<td align="center"><a href="https://jobs.nationalgrid.com/usa/jobs/12365/graduate-development-program-associate-engineer-distribution-planning-asset-management">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/3e742fca-80c6-4278-b80c-f3de43c5c7c7">Graduate Development Program, Associate Engineer, Transmission Planning</a></td>
-<td>Waltham, MA</td>
-<td align="center"><a href="https://jobs.nationalgrid.com/usa/jobs/12946/graduate-development-program-associate-engineer-transmission-planning">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/3ea68003-9a74-4aae-a5bd-3a22421125ef">Graduate Development Program, Associate Engineer, Transmission Planning Modeling</a></td>
-<td>Waltham, MA</td>
-<td align="center"><a href="https://jobs.nationalgrid.com/usa/jobs/12944/graduate-development-program-associate-engineer-transmission-planning-modeling">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Symbotic</strong></td>
-<td><a href="https://trueinterview.io/jobs/10a3482b-8ae4-4bcd-a1dd-929ac7b317c5">New Grad- Manufacturing Engineer</a></td>
-<td>Wilmington, MA</td>
-<td align="center"><a href="https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington-MA---ITC/New-Grad--Manufacturing-Engineer_R8402">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 </tbody>

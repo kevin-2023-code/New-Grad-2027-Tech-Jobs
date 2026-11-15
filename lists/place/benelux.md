@@ -2,7 +2,7 @@
 
 # 🇳🇱 Amsterdam & the Benelux
 
-**30 open roles.**
+**21 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -164,69 +164,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/f5bb5300-0d6d-46a2-9d7f-978facc4ea8e">Data &amp; AI Governance Operations Analyst</a></td>
 <td>Amsterdam, North Holland, Netherlands<br/>Amsterdam Centrum, Netherlands</td>
 <td align="center"><a href="https://jobs.booking.com/booking/jobs/30637/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Hogeschool Rotterdam</strong></td>
-<td><a href="https://trueinterview.io/jobs/968deddf-4eb1-466b-be48-fc3dbf6f039c">Medior AI Platform Engineer</a></td>
-<td>Rotterdam, Netherlands</td>
-<td align="center"><a href="https://www.hogeschoolrotterdam.nl/hogeschool/werken-bij-hr/vacature-overzicht/vd/medior-ai-platform-engineer-10-fte/607972/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Nederlandse Voedsel- en Warenautoriteit (NVWA)</strong></td>
-<td><a href="https://trueinterview.io/jobs/c6e24802-f86d-4566-ae51-bacb7eedad64">Data Engineer Workforce Management</a></td>
-<td>Utrecht, Netherlands</td>
-<td align="center"><a href="https://www.werkenvoornederland.nl/vacatures/data-engineer-workforce-management-NVWA-2026-3697">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/b2c15b16-d3af-4136-8ace-09da5d3eb8fc">Data Scientist Workforce Management</a></td>
-<td>Utrecht, Netherlands</td>
-<td align="center"><a href="https://www.werkenvoornederland.nl/vacatures/data-scientist-workforce-management-NVWA-2026-2740">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>NewRocket</strong></td>
-<td><a href="https://trueinterview.io/jobs/5db33314-9d80-416d-95fd-a1811424e831">AI Engineer-Anthropic-University/Graduate Level - Netherlands/Western Europe</a></td>
-<td>Amsterdam, Netherlands</td>
-<td align="center"><a href="https://grnh.se/mmloe7h74us">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>NN GROUP</strong></td>
-<td><a href="https://trueinterview.io/jobs/5fdcba91-9571-4829-bf43-8b921694b27f">Vacature: Data engineer - View vacancy</a></td>
-<td>Rotterdam, Netherlands</td>
-<td align="center"><a href="https://www.nn-careers.com/vacature/3673/data-engineer-13">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Rail Innovators Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/d4a18104-e1a4-40ab-9394-b20ac5d80ee0">Data &amp; AI Engineer</a></td>
-<td>Rotterdam, Netherlands</td>
-<td align="center"><a href="https://railinnovatorsgroup.recruitee.com/l/en/o/data-ai-engineer-1">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>TMC</strong></td>
-<td><a href="https://trueinterview.io/jobs/17e7173a-3471-44e4-8040-8541465b6965">Data Scientist</a></td>
-<td>Eindhoven, Netherlands</td>
-<td align="center"><a href="https://www.themembercompany.com/careers/data-scientist-HTEA3">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Van Lanschot Kempen</strong></td>
-<td><a href="https://trueinterview.io/jobs/13b53fc0-4896-48de-b8ec-53b354b94f49">Data Engineer – Investment Management</a></td>
-<td>Amsterdam, Netherlands</td>
-<td align="center"><a href="https://careers.vanlanschotkempen.com/nl-nl/vacatures/data-engineer--%E2%80%93--investment-management">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>VodafoneZiggo</strong></td>
-<td><a href="https://trueinterview.io/jobs/411a57be-0d52-4567-8082-9b065a698e09">HR Data Analyst</a></td>
-<td>Utrecht, Netherlands</td>
-<td align="center"><a href="https://careers.vodafoneziggo.com/vacatures/hr-data-analyst-6919">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 </tbody>

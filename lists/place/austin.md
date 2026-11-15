@@ -2,7 +2,7 @@
 
 # 🎸 Austin
 
-**176 open roles.** 175 in the United States & Canada · 1 elsewhere in the world.
+**170 open roles.** 169 in the United States & Canada · 1 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,41 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Infosys</strong></td>
+<td><a href="https://trueinterview.io/jobs/1ed6414c-e990-48d9-bece-3c35654fa3da">JAVA Developer with MongoDB</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4480698750/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>CPS, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/273afdae-678b-4889-9085-14b4d0293a64">FPGA Engineer - HFT</a></td>
+<td>Austin, TX<br/>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4481959697/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Molex</strong></td>
+<td><a href="https://trueinterview.io/jobs/c89be1a4-81b2-4813-af57-dedf2cd5a071">GPU MLOps Engineer</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4454111625/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>The University of Texas at Arlington</strong></td>
+<td><a href="https://trueinterview.io/jobs/4e95e486-f9ea-4c89-a4e6-11f70b2c8cde">Research Engineer Scientist Assoc I - Austin, TX</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4463628162/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon Web Services (AWS)</strong></td>
+<td><a href="https://trueinterview.io/jobs/30cfbdb1-9562-44c9-bc83-facca0fda8c9">AI Security Engineer, AWS Security, AWS Security - AISec</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4455908955/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>AppLab Systems, Inc</strong></td>
 <td><a href="https://trueinterview.io/jobs/6cb19fc7-2c1c-43dc-b579-94f7f1f0caf3">Java Developer with CouchBase – W2 Contract only Location – Austin, Texas – Onsite</a></td>
@@ -36,6 +71,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/5effc62e-5137-4985-a6ea-2bb71fea8785">Product Designer - New Grad (Summer 2027)</a></td>
 <td>Austin, TX<br/>New York, NY<br/>Los Angeles, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4477032233/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Bridgefront Capital LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/ebfcbd49-4656-4087-902c-5f954854bd3e">Software Engineer - Trading Systems - University Graduate</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://www.bridgefront.capital/careers-at-bfc">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Charles Schwab</strong></td>
+<td><a href="https://trueinterview.io/jobs/b97c2a7b-53d4-467a-aa43-0c09e2a99d62">Software Development Engineer in Test</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://www.schwabjobs.com/job/austin/software-development-engineer-in-test/33727/103266875248">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
@@ -823,13 +872,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Fluidstack</strong></td>
-<td><a href="https://trueinterview.io/jobs/287202da-2db1-4175-b73e-58cb4bf376ae">Software Engineer, Manufacturing &amp; Supply Chain</a></td>
-<td>Austin, TX<br/>San Francisco, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486377634/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Saronic Technologies</strong></td>
 <td><a href="https://trueinterview.io/jobs/eadf6da6-aab2-4995-8668-92f489400647">Software Engineer, Generalist</a></td>
 <td>Austin, TX</td>
@@ -1156,90 +1198,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/414aa75d-e0ab-4667-96bd-1e347d9bfd5c">Software Developers</a></td>
 <td>Round Rock, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485630027/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>BN Associates Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/39f85784-cb4e-4be3-871d-84f714e5b600">Hardware Design Engineer</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484373023/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Fluidstack</strong></td>
-<td><a href="https://trueinterview.io/jobs/b6307dd2-0611-402d-b2bb-860c8ac68cf8">Data Center Capacity Analyst</a></td>
-<td>Austin, TX<br/>New York, NY<br/>San Francisco, CA<br/>+1 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/8e61d2ac-9257-4870-813c-7c6ac1e6a621">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/d9498445-abfb-44f1-bc0c-3ca4d2e20f52">Physical Security Engineer, R&amp;D</a></td>
-<td>Austin, TX<br/>San Francisco, CA<br/>Seattle, WA<br/>+1 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/25a88cad-bf8e-43d4-b3b3-1ac1ae9eb5da">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/981a4008-1fb4-4601-a7a5-6cb929649c7a">Software Engineer, Facilities</a></td>
-<td>Austin, TX<br/>Seattle, WA<br/>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/f5444f2e-60a0-48ed-a38b-6c500743a6ff">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/b65e993b-67a3-43e3-98c5-e68b125ce6e4">Security Engineer, Network</a></td>
-<td>Austin, TX<br/>San Francisco, CA<br/>Seattle, WA<br/>+2 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/dde1721b-bb8a-47e8-93ef-dab871af4f85">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Renesas</strong></td>
-<td><a href="https://trueinterview.io/jobs/8bca3e3a-484c-4260-b3a5-eb1fd1033745">Physical Design Engineer (f/m/d)</a></td>
-<td>Austin, TX<br/>Austin, Texas, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/RenesasElectronics/744000159109470-physical-design-engineer-f-m-d-">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Fluidstack</strong></td>
-<td><a href="https://trueinterview.io/jobs/c650ee54-4ad6-4c1b-9291-6a00698066fb">Software Engineer, Robotics</a></td>
-<td>Austin, TX<br/>Seattle, WA<br/>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/4a254962-ab7b-4baa-8c44-e3e928f647b3">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>DNV</strong></td>
-<td><a href="https://trueinterview.io/jobs/d3713d82-1ad0-4e81-be9c-7b7799ea6181">IT Systems Engineer</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://jobs.dnv.com/job-search/energy-systems/it-and-software/austin-tx-united-states/it-systems-engineer/300001761748223">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Samsung Electronics</strong></td>
-<td><a href="https://trueinterview.io/jobs/211f0f2e-d41d-44d3-a4b8-fb0030bfd005">Engineer, Analysis Engineering</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/Engineer--Analysis-Engineering_R121648-1">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Texas Department of Public Safety</strong></td>
-<td><a href="https://trueinterview.io/jobs/ed47dbe4-e8e9-45cc-a35e-e493073b4f73">DPS - IT - Java Developer - 0244</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://erphcmprd.cpa.texas.gov/psp/candidateportal/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&amp;Action=U&amp;FOCUS=Applicant&amp;SiteId=1&amp;JobOpeningId=107770&amp;PostingSeq=1">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Fluidstack</strong></td>
-<td><a href="https://trueinterview.io/jobs/8cb4b1e7-351c-43ea-9668-783a3edfd849">Civil Designer, Capacity Delivery</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/f2d9b5d9-ebf3-4f9a-bf6b-5d22533b9194">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Emerson</strong></td>
-<td><a href="https://trueinterview.io/jobs/64de1b16-c2ae-4499-90f0-3b426612b468">Corporate Graphic Designer</a></td>
-<td>Austin, TX<br/>St. Louis, MO, United States</td>
-<td align="center"><a href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012694">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 </tbody>

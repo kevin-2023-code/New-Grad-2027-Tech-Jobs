@@ -2,7 +2,7 @@
 
 # 🏛️ Washington DC & Northern Virginia
 
-**416 open roles.**
+**404 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -16,116 +16,32 @@
 </thead>
 <tbody>
 <tr>
-<td><strong>American Rheinmetall Munitions</strong></td>
-<td><a href="https://trueinterview.io/jobs/46a41b68-f6b5-4434-ba3f-084b6fc3775a">Systems Engineer</a></td>
-<td>Vienna, VA</td>
-<td align="center"><a href="https://recruitingbypaycor.com/career/CareerHome.action?clientId=8a7883c66c5073a7016cc05b9b6d7672&amp;gnk=job&amp;gni=8a7883a8a184746e01a19dedf1885d3d&amp;gns=Indeed+Free">Apply</a></td>
+<td><strong>Aretum</strong></td>
+<td><a href="https://trueinterview.io/jobs/3d831ee5-107f-41cb-8cb9-2e2d07c3ec95">ServiceNow Application Developer (Contingent)</a> 🌐</td>
+<td>Remote — United States<br/>McLean, VA</td>
+<td align="center"><a href="https://apply.workable.com/j/5A1BD48AAC">Apply</a></td>
 <td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>CACI International</strong></td>
-<td><a href="https://trueinterview.io/jobs/721d2085-b924-43eb-9441-b50fb9cc9e5e">Network Operations Center- NOC Tier 1</a></td>
-<td>Washington, DC</td>
-<td align="center"><a href="https://searchcareers.caci.com/careers/job/1443154318636">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Chenega Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/9fb08d3d-3a2e-442a-92f2-858609f5379f">ServiceNow Developer</a></td>
-<td>Springfield, VA</td>
-<td align="center"><a href="https://chenega.jibeapply.com/jobs/43486/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>CyberCore Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/49673446-e127-4bc0-8dc9-23fefe4a850f">Software Engineer 1</a></td>
-<td>Columbia, MD</td>
-<td align="center"><a href="https://cybercoretech.jobs.agile-ats.com/jobs/details/16553831">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Dynanet Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/db477879-617a-4941-a329-599cc54fd066">DevOps Engineer</a></td>
-<td>Washington, DC</td>
-<td align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4633063/Dynanet-Corporation/DevOps-Engineer">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Markon</strong></td>
-<td><a href="https://trueinterview.io/jobs/91dbe390-42c7-4d71-9ce5-6fa3bbc0ef53">Google Cloud Engineer</a></td>
-<td>Herndon, VA</td>
-<td align="center"><a href="https://careers-markon.icims.com/jobs/8777/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Peraton</strong></td>
-<td><a href="https://trueinterview.io/jobs/7cc1f4c3-4514-437e-9181-183d241f056a">Cyber Systems Engineer, TS/SCI w/Poly</a></td>
-<td>Annapolis Junction, MD</td>
-<td align="center"><a href="https://www.careers.peraton.com/jobs/cyber-systems-engineer-ts-sci-w-poly-annapolis-junction-maryland-173059-jobs--information-technology--">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Rollout Systems, LLC</strong></td>
-<td><a href="https://trueinterview.io/jobs/ee1595d1-554b-4c18-916d-c71e540751e6">1854 - Systems Administrator - Onsite - Secret Clearance Required</a></td>
-<td>Arlington, VA</td>
-<td align="center"><a href="https://rolloutsystems.na.teamtailor.com/jobs/730029-1854-systems-administrator-onsite-secret-clearance-required">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>The Aerospace Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/be45aa84-1dcc-40d8-a916-fc5b9cd8108b">Research and Development Engineer</a></td>
-<td>Chantilly, VA</td>
-<td align="center"><a href="https://aero.wd5.myworkdayjobs.com/en-US/External/job/Chantilly-VA/Research-and-Development-Engineer_R017086">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>University of Maryland University College</strong></td>
-<td><a href="https://trueinterview.io/jobs/7592f952-beb1-4c22-aa0f-5c7dfdf5ef45">Data Support Analyst (VPUR)</a></td>
-<td>College Park, MD</td>
-<td align="center"><a href="https://umd.wd1.myworkdayjobs.com/en-US/UMCP/job/University-of-Maryland-College-Park/Data-Support-Analyst--VPUR-_JR105305">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Valiant Solutions, LLC</strong></td>
-<td><a href="https://trueinterview.io/jobs/a65c3bdb-c489-4bee-8cb0-3cac04c6989d">IEC Engineer</a></td>
-<td>Springfield, VA</td>
-<td align="center"><a href="https://careers-valiantsolutions.icims.com/jobs/7398/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>North Point Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/e1c7c8c6-d823-4976-be95-78f7057a7c4c">Systems Engineer (Top Secret/SCI with agreement to obtain CI Pol with Security Clearance</a></td>
-<td>Chantilly, VA<br/>Burke, VA<br/>St Louis, MO</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485158472/">Apply</a></td>
-<td align="center">1 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>RDR, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/d9906e58-a06c-4736-bea3-d05b1079fb82">ConMon Cyber Systems Engineer (Continuous Monitoring) with Security Clearance</a></td>
+<td><a href="https://trueinterview.io/jobs/e46f0503-94e4-4a1e-8548-54c392cf4b5a">Cyber Enterprise Vulnerability and Remediation Engineer with Security Clearance</a></td>
 <td>Chantilly, VA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485423255/">Apply</a></td>
-<td align="center">1 Nov 2026</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485737306/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Percival Engineering</strong></td>
-<td><a href="https://trueinterview.io/jobs/e6f5df30-9d83-4d8f-9359-560c91d25366">Embedded Developer with Security Clearance</a></td>
-<td>Columbia, MD</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485422223/">Apply</a></td>
-<td align="center">1 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Midwestern IT Inc</strong></td>
-<td><a href="https://trueinterview.io/jobs/0de44de2-f2a6-48b4-9530-c46a853470b3">WERE HIRING: Software Test Engineer</a></td>
+<td><strong>PerformYard</strong></td>
+<td><a href="https://trueinterview.io/jobs/3f2032c9-82c9-4dc5-b35b-622c7a4a0e34">Product UI/UX Designer</a></td>
 <td>Arlington, VA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485407498/">Apply</a></td>
-<td align="center">1 Nov 2026</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4441827541/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Axle</strong></td>
-<td><a href="https://trueinterview.io/jobs/beb2f381-4a82-442c-85b2-7eb5aed88c4c">Cybersecurity Research Assistant</a></td>
-<td>Rockville, MD<br/>Remote</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/axle/jobs/5225541007">Apply</a></td>
-<td align="center">1 Nov 2026</td>
+<td><strong>Rividium Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/68047f69-807f-4e7b-a1fd-e14a712cc829">DevSecOps Engineer with Security Clearance</a></td>
+<td>Washington, DC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485724936/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # 🇫🇷 Paris & France
 
-**163 open roles.** 5 in the United States & Canada · 158 elsewhere in the world.
+**137 open roles.** 1 in the United States & Canada · 136 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -23,34 +23,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Toulouse, France<br/>San Francisco, CA<br/>Toulouse, Occitanie<br/>+1 more</td>
 <td align="center"><a href="https://jobs.lever.co/loftorbital/d2ec023c-42c4-4cf3-a891-9230d0811cc0">Apply</a></td>
 <td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Genesis</strong></td>
-<td><a href="https://trueinterview.io/jobs/a0a4a5bb-7e24-44c3-b6b8-ba8763bb0be7">Genesis-World: Core Physics Engineer</a></td>
-<td>Paris, France<br/>London<br/>San Carlos, CA<br/>+1 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/genesis/4ef65db2-2989-4167-a27e-2927f816eb4f">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/e25d95b7-1164-41c1-b58b-f5ec201f7877">Genesis-World: Core Simulation Engine Engineer</a> 🌐</td>
-<td>Remote — France, United States, United Kingdom<br/>Paris, France</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/genesis/4a7a366b-b785-4bc5-a7b7-03ae35dd6dc2">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/0bbd3c87-c993-488f-b462-1008e3513f7e">ML Compiler &amp; System</a></td>
-<td>Paris, France<br/>London<br/>San Carlos, CA<br/>+1 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/genesis/dd38f3c3-de73-489b-bad7-2393fa2dfd24">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/546eec9f-096a-41ed-94e1-ba0e3297ee35">Training / AI Infrastructure</a></td>
-<td>Paris, France<br/>London<br/>San Carlos, CA<br/>+1 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/genesis/b9ce5163-c4e1-4395-814b-358e3aea04f2">Apply</a></td>
-<td align="center">2 Nov 2026</td>
 </tr>
 </tbody>
 </table>
@@ -1014,160 +986,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/5b68b541-2fb2-46cb-8ca2-ad6ebf6c5e4c">Product Owner / Business Analyst / AMOA (H/F)</a></td>
 <td>Nantes, France</td>
 <td align="center"><a href="https://apply.workable.com/j/2268E47B1D">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Decathlon Digital Fr</strong></td>
-<td><a href="https://trueinterview.io/jobs/87ec2fba-1825-4353-b9a7-a875d4a346bc">Software Engineer - Transport &amp; Customs (f/m/d)</a></td>
-<td>Paris, Paris, France</td>
-<td align="center"><a href="https://job-boards.eu.greenhouse.io/decathlontechnology/jobs/5024294101">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Talan</strong></td>
-<td><a href="https://trueinterview.io/jobs/b212d588-77ab-46da-b3af-d119d5eeaee9">Product Owner - H/F</a></td>
-<td>Lyon, Auvergne-Rhône-Alpes, France<br/>Nantes, Pays de la Loire, France</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Talan/744000159083449-product-owner-h-f">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>AMI PARIS</strong></td>
-<td><a href="https://trueinterview.io/jobs/a9899951-63bd-44bf-981c-6ee4a8aa6aa0">CDI - HR Data &amp; Social Controlling Analyst H/F</a></td>
-<td>Paris, France</td>
-<td align="center"><a href="https://amiparis.recruitee.com/o/cdi-hr-data-social-controlling-analyst-hf">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Arlettie</strong></td>
-<td><a href="https://trueinterview.io/jobs/94079bf8-db2c-4cdb-811d-af62b653f6bc">Stage - Assistant(e) Product Owner H/F</a></td>
-<td>Paris, France</td>
-<td align="center"><a href="https://www.arlettie.com/job/jn57wen8uf">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>BALENCIAGA</strong></td>
-<td><a href="https://trueinterview.io/jobs/7c51a518-5fda-47c3-ba12-6600e3daf76c">BALENCIAGA – Global Client Data &amp; Insight Analyst (F/H)</a></td>
-<td>Paris, France</td>
-<td align="center"><a href="https://careers.kering.com/careers/job/563705893087660">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Banque de France</strong></td>
-<td><a href="https://trueinterview.io/jobs/94f1dd42-c3f5-46b2-867a-981772eb0b83">Data scientist (H/F)</a></td>
-<td>Paris, France</td>
-<td align="center"><a href="https://bdf.wd103.myworkdayjobs.com/fr-FR/recrutement-banque-de-France/job/PARIS/Data-scientist--H-F-_JR101640">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Extia</strong></td>
-<td><a href="https://trueinterview.io/jobs/8bc3733c-31e2-447f-b585-246bcc5c046f">ML Ops / Ingénieur Machine Learning (H/F)</a></td>
-<td>Lille, France</td>
-<td align="center"><a href="https://www.extia-group.com/join-us/ml-ops-h-f">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>G MASS Consulting</strong></td>
-<td><a href="https://trueinterview.io/jobs/4b85ac46-3c7c-4308-a8e8-dc41f5117619">Guidewire ClaimCenter Developer</a></td>
-<td>Paris, France</td>
-<td align="center"><a href="https://www.efinancialcareers.fr/jobs-France-Paris-Guidewire_ClaimCenter_Developer.id24962533">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Genesis</strong></td>
-<td><a href="https://trueinterview.io/jobs/ff87e5e9-0e2f-41e8-9858-a5c7c818a721">Recruiter, AI Research &amp; Engineering</a></td>
-<td>Paris, France<br/>London</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/genesis/a4d9562a-51a0-4c6e-96c9-7d15e528a672">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/6b854015-ef2e-42f8-8cb4-199429a9f227">Sourcer, AI Research &amp; Engineering</a></td>
-<td>Paris, France</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/genesis/7c821c7f-3f0d-4afd-8eee-6c47430c9d8d">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Goweb</strong></td>
-<td><a href="https://trueinterview.io/jobs/aec869ac-a642-41b1-99ee-f0f467ce4102">Data Analyst</a></td>
-<td>Lille, France</td>
-<td align="center"><a href="https://www.goweb.fr/esn/offres-d-emploi-esn-lille/data-analyst/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Groupe SII</strong></td>
-<td><a href="https://trueinterview.io/jobs/957c492b-f329-4280-8b98-8b746faf6346">Stagiaire AI Engineer H/F</a></td>
-<td>Lyon, France</td>
-<td align="center"><a href="https://sii-group.com/fr-FR/offers/stagiaire-ai-engineer-hf">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>hn services</strong></td>
-<td><a href="https://trueinterview.io/jobs/9c67d1f6-ab84-441e-a9de-b5cc6acd90fc">Data Scientist-BI-Confirmé</a></td>
-<td>Paris, France</td>
-<td align="center"><a href="https://www.free-work.com/fr/tech-it/job-mission/data-scientist/data-scientist-bi-confirme">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/9f94dd2b-35fb-476c-916d-7ade3453294a">IA engineer</a></td>
-<td>Paris, France</td>
-<td align="center"><a href="https://www.free-work.com/fr/tech-it/job-mission/data-engineer/ia-engineer-4">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Inria</strong></td>
-<td><a href="https://trueinterview.io/jobs/7ec98797-d22e-4898-805c-7019b6c8e1f7">Research Engineer in Quantum Error Correction</a></td>
-<td>Lyon, France</td>
-<td align="center"><a href="https://jobs.inria.fr/public/classic/fr/offres/2026-10671">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Mister Garden</strong></td>
-<td><a href="https://trueinterview.io/jobs/ea4fc78b-8034-4035-a4c6-c47b793134a8">Business Developer Franchise - Stage / Alternance – Janvier 2027 (H/F)</a></td>
-<td>Paris, France</td>
-<td align="center"><a href="https://recrutement.mister-garden.com/jobs/8648789-business-developer-franchise-stage-alternance-janvier-2027-h-f">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Natixis</strong></td>
-<td><a href="https://trueinterview.io/jobs/5ebf0d0c-42e7-498a-80f6-0aad20e36906">Stage - 6 mois - Data Scientist - F/H</a></td>
-<td>Paris, France</td>
-<td align="center"><a href="https://recrutement.natixis.com/job/stage-6-mois-data-scientist-f-h">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Octogone</strong></td>
-<td><a href="https://trueinterview.io/jobs/720a9cd3-fe22-4ea0-b1e8-2cf45695e1d3">Data Engineer – DBT - Saint Ouen</a></td>
-<td>Paris, France</td>
-<td align="center"><a href="https://www.free-work.com/fr/tech-it/job-mission/data-engineer/data-engineer-dbt-saint-ouen">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Step Up</strong></td>
-<td><a href="https://trueinterview.io/jobs/3d0ad0eb-d187-498d-89de-e548f1abcfe4">Business Analyst / Product Owner Technique (H/F)</a></td>
-<td>Toulouse, France</td>
-<td align="center"><a href="https://www.jobposting.pro/emploi-2740140-109">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>SThree</strong></td>
-<td><a href="https://trueinterview.io/jobs/0a14ff90-c84d-4a54-9dc4-0e268628ffb6">Product Owner (IT) / Freelance</a></td>
-<td>Paris, France</td>
-<td align="center"><a href="https://www.free-work.com/fr/tech-it/job-mission/product-owner/product-owner-1383">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Thales</strong></td>
-<td><a href="https://trueinterview.io/jobs/ec236404-0d8c-4116-81a9-ad1b8a43cecf">Ingénieur Data Scientist Recherche Operationnelle F/H</a></td>
-<td>Toulouse, France</td>
-<td align="center"><a href="https://careers.thalesgroup.com/global/en/job/TGPTGWGLOBALR0341515EXTERNALENGLOBAL/Ing%C3%A9nieur-Data-Scientist-Recherche-Operationnelle-F-H">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>VO2 GROUP</strong></td>
-<td><a href="https://trueinterview.io/jobs/ec472554-e4e2-4810-887e-233554eacde2">[VO2 Force] - Product Owner Clienteling</a></td>
-<td>Paris, France</td>
-<td align="center"><a href="https://jobs.lever.co/vo2-group/1e5bd752-8ada-4050-a288-250d29cdd5db">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # 🌬️ Chicago
 
-**116 open roles.** 115 in the United States & Canada · 1 elsewhere in the world.
+**119 open roles.** 118 in the United States & Canada · 1 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Fintal Partners</strong></td>
+<td><a href="https://trueinterview.io/jobs/73f8e237-ab40-481d-b18d-2e09db419334">Machine Learning Engineer – GPU Performance &amp; Low-Latency Inference</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489898576/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>CPS, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/273afdae-678b-4889-9085-14b4d0293a64">FPGA Engineer - HFT</a></td>
+<td>Chicago, IL<br/>Austin, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4481959697/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>iManage</strong></td>
+<td><a href="https://trueinterview.io/jobs/6b4a5a44-6c03-45a9-bec6-734e119be258">AI Integration Engineer</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4481975129/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Hyatt</strong></td>
+<td><a href="https://trueinterview.io/jobs/edf4f490-c4ca-4441-8d4b-bbb6af61ad3d">⁠AWS Kubernetes Cloud Engineer</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483157081/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>PwC</strong></td>
 <td><a href="https://trueinterview.io/jobs/7de47feb-4913-4404-b515-25d1148b9021">Cybersecurity Consulting Associate - Winter 2027</a></td>
@@ -36,6 +64,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/d730b1bc-0c99-4505-b180-c284ef5dcd3a">Entry Level Control Hardware Development Engineer</a></td>
 <td>Schaumburg, IL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4482814308/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Schneider Electric</strong></td>
+<td><a href="https://trueinterview.io/jobs/d0c95942-2bea-4961-a9a6-7945fb8b106e">Building Automation Project Engineer l</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://careers.se.com/jobs/141218/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>University of Illinois</strong></td>
+<td><a href="https://trueinterview.io/jobs/bd227781-16cf-464c-8eb0-5f59b3bc97b8">Visiting Research Scientist- Department of Biochemistry and Molecular Genetics</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://uic.csod.com/ux/ats/careersite/1/home/requisition/21368?c=uic">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
@@ -799,27 +841,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/6c5c898f-638f-453f-8518-78bce3ae8181">DevOps Engineer- Sports Trading firm</a></td>
 <td>Chicago, IL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4473685563/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Chicago Housing Authority</strong></td>
-<td><a href="https://trueinterview.io/jobs/4fc82f7d-9c1f-48ee-a83a-3d7c5c191f22">Data Analyst</a></td>
-<td>Chicago, IL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484318679/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Family Focus</strong></td>
-<td><a href="https://trueinterview.io/jobs/5b36c2f6-b34f-46a2-9a5a-edf4db95a566">Program Evaluation and Data Analyst</a></td>
-<td>Chicago, IL</td>
-<td align="center"><a href="https://www.family-focus.org/careers?gnk=job&amp;gni=8a78839ea150ae2901a15a9e6b3972e4&amp;gns=Indeed+Free">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Tempus</strong></td>
-<td><a href="https://trueinterview.io/jobs/da84e510-e22d-4e50-bb3a-9bd339e917de">Business Intelligence Engineer</a></td>
-<td>Chicago, IL</td>
-<td align="center"><a href="https://tempus.wd5.myworkdayjobs.com/en-US/Tempus_Careers/job/Chicago/Business-Intelligence-Engineer_JR202601176-1">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 </tbody>
