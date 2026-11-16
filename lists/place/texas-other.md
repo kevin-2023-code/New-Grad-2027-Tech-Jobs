@@ -2,7 +2,7 @@
 
 # 🛢️ Houston, San Antonio & the rest of Texas
 
-**123 open roles.**
+**124 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,38 +18,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>Texas A&amp;M AgriLife Research</strong></td>
-<td><a href="https://trueinterview.io/jobs/7f6d8eab-e359-4c37-979d-3dbb5b7bdf9a">Assistant Research Scientist</a></td>
-<td>College Station, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4491092650/">Apply</a></td>
-<td align="center">14 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Texas A&amp;M University</strong></td>
-<td><a href="https://trueinterview.io/jobs/e8816eee-6c8d-4b3f-a534-95cd945c88c9">Tenure-Track: Assistant Professor (CHEN, AI and Machine Learning in Chemical Engineering)</a></td>
-<td>College Station, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4465877217/">Apply</a></td>
-<td align="center">14 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Nightwing</strong></td>
-<td><a href="https://trueinterview.io/jobs/507ee53e-4121-4de2-aa63-5ed223d53bdc">Vulnerability Researcher/Reverse Engineer/CNO Developer (Onsite) with Security Clearance</a></td>
-<td>San Antonio, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4490200230/">Apply</a></td>
-<td align="center">14 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Perry Homes</strong></td>
-<td><a href="https://trueinterview.io/jobs/2a2e0a4e-ee92-4cb4-ad3f-f31b4a4f3cb9">UI/UX Developer</a></td>
-<td>Houston, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483157190/">Apply</a></td>
-<td align="center">14 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Idera, Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/e0f72545-abef-45ec-8135-5588a0722f13">C# Integration Developer</a></td>
-<td>Houston, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4489303798/">Apply</a></td>
+<td>Houston, TX<br/>Remote</td>
+<td align="center"><a href="https://idera.applytojob.com/apply/UDiUb3F8gr/C-Integration-Developer?%7E=">Apply</a></td>
 <td align="center">14 Nov 2026</td>
 </tr>
 <tr>
@@ -60,24 +32,31 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">14 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Memorial Hermann Health System</strong></td>
-<td><a href="https://trueinterview.io/jobs/e7cb73c4-8bb7-4816-bb7c-3a5f1590a950">Application Programmer/Analyst</a></td>
-<td>Houston, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4488979900/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>SLB</strong></td>
-<td><a href="https://trueinterview.io/jobs/22a48da2-d856-4445-acea-d43ab382fc5c">DCN Site Services Engineer</a></td>
-<td>Houston, United States<br/>Shreveport, LA, USA</td>
-<td align="center"><a href="https://slb.eightfold.ai/careers/job/563499733977561">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Two Sigma</strong></td>
 <td><a href="https://trueinterview.io/jobs/e6767f65-e76c-4917-8b2b-ebb2e25d4d9c">Software Engineering Full-Time Campus Hire (Houston)</a></td>
 <td>Houston, TX<br/>New York, NY</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4462529784/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Axiom Space</strong></td>
+<td><a href="https://trueinterview.io/jobs/d9c5605e-1f0f-4b7c-95d0-987fae4ddce5">Mission Operations Engineer (Entry Level)</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://axiomspace.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Houston/Mission-Operations-Engineer_JR100872">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>GE Vernova</strong></td>
+<td><a href="https://trueinterview.io/jobs/e9335be3-3045-4c2a-8cae-31a7896413fa">Graduate Field Service Engineer Electrical-2</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://careers.gevernova.com/graduate-field-service-engineer-electrical-2/job/R5057205">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>TechnipFMC</strong></td>
+<td><a href="https://trueinterview.io/jobs/e322a2c8-30cd-45cf-81b3-50b1bb096dce">Project Quality Engineer</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://careers.technipfmc.com/job/Houston-Project-Quality-Engineer-TX-77044/1450598900/">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
@@ -102,10 +81,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">12 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Epic</strong></td>
-<td><a href="https://trueinterview.io/jobs/0b9883b6-6747-454b-9300-fc5b4942664c">Software Engineer</a></td>
+<td><strong>Axiom Space</strong></td>
+<td><a href="https://trueinterview.io/jobs/198e1202-6975-4c5a-9101-0a460649c055">Electrical Design Engineer (Prime) II</a></td>
 <td>Houston, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4445183912/">Apply</a></td>
+<td align="center"><a href="https://axiomspace.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Houston/Electrical-Design-Engineer--Prime--II_JR100893">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
 <tr>
@@ -130,20 +109,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">11 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Lewis Energy Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/f8b0a0a9-d668-4f45-9035-50d00af3ef23">Forward Deployed Engineer</a></td>
-<td>San Antonio, TX</td>
-<td align="center"><a href="https://uscareers-lewisenergy.icims.com/jobs/12397/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Sanmina</strong></td>
-<td><a href="https://trueinterview.io/jobs/d1e45002-a28c-4674-9592-a3996d810989">Quality Management Systems (QMS) Engineer</a></td>
-<td>Houston, TX</td>
-<td align="center"><a href="https://jobs.talemetry.com/sanmina/jobs/apply?job_list_id=10303&amp;tj_id=18472903&amp;tm_company=96474&amp;tm_job=200497&amp;tm_event=view">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Northrop Grumman</strong></td>
 <td><a href="https://trueinterview.io/jobs/cb73bdf1-6884-47f5-8ec6-2d7ce32e6f15">2027 - Associate Cyber Software Engineer - San Antonio TX</a></td>
 <td>San Antonio, TX</td>
@@ -155,13 +120,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/e393ef65-a4c9-4d65-8071-3035ae7adb6c">Java Full Stack Developer</a></td>
 <td>San Antonio, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4489631890/">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Crescent Energy</strong></td>
-<td><a href="https://trueinterview.io/jobs/2285ac04-c112-4831-bfff-20877bfd87a2">Reservoir Engineering Analyst</a></td>
-<td>Houston, TX</td>
-<td align="center"><a href="https://crescentenergyco.wd108.myworkdayjobs.com/en-US/crescent_energy_careers/job/Houston-TX/Reservoir-Engineering-Analyst_R530">Apply</a></td>
 <td align="center">10 Nov 2026</td>
 </tr>
 <tr>
@@ -236,13 +194,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Crowe</strong></td>
-<td><a href="https://trueinterview.io/jobs/608cfc9b-8fd0-41f1-8629-f0069a00e1c6">Machine Learning Software Engineer 1</a></td>
-<td>The Woodlands, TX<br/>Houston, TX<br/>Austin, TX<br/>+33 more</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4454807477/">Apply</a></td>
-<td align="center">8 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/ce850d93-5c1b-42b4-be61-21afe1393f3a">Machine Learning Engineer</a></td>
 <td>Houston, TX<br/>The Woodlands, TX<br/>Austin, TX<br/>+33 more</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4454813362/">Apply</a></td>
@@ -876,6 +827,62 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/beabd080-a893-4be3-97c5-b4fb056b0fdf">UPS Engineer (Data Center)</a></td>
 <td>Houston, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4466217117/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Nord Resume</strong></td>
+<td><a href="https://trueinterview.io/jobs/587254af-801c-4455-a312-35f1353266c8">USAISR Extended Reality Software Developer and Graphic Design Postgraduate Fellowship</a></td>
+<td>San Antonio, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486161701/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Women In Science</strong></td>
+<td><a href="https://trueinterview.io/jobs/bfbcc7f0-400c-478e-a814-9b05ec61a124">Enterprise Programmer Analyst</a></td>
+<td>San Antonio, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486156742/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Edison Smart®</strong></td>
+<td><a href="https://trueinterview.io/jobs/2763c615-20a6-4474-853a-a4ff890566cd">SCADA Developer</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486132567/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>CDW</strong></td>
+<td><a href="https://trueinterview.io/jobs/e73e304c-7d1e-4845-a985-939a2e509661">Middleware Engineer</a></td>
+<td>San Antonio, TX</td>
+<td align="center"><a href="https://www.cdwjobs.com/en/jobs/18432275-middleware-engineer?tm_job=R26%255F00003031&amp;tm_event=view&amp;tm_company=2376">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>HCSS</strong></td>
+<td><a href="https://trueinterview.io/jobs/52dbe9cd-9ca8-467c-aa43-817451099310">Software Developer I</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://jobs.gem.com/heavy-construction-systems-specialists-llc/am9icG9zdDqao-MBoCNPnH2jR7uNNFpL">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Honeywell</strong></td>
+<td><a href="https://trueinterview.io/jobs/3bb647e8-dee5-48cf-8f5f-3a95c14fc4cf">Project Engineer I</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/159782">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Oceaneering</strong></td>
+<td><a href="https://trueinterview.io/jobs/02ddb8a7-b8ee-4f68-8f9e-bd4f8d95e7b0">Mid Career Spaceflight Hardware Propulsion Engineer P3 – Space Systems</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://ebfr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/11860">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Siddons-Martin Emergency Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/4aff68bc-518a-46d6-821b-0c1aa510f936">Network Specialist</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://jobs.dayforcehcm.com/en-US/smteam/CANDIDATEPORTAL/jobs/1226">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 </tbody>

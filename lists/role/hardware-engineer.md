@@ -2,7 +2,7 @@
 
 # Hardware Engineer
 
-**138 open roles.** 103 in the United States & Canada · 35 elsewhere in the world.
+**143 open roles.** 103 in the United States & Canada · 40 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -25,13 +25,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">14 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Vishay Precision Group, Inc. (VPG)</strong></td>
-<td><a href="https://trueinterview.io/jobs/df00abfd-6d3f-4f0d-9a12-f2dbe26cbc43">Technical Hardware/Software Support Engineer/Field Applications Engineer</a></td>
-<td>Seal Beach, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4446369906/">Apply</a></td>
-<td align="center">14 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Arlo Technologies, Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/e349efeb-09ec-42bb-bae8-57d7e1afa5ea">Hardware Engineer</a></td>
 <td>Carlsbad, CA</td>
@@ -39,24 +32,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">14 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Amazon Web Services (AWS)</strong></td>
-<td><a href="https://trueinterview.io/jobs/448c764e-9aae-4a84-aa5c-cde2bd731f82">Connectivity Cloud Hardware Engineer, Network Product Development</a></td>
-<td>Cupertino, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4455901801/">Apply</a></td>
-<td align="center">14 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>MatX</strong></td>
-<td><a href="https://trueinterview.io/jobs/9531c530-743d-4d20-a676-4b343ac7dd56">Hardware Tools Engineer</a></td>
-<td>Mountain View, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483177185/">Apply</a></td>
-<td align="center">14 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>ByteDance</strong></td>
-<td><a href="https://trueinterview.io/jobs/e298ce40-ecf1-49a3-8a5e-bf99dd87dbc9">ASIC Design Engineer Graduate (Video Silicon IP) - 2027 Start</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4474798580/">Apply</a></td>
+<td><strong>Microchip Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/df3de02b-93f4-4059-b325-a939c73258b8">Engineer I- Device (Semiconductor Modeling Test &amp; Analysis)</a></td>
+<td>Chandler, AZ</td>
+<td align="center"><a href="https://wd5.myworkdaysite.com/en-US/recruiting/microchiphr/External/job/AZ---Chandler/Engineer-I--Device--Semiconductor-Modeling-Test---Analysis-_R4763-26">Apply</a></td>
 <td align="center">14 Nov 2026</td>
 </tr>
 <tr>
@@ -81,24 +60,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Amazon.com</strong></td>
-<td><a href="https://trueinterview.io/jobs/a5450396-65c7-414e-9cf1-e6bbd42b460e">Drone Test and Simulation Hardware Development Engineer, Prime Air</a></td>
-<td>Seattle, WA</td>
-<td align="center"><a href="https://www.amazon.jobs/jobs/10603988/drone-test-and-simulation-hardware-development-engineer-prime-air?cmpid=DA_INAD200785B">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Honeywell Aerospace</strong></td>
 <td><a href="https://trueinterview.io/jobs/a474c673-2e2d-49e1-b8f8-f552fad5dbce">Electronic Design Engineer I</a></td>
 <td>Colorado Springs, CO</td>
 <td align="center"><a href="https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/128472">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>JSL Technologies, Inc</strong></td>
-<td><a href="https://trueinterview.io/jobs/b789c174-efb1-4a1c-92c5-cf9fe36e4b2f">Copy of FFX CSHW ISEA Support Hardware Engineer</a></td>
-<td>San Diego, CA</td>
-<td align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4666051/JSL-Technologies-Inc/Copy-of-FFX-CSHW-ISEA-Support-Hardware-Engineer">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
@@ -148,13 +113,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/35bd5059-9270-4604-8be8-5092ce44695d">Silicon Engineer, PhD, University Graduate, 2027 Start</a></td>
 <td>Sunnyvale, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4471518340/">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Astranis</strong></td>
-<td><a href="https://trueinterview.io/jobs/64b7f1e9-45f8-4cd0-b4dd-023d021ea15f">Hardware Test Engineer</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://grnh.se/eaxb96a86us">Apply</a></td>
 <td align="center">11 Nov 2026</td>
 </tr>
 <tr>
@@ -738,6 +696,48 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://jobs.lever.co/gorh/9526b116-9e22-4785-b8ba-a0d8242021db">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
+<tr>
+<td><strong>BN Associates Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/39f85784-cb4e-4be3-871d-84f714e5b600">Hardware Design Engineer</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484373023/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Keysight Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/2708f2e0-92a6-4a56-9b42-b41c2d5b3d19">Process Engineer – Advanced Semiconductor Packaging</a></td>
+<td>Santa Rosa, CA</td>
+<td align="center"><a href="https://jobs.keysight.com/jobs/55350/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/cd7b7a1b-b364-4bda-bf72-853eece89613">Recent Graduate-Process Engineer – Semiconductor Wafer Fabrication</a></td>
+<td>Santa Rosa, CA</td>
+<td align="center"><a href="https://jobs.keysight.com/jobs/55351/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Oceaneering</strong></td>
+<td><a href="https://trueinterview.io/jobs/02ddb8a7-b8ee-4f68-8f9e-bd4f8d95e7b0">Mid Career Spaceflight Hardware Propulsion Engineer P3 – Space Systems</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://ebfr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/11860">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>VIVA</strong></td>
+<td><a href="https://trueinterview.io/jobs/5352cb7e-4e4d-415f-937d-5393ffc57e55">ASIC/RTL Design Engineer</a></td>
+<td>Santa Clara, CA</td>
+<td align="center"><a href="https://careers.viva-it.com/careers/opportunities/job-detail/asic-rtl-design-engineer-GDCAEA2">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon Web Services (AWS)</strong></td>
+<td><a href="https://trueinterview.io/jobs/e924f7c4-ae75-4ceb-8e9d-6c0934929a70">Hardware Dev Engineer, OEM Solid State Drives Team</a></td>
+<td>Denver, CO<br/>Seattle, WA<br/>Cupertino, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4469191984/">Apply</a></td>
+<td align="center">1 Nov 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -750,6 +750,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>MediaTek</strong></td>
+<td><a href="https://trueinterview.io/jobs/e648f6f8-21d5-48d9-8d5d-d7d3d1f76af1">CPU Silicon Validation Software Engineer</a></td>
+<td>Hsinchu, Taiwan, Taiwan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4456036843/">Apply</a></td>
+<td align="center">15 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Renesas</strong></td>
 <td><a href="https://trueinterview.io/jobs/d3895f91-4223-40af-ac83-d739f98a06e5">Graduate Silicon Power MOSFET Application Engineer</a></td>
@@ -993,6 +1000,34 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/0e623fb8-d28a-46ed-b704-3e8adc7bdc6d">Silicon Package Design Engineer</a></td>
 <td>Bengaluru, Karnataka, India</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485730646/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Siemens</strong></td>
+<td><a href="https://trueinterview.io/jobs/5f04494d-3f7d-4444-af2a-23a3e34ef88c">R&amp;D Hardware Engineer / Functional Safety Engineer (m/ž/n)</a></td>
+<td>Trutnov, Hradec Králové, Czechia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4432676052/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>MediaTek</strong></td>
+<td><a href="https://trueinterview.io/jobs/186ce5aa-1512-4c38-9049-ca489a795da4">GPU hardware design engineer</a></td>
+<td>Hsinchu, Taiwan, Taiwan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485465940/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Applied Materials Europe</strong></td>
+<td><a href="https://trueinterview.io/jobs/9370a03b-e80f-4b9a-8a12-26102d2a1385">Software Engineer-C++/Python, Linux (m/f/d) - semiconductor industry</a></td>
+<td>Feldkirchen-Westerham, Bavaria, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4479466129/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ALTEN</strong></td>
+<td><a href="https://trueinterview.io/jobs/aa239468-7bce-468e-96a4-c6142d355b2a">Spécialiste FPGA – Secteur Défense (H/F)</a></td>
+<td>Cholet, Pays de la Loire, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/ALTEN/744000159076380-specialiste-fpga-secteur-defense-h-f-">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 </tbody>

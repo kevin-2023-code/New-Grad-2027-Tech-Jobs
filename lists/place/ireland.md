@@ -2,7 +2,7 @@
 
 # 🇮🇪 Dublin & Ireland
 
-**22 open roles.**
+**26 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Susquehanna International Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/3905a1f1-fcf0-4ea5-9969-af8f3e03135b">Software Developer Graduate: September 2027 Dublin</a></td>
+<td>Dublin, County Dublin, Ireland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4454665086/">Apply</a></td>
+<td align="center">15 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Amazon</strong></td>
 <td><a href="https://trueinterview.io/jobs/bd8387e3-a777-4226-923e-b07f978886ce">Software Development Engineer, AWS Direct Connect</a></td>
@@ -171,6 +178,27 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/9bbe5f39-98f9-426f-bf36-29063bb6ccbc">Full Stack Engineer, Device Management</a></td>
 <td>Dublin, County Dublin, Ireland</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4477575454/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>AECOM</strong></td>
+<td><a href="https://trueinterview.io/jobs/4161f5ef-6930-4e1a-b05d-07725dfb0f84">Graduate Electrical Engineer (Transmission &amp; Distribution) - Dublin or Cork - May 27 onwards start</a></td>
+<td>Dublin, County Dublin, Ireland</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/AECOM2/744000159076949-graduate-electrical-engineer-transmission-distribution-dublin-or-cork-may-27-onwards-start">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Revive Retail</strong></td>
+<td><a href="https://trueinterview.io/jobs/6d873b4a-8fe7-442a-b8fb-491cb9861624">Graduate Graphic Designer</a></td>
+<td>Galway, Ireland</td>
+<td align="center"><a href="https://ie.indeed.com/viewjob?jk=ef72dfc53eefdd0e">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>MERCY UNIVERSITY HOSPITAL</strong></td>
+<td><a href="https://trueinterview.io/jobs/06382d45-1867-4207-90dd-abd2ed392c41">Networks and Telecoms Engineer | Grade VII</a></td>
+<td>Cork, Ireland</td>
+<td align="center"><a href="https://api.occupop.com/shared/job/networks-and-telecoms-engineer-grade-vi-644e3/indeed">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 </tbody>

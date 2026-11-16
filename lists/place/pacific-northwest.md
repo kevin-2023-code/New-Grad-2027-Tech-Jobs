@@ -2,7 +2,7 @@
 
 # 🌧️ Portland, Boise & Spokane
 
-**45 open roles.**
+**46 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,32 +18,18 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>TSMC</strong></td>
+<td><a href="https://trueinterview.io/jobs/285adb3f-328b-4753-a167-2138ad6ce615">Software Engineer (New Graduate) - North America Software Center</a></td>
+<td>Vancouver, WA<br/>Vancouver, BC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4456299517/">Apply</a></td>
+<td align="center">15 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Fairly</strong></td>
 <td><a href="https://trueinterview.io/jobs/73c34c66-4fb2-42b6-892b-8839346f9683">Software Engineer</a></td>
 <td>Portland, OR</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4491047870/">Apply</a></td>
 <td align="center">14 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Zapnix LLC</strong></td>
-<td><a href="https://trueinterview.io/jobs/0b19fff7-2555-4f48-9c13-f090838356d7">Embedded Software Engineer with QNX</a></td>
-<td>Hillsboro, OR</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4490799786/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Alcumus</strong></td>
-<td><a href="https://trueinterview.io/jobs/118e42df-c5a4-43ce-bc59-cbc1603d4901">Software Engineer</a></td>
-<td>Boise, Idaho</td>
-<td align="center"><a href="https://alcumus.pinpointhq.com/en/postings/dff1af1c-b6e9-4b1a-9d95-3a79d53271bf">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>City of Eugene, OR</strong></td>
-<td><a href="https://trueinterview.io/jobs/5a71673d-4d96-4440-b4b1-85f0293f6e87">Performance Analyst (Recreation Systems and Business Intelligence)</a></td>
-<td>Eugene, OR</td>
-<td align="center"><a href="https://www.governmentjobs.com/careers/eugene/jobs/5545628/performance-analyst-recreation-systems-and-business-intelligence">Apply</a></td>
-<td align="center">13 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Alpaca Research</strong></td>
@@ -53,11 +39,11 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">12 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Planned Parenthood</strong></td>
-<td><a href="https://trueinterview.io/jobs/73eb3340-a4c4-4ae1-9519-b6d4b1794db2">Systems Administrator</a></td>
-<td>Eugene, OR</td>
-<td align="center"><a href="https://jobs.dayforcehcm.com/en-US/ppcw/CANDIDATEPORTAL/jobs/1634">Apply</a></td>
-<td align="center">11 Nov 2026</td>
+<td><strong>Hensel Phelps</strong></td>
+<td><a href="https://trueinterview.io/jobs/3212f453-b4cf-4c2e-bf03-54ed4fecc7c2">Field Engineer</a></td>
+<td>Boise, ID</td>
+<td align="center"><a href="https://careers.henselphelps.com/job/Field-Engineer/1652-en_US">Apply</a></td>
+<td align="center">12 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>CHAS Health</strong></td>
@@ -330,6 +316,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/1d517a88-b22f-4000-bd7d-96e8c5b2de89">Azure DevOps/SRE</a></td>
 <td>Beaverton, OR</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4486400758/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>FusionIRX</strong></td>
+<td><a href="https://trueinterview.io/jobs/811ee651-7f01-4b4e-a475-4abbdd3af90b">Commissioning-Engineer-Telecom-SME, Boise, ID</a></td>
+<td>Boise, ID</td>
+<td align="center"><a href="https://apply.workable.com/j/E9429A2139">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Oregon Community Credit Union</strong></td>
+<td><a href="https://trueinterview.io/jobs/ff7356a6-7433-4df9-86c6-f1e988d3e540">Marketing Data Analyst | Remote from OR, WA, or ID</a> 🌐</td>
+<td>Remote — United States<br/>Eugene, OR</td>
+<td align="center"><a href="https://myoccu.hrmdirect.com/employment/view.php?req=3853180&amp;jbsrc=1014&amp;location=e597486b-3986-01d9-8644-455ff4b7d7ff">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Patriot Contract Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/be7505fa-fa03-4138-9a97-8d22c6cffabf">Asst. Port Engineer/NSE Analyst</a></td>
+<td>Vancouver, WA<br/>Vancouver, BC</td>
+<td align="center"><a href="https://patriotships.bamboohr.com/careers/129?postedDate=2026-11-02">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 </tbody>

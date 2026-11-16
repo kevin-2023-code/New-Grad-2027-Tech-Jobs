@@ -2,7 +2,7 @@
 
 # 🏜️ Salt Lake City & Utah
 
-**22 open roles.**
+**24 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,18 +18,18 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>Solutionreach</strong></td>
-<td><a href="https://trueinterview.io/jobs/ddd06671-cfd4-4e23-8f51-0f6d4521b95f">Quality Engineer</a> 🌐</td>
-<td>Remote — United States<br/>OFF-SITE, Lehi, UT, US</td>
-<td align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4665940?listingId=2a6c642f-3a99-4015-afe3-4c354f9edfd7">Apply</a></td>
+<td><strong>PGTEK</strong></td>
+<td><a href="https://trueinterview.io/jobs/a729d2cf-de3e-4d54-9e1d-fef9aa56e6b9">Private Cloud Automation Engineer - Must have a Secret clearance with Security Clearance</a></td>
+<td>Ogden, UT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489885696/">Apply</a></td>
 <td align="center">14 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Utah Transit Authority</strong></td>
-<td><a href="https://trueinterview.io/jobs/ff949d7f-66c1-41e9-97b5-4b8785154bc8">Network Specialist</a></td>
+<td><strong>University of Utah</strong></td>
+<td><a href="https://trueinterview.io/jobs/1b130011-019f-42e5-aa74-9019e90b82dc">Financial Planning and Analysis Partner- Engineering</a></td>
 <td>Salt Lake City, UT</td>
-<td align="center"><a href="https://careers.rideuta.com/jobs/18477365-network-specialist?tm_job=26-762&amp;tm_event=view&amp;tm_company=13024">Apply</a></td>
-<td align="center">12 Nov 2026</td>
+<td align="center"><a href="https://employment.utah.edu/5DCCB2F0C75540D4AE3A3D2EE62AE6A0/job/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Williams International</strong></td>
@@ -169,6 +169,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/5ed0c988-5926-4cd8-b433-0adda4238162">ForgeRock Developer</a></td>
 <td>Salt Lake City, UT</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485757712/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>DigiCert</strong></td>
+<td><a href="https://trueinterview.io/jobs/46454551-4dad-4f42-a755-fd4c34f6c1a5">NetOps SRE</a></td>
+<td>Lehi, UT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4404431381/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>University of Utah</strong></td>
+<td><a href="https://trueinterview.io/jobs/6bcd779b-8850-4277-a020-1c768d389006">Desktop Support Engineer</a></td>
+<td>Salt Lake City, UT</td>
+<td align="center"><a href="https://employment.utah.edu/F32E48B798C24C2C97C2B3FDEAA3F249/job/">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 </tbody>
