@@ -2,7 +2,7 @@
 
 # 🇬🇧 London & the UK
 
-**645 open roles.** 19 in the United States & Canada · 626 elsewhere in the world.
+**604 open roles.** 19 in the United States & Canada · 585 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 

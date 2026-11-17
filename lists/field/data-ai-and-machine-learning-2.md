@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**3,596 open roles.** 2,276 in the United States & Canada · 1,320 elsewhere in the world.
+**3,304 open roles.** 2,124 in the United States & Canada · 1,180 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 

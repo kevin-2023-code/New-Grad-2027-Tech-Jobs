@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**1,077 open roles.** 644 in the United States & Canada · 433 elsewhere in the world.
+**986 open roles.** 600 in the United States & Canada · 386 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
