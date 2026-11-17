@@ -2,11 +2,11 @@
 
 # 💻 Software Engineering
 
-**7,554 open roles.** 4,906 in the United States & Canada · 2,648 elsewhere in the world.
+**5,339 open roles.** 3,849 in the United States & Canada · 1,490 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
-<sub>[← Page 7](software-engineering-7.md) · Page 8 of 19 · [Page 9 →](software-engineering-9.md)</sub>
+<sub>[← Page 7](software-engineering-7.md) · Page 8 of 14 · [Page 9 →](software-engineering-9.md)</sub>
 
 ## United States & Canada
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Aretum</strong></td>
+<td><a href="https://trueinterview.io/jobs/3d831ee5-107f-41cb-8cb9-2e2d07c3ec95">ServiceNow Application Developer (Contingent)</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://apply.workable.com/j/5A1BD48AAC">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Radiance Technologies</strong></td>
 <td><a href="https://trueinterview.io/jobs/6006d507-6110-4aa9-a959-440918864b2e">R&amp;D Engineer with Security Clearance</a></td>
@@ -2808,16 +2815,9 @@
 <td align="center"><a href="https://app.careerpuck.com/job-board/lyft/job/8743513002?gh_jid=8743513002">Apply</a></td>
 <td align="center">1 Nov 2026</td>
 </tr>
-<tr>
-<td><strong>Roblox</strong></td>
-<td><a href="https://trueinterview.io/jobs/7eb97e7c-a67a-4fa4-b941-5e44fb037eb7">[2027] Software Engineer, Early Career</a></td>
-<td>San Mateo, CA</td>
-<td align="center"><a href="https://careers.roblox.com/jobs/8072244?gh_jid=8072244">Apply</a></td>
-<td align="center">1 Nov 2026</td>
-</tr>
 </tbody>
 </table>
 
-<sub>[← Page 7](software-engineering-7.md) · Page 8 of 19 · [Page 9 →](software-engineering-9.md)</sub>
+<sub>[← Page 7](software-engineering-7.md) · Page 8 of 14 · [Page 9 →](software-engineering-9.md)</sub>
 
 [← Every filter](../README.md) · [Back to the full list](../../README.md)

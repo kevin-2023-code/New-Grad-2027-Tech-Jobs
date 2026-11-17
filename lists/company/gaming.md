@@ -2,7 +2,7 @@
 
 # 🎮 Gaming & interactive
 
-**8 open roles.** 3 in the United States & Canada · 5 elsewhere in the world. Games, game engines and interactive entertainment.
+**7 open roles.** 3 in the United States & Canada · 4 elsewhere in the world. Games, game engines and interactive entertainment.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -77,13 +77,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Bucharest, Bucharest, Romania</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Gameloft/744000159399443-java-developer-bi">Apply</a></td>
 <td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Unity</strong></td>
-<td><a href="https://trueinterview.io/jobs/98f2ec9b-acd7-46aa-9ca3-1b9b1bed4ab7">Software Engineer, 2D</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477523034/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
 </table>

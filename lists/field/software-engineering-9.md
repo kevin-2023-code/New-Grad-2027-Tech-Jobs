@@ -2,11 +2,11 @@
 
 # 💻 Software Engineering
 
-**7,554 open roles.** 4,906 in the United States & Canada · 2,648 elsewhere in the world.
+**5,339 open roles.** 3,849 in the United States & Canada · 1,490 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
-<sub>[← Page 8](software-engineering-8.md) · Page 9 of 19 · [Page 10 →](software-engineering-10.md)</sub>
+<sub>[← Page 8](software-engineering-8.md) · Page 9 of 14 · [Page 10 →](software-engineering-10.md)</sub>
 
 ## United States & Canada
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Roblox</strong></td>
+<td><a href="https://trueinterview.io/jobs/7eb97e7c-a67a-4fa4-b941-5e44fb037eb7">[2027] Software Engineer, Early Career</a></td>
+<td>San Mateo, CA</td>
+<td align="center"><a href="https://careers.roblox.com/jobs/8072244?gh_jid=8072244">Apply</a></td>
+<td align="center">1 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>TrellisWare Technologies</strong></td>
 <td><a href="https://trueinterview.io/jobs/eb5e3ff6-f53d-4e5c-9a1a-f4b87480d376">Software Engineer, Embedded Linux - Unmanned Aircraft Systems</a></td>
@@ -2808,16 +2815,9 @@
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4474989942/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
-<tr>
-<td><strong>Ford Motor Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/c22696d1-d683-4f52-b382-ba97a33f7492">ADAS Design &amp; Release Engineer</a></td>
-<td>Dearborn, MI</td>
-<td align="center"><a href="https://www.careers.ford.com/en/job/dearborn/adas-design-and-release-engineer/48560/102610182352">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
 </tbody>
 </table>
 
-<sub>[← Page 8](software-engineering-8.md) · Page 9 of 19 · [Page 10 →](software-engineering-10.md)</sub>
+<sub>[← Page 8](software-engineering-8.md) · Page 9 of 14 · [Page 10 →](software-engineering-10.md)</sub>
 
 [← Every filter](../README.md) · [Back to the full list](../../README.md)

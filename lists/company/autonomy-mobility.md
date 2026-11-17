@@ -2,7 +2,7 @@
 
 # 🚗 Autonomy, automotive & mobility
 
-**95 open roles.** 84 in the United States & Canada · 11 elsewhere in the world. Self-driving, automotive, drones, eVTOL and transport technology.
+**75 open roles.** 67 in the United States & Canada · 8 elsewhere in the world. Self-driving, automotive, drones, eVTOL and transport technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -474,27 +474,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/e1338373-1646-4410-aa43-310d3faa33e1">Equipment Engineer, Optimus Battery</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://www.tesla.com/careers/search/job/288439">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/d56f3c44-389e-4c3e-8e4e-1e81ee0b0c75">Manufacturing Process Engineer, Optimus Machining</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://www.tesla.com/careers/search/job/288441">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/75d664f4-5361-4bcb-a254-ffdadc2d22fe">Manufacturing Process Tooling Engineer, Optimus Machining</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://www.tesla.com/careers/search/job/288442">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/0ffc624a-a56b-466a-89f8-52d6b178630e">NVH Digital Signal Processing Engineer, Active Road Noise Reduction</a></td>
 <td>Palo Alto, CA</td>
 <td align="center"><a href="https://www.tesla.com/careers/search/job/288283">Apply</a></td>
@@ -506,104 +485,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Palo Alto, CA</td>
 <td align="center"><a href="https://www.tesla.com/careers/search/job/288127">Apply</a></td>
 <td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/a2b36f50-b561-4262-b0da-5edfda831dd3">Vehicle Dynamics Engineer, Adaptive Damping Controls</a></td>
-<td>Palo Alto, CA</td>
-<td align="center"><a href="https://www.tesla.com/careers/search/job/288278">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/5bc77987-01d3-449d-85cd-4c04a6dafc84">Audio Telephony &amp; Voice Validation Engineer</a></td>
-<td>Palo Alto, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485280123/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/7b91858d-6514-47cc-8cbe-0a207105599e">Cellular Software Development Engineer</a></td>
-<td>Palo Alto, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485265525/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/1722f516-17a7-4fcf-8134-2d7c0eae947e">Commissioning Turnover Engineer</a></td>
-<td>Brookshire, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485264556/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/89fe6a88-5b04-4755-b93e-f3f2b66f39d7">Equipment Engineer, Implant, Terafab</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485282047/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/72956cf6-b664-4660-8863-aaa0dfb8464a">Fullstack Software Engineer, Data Center Manufacturing</a></td>
-<td>Brookshire, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485264563/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/cb51e1c8-87dd-4cb5-8e1c-7c5912f78862">Manufacturing Engineer, Vehicle Assembly DFM</a></td>
-<td>Fremont, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485268456/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/9386d714-1de7-4cbc-a2fa-d954ff23e0c1">Process Engineer Technician, Service Distribution</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484798210/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/d3c5d6f7-7eeb-444a-823f-0beb3a30dc3a">Robotics Software Engineer, Optimus</a></td>
-<td>Palo Alto, CA</td>
-<td align="center"><a href="https://www.tesla.com/careers/search/job/287220">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/a505f1f9-9761-40a4-990b-af8f9979dfbd">Quality Engineer</a></td>
-<td>Buffalo, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485273426/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Magna International</strong></td>
-<td><a href="https://trueinterview.io/jobs/0dc1e7b3-a5d9-4999-bbe2-2572ff8f5e14">SCADA Engineer</a></td>
-<td>Northwood, OH</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468253960/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Aeva</strong></td>
-<td><a href="https://trueinterview.io/jobs/6904571b-9a9b-4d81-962d-3deefc5c15f2">Optical Aligner and Test Engineer - Mountain View, CA</a></td>
-<td>Mountain View, CA</td>
-<td align="center"><a href="https://jobs.lever.co/aeva/a6aa45f4-672b-4d03-bd41-2215ddf2e19e">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Magna International</strong></td>
-<td><a href="https://trueinterview.io/jobs/a0745cfe-805a-436d-b3ac-ca97c50c2c39">Manufacturing Engineer</a></td>
-<td>Milton, Ontario, Canada</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4411901167/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Motional</strong></td>
-<td><a href="https://trueinterview.io/jobs/28928d3b-645d-4d9c-a902-e1b8ecc1cf9f">Machine Learning Engineer, Data Mining</a></td>
-<td>Boston, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4428968344/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
 </table>
@@ -672,27 +553,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Chihuahua, CHIH, Mexico</td>
 <td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72776">Apply</a></td>
 <td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Tesla</strong></td>
-<td><a href="https://trueinterview.io/jobs/c9ce2cc7-068f-463d-b02d-31f6f77015fd">Cost Estimator, EMEA Infrastructure Development</a></td>
-<td>London, England, United Kingdom</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485270438/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/0b41d02e-341a-433f-8a42-21cc3befe06d">Power Systems Engineer, Megapack</a></td>
-<td>Melbourne, Victoria, Australia<br/>Red Hill, Queensland, Australia</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485277288/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/e01aacd5-5b27-499a-b8f4-6f593cf19ee5">Site Reliability Engineer (Windows and VMware)</a></td>
-<td>Pune Division, Maharashtra, India</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484935083/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
 </table>

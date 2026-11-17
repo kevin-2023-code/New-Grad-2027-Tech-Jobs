@@ -2,11 +2,11 @@
 
 # 💻 Software Engineering
 
-**7,554 open roles.** 4,906 in the United States & Canada · 2,648 elsewhere in the world.
+**5,339 open roles.** 3,849 in the United States & Canada · 1,490 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
-<sub>[← Page 2](software-engineering-2.md) · Page 3 of 19 · [Page 4 →](software-engineering-4.md)</sub>
+<sub>[← Page 2](software-engineering-2.md) · Page 3 of 14 · [Page 4 →](software-engineering-4.md)</sub>
 
 ## United States & Canada
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>AMD</strong></td>
+<td><a href="https://trueinterview.io/jobs/f1171e7c-eb6c-4f02-9fa6-281ba115e31b">SMTS Systems Design Engineer</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://careers.amd.com/jobs/94400/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Amentum</strong></td>
 <td><a href="https://trueinterview.io/jobs/e1b6e794-a3fe-42b9-8b9f-862ef30de483">Roboticist / UAS Design Engineer</a></td>
@@ -2808,16 +2815,9 @@
 <td align="center"><a href="https://careers-ipipeline.icims.com/jobs/1730/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
-<tr>
-<td><strong>Eaton</strong></td>
-<td><a href="https://trueinterview.io/jobs/ddc2bc52-7732-416c-b9fd-a8d4ce31b10d">Embedded Firmware &amp; FPGA Engineer</a></td>
-<td>Youngsville, NC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476683112/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
 </tbody>
 </table>
 
-<sub>[← Page 2](software-engineering-2.md) · Page 3 of 19 · [Page 4 →](software-engineering-4.md)</sub>
+<sub>[← Page 2](software-engineering-2.md) · Page 3 of 14 · [Page 4 →](software-engineering-4.md)</sub>
 
 [← Every filter](../README.md) · [Back to the full list](../../README.md)

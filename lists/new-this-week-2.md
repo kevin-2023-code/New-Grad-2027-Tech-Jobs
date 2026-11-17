@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**791 open roles.** 591 in the United States & Canada · 200 elsewhere in the world. Everything the employers put up this week.
+**795 open roles.** 589 in the United States & Canada · 206 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Google</strong></td>
+<td><a href="https://trueinterview.io/jobs/35bd5059-9270-4604-8be8-5092ce44695d">Silicon Engineer, PhD, University Graduate, 2027 Start</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4471518340/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>ECS</strong></td>
 <td><a href="https://trueinterview.io/jobs/93889b60-4a6f-4a4d-a229-9161fc209f42">Scientific Applications Programmer</a></td>
@@ -1331,27 +1338,6 @@
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487185083/">Apply</a></td>
 <td align="center">9 Nov 2026</td>
 </tr>
-<tr>
-<td><strong>Pentangle Tech Services | P5 Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/64afc7a6-c5c1-427e-973a-b612584fecd3">Robotics Software Engineer</a></td>
-<td>Illinois, United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4488869983/">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Agile Ventures Pvt Ltd</strong></td>
-<td><a href="https://trueinterview.io/jobs/64aa015b-98f2-43bc-bce1-86a1026f74d5">SRE</a></td>
-<td>Jersey City, NJ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487926208/">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Collabera</strong></td>
-<td><a href="https://trueinterview.io/jobs/a00486fe-28b8-4e8d-825b-eeeee5fd6e8e">.Net Developer</a></td>
-<td>Denver, CO</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487926115/">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -1365,10 +1351,31 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Believe</strong></td>
+<td><a href="https://trueinterview.io/jobs/7a096a78-7100-49df-8f94-92a5e46a5090">Workplace Engineer (H/F)</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Believe/744000162087359-workplace-engineer-h-f-">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Inetum</strong></td>
+<td><a href="https://trueinterview.io/jobs/90202c78-bcb2-42a5-b0a6-b82b3f2214dd">AI Engineering and Solutions Development Services</a></td>
+<td>Aveiro, Aveiro District, Portugal</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Inetum2/744000162066776-ai-engineering-and-solutions-development-services">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Patrianna</strong></td>
 <td><a href="https://trueinterview.io/jobs/bd021a37-4ea5-4e85-a033-2129870e9262">Product Owner</a></td>
 <td>Gibraltar<br/>Bulgaria<br/>Poland<br/>+1 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/patrianna/39e91b7c-60c4-41fd-96ba-6b55122bb6b4">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>LELY</strong></td>
+<td><a href="https://trueinterview.io/jobs/85806d1c-9e4c-46b0-981e-ec481b970835">Mechatronics Verification Engineer</a></td>
+<td>Maassluis, Zuid-Holland, Netherlands</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Lely1/744000162055049-mechatronics-verification-engineer">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
@@ -1428,6 +1435,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Devoteam</strong></td>
+<td><a href="https://trueinterview.io/jobs/91ee2c12-fa66-43db-9034-56dea82a7afe">ES- Product Owner + INGLÉS</a></td>
+<td>Madrid, Comunidad de Madrid, Spain</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Devoteam/744000162037917-es-product-owner-ingles">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Wpp Production</strong></td>
 <td><a href="https://trueinterview.io/jobs/ed39ecb6-1e2d-45a0-ac94-38b6a0091e26">Trainee Print Designer</a></td>
 <td>Madrid, Spain</td>
@@ -1439,6 +1453,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/d5eacca7-8788-4b1e-8fd8-fe8d9a5d548a">GenAI Engineer</a></td>
 <td>Capetown</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/impact/jobs/8867798002">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Valtech</strong></td>
+<td><a href="https://trueinterview.io/jobs/ded3cd7f-57b5-4842-88f5-ae54a7c9c04d">Executive Business Developer – Denmark</a></td>
+<td>Copenhagen</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/valtech/jobs/5036118101">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Inetum</strong></td>
+<td><a href="https://trueinterview.io/jobs/44b69d31-c0c1-42eb-bf2a-85f1a700ceef">PRODUCT OWNER TECHNIQUE H/F</a></td>
+<td>Bordeaux, Nouvelle-Aquitaine, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Inetum2/744000162027634-product-owner-technique-h-f">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>

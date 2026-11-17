@@ -2,7 +2,7 @@
 
 # 🌐 Remote
 
-**363 open roles.** 233 in the United States & Canada · 130 elsewhere in the world. Postings the pipeline classified as remote.
+**305 open roles.** 203 in the United States & Canada · 102 elsewhere in the world. Postings the pipeline classified as remote.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -1404,52 +1404,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>AAA The Auto Club Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/75a09bea-0b4a-418d-95fd-316459f99c7e">Applications Developer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://acg.wd1.myworkdayjobs.com/en-US/Careers/job/MI-Admin-Office-Building-AOB/Applications-Developer_JR18285">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Accenture</strong></td>
-<td><a href="https://trueinterview.io/jobs/e09d738a-2894-4b86-b393-afb6a418396a">IT Live Helpdesk Support Representative - San Antonio, TX</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://globalcxaccenture.avature.net/ContractorExchangeMarketplace/JobDetail/San-Antonio-Texas-United-States-IT-Live-Helpdesk-Support-Representative-San-Antonio-TX/44836">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Arganteal, Corp.</strong></td>
-<td><a href="https://trueinterview.io/jobs/bff7c019-6eea-4dce-a5ad-a1f4a223d15a">Windows 365 Engineer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://arganteal.applytojob.com/apply/DEW2QS5rM8/Windows-365-Engineer?%7E=">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>AVUM</strong></td>
-<td><a href="https://trueinterview.io/jobs/437f74cb-b229-4e9a-abf3-ca0b1313307a">Service Desk Support Engineer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4629907/AVUM-INC/Service-Desk-Support-Engineer">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Berkshire Hathaway Direct Insurance Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/323f15e8-3828-47bf-ba7e-106952bfcb08">Technical Support Specialist</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4628544/Berkshire-Hathaway-Direct-Insurance-Company/Technical-Support-Specialist">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Blue Shield of California</strong></td>
 <td><a href="https://trueinterview.io/jobs/51709d94-95d0-466f-acd5-59e6e8bfe249">Analytics Product Engineer, Consultant</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://ecge.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/requisitions/preview/20262143">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Gainwell Technologies LLC</strong></td>
-<td><a href="https://trueinterview.io/jobs/ccadb4f6-0a20-4127-b0f2-cb542b25556c">C# Application Developer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.gainwelltechnologies.com/job/El-Paso-C-Application-Developer-TX-79912-8520/1446318400/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
@@ -1460,59 +1418,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>HCA Healthcare</strong></td>
-<td><a href="https://trueinterview.io/jobs/206b93db-ea9e-44b5-b6df-708ee9ec7923">Power BI Consulting Engineer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://careers.hcahealthcare.com/en/jobs/18429183-power-bi-consulting-engineer?tm_job=1-INFOR-5125978&amp;tm_event=view&amp;tm_company=2537">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Lake Michigan Credit Union</strong></td>
-<td><a href="https://trueinterview.io/jobs/b2cdf67a-cf3e-45e2-8ff2-9fe1d25333c6">Quality Engineer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://lmcu.wd5.myworkdayjobs.com/en-US/lmcucareersite/job/Tampa-FL/Quality-Engineer_REQ-2026-7029">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Mainspring Energy</strong></td>
-<td><a href="https://trueinterview.io/jobs/aea22f44-996a-4a9a-8cb3-40a3c2b769a9">Fleet Operations &amp; Analytics Engineer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.lever.co/mainspringenergy/5b7ff74e-c82a-4ec1-b52f-7d7a27edb672">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Moore</strong></td>
-<td><a href="https://trueinterview.io/jobs/e58e3cbd-3b94-4bfc-8c6b-ad45657e53c7">Content Engineer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://secure4.saashr.com/ta/6167768.jobs?ShowJob=1057276801">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Multiview Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/1d33d9bd-2d0b-4f1f-88ce-34aa0a9d8498">Software Developer</a> 🌐</td>
-<td>Remote — Canada</td>
-<td align="center"><a href="https://multiview.bamboohr.com/careers/271?postedDate=2026-10-30">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Overwatch Mission Critical</strong></td>
-<td><a href="https://trueinterview.io/jobs/6c7f0914-53da-4096-b0e9-67525c7928a6">Electrical Commissioning Engineer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.gem.com/overwatch/am9icG9zdDrjXaIPWmNjRtqua1pTSWKc">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Shingle &amp; Gibb Automation</strong></td>
 <td><a href="https://trueinterview.io/jobs/90952cec-ac23-4397-bba2-91471f5c0d2f">Applications Engineer - NJ/PA Area</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://graybar.wd1.myworkdayjobs.com/Shingle_Careers/job/SGA-Moorestown-NJ/Applications-Engineer---NJ-PA-Area_R263973">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Tradeweb</strong></td>
-<td><a href="https://trueinterview.io/jobs/ea5bbf3f-5214-4832-b369-fd1f0f6ba1a7">Platform Site Reliability Engineer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_xx/requisitions/preview/301989">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
@@ -1528,125 +1437,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — United States</td>
 <td align="center"><a href="https://candidateportal.ceipal.com/job-details/7agMQN_vT1xJ2sFbtgi76ST3UEKynvumEm_MyeN2N5g">Apply</a></td>
 <td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>NEOTAX</strong></td>
-<td><a href="https://trueinterview.io/jobs/4c322b20-9821-4856-89fe-c7e26cc81a4d">Solutions Engineer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/neo-tax/e782fb94-ebc2-48ca-914d-cbc6088cc101">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Bugcrowd</strong></td>
-<td><a href="https://trueinterview.io/jobs/ed3c3737-9366-4f3b-abff-586b57197df7">Customer Support Engineer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://boards.greenhouse.io/bugcrowd/jobs/8334498?gh_jid=8334498">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Trivium</strong></td>
-<td><a href="https://trueinterview.io/jobs/07280e58-fefe-40ab-9f40-f0b48bf38bfc">AI Engineer</a> 🌐</td>
-<td>Remote — Canada</td>
-<td align="center"><a href="https://apply.workable.com/j/A3AAC35C24">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Gecko Robotics</strong></td>
-<td><a href="https://trueinterview.io/jobs/76ad087c-e894-47ee-825b-9b71b1af0c56">Solutions Engineer | Power</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/gecko-robotics/7bc54434-0c56-492e-8138-d6861dce933e">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Foley</strong></td>
-<td><a href="https://trueinterview.io/jobs/3aebd5f0-317f-4629-9a70-2de4c754ef55">GTM Forward Deployed Engineer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/foley/91ed4c27-47fe-44e1-a501-78de7bcdfdae">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>AJAIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/1fc5dbc7-3c2c-4cb6-8d8d-dc2c1dfb54a0">UX/UI Designer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://apply.workable.com/j/30B4D34907">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Henny Penny</strong></td>
-<td><a href="https://trueinterview.io/jobs/1e980265-fea5-4522-8a5d-f3dd25d4378e">Electrical Engineer I</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://hennypenny.wd1.myworkdayjobs.com/en-US/hennypenny/job/Eaton-OH-Headquarters/Electrical-Engineer-I_R-101876">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>OpenLoop</strong></td>
-<td><a href="https://trueinterview.io/jobs/7c62e51c-60be-4d4d-96ba-22a5a48edee7">Netsuite Engineer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openloophealth/d54cafcc-1012-4e4e-b066-c181c497d710">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>DoiT</strong></td>
-<td><a href="https://trueinterview.io/jobs/eaf2223b-5218-4d48-b8f4-99aeaf0d899b">NetSuite Systems Engineer</a> 🌐</td>
-<td>Remote — United States, Ireland, United Kingdom</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/doitintl/jobs/7795513003">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Natera</strong></td>
-<td><a href="https://trueinterview.io/jobs/4eda4ef9-f3e0-453f-8abf-b67acd069a2d">Machine Learning Scientist, Multimodal AI</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/natera/jobs/6004385004">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>AlphaX</strong></td>
-<td><a href="https://trueinterview.io/jobs/0e27e8c2-ac39-4637-85e1-917d9bde8301">Research Scientist - Construction Scheduling &amp; Workforce Risk</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://apply.workable.com/j/933A808F5E">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Neural Concept</strong></td>
-<td><a href="https://trueinterview.io/jobs/88754fa5-253e-45e0-bab7-38c025696e05">Platform Deployment Engineer - West Coast</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/neuralconcept/89039678-9741-4d0a-b99b-b2bb9f22e6c1">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Walden Local Meat Co.</strong></td>
-<td><a href="https://trueinterview.io/jobs/8b9fdc85-0df5-4056-9eb3-18d660ada4a2">WordPress Developer: Landing Pages &amp; Testing</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://waldenlocalmeat.isolvedhire.com/jobs/1894234-371842.html">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Cloud Resourcing</strong></td>
-<td><a href="https://trueinterview.io/jobs/1549cd85-e765-48e3-be04-577070fa03bf">CLDRSRC10379 - Power Pages Developer- Remote - Canada - Contract</a> 🌐</td>
-<td>Remote — Canada</td>
-<td align="center"><a href="https://candidateportal.ceipal.com/job-details/0hGEBStyBfTffcHB6h5Tz5yOdD3hJRrUTXkd9LNWyA0">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Neuehealth</strong></td>
-<td><a href="https://trueinterview.io/jobs/4a0dd5d1-8b8d-4d47-8701-eff752e618f8">Frontend Software Engineer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://grnh.se/s96hswij4us">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Sabree Software Services</strong></td>
-<td><a href="https://trueinterview.io/jobs/6a04bed9-212f-4a68-bb2a-62e37a87e031">Data Engineer SSSSAI1339</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://sabree.jobs.agile-ats.com/jobs/details/2874">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>TRI-GLOBAL SOLUTIONS GROUP INC.</strong></td>
-<td><a href="https://trueinterview.io/jobs/285991e1-da84-4baf-8da8-1b3f6ca0ec42">Power Pages Specialist (Developer)</a> 🌐</td>
-<td>Remote — Canada</td>
-<td align="center"><a href="https://apply.tri-global.com/job/tri-global-solutions-group-inc-remote-within-canada-5-power-pages-migration-specialist-developer/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
 </table>
@@ -2368,207 +2158,11 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>AGFA</strong></td>
-<td><a href="https://trueinterview.io/jobs/989ca324-c15d-48ec-93d5-efdaf2ac34e1">Global Cloud Migration Developer</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://careers.agfa.com/HealthCare/job/Home-based-Global-Cloud-Migration-Developer-HI/1453132733/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Comodo Security Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/20182ea6-59cf-4f31-bd95-08355d37beca">Java Developer</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://www.comodo.com/careers/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>EWOR GmbH</strong></td>
-<td><a href="https://trueinterview.io/jobs/78f7978f-7d66-4c16-80fb-d39a9e71b92a">AI Infrastructure Co-Founder / COO (100 % remote) (m/f/d)</a> 🌐</td>
-<td>Remote — United Kingdom</td>
-<td align="center"><a href="https://eworgmbh.teamtailor.com/jobs/8641909-ai-infrastructure-co-founder-coo-100-remote-m-f-d">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Mutual of Omaha</strong></td>
 <td><a href="https://trueinterview.io/jobs/413173ff-2c18-478a-a42b-036f7e20de97">Full Stack Java Engineer (Backend-Focused)</a> 🌐</td>
 <td>Remote</td>
 <td align="center"><a href="https://www.mutualofomaha.com/careers/jobs/detail/505356">Apply</a></td>
 <td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>NCR</strong></td>
-<td><a href="https://trueinterview.io/jobs/cf2eba9f-0950-414b-8551-079d5023e60b">Software Developer I</a> 🌐</td>
-<td>Remote — United Kingdom</td>
-<td align="center"><a href="https://ncr.wd1.myworkdayjobs.com/ext_non_us/job/BATH-GBR/Software-Developer-I_R0157940">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Neurotrack</strong></td>
-<td><a href="https://trueinterview.io/jobs/601bfd22-563d-4427-b161-ca2562d42ac8">Software Engineer (Backend &amp; Integrations, TypeScript)</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://www.neurotrack.com/careers?gnk=job&amp;gni=8a7885aca18473fa01a18e19ec945476&amp;gns=Indeed+Free">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>NiCE</strong></td>
-<td><a href="https://trueinterview.io/jobs/5cbccf4e-1c20-4a96-a12f-d9047f5851b8">Specialist Software Engineer, Actimize (.NET Fullstack)</a> 🌐</td>
-<td>Remote — India</td>
-<td align="center"><a href="https://boards.eu.greenhouse.io/nice/jobs/5020189101?gh_jid=5020189101">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Planned Systems International</strong></td>
-<td><a href="https://trueinterview.io/jobs/bb7ba079-306e-4d74-9a7b-10ef82d22031">Cybersecurity SME</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://careers-plansys.icims.com/jobs/12156/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Richmond Marketing</strong></td>
-<td><a href="https://trueinterview.io/jobs/4088db49-edd7-4f27-bf11-2373cbe253b7">Business Developer - Off Trade - Dublin</a> 🌐</td>
-<td>Remote — Ireland</td>
-<td align="center"><a href="https://richmondmarketing.bamboohr.com/careers/414?postedDate=2026-10-30">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>RMS Energy</strong></td>
-<td><a href="https://trueinterview.io/jobs/b4835741-4cf7-4a29-819f-7fbde4a13d90">Electrical Engineer I</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://rmsenergy.com/join-our-team/?gnk=job&amp;gni=8a7885a8a184742e01a18e6455c16bf8&amp;gns=Indeed+Free">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Siemens Healthineers</strong></td>
-<td><a href="https://trueinterview.io/jobs/3ee04149-11d0-4390-ad03-dbf3a16b82a2">Network Engineer - Cloud Operations **US Remote**</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/CLT-BA/Network-Engineer---Cloud-Operations---US-Remote--_R-31418">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>SRM Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/b419249a-1a72-416c-9191-f11739e86940">Database Administration</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://careers.srmtech.com/jobs/Careers/664168000025732860/Database-Administration">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>TRICENTIS</strong></td>
-<td><a href="https://trueinterview.io/jobs/43ff5389-ded7-4be9-a707-283ae10435cf">Technical Support Specialist</a> 🌐</td>
-<td>Remote — India</td>
-<td align="center"><a href="https://tricentis.wd1.myworkdayjobs.com/en-US/Tricentis_Careers/job/IN---Pune/Technical-Support-Specialist_JR106020-1">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>West 4th Strategy</strong></td>
-<td><a href="https://trueinterview.io/jobs/b6b9c41e-f948-4e36-9da5-8cc7233976e4">Robotic Process Automation (RPA) Engineer</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://west4thstrategy.applytojob.com/apply/n45nmnx0Od/Robotic-Process-Automation-RPA-Engineer?%7E=">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>YGO GmbH</strong></td>
-<td><a href="https://trueinterview.io/jobs/c0a3ae49-1030-4d16-b96c-0057946d5c04">Cloud Security Engineer</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/ygo/e0b8615d-77e0-436d-86a1-99cdba9c8b53">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Consolidated Power Projects</strong></td>
-<td><a href="https://trueinterview.io/jobs/923eba43-39c4-49a2-ac95-c412e6af7b55">Design Drafter - Primary</a> 🌐</td>
-<td>Remote — Australia</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/QuantaServicesAustralia/6000000001537433-design-drafter-primary">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Alpine SG</strong></td>
-<td><a href="https://trueinterview.io/jobs/18a3e82a-c695-44dd-8ce9-f5789ef9a7e6">AI/ML Software Engineer</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/asg/jobs/8919112002">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/9c2b8c83-a4bc-4be4-8146-0170ccd81c3c">AI Enablement Engineer</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/asg/jobs/8716127002">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Xero</strong></td>
-<td><a href="https://trueinterview.io/jobs/1fd198c3-5804-46e6-a913-79f40f1b088b">Engineer - SRE</a> 🌐</td>
-<td>Remote — Australia, United Kingdom</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/xero/09fa178b-b997-4f48-ae19-b8a61919cef0">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Waymaker Resource Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/942b0c64-0eb1-4f9f-b074-bc829febd8a1">Supplier Quality Engineer</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://ats.rippling.com/waymaker-resource-group/jobs/5125edc2-d960-4d77-a668-63a37e5c8ea6?jobSite=Indeed">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Masabi</strong></td>
-<td><a href="https://trueinterview.io/jobs/666182d9-f318-4c14-8838-ade4baf6ed96">Systems Engineer (Remote - Contractor)</a> 🌐</td>
-<td>Remote — India</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/masabi/fca8ebee-2309-4e75-8e7e-65ada7eeaf51">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Pliant</strong></td>
-<td><a href="https://trueinterview.io/jobs/716e5b9e-4a73-4103-b9dd-881a1055ce57">Agentic Tooling Engineer EU/UK remote (m/f/d) remote</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/pliant/89ec000f-a3f4-46b1-bb31-8e5bdf1f63a4">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Nagarro</strong></td>
-<td><a href="https://trueinterview.io/jobs/63859d93-976b-4437-b8d5-a9a4afcad618">AI Agent Platform Engineer</a> 🌐</td>
-<td>Remote — Poland</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Nagarro1/744000158497729-ai-agent-platform-engineer">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Nuitée</strong></td>
-<td><a href="https://trueinterview.io/jobs/22109ceb-78a8-4468-bb14-95e4d8d52b7e">Software Engineer, Flights</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://job-boards.eu.greenhouse.io/nuitee/jobs/5020333101">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>BandLab Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/fc229d9f-22f8-41a6-abee-c6764fb5bdd2">Audio Software Engineer — DSP &amp; Audio Engine</a> 🌐</td>
-<td>Remote — Singapore</td>
-<td align="center"><a href="https://bandlab.pinpointhq.com/postings/c31e7e16-7790-469d-8333-4c27810db70e">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Alimentiv</strong></td>
-<td><a href="https://trueinterview.io/jobs/3d245c8f-4cd6-4aa4-8b5e-ef8719ca6cb5">Clinical Database Programmer</a> 🌐</td>
-<td>Remote — United Kingdom, Ireland, Poland</td>
-<td align="center"><a href="https://jobs.lever.co/alimentiv-2/5f31963e-d799-49e4-9c48-483b73852afe">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Mad Devs</strong></td>
-<td><a href="https://trueinterview.io/jobs/e947e234-3d74-4e82-99cc-d0c8b675e198">Forward Deploy Engineer</a> 🌐</td>
-<td>Remote — United Kingdom</td>
-<td align="center"><a href="https://maddevs.io/careers/forward-deploy-engineer/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Micro1</strong></td>
-<td><a href="https://trueinterview.io/jobs/61ac526a-6b28-4db6-abd5-8e7b71a5e0dd">Software Engineer (Electron.js)</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://jobs.micro1.ai/post/8c0ddeba-5240-4059-9e61-544dd2c8292f?first_page=/careers&amp;last_page=/careers">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Scrumconnect Consulting</strong></td>
-<td><a href="https://trueinterview.io/jobs/2ae28950-d1d8-42a6-b4b7-5e67b59223c8">Data Engineering Academy Trainee</a> 🌐</td>
-<td>Remote — United Kingdom</td>
-<td align="center"><a href="https://scrumconnect.zohorecruit.eu/jobs/Careers/52781000021401287/Data-Engineering-Academy-Trainee">Apply</a></td>
-<td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
 </table>

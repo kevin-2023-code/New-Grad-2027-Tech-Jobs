@@ -2,7 +2,7 @@
 
 # 🇪🇸 Madrid, Barcelona & Iberia
 
-**115 open roles.** 3 in the United States & Canada · 112 elsewhere in the world.
+**90 open roles.** 3 in the United States & Canada · 87 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -50,6 +50,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Devoteam</strong></td>
+<td><a href="https://trueinterview.io/jobs/91ee2c12-fa66-43db-9034-56dea82a7afe">ES- Product Owner + INGLÉS</a></td>
+<td>Madrid, Comunidad de Madrid, Spain</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Devoteam/744000162037917-es-product-owner-ingles">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Wpp Production</strong></td>
 <td><a href="https://trueinterview.io/jobs/ed39ecb6-1e2d-45a0-ac94-38b6a0091e26">Trainee Print Designer</a></td>
@@ -651,188 +658,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Lisbon, Portugal<br/>Greater London, England, United Kingdom<br/>In-Office</td>
 <td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8264687?gh_jid=8264687">Apply</a></td>
 <td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>ACCUDE</strong></td>
-<td><a href="https://trueinterview.io/jobs/d8c20afe-0d37-446b-886a-907fb6aac07d">Ingeniero/a de Automatización de Pruebas (teletrabajo)</a></td>
-<td>Madrid, Spain</td>
-<td align="center"><a href="https://www.accude.com/ofertaempleo.php?id=1221">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Cherenkov Telescope Array Observatory(CTAO)</strong></td>
-<td><a href="https://trueinterview.io/jobs/d5f97d86-45e6-4d21-8585-e4dccdf1ac07">Software Engineer (ICE-CSIC)</a></td>
-<td>Barcelona, Spain</td>
-<td align="center"><a href="https://www.ctao.org/career/software-engineer-ice-csic/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>ERNI Spain</strong></td>
-<td><a href="https://trueinterview.io/jobs/f0b6202f-df63-4a87-bf76-77c525ecbe24">Azure DevOps Engineer - Cloud Operations - Healthcare Sector</a></td>
-<td>Barcelona, Spain</td>
-<td align="center"><a href="https://spainteam.betterask.erni/jobs/8644055-azure-devops-engineer-cloud-operations-healthcare-sector">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/99aca436-d7ac-48c7-8b15-6ae8bdd3d6d4">Azure DevOps Engineer - Healthcare Sector</a></td>
-<td>Barcelona, Spain</td>
-<td align="center"><a href="https://spainteam.betterask.erni/jobs/8644049-azure-devops-engineer-healthcare-sector">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Initiumsoft</strong></td>
-<td><a href="https://trueinterview.io/jobs/a22c89b2-743b-41f5-8ced-76590391bd90">Data Analyst</a></td>
-<td>Madrid, Spain</td>
-<td align="center"><a href="https://www.careers-page.com/initiumsoft/job/V673VXV8">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>LeoVegas</strong></td>
-<td><a href="https://trueinterview.io/jobs/a07738ea-c1ca-484b-bfdf-d895ee6e990d">QA Engineer-Sport</a></td>
-<td>Málaga, Spain</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/leovegasgroup/049352f3-a2f9-4339-ad0f-36258f68018d">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Logicalis</strong></td>
-<td><a href="https://trueinterview.io/jobs/8ffaa131-546c-4288-be34-5be44dd759e5">Confluent Platform Engineer</a></td>
-<td>Madrid, Spain</td>
-<td align="center"><a href="https://careers.es.logicalis.com/jobs/8643137-confluent-platform-engineer">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/54bd95f0-652e-439c-bdd4-b8d32e635e53">MongoDB Platform Engineer</a></td>
-<td>Madrid, Spain</td>
-<td align="center"><a href="https://careers.es.logicalis.com/jobs/8643128-mongodb-platform-engineer">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Sateliot</strong></td>
-<td><a href="https://trueinterview.io/jobs/d1acbd68-d6bf-4279-98db-16174e3a65ad">RAN Test Engineer — NTN eNodeB y gNodeB</a></td>
-<td>Barcelona, Spain</td>
-<td align="center"><a href="https://careers.sateliot.com/jobs/8641995-ran-test-engineer-ntn-enodeb-y-gnodeb">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Siemens</strong></td>
-<td><a href="https://trueinterview.io/jobs/6ece7395-5bff-4d2c-a001-7ce4bc1b3a77">ETCS Software Engineer - Main Line Signalling</a></td>
-<td>Valencia, Spain</td>
-<td align="center"><a href="https://jobs.siemens.com/externaljobs/JobDetail/527808">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/52383ecb-759e-43a8-a8a6-201e2f92d71d">ETCS Trackside Design Engineer - Rail Signalling</a></td>
-<td>Valencia, Spain</td>
-<td align="center"><a href="https://jobs.siemens.com/externaljobs/JobDetail/527810">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Sogeti</strong></td>
-<td><a href="https://trueinterview.io/jobs/573f9ffe-7caf-4e26-864a-604f3997dd01">Mobile QA Automation Engineer (iOS &amp; Android)</a></td>
-<td>Madrid, Spain</td>
-<td align="center"><a href="https://www.capgemini.com/jobs/589165-es_ES_SAPBTP/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>TP</strong></td>
-<td><a href="https://trueinterview.io/jobs/976b459f-ea60-4479-a2ae-7d170a4db37b">German Digital Customer Engineer</a></td>
-<td>Barcelona, Spain</td>
-<td align="center"><a href="https://jobs.teleperformance.es/job/german-digital-customer-engineer/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Siemens Energy</strong></td>
-<td><a href="https://trueinterview.io/jobs/6c4169b2-4daa-4826-a2b0-eb83a6b9fdb4">System Administrator - Network Specialist Commissioning Engineer (f/m/d)</a></td>
-<td>Porto, Porto, Portugal</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4439438341/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Velorum</strong></td>
-<td><a href="https://trueinterview.io/jobs/8a01d8e6-7e1c-4e89-a8a8-baa1030656f6">DevOps Engineer</a></td>
-<td>Barcelona, Spain</td>
-<td align="center"><a href="https://iris-venture.careers.ats.bizneo.cloud/jobs/devops-engineer-3c32443c-46c2-4cf8-b505-040dde8cc8e8">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon Web Services (AWS)</strong></td>
-<td><a href="https://trueinterview.io/jobs/cea22ee4-9708-4933-80d4-9776f508f5ad">System Engineer, Managed Operations, ESC Managed Operations</a></td>
-<td>Madrid, Community of Madrid, Spain<br/>Dublin, County Dublin, Ireland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476903230/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Inetum</strong></td>
-<td><a href="https://trueinterview.io/jobs/41622185-371c-41c6-b3b2-f9d1169904c2">Java Full Stack Developer (French Speaker)</a></td>
-<td>Lisbon, Lisbon, Portugal</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Inetum2/744000158542739-java-full-stack-developer-french-speaker-">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Verifone</strong></td>
-<td><a href="https://trueinterview.io/jobs/ea8ed8b1-4f70-4053-b650-bec51e6cddf7">Level 1 Technical Support, Portugal</a></td>
-<td>Lisbon, Portugal</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/verifone/jobs/7997000003">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Inetum</strong></td>
-<td><a href="https://trueinterview.io/jobs/6a6a0a44-7971-41ee-adfb-46e1ece66893">Data Analyst</a></td>
-<td>Lisbon, Lisbon, Portugal<br/>Lima, Callao Region, Peru</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Inetum2/744000158485339-data-analyst">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Serviguidebpo</strong></td>
-<td><a href="https://trueinterview.io/jobs/b7f3bf20-916c-4076-91dd-df1c279ee9ee">Product Owner E-Commerce</a></td>
-<td>Madrid, Spain</td>
-<td align="center"><a href="https://sgtech.viterbit.site/product-owner-e-commerce-Xpfa2wupMTj5/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Sosafe</strong></td>
-<td><a href="https://trueinterview.io/jobs/8839fa4a-4f7d-4b99-a85e-339d41a5c280">AI Full Stack Engineer</a></td>
-<td>Lisbon</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/sosafe/ea7c6c30-fb67-4dea-ae08-a0f12bc400fa">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Feverup</strong></td>
-<td><a href="https://trueinterview.io/jobs/9b08aa22-a74a-4791-8c35-96eb1a4518f2">B2B Designer</a></td>
-<td>Madrid</td>
-<td align="center"><a href="https://job-boards.eu.greenhouse.io/feverup/jobs/5019513101">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Sopra Steria</strong></td>
-<td><a href="https://trueinterview.io/jobs/4cd386e6-9b65-466e-8d1f-5d4b4a878d3e">Cloud Platform Engineer</a></td>
-<td>Madrid, Spain<br/>Madrid, Comunidad de Madrid, Spain</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/SopraSteria1/744000158463499-cloud-platform-engineer">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Capgemini Engineering</strong></td>
-<td><a href="https://trueinterview.io/jobs/4ed65032-3ad6-4106-8df9-e35695e6544a">STRESS ENGINEER</a></td>
-<td>Madrid, Spain<br/>Bristol, England, United Kingdom</td>
-<td align="center"><a href="https://www.capgemini.com/jobs/587272-es_ES_SAPBTP/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Oficina de Treball del SOC</strong></td>
-<td><a href="https://trueinterview.io/jobs/d834e2cc-b85a-49f4-8506-00da937fc60e">DATA ENGINEER - ESPECIALISTES EN BASES DE DADES I XARXES INFORMÃ€TIQUES</a></td>
-<td>Barcelona, Spain</td>
-<td align="center"><a href="https://feinaactiva.gencat.cat/search/offers/detail/09202631136">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/0e2e59e2-6220-4c36-b9b0-dc54c4917645">QA ENGINEER - TÃˆCNIC/A EN XARXES INFORMÃ€TIQUES (AMB CERTIFICAT DE DISCAPACITAT)</a></td>
-<td>Barcelona, Spain</td>
-<td align="center"><a href="https://feinaactiva.gencat.cat/search/offers/detail/09202631160">Apply</a></td>
-<td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
 </table>

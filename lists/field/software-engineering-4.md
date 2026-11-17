@@ -2,11 +2,11 @@
 
 # 💻 Software Engineering
 
-**7,554 open roles.** 4,906 in the United States & Canada · 2,648 elsewhere in the world.
+**5,339 open roles.** 3,849 in the United States & Canada · 1,490 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
-<sub>[← Page 3](software-engineering-3.md) · Page 4 of 19 · [Page 5 →](software-engineering-5.md)</sub>
+<sub>[← Page 3](software-engineering-3.md) · Page 4 of 14 · [Page 5 →](software-engineering-5.md)</sub>
 
 ## United States & Canada
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Eaton</strong></td>
+<td><a href="https://trueinterview.io/jobs/ddc2bc52-7732-416c-b9fd-a8d4ce31b10d">Embedded Firmware &amp; FPGA Engineer</a></td>
+<td>Youngsville, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476683112/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Jobot</strong></td>
 <td><a href="https://trueinterview.io/jobs/d82d89a5-025d-4f90-a0e4-22e0b965956f">Forward Deployed Software Engineer</a></td>
@@ -2808,16 +2815,9 @@
 <td align="center"><a href="https://firstnet-global-llc.careerplug.com/j/036wgu1">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
-<tr>
-<td><strong>RFA Engineering</strong></td>
-<td><a href="https://trueinterview.io/jobs/3e47e464-3059-43c3-afa5-97ec3b9e34cc">Automation Controls Engineer</a></td>
-<td>Saint Paul, MN</td>
-<td align="center"><a href="https://recruiting2.ultipro.com/RFA1000RFAE/JobBoard/c6360fd1-bd6a-45b8-984f-6d7b65050c8b/OpportunityDetail?opportunityId=2c045584-7245-43a8-9259-6323334ea873&amp;postingId=530b7804-0a0e-4592-a83d-73cc73687d78">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
 </tbody>
 </table>
 
-<sub>[← Page 3](software-engineering-3.md) · Page 4 of 19 · [Page 5 →](software-engineering-5.md)</sub>
+<sub>[← Page 3](software-engineering-3.md) · Page 4 of 14 · [Page 5 →](software-engineering-5.md)</sub>
 
 [← Every filter](../README.md) · [Back to the full list](../../README.md)

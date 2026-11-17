@@ -2,11 +2,11 @@
 
 # 💻 Software Engineering
 
-**7,554 open roles.** 4,906 in the United States & Canada · 2,648 elsewhere in the world.
+**5,339 open roles.** 3,849 in the United States & Canada · 1,490 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
-<sub>[← Page 5](software-engineering-5.md) · Page 6 of 19 · [Page 7 →](software-engineering-7.md)</sub>
+<sub>[← Page 5](software-engineering-5.md) · Page 6 of 14 · [Page 7 →](software-engineering-7.md)</sub>
 
 ## United States & Canada
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Infinite Computer Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/eff76fbf-f88e-4023-a57a-de7f9557fda0">Site Reliability Engineer</a></td>
+<td>Frisco, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486088678/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Syntiant Corp</strong></td>
 <td><a href="https://trueinterview.io/jobs/eec51371-78eb-450d-a71a-064789f64c72">Forward Deployed Engineer</a></td>
@@ -2808,16 +2815,9 @@
 <td align="center"><a href="https://secure6.saashr.com/ta/6198563.careers?ShowJob=755427397">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
-<tr>
-<td><strong>Kastle Systems</strong></td>
-<td><a href="https://trueinterview.io/jobs/bdbb309f-efbf-4704-a636-5d7792726d6b">Physical Security Systems Integration Engineer</a></td>
-<td>Falls Church, VA</td>
-<td align="center"><a href="https://careers.kastle.com/jobs/5374/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
 </tbody>
 </table>
 
-<sub>[← Page 5](software-engineering-5.md) · Page 6 of 19 · [Page 7 →](software-engineering-7.md)</sub>
+<sub>[← Page 5](software-engineering-5.md) · Page 6 of 14 · [Page 7 →](software-engineering-7.md)</sub>
 
 [← Every filter](../README.md) · [Back to the full list](../../README.md)

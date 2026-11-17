@@ -2,7 +2,7 @@
 
 # 🌧️ Portland, Boise & Spokane
 
-**59 open roles.**
+**47 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -345,90 +345,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Vancouver, WA<br/>Portland, OR<br/>Eugene, OR<br/>+7 more</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4474836771/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Jubilant HollisterStier</strong></td>
-<td><a href="https://trueinterview.io/jobs/e071b19c-91d3-457b-b1b2-800faab96280">IT Network Administrator</a></td>
-<td>Spokane, WA</td>
-<td align="center"><a href="https://jubilantcareer.jubl.com/career?company=jubilantphP2&amp;career_ns=job_listing&amp;career_job_req_id=1921&amp;lang=en_US">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Onboard Systems International</strong></td>
-<td><a href="https://trueinterview.io/jobs/576bd59e-f612-4474-8644-0a806f786d8e">Quality Engineer</a></td>
-<td>Vancouver, WA<br/>Vancouver, BC</td>
-<td align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4629289/Onboard-Systems-International/Quality-Engineer">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Vigor, LLC</strong></td>
-<td><a href="https://trueinterview.io/jobs/6f0b0ba4-3e53-4694-b2aa-5b9eb034defe">Structural Engineer I, Marine</a></td>
-<td>Vancouver, WA<br/>Vancouver, BC</td>
-<td align="center"><a href="https://vigorcareers.ttcportals.com/jobs/18429863-structural-engineer-i-marine?tm_job=929&amp;tm_event=view&amp;tm_company=92649">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>First Tech Federal Credit Union</strong></td>
-<td><a href="https://trueinterview.io/jobs/73ecd804-7719-401c-92d9-ba195f30d991">Delivery Platform System Administrator</a></td>
-<td>Hillsboro, OR<br/>Marlborough, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485287308/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>U.S. Bank</strong></td>
-<td><a href="https://trueinterview.io/jobs/85be9d39-624e-43a0-a1b3-1456f959996f">nCino/Moody's Product Designer</a></td>
-<td>Portland, OR<br/>Atlanta, GA<br/>Chicago, IL<br/>+7 more</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4479254166/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Epic</strong></td>
-<td><a href="https://trueinterview.io/jobs/a230a8af-a888-4627-ab9a-ad27e0650187">Integration Solutions Engineer</a></td>
-<td>Vancouver, WA<br/>Vancouver, BC<br/>Casper, WY<br/>+8 more</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4320272576/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Enpro Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/15fa363a-b1b0-4e3e-b46e-a7e13391ac9c">Electrical Engineer</a></td>
-<td>Boise, ID</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4421885888/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>JR Automation</strong></td>
-<td><a href="https://trueinterview.io/jobs/1ab5197b-5413-4d25-8298-b8563a26cdb4">Data Scientist I or II (MAD-BS-OR)</a></td>
-<td>Hillsboro, OR</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484977301/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Sierra Pacific Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/c357e7dd-2973-4277-a35f-615781bf2524">Engineer - Controls</a></td>
-<td>Eugene, OR</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484982391/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>JR Automation</strong></td>
-<td><a href="https://trueinterview.io/jobs/4be57a5d-cb01-4cd5-a86c-b8a5210e4cb9">AI Data &amp; Security Governance Engineer (MAD-BS-OR)</a></td>
-<td>Hillsboro, OR</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484962878/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Tetra Tech</strong></td>
-<td><a href="https://trueinterview.io/jobs/261910e6-abf0-40ee-b05b-3e60dde466df">Quantitative Ecologist – Portland, OR (Hybrid)</a></td>
-<td>Portland, OR</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4481791138/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>City of Vancouver</strong></td>
-<td><a href="https://trueinterview.io/jobs/a96844b1-c8fd-4c1c-a3b6-1f4ec797a4e3">Data Analyst</a></td>
-<td>Vancouver, WA<br/>Vancouver, BC</td>
-<td align="center"><a href="https://cityofvancouver.wd5.myworkdayjobs.com/en-US/COV/job/LOC0157-Fire-Station-5/Data-Analyst_26-0303">Apply</a></td>
-<td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
 </table>
