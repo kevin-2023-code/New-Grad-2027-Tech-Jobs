@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**1,550 open roles.** 1,213 in the United States & Canada · 337 elsewhere in the world.
+**1,333 open roles.** 1,060 in the United States & Canada · 273 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 

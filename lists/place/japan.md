@@ -2,7 +2,7 @@
 
 # 🇯🇵 Tokyo & Japan
 
-**54 open roles.**
+**45 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -333,69 +333,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Tokyo</td>
 <td align="center"><a href="https://jobs.lever.co/matchgroup/a5c7d9c1-c8ef-47d1-aef0-af6bc111ea6e">Apply</a></td>
 <td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Wabtec</strong></td>
-<td><a href="https://trueinterview.io/jobs/22e24f28-bead-477e-8696-0f770c5f10fc">Optical Design &amp; Development Engineer</a></td>
-<td>Tokyo, JP, Japan</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Wabtec/3743990016364286-optical-design-development-engineer">Apply</a></td>
-<td align="center">23 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Aumovio</strong></td>
-<td><a href="https://trueinterview.io/jobs/230ea614-9480-4c58-9731-cf1483030011">ANS Resident Engineer JOEM</a></td>
-<td>Yokohama, Kanagawa, Japan</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Aumovio/744000157385679-ans-resident-engineer-joem">Apply</a></td>
-<td align="center">23 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Wabtec</strong></td>
-<td><a href="https://trueinterview.io/jobs/ba4f0311-eb2b-4165-992a-025fcc2481d3">Mechanical Enclosure Engineer</a></td>
-<td>Tokyo, JP, Japan</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Wabtec/3743990016326006-mechanical-enclosure-engineer">Apply</a></td>
-<td align="center">22 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/2a5e87ef-8d1e-4c42-989d-a075132c0944">Mechanical Enclosure Design Engineer</a></td>
-<td>Tokyo, JP, Japan</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Wabtec/3743990016215306-mechanical-enclosure-design-engineer">Apply</a></td>
-<td align="center">19 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Telexistence</strong></td>
-<td><a href="https://trueinterview.io/jobs/c7ddf780-e9bf-4f53-bf90-71d52a20a41e">Electronic Engineer - Logistics</a></td>
-<td>Tokyo</td>
-<td align="center"><a href="https://jobs.lever.co/tx-inc.com/1839506a-f54f-4c1f-8805-51dba0c2d87d">Apply</a></td>
-<td align="center">13 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Lalamove</strong></td>
-<td><a href="https://trueinterview.io/jobs/4b263afc-00e4-4bd0-9120-5e967817ccdd">Graphic Designer</a></td>
-<td>Tokyo</td>
-<td align="center"><a href="https://jobs.lever.co/lalamove/e1d23f55-13be-4817-9323-f34bb213cf2b">Apply</a></td>
-<td align="center">8 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Xsolla</strong></td>
-<td><a href="https://trueinterview.io/jobs/8f5ebfae-1acf-4be4-83ad-45b2c8c242dc">Solutions Engineer - Enterprise Partners</a></td>
-<td>Tokyo<br/>Kuala Lumpur</td>
-<td align="center"><a href="https://jobs.lever.co/xsolla/99125d4d-0896-4c51-ac14-70affe9d8493">Apply</a></td>
-<td align="center">6 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Rescale</strong></td>
-<td><a href="https://trueinterview.io/jobs/a3984311-bbe7-42b6-9cc4-3ab086e8a6cf">Customer Success Engineer (Japan)</a></td>
-<td>Tokyo</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/rescale/b8e09f69-f683-475a-adce-4c142680ec8e">Apply</a></td>
-<td align="center">1 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>OpenAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/0df62237-4184-4567-b903-cd358cdff00d">Dedicated Support Engineer - Tokyo</a></td>
-<td>Tokyo, Japan</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/73728d6c-8d8d-4aed-86c6-c2e73d9efec9/application">Apply</a></td>
-<td align="center">25 Sep 2026</td>
 </tr>
 </tbody>
 </table>

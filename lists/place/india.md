@@ -2,15 +2,13 @@
 
 # 🇮🇳 Bengaluru & India
 
-**434 open roles.** 2 in the United States & Canada · 432 elsewhere in the world.
+**364 open roles.** 2 in the United States & Canada · 362 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
 > A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page.
 
 _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-authorisation restriction._
-
-<sub>Page 1 of 2 · [Page 2 →](india-2.md)</sub>
 
 ## United States & Canada
 
@@ -45,6 +43,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Mattel, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/e5be4b85-a498-442e-af57-94b3a5c62fcd">Shopify Developer</a></td>
+<td>Hyderabad, India</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/MattelInc/744000162013195-shopify-developer">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Bosch</strong></td>
 <td><a href="https://trueinterview.io/jobs/06f00969-ca9f-4ad7-848b-15219926074c">Specialist Hardware Engineer</a></td>
@@ -2572,268 +2577,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center"><a href="https://jobs.smartrecruiters.com/NielsenIQ/744000157969849-product-owner">Apply</a></td>
 <td align="center">27 Oct 2026</td>
 </tr>
-<tr>
-<td><strong>WSP</strong></td>
-<td><a href="https://trueinterview.io/jobs/a022acf5-3ff0-4899-b8f3-84c2e7202402">Engineer - Airfield</a></td>
-<td>Bengaluru, Karnataka, India<br/>Noida, Uttar Pradesh, India</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98190">Apply</a></td>
-<td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Xurrent</strong></td>
-<td><a href="https://trueinterview.io/jobs/f0e44fd1-4511-4ce8-b816-f0262d6c04c3">UX Designer</a></td>
-<td>Bangalore, Karnataka, India</td>
-<td align="center"><a href="https://www.xurrent.com/careers/?gh_jid=5272264007">Apply</a></td>
-<td align="center">26 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Bosch</strong></td>
-<td><a href="https://trueinterview.io/jobs/79efc258-400f-4411-b972-f3a89535b6e9">2026-MS_EMT2-VM_DevOps_Engineer</a></td>
-<td>bangalore, India</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000157829938-2026-ms-emt2-vm-devops-engineer">Apply</a></td>
-<td align="center">26 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Avathon</strong></td>
-<td><a href="https://trueinterview.io/jobs/abca468a-ee3d-4c01-b7d0-d0603623c8be">Mobile Application Developer</a></td>
-<td>Bengaluru, Karnataka, India</td>
-<td align="center"><a href="https://avathon.com/company/careers-job-listing/?gh_jid=4747499005">Apply</a></td>
-<td align="center">26 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Schrödinger</strong></td>
-<td><a href="https://trueinterview.io/jobs/43fa85be-62b7-4671-9e0a-0568fa483b6e">QA Scientist - Hyderabad</a></td>
-<td>Hyderabad</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/schrdinger/jobs/8042547003">Apply</a></td>
-<td align="center">26 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Span</strong></td>
-<td><a href="https://trueinterview.io/jobs/686c9430-f5e8-4b3e-aa63-ed03c21b802b">Device - Software Engineer (Functional Safety)</a></td>
-<td>Bengaluru</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/span/98107b13-239e-4c8e-9597-350ab676239e">Apply</a></td>
-<td align="center">26 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Sarvam</strong></td>
-<td><a href="https://trueinterview.io/jobs/e4adb111-edd9-46d3-8457-8b2b0b016b35">SDE3, Infrastructure Security Engineer (DevSecOps)</a></td>
-<td>Bengaluru</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/sarvam/1dd07b8b-0c0b-422a-8ff4-c99bdc5add68">Apply</a></td>
-<td align="center">26 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/dc76843f-8f5f-43c6-a4d2-18e141b3812c">Infrastructure Engineer</a></td>
-<td>Bengaluru</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/sarvam/f09b6a35-e2d1-4833-8bc5-2b495991d882">Apply</a></td>
-<td align="center">26 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Wpp</strong></td>
-<td><a href="https://trueinterview.io/jobs/b3e9cbb9-39bd-4b4b-97f9-32767aecb15e">Back End Engineer</a></td>
-<td>Gurgaon<br/>India</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/wpp/jobs/8890962002">Apply</a></td>
-<td align="center">24 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Mattel, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/2fc9713e-b7a8-47c2-9d47-1ac8c96089bc">Developer Shopify B2B</a></td>
-<td>Hyderabad, India</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/MattelInc/744000157381589-developer-shopify-b2b">Apply</a></td>
-<td align="center">23 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Texas Instruments</strong></td>
-<td><a href="https://trueinterview.io/jobs/fc42a6d4-786c-4f3f-8ab8-b981f4a2b447">Physical Design Engineer</a></td>
-<td>Bengaluru, Karnataka, India</td>
-<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25019240">Apply</a></td>
-<td align="center">23 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>WSP</strong></td>
-<td><a href="https://trueinterview.io/jobs/32020426-c1b8-43f4-8b7a-c90f72bd6f4f">AI Engineer - T&amp;I</a></td>
-<td>Bengaluru, Karnataka, India<br/>Mumbai, Maharashtra, India<br/>Noida, Uttar Pradesh, India</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98032">Apply</a></td>
-<td align="center">23 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>NEC Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/5ec0f5df-7d55-45c4-a829-14623cb56572">Digital Learning Developer + Instructional Designer</a></td>
-<td>Mumbai, Maharashtra, India</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/NECSWS/744000157041519-digital-learning-developer-instructional-designer">Apply</a></td>
-<td align="center">22 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Sumologic</strong></td>
-<td><a href="https://trueinterview.io/jobs/7066723a-41ab-4101-82fb-428abedd87dc">Technical Account Engineer I</a></td>
-<td>Noida, Uttar Pradesh, India</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/sumologic/jobs/8305995">Apply</a></td>
-<td align="center">22 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Sycamore</strong></td>
-<td><a href="https://trueinterview.io/jobs/7f5c0ae5-6a72-4f9e-b604-f5f50a6ee29d">India, Infrastructure Engineer</a></td>
-<td>Bengaluru</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/sycamore/3c611cca-d5ea-4db7-9da9-50b045753974">Apply</a></td>
-<td align="center">22 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Ahead</strong></td>
-<td><a href="https://trueinterview.io/jobs/c4ebc09c-b15f-4d9c-9d2c-4e56287f9638">Network - Specialist Solutions Engineer</a></td>
-<td>Gurugram, Haryana<br/>Hyderabad<br/>Bangalore</td>
-<td align="center"><a href="https://jobs.lever.co/thinkahead/e1c94ae2-7e38-4a60-a0a8-e90d90c7b018">Apply</a></td>
-<td align="center">21 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Bosch</strong></td>
-<td><a href="https://trueinterview.io/jobs/b5629ce0-27ac-4f94-87d4-91c78779d227">In_Bosch Rexroth India_Sales Engineer/Astt. Manager_Pune</a></td>
-<td>Pune, Maharashtra, India</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000156770949-in-bosch-rexroth-india-sales-engineer-astt-manager-pune">Apply</a></td>
-<td align="center">21 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Emerson</strong></td>
-<td><a href="https://trueinterview.io/jobs/d57cf548-2771-4be3-9572-dae8d1fde779">Renewable Proposal Engineer</a></td>
-<td>NOIDA, UTTAR PRADESH, India</td>
-<td align="center"><a href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012051">Apply</a></td>
-<td align="center">21 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Eurofins</strong></td>
-<td><a href="https://trueinterview.io/jobs/8f6f27fb-5dff-44be-ad71-f9d34834ed1a">IT Infrastructure System Engineer - Linux</a></td>
-<td>Bengaluru, Karnataka, India</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Eurofins/744000156229723-it-infrastructure-system-engineer-linux">Apply</a></td>
-<td align="center">19 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Egis Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/9eea069c-f6e6-4f28-85e5-4469367c87ad">Design Engineer</a></td>
-<td>Bengaluru, Karnataka, India<br/>Dublin, County Dublin, Ireland</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/EgisGroup/744000156006238-design-engineer">Apply</a></td>
-<td align="center">16 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Wpp Production</strong></td>
-<td><a href="https://trueinterview.io/jobs/1efa3aa6-1321-488a-abdd-4d5663566ec8">SDET (Software Development Engineer in Test)</a></td>
-<td>Hyderabad, India</td>
-<td align="center"><a href="https://www.wppproduction.com/careers/jobs/6223927004?gh_jid=6223927004">Apply</a></td>
-<td align="center">15 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Appzen, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/23c901d2-e70c-4940-8f5f-997d7640c00a">AI/ML Engineer</a></td>
-<td>Pune</td>
-<td align="center"><a href="https://jobs.lever.co/appzen/cce93662-196a-4814-b80c-bfa0b37384af">Apply</a></td>
-<td align="center">15 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>GitLab</strong></td>
-<td><a href="https://trueinterview.io/jobs/40348e1c-68b7-4bb0-b544-d1b2979c0d77">Site Reliability Engineer, Cells Infrastructure</a></td>
-<td>Bangalore, India</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/gitlab/jobs/8867756002">Apply</a></td>
-<td align="center">15 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Sonicwall</strong></td>
-<td><a href="https://trueinterview.io/jobs/4f1f8231-b304-4958-85f5-5b672023ba08">Platform Engineer- GCP and Kubernetes experience is a must</a></td>
-<td>Pune, Maharashtra, India</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/sonicwall/jobs/8282577">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Veolia</strong></td>
-<td><a href="https://trueinterview.io/jobs/5305f2e8-c662-4d43-b93c-a32fc1f202a0">Mechanical Engineer</a></td>
-<td>Bangalore, Karnataka, India</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000155455609-mechanical-engineer">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Elastic N.V.</strong></td>
-<td><a href="https://trueinterview.io/jobs/4a84bb85-158d-469f-bd2e-f825c22db163">Marketing AI Engineer</a></td>
-<td>Bangalore, India</td>
-<td align="center"><a href="https://jobs.elastic.co/jobs?gh_jid=8265123&amp;gh_jid=8265123">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Smiths Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/fc3a16d6-a25a-47e2-a5c6-d1c4a16a1123">Software Engineer</a></td>
-<td>Bengaluru, Karnataka, India</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/SmithsGroup2/744000155409219-software-engineer">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Socomec Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/c541e3a5-ed57-46f7-b26a-f96594239f5b">Methods Engineer</a></td>
-<td>Gurugram, Haryana, India</td>
-<td align="center"><a href="https://iahxgs.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/385">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>WSP</strong></td>
-<td><a href="https://trueinterview.io/jobs/befea59e-cc5b-4ac6-be4c-d8c89f688a29">AI Engineer Digital Solutions</a></td>
-<td>Bengaluru, Karnataka, India</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95826">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Konovo</strong></td>
-<td><a href="https://trueinterview.io/jobs/c46b1315-8702-4edc-b6cc-01531282275e">Survey Programmer</a></td>
-<td>Bengaluru, Karnataka, India</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/konovo/jobs/5409701008">Apply</a></td>
-<td align="center">13 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Ramboll</strong></td>
-<td><a href="https://trueinterview.io/jobs/31e0176b-18fc-4979-9d83-03bd09b739db">Graduate Design Engineer</a></td>
-<td>Hyderabad, Telangana, India<br/>Madhapur, India</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Ramboll3/744000155224349-graduate-design-engineer">Apply</a></td>
-<td align="center">13 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>DDN</strong></td>
-<td><a href="https://trueinterview.io/jobs/2503dcd0-44c9-4477-a042-514eab36981a">Software Engineer L4</a></td>
-<td>Pune Office</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/ddn/19484e46-31dc-4117-b8da-0eb60e9d5d88">Apply</a></td>
-<td align="center">13 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Sarvam</strong></td>
-<td><a href="https://trueinterview.io/jobs/0dac44b6-217e-40b3-8d08-e96c8d9c68ec">Software Engineer - Model API Platform</a></td>
-<td>Bengaluru</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/sarvam/0371342b-5cb8-487b-9310-4d0eb5b37f47">Apply</a></td>
-<td align="center">13 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Rotork</strong></td>
-<td><a href="https://trueinterview.io/jobs/863785f1-5753-4f35-967e-508d208c2c35">Mechanical Engineer (기계설계엔지니어)</a></td>
-<td>Chennai, Tamil Nadu, India<br/>Incheon, Incheon, Korea, republic of</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Rotork1/744000154921869-mechanical-engineer-">Apply</a></td>
-<td align="center">12 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>GitLab</strong></td>
-<td><a href="https://trueinterview.io/jobs/5523252d-011b-4c65-98b1-a3e6021b038a">People Systems Engineer</a> 🌐</td>
-<td>Remote — India, Poland<br/>Bangalore, India</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/gitlab/jobs/8861748002">Apply</a></td>
-<td align="center">9 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Arista Networks</strong></td>
-<td><a href="https://trueinterview.io/jobs/e357f46d-3023-4f45-a463-21d71dc83df2">Network System Test Engineer (Manual/Solution)</a></td>
-<td>Bengaluru, Karnataka, India</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/AristaNetworks/744000154647541-network-system-test-engineer-manual-solution-">Apply</a></td>
-<td align="center">9 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Cerebras Systems</strong></td>
-<td><a href="https://trueinterview.io/jobs/9811bb6d-84b2-4462-bb2a-b7509633e76f">Full Stack Machine Learning Engineer</a></td>
-<td>Bengaluru, IND</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/cerebras/c2198d42-ccad-4bee-aa43-83027aa5e46e">Apply</a></td>
-<td align="center">9 Oct 2026</td>
-</tr>
 </tbody>
 </table>
-
-<sub>Page 1 of 2 · [Page 2 →](india-2.md)</sub>
 
 [← Every filter](../README.md) · [Back to the full list](../../README.md)
