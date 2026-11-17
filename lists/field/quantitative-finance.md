@@ -2,7 +2,7 @@
 
 # 📈 Quantitative Finance
 
-**179 open roles.** 129 in the United States & Canada · 50 elsewhere in the world.
+**161 open roles.** 119 in the United States & Canada · 42 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -850,76 +850,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485264966/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
-<tr>
-<td><strong>Huntington National Bank</strong></td>
-<td><a href="https://trueinterview.io/jobs/42cac67f-2f3d-4fc1-a6b3-f503adede184">Quantitative Risk Modeling Analyst</a></td>
-<td>Columbus, OH</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485240562/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Albert Bow</strong></td>
-<td><a href="https://trueinterview.io/jobs/d5e6d1e5-7747-4e29-b184-ce9d656aa6fb">Quantitative Developer</a></td>
-<td>Greater Chicago Area</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4465521948/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Bank of America</strong></td>
-<td><a href="https://trueinterview.io/jobs/16ff39f5-1374-4796-96f2-170a49bb3f18">Quantitative Engineer Analyst</a></td>
-<td>Atlanta, GA<br/>Charlotte, NC<br/>Jersey City, NJ</td>
-<td align="center"><a href="https://careers.bankofamerica.com/en-us/job-detail/26040002/quantitative-engineer-analyst-multiple-locations">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Federal Home Loan Bank of Chicago</strong></td>
-<td><a href="https://trueinterview.io/jobs/a3d12c4c-7f4a-46ca-87b5-28997b9011dc">Quantitative Rotational Analyst</a></td>
-<td>Chicago, IL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467148061/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Obsidian Ridge Trading</strong></td>
-<td><a href="https://trueinterview.io/jobs/32c6f94d-361a-4988-813d-010eef2fa8bf">Quantitative Developer</a></td>
-<td>Philadelphia, PA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485200196/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Pangea</strong></td>
-<td><a href="https://trueinterview.io/jobs/7fe02955-82df-4f40-b784-084458de9681">Gasoline Trader</a></td>
-<td>Houston, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484982132/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Saragossa</strong></td>
-<td><a href="https://trueinterview.io/jobs/27985eec-a9b9-4f7a-9660-e8da73188931">Quant Developer | Fixed Income - $400K+ - Front Office - NYC / Philadelphia</a></td>
-<td>New York City Metropolitan Area</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4441543079/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/57b8ca2d-755a-4a29-95bb-f59ae234f2cf">Quant Researcher – Build, Test &amp; Deploy | Tech-Driven NYC Fund</a></td>
-<td>New York City Metropolitan Area</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4401947333/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Tetra Tech</strong></td>
-<td><a href="https://trueinterview.io/jobs/261910e6-abf0-40ee-b05b-3e60dde466df">Quantitative Ecologist – Portland, OR (Hybrid)</a></td>
-<td>Portland, OR</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4481791138/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Moderna</strong></td>
-<td><a href="https://trueinterview.io/jobs/ee5aa885-8598-4495-8330-a5b3f6b02270">Scientist, CMC Quantitative Sciences</a></td>
-<td>Norwood, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467199679/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -1225,62 +1155,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484594771/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Petroineos Trading Limited</strong></td>
-<td><a href="https://trueinterview.io/jobs/be991762-0a52-4119-975d-6b5ad4b9860b">Trader, Petrochemicals</a></td>
-<td>Rotterdam, South Holland, Netherlands</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4447539965/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Bozzino &amp; Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/580c455b-9140-4587-a1f6-072676b9ad26">Trader Investor / Co-Founder (Hedge Fund Start Up)</a></td>
-<td>England, United Kingdom</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484998253/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Petroineos Trading Limited</strong></td>
-<td><a href="https://trueinterview.io/jobs/e5dae24c-0ea9-45a8-a3f2-5aa865a65e91">Rubber Trader (Natural and Synthetic)</a></td>
-<td>Rotterdam, South Holland, Netherlands</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4447541818/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Swissquote</strong></td>
-<td><a href="https://trueinterview.io/jobs/8ee41138-00f6-478c-babe-0ac30f48778d">FX/Execution Trader</a></td>
-<td>Gland, Vaud, Switzerland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468669631/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Acadian Asset Management</strong></td>
-<td><a href="https://trueinterview.io/jobs/485a14d4-b491-4eaf-9909-4b1ed3c60b75">ESG Quant Analyst - Stewardship Specialist</a></td>
-<td>Sydney, New South Wales, Australia</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4446396227/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>HDI Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/8e3e3594-cab5-4d1f-b531-ba08516af301">Auditor Actuarial and Quantitative Risk Management</a></td>
-<td>Hannover, Lower Saxony, Germany</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4404096629/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Petroineos Trading Limited</strong></td>
-<td><a href="https://trueinterview.io/jobs/4d0c2fb1-32e7-4485-9c75-da6b848bd686">Metal Trader, Copper Cathodes</a></td>
-<td>London, England, United Kingdom</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4446262582/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>IFC - International Food Connectors</strong></td>
-<td><a href="https://trueinterview.io/jobs/e04fbe6f-0e0a-4492-945e-5eb78a6b0846">Trader Latin America</a></td>
-<td>Rotterdam, South Holland, Netherlands</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484982101/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
 </table>

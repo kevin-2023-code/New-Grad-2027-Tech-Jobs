@@ -2,7 +2,7 @@
 
 # Site Reliability Engineer
 
-**121 open roles.** 60 in the United States & Canada · 61 elsewhere in the world.
+**111 open roles.** 58 in the United States & Canada · 53 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -423,20 +423,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_xx/requisitions/preview/301989">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
-<tr>
-<td><strong>VySystems</strong></td>
-<td><a href="https://trueinterview.io/jobs/4ac13c09-7631-4bf4-b123-39bd75222cef">Site Reliability Engineer</a></td>
-<td>Toronto, Ontario, Canada</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484984656/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Verizon</strong></td>
-<td><a href="https://trueinterview.io/jobs/5170d1b7-c3e8-4b41-a802-051637a1f0bc">Cell Site Engineer</a></td>
-<td>Twinsburg, OH<br/>Warrensville Heights, OH<br/>Fargo, ND</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476911197/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -819,62 +805,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>London, England, United Kingdom</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485271509/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Xero</strong></td>
-<td><a href="https://trueinterview.io/jobs/1fd198c3-5804-46e6-a913-79f40f1b088b">Engineer - SRE</a> 🌐</td>
-<td>Remote — Australia, United Kingdom</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/xero/09fa178b-b997-4f48-ae19-b8a61919cef0">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>CGI Nederland</strong></td>
-<td><a href="https://trueinterview.io/jobs/838de199-cdb1-4172-85d5-8d78cfcc8346">Site Reliability Engineer – Overheid, Zorg en Welzijn</a></td>
-<td>The Randstad, Netherlands</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484991389/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>QuantFlow</strong></td>
-<td><a href="https://trueinterview.io/jobs/9ea07b16-af71-4e7e-a95e-5025ab529f74">SRE / Linux Performance Engineer</a></td>
-<td>Amsterdam, North Holland, Netherlands</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484968798/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>PhonePe</strong></td>
-<td><a href="https://trueinterview.io/jobs/2b9342ec-f548-415b-91d8-960fa5ba3225">Site Operations Engineer</a></td>
-<td>Mumbai, Maharashtra, India</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/PHONEPELIMITED/1000000000003834-site-operations-engineer">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Kenton Black</strong></td>
-<td><a href="https://trueinterview.io/jobs/b30e8c79-d286-4129-b031-335101cd3b94">Site Engineer</a></td>
-<td>Oxford, England, United Kingdom</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484974320/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Bodycote</strong></td>
-<td><a href="https://trueinterview.io/jobs/a58a806a-d1f0-4734-8efa-49cd105601b3">Site Maintenance Engineer</a></td>
-<td>Coventry, England, United Kingdom</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4463268326/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>NCR Voyix</strong></td>
-<td><a href="https://trueinterview.io/jobs/8f144b62-41f3-44af-96ca-3352d8b67798">Site Reliability Engineer I</a></td>
-<td>Hyderabad, Telangana, India</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484450760/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Aureos</strong></td>
-<td><a href="https://trueinterview.io/jobs/22f7d7ad-70ac-4bea-9e05-06f2d7d8b07b">Expression of Interest - Graduate Site Engineer</a></td>
-<td>Warrington, England, United Kingdom<br/>Norfolk, England, United Kingdom</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4481377680/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
 </table>

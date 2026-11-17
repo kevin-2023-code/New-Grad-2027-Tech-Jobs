@@ -2,7 +2,7 @@
 
 # 🔒 Cybersecurity
 
-**26 open roles.** 21 in the United States & Canada · 5 elsewhere in the world. Security products, detection, identity and offensive-security vendors.
+**24 open roles.** 19 in the United States & Canada · 5 elsewhere in the world. Security products, detection, identity and offensive-security vendors.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -22,6 +22,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/0f077cce-b9aa-4436-80a6-77f57c60c724">Early Careers: Software Developer Engineer</a></td>
 <td>Sunnyvale, CA</td>
 <td align="center"><a href="https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/24983">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Opswat</strong></td>
+<td><a href="https://trueinterview.io/jobs/29a61a05-0452-445f-b2c4-658e34aa009e">Electrical Engineer</a></td>
+<td>Tampa, Florida, United States</td>
+<td align="center"><a href="https://www.opswat.com/jobs/4755059005?gh_jid=4755059005">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
@@ -142,27 +149,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — United States, Canada</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/tailscale/jobs/4715148005">Apply</a></td>
 <td align="center">1 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Outtake</strong></td>
-<td><a href="https://trueinterview.io/jobs/2ea25592-ccb0-423f-a388-5051bdab5104">Software Engineer, Security</a></td>
-<td>New York, NY<br/>New York City</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/outtake/5198b769-c1a0-4411-aa44-da68b308f22b">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Darktrace</strong></td>
-<td><a href="https://trueinterview.io/jobs/0dfacdb9-c561-45de-a8e8-9c9d0a68c4c8">Solutions Engineer, Acquisition</a></td>
-<td>Denver, CO<br/>Colorado, United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477122035/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Outtake</strong></td>
-<td><a href="https://trueinterview.io/jobs/9cef9b7f-ffb8-4dea-94d1-1f3f805cead8">Software Engineer, Frontend</a></td>
-<td>New York, NY<br/>New York City</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/outtake/b4b30206-10ef-4a1d-8df5-73386b36c628">Apply</a></td>
-<td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
 </table>

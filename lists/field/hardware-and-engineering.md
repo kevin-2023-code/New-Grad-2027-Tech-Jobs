@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**1,272 open roles.** 898 in the United States & Canada · 374 elsewhere in the world.
+**1,026 open roles.** 740 in the United States & Canada · 286 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -10,7 +10,7 @@
 
 _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-authorisation restriction._
 
-<sub>Page 1 of 4 · [Page 2 →](hardware-and-engineering-2.md)</sub>
+<sub>Page 1 of 3 · [Page 2 →](hardware-and-engineering-2.md)</sub>
 
 ## United States & Canada
 
@@ -34,6 +34,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Opswat</strong></td>
+<td><a href="https://trueinterview.io/jobs/29a61a05-0452-445f-b2c4-658e34aa009e">Electrical Engineer</a></td>
+<td>Tampa, Florida, United States</td>
+<td align="center"><a href="https://www.opswat.com/jobs/4755059005?gh_jid=4755059005">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>IBM</strong></td>
 <td><a href="https://trueinterview.io/jobs/927e4fa6-cdba-4d22-9b0b-0e4ee23e8d07">Quantum Control Systems Engineer (Hardware, FPGA, &amp; Embedded Systems)</a></td>
 <td>Yorktown Heights, NY</td>
@@ -44,7 +51,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>Intel</strong></td>
 <td><a href="https://trueinterview.io/jobs/6c7cbfd0-c0cb-4648-900f-590057036350">Silicon Photonics Thin Film Development Engineer</a></td>
 <td>Albuquerque, NM</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4491182420/">Apply</a></td>
+<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-New-Mexico-Albuquerque/Silicon-Photonics-Thin-Film-Development-Engineer_JR0289102">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
@@ -206,6 +213,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a381f31b-1e77-44b9-9554-d34b097454b9">Quality Engineering Specialist (LAP)</a></td>
 <td>Louisville, KY, United States</td>
 <td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71244">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>WSP</strong></td>
+<td><a href="https://trueinterview.io/jobs/a8ec552f-cf7f-4534-ba2a-8d96cc9d93cb">Early Career Environmental Engineer</a></td>
+<td>San Francisco, CA<br/>San Jose, CA<br/>Oakland, CA, United States</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98742">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
@@ -2805,23 +2819,9 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://jobs.ashbyhq.com/formenergy/c110566b-e9ab-4f8b-81a2-2073c4b49524">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
-<tr>
-<td><strong>CMC</strong></td>
-<td><a href="https://trueinterview.io/jobs/9392862f-c4c1-4b4f-b34d-80d2b6418bd1">Reliability Engineer</a></td>
-<td>Columbia, South Carolina Metropolitan Area</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4448921430/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Vast</strong></td>
-<td><a href="https://trueinterview.io/jobs/7fb092e6-0f29-4fcc-8046-44a7de659718">Electrical Engineer, Avionics</a></td>
-<td>Long Beach, California, United States</td>
-<td align="center"><a href="https://boards.greenhouse.io/vast/jobs/4726923006?gh_jid=4726923006">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
 </tbody>
 </table>
 
-<sub>Page 1 of 4 · [Page 2 →](hardware-and-engineering-2.md)</sub>
+<sub>Page 1 of 3 · [Page 2 →](hardware-and-engineering-2.md)</sub>
 
 [← Every filter](../README.md) · [Back to the full list](../../README.md)

@@ -2,11 +2,11 @@
 
 # 💻 Software Engineering
 
-**7,438 open roles.** 5,164 in the United States & Canada · 2,274 elsewhere in the world.
+**6,290 open roles.** 4,541 in the United States & Canada · 1,749 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
-<sub>[← Page 4](software-engineering-4.md) · Page 5 of 19 · [Page 6 →](software-engineering-6.md)</sub>
+<sub>[← Page 4](software-engineering-4.md) · Page 5 of 16 · [Page 6 →](software-engineering-6.md)</sub>
 
 ## United States & Canada
 
@@ -15,6 +15,20 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>State of South Dakota</strong></td>
+<td><a href="https://trueinterview.io/jobs/4b40b3b4-a298-4031-aa6f-dfce70964861">Software Engineer</a></td>
+<td>South Dakota, United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485834558/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Vaspire Technologies Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/080b2276-4faa-48af-b3fe-4321b1446fef">Java Developer</a></td>
+<td>Charlotte, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486775143/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Insight Global</strong></td>
 <td><a href="https://trueinterview.io/jobs/fac71711-0802-4ee2-932d-1fcd9c066e65">TS/SCI with Polygraph Cleared Software Developer</a></td>
@@ -2801,23 +2815,9 @@
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485522916/">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
-<tr>
-<td><strong>Livemindz</strong></td>
-<td><a href="https://trueinterview.io/jobs/09a4bf09-918c-4b40-838d-58f3ab1d2535">Cloud-Native Engineer</a></td>
-<td>Phoenix, AZ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485541140/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Lumen Solutions Group Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/6756ae5b-b2b9-4039-a969-4df539ca9366">Cybersecurity Engineer – Operational Technology (OT) / ICS / SCADA</a></td>
-<td>Washington, DC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485530741/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
 </tbody>
 </table>
 
-<sub>[← Page 4](software-engineering-4.md) · Page 5 of 19 · [Page 6 →](software-engineering-6.md)</sub>
+<sub>[← Page 4](software-engineering-4.md) · Page 5 of 16 · [Page 6 →](software-engineering-6.md)</sub>
 
 [← Every filter](../README.md) · [Back to the full list](../../README.md)

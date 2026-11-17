@@ -2,7 +2,7 @@
 
 # ⛰️ Vancouver & British Columbia
 
-**46 open roles.**
+**36 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -268,76 +268,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Vancouver, BC<br/>Vancouver, WA</td>
 <td align="center"><a href="https://vigorcareers.ttcportals.com/jobs/18429863-structural-engineer-i-marine?tm_job=929&amp;tm_event=view&amp;tm_company=92649">Apply</a></td>
 <td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Gdh</strong></td>
-<td><a href="https://trueinterview.io/jobs/1febc134-ea4e-4d7a-bbcb-385e22e7ffcb">Civil Engineer/Dams Engineer - Tailings</a></td>
-<td>Vancouver, BC, Canada</td>
-<td align="center"><a href="https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/28821">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Eupraxia Pharmaceuticals Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/c313d35e-173f-4fbd-a70d-40c856e7c9ca">Intermediate IT Service Desk Analyst</a></td>
-<td>Vancouver, BC<br/>Vancouver, British Columbia, Canada</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483092611/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>City of Vancouver</strong></td>
-<td><a href="https://trueinterview.io/jobs/f5e8e9b9-cbe8-4e04-946a-ece50fd41973">Building Code Engineer</a></td>
-<td>Vancouver, BC<br/>Vancouver, British Columbia, Canada</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4481142937/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Epic</strong></td>
-<td><a href="https://trueinterview.io/jobs/a230a8af-a888-4627-ab9a-ad27e0650187">Integration Solutions Engineer</a></td>
-<td>Vancouver, BC<br/>Casper, WY<br/>Lake Charles, LA<br/>+8 more</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4320272576/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Apera AI</strong></td>
-<td><a href="https://trueinterview.io/jobs/7c9a6911-db43-442b-aaf8-b0f27e1e8dc1">Mechatronics Engineer – Robotics &amp; Grasping</a></td>
-<td>Vancouver, BC<br/>Vancouver, British Columbia, Canada</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484986908/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>R.V. Anderson Associates Limited</strong></td>
-<td><a href="https://trueinterview.io/jobs/60f908eb-7f45-43e4-8c16-56740dbe631c">Engineering Designer, Urban and Riverine Syst</a></td>
-<td>Vancouver, BC<br/>Vancouver, British Columbia, Canada</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468660271/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/f27fb98e-d39b-4ddc-b7ec-68fda55e21ab">Software Development Engineer, WW Deals &amp; Promotions</a></td>
-<td>Vancouver, BC<br/>Vancouver, British Columbia, Canada</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4459080262/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Asana</strong></td>
-<td><a href="https://trueinterview.io/jobs/c4691173-ece2-4e31-883b-159ce333963a">Workday Integration Developer</a></td>
-<td>Vancouver, BC<br/>Vancouver, British Columbia, Canada</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4474473602/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>CGI</strong></td>
-<td><a href="https://trueinterview.io/jobs/18b02137-045b-40d4-bc46-edb6962711c8">.NET Cloud Native API Developer (Banking/ Financial Services)</a></td>
-<td>Vancouver, BC<br/>Vancouver, British Columbia, Canada</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4429908096/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Dilawri Group of Companies</strong></td>
-<td><a href="https://trueinterview.io/jobs/28a0413a-07e6-44dd-9fbe-5ade1a4ec3c6">IT Service Desk</a></td>
-<td>Vancouver, BC<br/>Vancouver, British Columbia, Canada</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4439345863/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
 </table>

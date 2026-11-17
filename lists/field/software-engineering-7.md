@@ -2,11 +2,11 @@
 
 # 💻 Software Engineering
 
-**7,438 open roles.** 5,164 in the United States & Canada · 2,274 elsewhere in the world.
+**6,290 open roles.** 4,541 in the United States & Canada · 1,749 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
-<sub>[← Page 6](software-engineering-6.md) · Page 7 of 19 · [Page 8 →](software-engineering-8.md)</sub>
+<sub>[← Page 6](software-engineering-6.md) · Page 7 of 16 · [Page 8 →](software-engineering-8.md)</sub>
 
 ## United States & Canada
 
@@ -15,6 +15,20 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Voltari Marine Electric</strong></td>
+<td><a href="https://trueinterview.io/jobs/f11f5b55-f0fb-4e7f-846d-ccd3d5d1f04f">Autonomous Systems Engineer</a></td>
+<td>Panama City, FL</td>
+<td align="center"><a href="https://voltarielectric.com/pages/careers">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Wesco</strong></td>
+<td><a href="https://trueinterview.io/jobs/a98d3ae6-e05a-4064-a948-93b857e20052">Structured Cabling Design Engineer (RCDD Required)</a></td>
+<td>Glenview, IL</td>
+<td align="center"><a href="https://eklm.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/35695">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>WILLCOR Inc</strong></td>
 <td><a href="https://trueinterview.io/jobs/a01fae70-bed6-45be-86c9-1388c804fb9d">Test Engineer</a></td>
@@ -2801,23 +2815,9 @@
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4486834336/">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
-<tr>
-<td><strong>DoorDash</strong></td>
-<td><a href="https://trueinterview.io/jobs/888d631e-4d37-46e6-94ef-05737c845ce1">Perception &amp; State Estimation Engineer - DoorDash Air</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/doordashusa/jobs/8348870">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>University of the Incarnate Word</strong></td>
-<td><a href="https://trueinterview.io/jobs/e049794f-83f4-4028-a223-45178785ac61">Systems Analyst/Programmer</a></td>
-<td>San Antonio, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486803856/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
 </tbody>
 </table>
 
-<sub>[← Page 6](software-engineering-6.md) · Page 7 of 19 · [Page 8 →](software-engineering-8.md)</sub>
+<sub>[← Page 6](software-engineering-6.md) · Page 7 of 16 · [Page 8 →](software-engineering-8.md)</sub>
 
 [← Every filter](../README.md) · [Back to the full list](../../README.md)

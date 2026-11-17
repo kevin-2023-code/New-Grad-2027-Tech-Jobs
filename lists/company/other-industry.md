@@ -2,7 +2,7 @@
 
 # 💼 Other industries
 
-**30 open roles.** 9 in the United States & Canada · 21 elsewhere in the world. A real classification that none of the other sectors covers.
+**27 open roles.** 6 in the United States & Canada · 21 elsewhere in the world. A real classification that none of the other sectors covers.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -58,27 +58,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>United States</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4481399071/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Fanatics Collectibles</strong></td>
-<td><a href="https://trueinterview.io/jobs/d8591b54-ed94-488e-8960-3f6e579b7923">Data Analyst, Autograph Operations &amp; Governance</a></td>
-<td>Sunnyvale, CA<br/>Sunnyvale, TX, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4467168009">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Accorhotel</strong></td>
-<td><a href="https://trueinterview.io/jobs/0e23c3e4-304d-425f-a049-e8599719093d">Building Engineer I</a></td>
-<td>Seattle, Washington, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/AccorHotel/744000158588201-building-engineer-i">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Fairlife</strong></td>
-<td><a href="https://trueinterview.io/jobs/12e6c88c-baef-4123-9e93-7bb94775a8f8">Operations Data Analyst</a></td>
-<td>Webster, NY<br/>Webster, New York, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/fairlife/jobs/5239915007">Apply</a></td>
-<td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
 </table>

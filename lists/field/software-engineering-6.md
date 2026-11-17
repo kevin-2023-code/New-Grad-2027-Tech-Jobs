@@ -2,11 +2,11 @@
 
 # 💻 Software Engineering
 
-**7,438 open roles.** 5,164 in the United States & Canada · 2,274 elsewhere in the world.
+**6,290 open roles.** 4,541 in the United States & Canada · 1,749 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
-<sub>[← Page 5](software-engineering-5.md) · Page 6 of 19 · [Page 7 →](software-engineering-7.md)</sub>
+<sub>[← Page 5](software-engineering-5.md) · Page 6 of 16 · [Page 7 →](software-engineering-7.md)</sub>
 
 ## United States & Canada
 
@@ -15,6 +15,20 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Livemindz</strong></td>
+<td><a href="https://trueinterview.io/jobs/09a4bf09-918c-4b40-838d-58f3ab1d2535">Cloud-Native Engineer</a></td>
+<td>Phoenix, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485541140/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Lumen Solutions Group Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/6756ae5b-b2b9-4039-a969-4df539ca9366">Cybersecurity Engineer – Operational Technology (OT) / ICS / SCADA</a></td>
+<td>Washington, DC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485530741/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Bangladesh Agricultural University Career Club (BAUCC)</strong></td>
 <td><a href="https://trueinterview.io/jobs/45925551-d0f4-414e-b70c-02229242de3f">Frontend Developer</a></td>
@@ -2801,23 +2815,9 @@
 <td align="center"><a href="https://valen-solutions.careers-page.com/jobs/a8a5e2c1-10bb-43f6-81e8-2d4a5bb5f936">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
-<tr>
-<td><strong>Voltari Marine Electric</strong></td>
-<td><a href="https://trueinterview.io/jobs/f11f5b55-f0fb-4e7f-846d-ccd3d5d1f04f">Autonomous Systems Engineer</a></td>
-<td>Panama City, FL</td>
-<td align="center"><a href="https://voltarielectric.com/pages/careers">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Wesco</strong></td>
-<td><a href="https://trueinterview.io/jobs/a98d3ae6-e05a-4064-a948-93b857e20052">Structured Cabling Design Engineer (RCDD Required)</a></td>
-<td>Glenview, IL</td>
-<td align="center"><a href="https://eklm.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/35695">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
 </tbody>
 </table>
 
-<sub>[← Page 5](software-engineering-5.md) · Page 6 of 19 · [Page 7 →](software-engineering-7.md)</sub>
+<sub>[← Page 5](software-engineering-5.md) · Page 6 of 16 · [Page 7 →](software-engineering-7.md)</sub>
 
 [← Every filter](../README.md) · [Back to the full list](../../README.md)

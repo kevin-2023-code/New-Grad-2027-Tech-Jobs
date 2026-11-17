@@ -2,7 +2,7 @@
 
 # 🇦🇺 Sydney, Melbourne & Aotearoa
 
-**160 open roles.** 4 in the United States & Canada · 156 elsewhere in the world.
+**145 open roles.** 4 in the United States & Canada · 141 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1043,111 +1043,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Melbourne, Victoria, Australia<br/>Red Hill, Queensland, Australia</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485277288/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Gdh</strong></td>
-<td><a href="https://trueinterview.io/jobs/9a603a2e-8a24-4745-86e1-858b089455d0">Software Developer - AI Enablement</a></td>
-<td>BRISBANE, QUEENSLAND, Australia<br/>MELBOURNE, VICTORIA, Australia<br/>SYDNEY, NEW SOUTH WALES, Australia<br/>+1 more</td>
-<td align="center"><a href="https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/28828">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Icon</strong></td>
-<td><a href="https://trueinterview.io/jobs/6bfda079-7b16-4e1b-b3da-85b55f7a24c9">Data &amp; Analytics Engineer</a></td>
-<td>Melbourne, Victoria, Australia<br/>Melbourne, Australia</td>
-<td align="center"><a href="https://apply.jobadder.com/17756/921499/zezvwcggaxpu5jv3pnshcllwdq?site=au6&amp;show=details">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Consolidated Power Projects</strong></td>
-<td><a href="https://trueinterview.io/jobs/256a207d-db53-49bf-8c07-5828523084eb">Project Engineer</a></td>
-<td>Brisbane, Queensland, Australia</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/QuantaServicesAustralia/6000000001535081-project-engineer">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Bynder</strong></td>
-<td><a href="https://trueinterview.io/jobs/b8039bd4-5d5e-435c-91a8-a94aa7ae912d">Solutions Engineer</a></td>
-<td>Sydney</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/bynder/1416fe50-1b83-465d-a467-28a0bd76b73b">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Halter</strong></td>
-<td><a href="https://trueinterview.io/jobs/bd1ca8f2-0639-4f02-ae07-115f1a73e1c5">C++ Engineer - Embedded Animal Guidance</a></td>
-<td>Auckland</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/halter/910487b5-28a4-4874-984a-42d11f2008e2">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Amentum</strong></td>
-<td><a href="https://trueinterview.io/jobs/328db534-a92a-46a9-ad9f-0575f3a155f0">Cyber Engineering Services</a></td>
-<td>Brisbane, Queensland, Australia</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4449447324/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Kinexus Australia</strong></td>
-<td><a href="https://trueinterview.io/jobs/81d41cf4-ae92-4d7b-8a09-11e0d3c3132f">Information Management Systems Administrator (TSPV)</a></td>
-<td>Canberra, Australian Capital Territory, Australia</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485206744/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Acadian Asset Management</strong></td>
-<td><a href="https://trueinterview.io/jobs/485a14d4-b491-4eaf-9909-4b1ed3c60b75">ESG Quant Analyst - Stewardship Specialist</a></td>
-<td>Sydney, New South Wales, Australia</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4446396227/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>CSIRO</strong></td>
-<td><a href="https://trueinterview.io/jobs/d17960c5-b7f7-4ebe-9d3c-178492cf1363">Web/UI Developer - SKA-Low Telescope</a></td>
-<td>Perth, Western Australia, Australia</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476791340/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Hatch</strong></td>
-<td><a href="https://trueinterview.io/jobs/7a86edaf-071a-4877-9888-525c8652aacf">Structural Engineer - Mining</a></td>
-<td>Brisbane, Queensland, Australia</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4475701816/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon Web Services (AWS)</strong></td>
-<td><a href="https://trueinterview.io/jobs/a7867a34-b4a0-4621-83ad-e666abc23450">ICT Design Engineer, DC Design Engineering</a></td>
-<td>Sydney, New South Wales, Australia</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484939985/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/e7b9aa43-18d1-4411-8637-d2a31380c45c">Systems Development Engineer, Route 53</a></td>
-<td>Melbourne, Victoria, Australia<br/>Sydney, New South Wales, Australia</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484943880/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Kinexus Australia</strong></td>
-<td><a href="https://trueinterview.io/jobs/562f4268-ad59-40b0-8618-5ae78cf81222">Software Engineers/Developers (TSPV) - ACT, VIC, WA</a></td>
-<td>Canberra, Australian Capital Territory, Australia</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484954226/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Future Secure AI</strong></td>
-<td><a href="https://trueinterview.io/jobs/a97ae4af-c06b-48eb-b30b-2482095c3726">Platform DevOps Engineer</a></td>
-<td>Melbourne, Victoria, Australia</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4432089312/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Kinexus Australia</strong></td>
-<td><a href="https://trueinterview.io/jobs/416ebf6d-64e3-437d-9187-72710d78badf">Citrix Systems Administrator (TSPV)</a></td>
-<td>Canberra, Australian Capital Territory, Australia</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484715431/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
 </table>

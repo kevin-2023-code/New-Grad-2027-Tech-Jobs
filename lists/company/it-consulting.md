@@ -2,7 +2,7 @@
 
 # 🧾 IT services & consulting
 
-**255 open roles.** 136 in the United States & Canada · 119 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
+**242 open roles.** 130 in the United States & Canada · 112 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -927,48 +927,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484583956/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
-<tr>
-<td><strong>General Dynamics Information Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/d1eb144e-025d-4bfc-9f53-3b3b6765da40">DSS PMD Systems Administrator</a></td>
-<td>Washington, DC</td>
-<td align="center"><a href="https://www.gdit.com/careers/job/3b085153d/dss-pmd-systems-administrator/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>CGI</strong></td>
-<td><a href="https://trueinterview.io/jobs/eeef70e9-55bc-467a-842d-335f60684f72">Business Intelligence Developer</a></td>
-<td>Arlington, VA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485255346/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Sopra Steria</strong></td>
-<td><a href="https://trueinterview.io/jobs/ecb9e0b5-cf59-4150-809a-bdbba8aeac09">Hardware Engineer – Aerospace</a></td>
-<td>Montréal, Québec, Canada</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/SopraSteria1/744000158600759-hardware-engineer-aerospace">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>CGI</strong></td>
-<td><a href="https://trueinterview.io/jobs/08a3e25b-977e-43cd-83c1-db16f1cde07f">Composition Developer</a></td>
-<td>Cary, NC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476987079/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/18b02137-045b-40d4-bc46-edb6962711c8">.NET Cloud Native API Developer (Banking/ Financial Services)</a></td>
-<td>Vancouver, BC<br/>Vancouver, British Columbia, Canada</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4429908096/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Orion Innovation</strong></td>
-<td><a href="https://trueinterview.io/jobs/31b1ba7d-6bbb-4827-a4a1-4b3ee6bfb4d8">DB2 Database Administrator</a></td>
-<td>New City, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4475434726/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -1764,55 +1722,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Courbevoie, France</td>
 <td align="center"><a href="https://careers.soprasteria.com/job/data-engineer-spark-scala-services-financiers-ile-de-france-in-courbevoie-france-jid-6217">Apply</a></td>
 <td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>IBM</strong></td>
-<td><a href="https://trueinterview.io/jobs/ff6200a6-ce19-48b3-b218-8fd778f438ed">Application Developer-Salesforce</a></td>
-<td>Hyderabad, Telangana, India</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477117943/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>CGI</strong></td>
-<td><a href="https://trueinterview.io/jobs/e926e916-b7ff-4002-b7d8-6f98f46ff9c6">Threat Detection Engineer</a></td>
-<td>Reading, England, United Kingdom</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485201014/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Sopra Steria</strong></td>
-<td><a href="https://trueinterview.io/jobs/4f5aff32-4160-474b-b50b-a0d549b4cd18">Cyber Security Engineer – Security Operations (m/w/d)</a></td>
-<td>Munich, Bavaria, Germany<br/>München, Germany</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/SopraSteria1/744000158496579-cyber-security-engineer-security-operations-m-w-d-">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/8b18fae3-eec2-44a6-8480-85621ca00407">Cloud Native Product Owner - Public Sector (m/w/d)</a></td>
-<td>Germany<br/>bundesweit, Germany</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/SopraSteria1/744000158500849-cloud-native-product-owner-public-sector-m-w-d-">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/6f9eae96-09a5-45e4-8d07-0ed26460a4a7">Cloud Engineer (m/w/d)</a></td>
-<td>Stockholm, Stockholms län, Sweden<br/>Malmö, Skåne län, Sweden<br/>bundesweit, Germany<br/>+1 more</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/SopraSteria1/744000158562559-cloud-engineer-m-w-d-">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>CGI</strong></td>
-<td><a href="https://trueinterview.io/jobs/69a928d6-2d09-4b92-93fc-1991354cd7e7">Forward Deployed AI Engineer – OpenAI / Agentic AI</a></td>
-<td>London, England, United Kingdom</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476922509/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Atos</strong></td>
-<td><a href="https://trueinterview.io/jobs/e8e62dbf-f869-4640-a643-1003bcb91590">TEST ENGINEER</a></td>
-<td>Amstelveen, North Holland, Netherlands</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4474433959/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
 </table>

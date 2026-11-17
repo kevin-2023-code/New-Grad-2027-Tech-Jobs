@@ -2,7 +2,7 @@
 
 # 🌵 Phoenix & Arizona
 
-**146 open roles.**
+**128 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -912,132 +912,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Tucson, AZ</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485295222/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Apex Systems</strong></td>
-<td><a href="https://trueinterview.io/jobs/ac26902a-7a6e-470d-b3d6-ccb019cf0da2">Infrastructure Integration Engineer</a></td>
-<td>Chandler, AZ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485269000/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>WSP in the U.S.</strong></td>
-<td><a href="https://trueinterview.io/jobs/34908d9f-fa6c-422a-a4de-d515aa8ae191">Early Career Electrical Engineer (ESSP)</a></td>
-<td>Phoenix, AZ<br/>Denver, CO<br/>San Diego, CA<br/>+1 more</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4459387454/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/b8d07086-6b41-4d80-bfa8-fedb399c2141">Data Center Mechanical Engineer, Assistant Consultant</a></td>
-<td>Tempe, AZ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4475494190/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Areté</strong></td>
-<td><a href="https://trueinterview.io/jobs/be6c1909-5fc0-4529-8d3d-eef6f8e3c662">Electrical Engineer</a></td>
-<td>Tucson, AZ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4464368641/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>CyberCoders</strong></td>
-<td><a href="https://trueinterview.io/jobs/97b3f7d8-f5bd-4e53-859b-e3faa08f9820">Controls Engineer</a></td>
-<td>Mesa, AZ<br/>Fruitland, ID<br/>Fort Worth, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4434503337/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>SSOE Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/e43f862e-c80d-46ef-95cb-e1b5238611d5">Chemical Process Engineer</a></td>
-<td>Scottsdale, AZ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476930525/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/86acfdaa-1d34-4222-896c-beb860dcf736">Mechanical Process Engineer</a></td>
-<td>Scottsdale, AZ<br/>Austin, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476938222/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Olsson</strong></td>
-<td><a href="https://trueinterview.io/jobs/baeaf3d1-964d-490c-9c29-66d5b96c3fe9">Entry-Level Geotechnical Engineer (EIT)</a></td>
-<td>Tempe, AZ<br/>Denver, CO<br/>Oklahoma City Metropolitan Area<br/>+6 more</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5466862008">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Raas Infotek</strong></td>
-<td><a href="https://trueinterview.io/jobs/f1677f51-2b9b-456c-979e-d61b74ec33d1">Network Engineer</a></td>
-<td>Tempe, AZ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484970695/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/5c6bdd33-2340-449f-9777-1d21e04d8765">Network Engineer L3 : W2 ROLE</a></td>
-<td>Tempe, AZ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484978316/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Sira Consulting, an Inc 5000 company</strong></td>
-<td><a href="https://trueinterview.io/jobs/06c9094a-261a-42b7-abba-63f8e25c9e41">Network Engineer L3</a></td>
-<td>Tempe, AZ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484971843/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Hexagon Mining</strong></td>
-<td><a href="https://trueinterview.io/jobs/469845fc-523c-4e78-ab0a-d8183110974f">Product Cybersecurity Specialist</a></td>
-<td>Tucson, AZ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484983418/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Hadrian</strong></td>
-<td><a href="https://trueinterview.io/jobs/523bff64-8db8-4504-a21d-29b8e2502104">Technical Field Engineer</a></td>
-<td>Mesa, AZ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4474484405/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Themesoft Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/02f62440-1292-474f-ac06-f6193ec3d2e5">Linux Engineer</a></td>
-<td>Chandler, AZ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484961777/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>U-Haul</strong></td>
-<td><a href="https://trueinterview.io/jobs/89c8a192-4bff-453f-85b7-bb9a250c362f">Software Development Test Engineer (SDET)</a></td>
-<td>Phoenix, AZ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476977253/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Themesoft Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/bd0b2a1c-06c6-4198-a5f9-fab91984c0e3">Validation Engineer</a></td>
-<td>Chandler, AZ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484953970/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Arkhya Tech Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/85e42c47-3b9e-4729-a132-6e4e857d9a72">PostgreSQL Database Engineer</a></td>
-<td>Scottsdale, AZ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484976019/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Robert Half</strong></td>
-<td><a href="https://trueinterview.io/jobs/82c8508a-eded-44ab-b9f8-e4174042fd7d">Help Desk/Desktop Support Analyst</a></td>
-<td>Tucson, AZ<br/>Monrovia, CA<br/>White Plains, NY<br/>+4 more</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484459864/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
 </table>

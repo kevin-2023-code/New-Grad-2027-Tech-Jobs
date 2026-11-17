@@ -2,7 +2,7 @@
 
 # 🌍 Dubai, Cairo, Lagos & Africa
 
-**56 open roles.** 1 in the United States & Canada · 55 elsewhere in the world.
+**55 open roles.** 1 in the United States & Canada · 54 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -413,13 +413,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Dubai, UAE</td>
 <td align="center"><a href="https://t.gohiring.com/h/f88c1c91fdb9631d1c7c744a4be4941d9d9fc35c0b10832422ebc4bb059b72ba">Apply</a></td>
 <td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Scale</strong></td>
-<td><a href="https://trueinterview.io/jobs/f27f6fb0-18cf-4761-bbf5-e4d022d50922">Product Designer, Global Public Sector</a></td>
-<td>Dubai, Dubai, United Arab Emirates<br/>Doha, Qatar</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467991532/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
 </table>

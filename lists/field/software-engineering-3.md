@@ -2,11 +2,11 @@
 
 # 💻 Software Engineering
 
-**7,438 open roles.** 5,164 in the United States & Canada · 2,274 elsewhere in the world.
+**6,290 open roles.** 4,541 in the United States & Canada · 1,749 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
-<sub>[← Page 2](software-engineering-2.md) · Page 3 of 19 · [Page 4 →](software-engineering-4.md)</sub>
+<sub>[← Page 2](software-engineering-2.md) · Page 3 of 16 · [Page 4 →](software-engineering-4.md)</sub>
 
 ## United States & Canada
 
@@ -15,6 +15,27 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Verne</strong></td>
+<td><a href="https://trueinterview.io/jobs/d56987bf-936c-4be5-93f6-08a256403b5d">Software Engineer</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/Verne/34b8ec26-2bb0-47b0-912c-09fa0389b2c6">Apply</a></td>
+<td align="center">8 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Torentify</strong></td>
+<td><a href="https://trueinterview.io/jobs/665ecd06-d5fd-498b-9f5b-c47538999842">Frontend Developer</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488762446/">Apply</a></td>
+<td align="center">8 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Ensisinfo Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/e7221580-3074-474a-a710-af41e8b771b2">SAP Integration Engineer</a></td>
+<td>Carmichael, CA</td>
+<td align="center"><a href="https://ensisinfo-inc.careerplug.com/j/03730xo">Apply</a></td>
+<td align="center">8 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Randstad Digital Americas</strong></td>
 <td><a href="https://trueinterview.io/jobs/feac9509-9f9c-45d8-a117-d382ef3646d3">L3 Full Stack Engineer 20/80</a></td>
@@ -2794,30 +2815,9 @@
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4296661060/">Apply</a></td>
 <td align="center">6 Nov 2026</td>
 </tr>
-<tr>
-<td><strong>Tata Consultancy Services</strong></td>
-<td><a href="https://trueinterview.io/jobs/74217c84-df63-4c79-b466-72e61304004e">Fullstack Developer with AI</a></td>
-<td>Irving, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4453002229/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Atlas Copco</strong></td>
-<td><a href="https://trueinterview.io/jobs/3326ea75-0bf1-47e8-8ae9-458aac3ba6f9">CNC Programmer</a></td>
-<td>Voorheesville, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477513800/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/f5480f42-7ab1-4d86-b44a-60009dc88f6d">Software Development Engineer, ZeroTouch GSG at Amazon Leo</a></td>
-<td>Redmond, WA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4471113930/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
 </tbody>
 </table>
 
-<sub>[← Page 2](software-engineering-2.md) · Page 3 of 19 · [Page 4 →](software-engineering-4.md)</sub>
+<sub>[← Page 2](software-engineering-2.md) · Page 3 of 16 · [Page 4 →](software-engineering-4.md)</sub>
 
 [← Every filter](../README.md) · [Back to the full list](../../README.md)

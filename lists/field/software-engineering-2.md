@@ -2,11 +2,11 @@
 
 # 💻 Software Engineering
 
-**7,438 open roles.** 5,164 in the United States & Canada · 2,274 elsewhere in the world.
+**6,290 open roles.** 4,541 in the United States & Canada · 1,749 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
-<sub>[← Page 1](software-engineering.md) · Page 2 of 19 · [Page 3 →](software-engineering-3.md)</sub>
+<sub>[← Page 1](software-engineering.md) · Page 2 of 16 · [Page 3 →](software-engineering-3.md)</sub>
 
 ## United States & Canada
 
@@ -15,6 +15,27 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>CAE</strong></td>
+<td><a href="https://trueinterview.io/jobs/e28fa6a3-ae8f-4b75-9416-2f85dd8209bc">Software Engineer</a></td>
+<td>Wright-Patterson AFB, OH</td>
+<td align="center"><a href="https://cae.wd3.myworkdayjobs.com/en-US/career/job/Wright-Patterson-AFB-OH/Software-Engineer_124607-1">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Capgemini</strong></td>
+<td><a href="https://trueinterview.io/jobs/657770a7-b980-4306-8a96-e78239197056">Observability Engineer with Promethues/Cortex/Grafana</a></td>
+<td>Alpharetta, GA</td>
+<td align="center"><a href="https://capgemini.talentnet.community/jobs/39b227c8-1842-4586-a13f-9949849d2219">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/ad83b48d-cf08-47c0-8625-26c1f109bbca">Salesforce Developer</a></td>
+<td>Los Angeles, CA</td>
+<td align="center"><a href="https://capgemini.talentnet.community/jobs/df085346-a79c-4f69-aaa5-50154f6ca1da">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Capital Markets Gateway</strong></td>
 <td><a href="https://trueinterview.io/jobs/5bda0786-4541-41e4-b58c-9204ed55167d">Security Operations Engineer</a></td>
@@ -2794,30 +2815,9 @@
 <td align="center"><a href="https://jobs.ashbyhq.com/Verne/e8d61490-789c-4912-a445-2095d438a147">Apply</a></td>
 <td align="center">8 Nov 2026</td>
 </tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/d56987bf-936c-4be5-93f6-08a256403b5d">Software Engineer</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/Verne/34b8ec26-2bb0-47b0-912c-09fa0389b2c6">Apply</a></td>
-<td align="center">8 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Torentify</strong></td>
-<td><a href="https://trueinterview.io/jobs/665ecd06-d5fd-498b-9f5b-c47538999842">Frontend Developer</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4488762446/">Apply</a></td>
-<td align="center">8 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Ensisinfo Inc</strong></td>
-<td><a href="https://trueinterview.io/jobs/e7221580-3074-474a-a710-af41e8b771b2">SAP Integration Engineer</a></td>
-<td>Carmichael, CA</td>
-<td align="center"><a href="https://ensisinfo-inc.careerplug.com/j/03730xo">Apply</a></td>
-<td align="center">8 Nov 2026</td>
-</tr>
 </tbody>
 </table>
 
-<sub>[← Page 1](software-engineering.md) · Page 2 of 19 · [Page 3 →](software-engineering-3.md)</sub>
+<sub>[← Page 1](software-engineering.md) · Page 2 of 16 · [Page 3 →](software-engineering-3.md)</sub>
 
 [← Every filter](../README.md) · [Back to the full list](../../README.md)

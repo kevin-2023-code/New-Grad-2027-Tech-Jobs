@@ -2,7 +2,7 @@
 
 # 🎸 Austin
 
-**272 open roles.** 271 in the United States & Canada · 1 elsewhere in the world.
+**245 open roles.** 244 in the United States & Canada · 1 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -36,6 +36,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/25514002-7d92-42b3-8373-ca92709e968b">Engineer, Software (EGDP)</a></td>
 <td>Austin, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4491196486/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Buspatrol</strong></td>
+<td><a href="https://trueinterview.io/jobs/e4051bcd-808e-467e-92bc-c07384c5bee7">IT Ops Automation Engineer</a></td>
+<td>Austin, TX<br/>Austin, Texas</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/buspatrol/e5264fb2-c237-4a06-bcba-fd5aeaa31569">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
@@ -99,6 +106,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/16c0677a-152b-468e-9814-91cdd6f99e9c">Engineer, Software - Graduate Development Program</a></td>
 <td>Austin, TX</td>
 <td align="center"><a href="https://careers.celestica.com/job/Austin-Engineer%2C-Software-Graduate-Development-Program-TX-73301/1458031533/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>University of Texas at Austin</strong></td>
+<td><a href="https://trueinterview.io/jobs/8f152f04-c24b-4ecb-946c-ee46b62fd168">Research Engineering/Scientist Professional</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://utaustin.wd1.myworkdayjobs.com/en-US/UTstaff/job/UT-MAIN-CAMPUS/Research-Engineering-Scientist-Professional_R_00050027">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
@@ -1710,209 +1724,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Austin, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484798210/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Allied Consultants, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/31680464-782f-4aee-b811-eebad37af178">AI Cloud Engineer</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485251590/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>AMD</strong></td>
-<td><a href="https://trueinterview.io/jobs/1a7b6272-2e9b-4a9c-a0cc-66dc4e3f169f">Data Center GPU Board Power Validation Engineer</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://careers.amd.com/jobs/95819/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>PTR Global</strong></td>
-<td><a href="https://trueinterview.io/jobs/7697250f-670e-417c-9317-0a561755475e">Web UI Engineer (Building Livestream tool exp must needed: hls.js experience)</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485244257/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>RobCo</strong></td>
-<td><a href="https://trueinterview.io/jobs/2322b649-33fd-4278-a27d-0a03366334fc">Robotics Support Engineer</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/robco/573e62ee-099e-4a62-8dd0-d7b27cf72703">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Saronic Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/fb47dc81-16f8-4727-b70c-73e6009676d3">Forward Deployed Build Engineer</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/saronic/96c1f534-bd49-481c-88c5-85d344b20c82">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>SSOE Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/86acfdaa-1d34-4222-896c-beb860dcf736">Mechanical Process Engineer</a></td>
-<td>Austin, TX<br/>Scottsdale, AZ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476938222/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>FlatironDragados</strong></td>
-<td><a href="https://trueinterview.io/jobs/b67956b7-a832-4a45-be37-79586ac93a1b">New College Grad - Field Engineer</a></td>
-<td>Austin, TX<br/>San Diego, CA<br/>Redding, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4391920417/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Stelvio Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/41a1bee0-b42b-465e-8160-45d9fc6acade">Artificial Intelligence Engineer</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485200754/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Molex</strong></td>
-<td><a href="https://trueinterview.io/jobs/fdcee693-2347-4f22-8ec1-57b5699dd93e">Machine Learning Engineer</a></td>
-<td>Austin, TX<br/>Lisle, IL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4452857943/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>ISITE TECHNOLOGIES</strong></td>
-<td><a href="https://trueinterview.io/jobs/a6bc62bc-bcc2-4ac9-8f3e-10212a54be20">Ruby on Rails Developer</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484999162/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/f155cccc-06cf-4c99-9b27-015e439037fd">Robotics Systems Engineer, Tech Deployment</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477163405/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Annapurna Labs</strong></td>
-<td><a href="https://trueinterview.io/jobs/f52e7973-07ee-4113-9ebd-1f05e64d23ed">Software Engineer - Hardware Abstraction Layer, AWS Machine Learning Accelerators</a></td>
-<td>Austin, TX<br/>Cupertino, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468622492/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/fe5508fe-60f3-4ec3-8abd-c4e1992f5488">Network Development Engineer , Wireless and Access Networks, Network Access Technologies</a></td>
-<td>Austin, TX<br/>Bellevue, WA<br/>Nashville, TN</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467931059/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Riot Platforms, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/2e4830a5-b584-482b-b90c-8003b2d9dd17">IT Support Technician I</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4458341951/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Apexon</strong></td>
-<td><a href="https://trueinterview.io/jobs/0e3ce218-c28b-4438-96d4-d9286d4510e8">Oracle Plsql Developer</a></td>
-<td>Round Rock, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484980387/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon Web Services (AWS)</strong></td>
-<td><a href="https://trueinterview.io/jobs/f11ca5bc-8772-4a63-be2b-8e1dc0612cde">BIM Global Librarian, AWS Data Center Engineering</a></td>
-<td>Austin, TX<br/>Herndon, VA<br/>Seattle, WA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4458268407/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Tenstorrent</strong></td>
-<td><a href="https://trueinterview.io/jobs/a7886820-4a06-4884-a724-3132996f4d22">Signal Integrity Engineer</a></td>
-<td>Austin, TX<br/>Austin, Texas, United States<br/>Boston, Massachusetts, United States<br/>+3 more</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/tenstorrent/jobs/5091260007">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Mott MacDonald</strong></td>
-<td><a href="https://trueinterview.io/jobs/ffa06a5a-5c3a-425c-988f-0f0caa08cfba">Graduate Electrical Engineer- 2027</a></td>
-<td>Austin, TX<br/>The Woodlands, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476958133/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>LCRA</strong></td>
-<td><a href="https://trueinterview.io/jobs/22939d86-ffa7-4c94-8c73-c7678dd87eed">Substation Engineer</a></td>
-<td>Austin, TX<br/>Austin, Texas Metropolitan Area</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4446258373/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Apple</strong></td>
-<td><a href="https://trueinterview.io/jobs/65b866f2-6b8b-41f1-bbeb-67881621b218">Graphics (GPU) RTL Design Engineer</a></td>
-<td>Austin, TX<br/>Santa Clara, California, United States</td>
-<td align="center"><a href="https://jobs.apple.com/en-us/details/200692248">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Strativ Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/9e98a1fc-8acf-4042-ba30-1188caac1aa3">Electrical Engineer</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484971202/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>EEA Consulting Engineers</strong></td>
-<td><a href="https://trueinterview.io/jobs/b6cb1df2-5291-4da0-97fd-6c96d0b71bc6">Electrical Engineer</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4448231640/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Tata Consultancy Services</strong></td>
-<td><a href="https://trueinterview.io/jobs/1f98e54c-480c-455e-a2e5-424eb3d83458">Security Engineer</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467125313/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/f311a589-88b2-428d-8c8b-1371e0852405">Systems Design lab Engineer</a></td>
-<td>Austin, TX<br/>Thorndale, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4465590263/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/c1fb7e64-b02c-4e87-8a14-722e156d3300">System Development Engineer, Customer Logistics Security (CLS) Detection Engineering</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484950457/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Horizontal Talent</strong></td>
-<td><a href="https://trueinterview.io/jobs/383b3b1f-9cee-402a-b60c-4341c70c1fd9">Data Center Engineer</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4474492052/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Dayshape</strong></td>
-<td><a href="https://trueinterview.io/jobs/df64dd42-57dd-46f7-b904-b9aed11a21cc">Application Support Engineer (US)</a></td>
-<td>Austin, TX<br/>Middlesex County, NJ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484939848/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Serval</strong></td>
-<td><a href="https://trueinterview.io/jobs/f5ed4d95-6e91-4b77-b95c-219f2a3a3599">Solutions Engineer, Enterprise</a></td>
-<td>Austin, TX<br/>San Francisco, CA<br/>New York, NY</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/Serval/e8634849-5a78-43ae-8ee7-9900c3db2149">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Fluidstack</strong></td>
-<td><a href="https://trueinterview.io/jobs/0f77ba2f-1e3d-472a-99f3-d789aa712f75">Network Engineer, Connectivity &amp; Strategy</a></td>
-<td>Austin, TX<br/>San Francisco, CA<br/>New York, NY<br/>+1 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/172c522b-b085-401b-8bd6-c7e98c1da318">Apply</a></td>
-<td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
 </table>

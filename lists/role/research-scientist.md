@@ -2,7 +2,7 @@
 
 # Research Scientist
 
-**250 open roles.** 211 in the United States & Canada · 39 elsewhere in the world.
+**232 open roles.** 196 in the United States & Canada · 36 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -155,6 +155,41 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/59ec97db-cdbf-46d4-baa6-b07ae9444465">Research Scientist, Large-Scale Data Science and Learning</a></td>
 <td>Oak Ridge, TN</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4489795704/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Loyola Marymount University</strong></td>
+<td><a href="https://trueinterview.io/jobs/88c1ec04-46f9-4e33-bf22-36347acbfa79">Research Scientist</a></td>
+<td>Los Angeles, CA</td>
+<td align="center"><a href="https://lmu.wd1.myworkdayjobs.com/en-US/Careers/job/Westchester-Campus/Research-Scientist_R16919">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>MD Anderson Cancer Center</strong></td>
+<td><a href="https://trueinterview.io/jobs/ba2bf64a-7d1c-45d1-b409-565fac3f0f47">Research Medical Laboratory Scientist</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://jobs.mdanderson.org/search/jobdetails/research-medical-laboratory-scientist/2cad9e26-4734-4583-a999-7dc92992679c">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Pittsburg State University</strong></td>
+<td><a href="https://trueinterview.io/jobs/cf568db4-c067-44b7-a2a3-c53ba5db313e">Research Scientist: Specialized in Commercialization</a></td>
+<td>Pittsburg, KS</td>
+<td align="center"><a href="https://ebyf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/preview/217">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/80cce312-56f7-4fbc-b391-9944219a05ca">Research Scientist: Specialized in Graphene/2D Materials</a></td>
+<td>Pittsburg, KS</td>
+<td align="center"><a href="https://ebyf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/preview/218">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>University of Texas at Austin</strong></td>
+<td><a href="https://trueinterview.io/jobs/8f152f04-c24b-4ecb-946c-ee46b62fd168">Research Engineering/Scientist Professional</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://utaustin.wd1.myworkdayjobs.com/en-US/UTstaff/job/UT-MAIN-CAMPUS/Research-Engineering-Scientist-Professional_R_00050027">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
@@ -1354,146 +1389,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4476951678/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/40c790e9-a6ed-4abe-aee5-f05ef2eba280">Applied Scientist, Perfect Order Experience (POE)</a></td>
-<td>Seattle, WA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468269147/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Galois, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/3bdf3880-8b9f-450f-91b2-265fa85afced">Research Engineer - Formal Methods</a></td>
-<td>Boston, MA</td>
-<td align="center"><a href="https://apply.workable.com/j/27201CB2DA">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>SLB</strong></td>
-<td><a href="https://trueinterview.io/jobs/d553a849-dcbe-4b49-b3cc-1833f3f90b30">Research Scientist, Energy Innovation</a></td>
-<td>Cambridge, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4474467188/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>NY Creates</strong></td>
-<td><a href="https://trueinterview.io/jobs/87b4670f-8d64-4f58-a92e-340f4ab7e3d4">Research Scientist (Quantum Technologies)</a></td>
-<td>Albany, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468659694/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>University of Mississippi</strong></td>
-<td><a href="https://trueinterview.io/jobs/ea296040-d081-4c65-81e3-102896fe441d">Research Scientist - National Center for Computational Hydroscience and Engineering (NCCHE)</a></td>
-<td>University, MS</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4440099944/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Skild AI</strong></td>
-<td><a href="https://trueinterview.io/jobs/6b7adb5d-7359-43bb-8f50-8d16c0661f9f">Research Scientist</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484992438/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/9a6d8464-3102-4e81-bc86-4abd6b2751dc">Research Engineer</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484987569/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/50ff7974-1964-4f46-995e-2d7fb6c0138d">Applied Scientist, Modeling and Optimization</a></td>
-<td>Bellevue, WA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467733417/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Brigham and Women's Hospital</strong></td>
-<td><a href="https://trueinterview.io/jobs/971d43ed-b512-4a77-9e38-4246513a88f4">Research Scientist</a></td>
-<td>Boston, MA</td>
-<td align="center"><a href="https://massgeneralbrigham.wd1.myworkdayjobs.com/MGBExternal/job/Boston-MA/Research-Scientist_RQ4084711">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Luma</strong></td>
-<td><a href="https://trueinterview.io/jobs/5d9b81d5-0b1b-4fec-9edb-ff973ebaf1c4">Research Scientist / Engineer – Performance Optimization</a></td>
-<td>London, England, United Kingdom<br/>Seattle, WA<br/>New York, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476972332/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/e008d552-c11b-4433-aea2-de6a31e7762a">Applied Scientist, One MHS - Software, Controls, Science</a></td>
-<td>Boston, MA<br/>North Reading, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467918161/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>JR Automation</strong></td>
-<td><a href="https://trueinterview.io/jobs/214fa539-36de-498e-85cc-cce5fd49c4b3">Chercheur scientifique – Réseau électrique Cybersécurité/Research Scientist – Power Grid Cybersecurity</a></td>
-<td>Saint-Laurent, Quebec, Canada</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484961851/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Deep Genomics</strong></td>
-<td><a href="https://trueinterview.io/jobs/bf547839-9f84-4037-9111-da9a5cb8c64f">Research Scientist In Vitro Pharmacology</a></td>
-<td>Cambridge, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476942496/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Charles River Laboratories</strong></td>
-<td><a href="https://trueinterview.io/jobs/ebb73525-a90e-43b1-a82f-ac5fc766cfb7">Research Scientist - Safety Assessment Toxicology</a></td>
-<td>Laval, Quebec, Canada</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476791816/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>AlphaX</strong></td>
-<td><a href="https://trueinterview.io/jobs/0e27e8c2-ac39-4637-85e1-917d9bde8301">Research Scientist - Construction Scheduling &amp; Workforce Risk</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://apply.workable.com/j/933A808F5E">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>AlphaGov</strong></td>
-<td><a href="https://trueinterview.io/jobs/cbee0daa-1ee2-4b6f-ae11-a959aee2d3e2">Research Scientist - Construction Scheduling &amp; Workforce Risk</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484982016/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>OpenAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/94a64afd-5337-4169-8b34-63cf75a0bea7">Research Engineer / Research Scientist / AI Systems Engineer, RSI</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/7243bdb7-7f75-4dff-a10f-18bd7296f632">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/1a702bb2-6830-407b-ac5b-df8853fcb65b">Research Engineer / Research Scientist - Personal AGI, Memory</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4448246875/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Jobverse.io</strong></td>
-<td><a href="https://trueinterview.io/jobs/5a01a5dc-8010-4bd3-9eb4-0b1a8872c088">Research Scientist – World Modeling</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484959608/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/1d5e1ae7-13fc-4202-97a7-c1ba21458e76">Research Scientist, Deep Learning Models</a></td>
-<td>Cambridge, OH</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484959613/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -1506,6 +1401,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Clera</strong></td>
+<td><a href="https://trueinterview.io/jobs/61db1de8-0971-46ca-9473-074725fe0e64">Forward Deployed Research Engineer</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/Clera/6631e00e-2147-4862-bf98-2f9d4f7fb840">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>WD</strong></td>
 <td><a href="https://trueinterview.io/jobs/b420d610-c166-48ab-a1c7-8b52b1dccfc0">AI Research Scientist, Scientific ML</a></td>
@@ -1750,34 +1652,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Oberkochen, Deutschland</td>
 <td align="center"><a href="https://zeissgroup.wd3.myworkdayjobs.com/en-US/External/job/Oberkochen/Research-Scientist--m-w-x--AI-Driven-Transformation-of-Optical-System-Development_JR_1053995-1">Apply</a></td>
 <td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Neo4j</strong></td>
-<td><a href="https://trueinterview.io/jobs/4f22e592-8510-4ace-bb53-b330795c0007">Research Engineer</a></td>
-<td>London Area, United Kingdom</td>
-<td align="center"><a href="https://boards.greenhouse.io/neo4j/jobs/4708465006?gh_jid=4708465006">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Mistral AI</strong></td>
-<td><a href="https://trueinterview.io/jobs/5cfd0783-8e11-4412-b1e7-4c09b81d45c8">Research Engineer, Robotics</a></td>
-<td>Paris</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/mistral.ai/25944723-62e2-498e-8149-a588907c39d6">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Oxford Dynamics</strong></td>
-<td><a href="https://trueinterview.io/jobs/a5ccd90e-dea0-4743-9c88-5bf6a35350c4">Research Engineer (India based)</a></td>
-<td>India</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484939880/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Arctic Research and Development</strong></td>
-<td><a href="https://trueinterview.io/jobs/e1fb0a6b-c279-404a-a791-aed3cced7d39">Research Scientist - Cryosphere</a></td>
-<td>Cirencester, England, United Kingdom</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4455677939/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
 </table>

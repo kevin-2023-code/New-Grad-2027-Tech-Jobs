@@ -2,30 +2,13 @@
 
 # 🇮🇪 Dublin & Ireland
 
-**76 open roles.** 1 in the United States & Canada · 75 elsewhere in the world.
+**56 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
 > A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page.
 
 _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-authorisation restriction._
-
-## United States & Canada
-
-<table>
-<thead>
-<tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>HCLTech</strong></td>
-<td><a href="https://trueinterview.io/jobs/d22a3d3f-829c-47a0-ae93-8ea415355c64">Desktop Support Technician</a></td>
-<td>Cork, County Cork, Ireland<br/>Oklahoma City, OK</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484709524/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-</tbody>
-</table>
 
 ## Elsewhere in the world
 
@@ -36,6 +19,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Primark</strong></td>
+<td><a href="https://trueinterview.io/jobs/f940bd9d-525d-46dd-a252-33cd1d89e417">Product Owner - Sourcing, Product Data &amp; ESG</a></td>
+<td>Dublin, Ireland<br/>Reading, United Kingdom</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Primark/744000162115219-product-owner-sourcing-product-data-esg">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Amazon Web Services (AWS)</strong></td>
 <td><a href="https://trueinterview.io/jobs/4c834448-1d87-42bf-a776-9a773c40444b">Structural BIM Designer, Data Centre Design Services</a></td>
@@ -420,146 +410,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Cork, Munster, Ireland<br/>Cork, County Cork, Ireland</td>
 <td align="center"><a href="https://jobs.apple.com/en-us/details/200682946">Apply</a></td>
 <td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Cundall</strong></td>
-<td><a href="https://trueinterview.io/jobs/0b6cd863-e3e0-496d-9572-0e54b30ecf0b">Graduate Mechanical Critical Systems Engineer</a></td>
-<td>Dublin, County Dublin, Ireland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4474836136/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon Web Services (AWS)</strong></td>
-<td><a href="https://trueinterview.io/jobs/91e09301-9af5-4889-95f4-0a3ab4cfd460">Kernel / Hypervisor Engineer, Firecracker</a></td>
-<td>Dublin, County Dublin, Ireland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485224439/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Analog Devices</strong></td>
-<td><a href="https://trueinterview.io/jobs/610cb996-c0df-4bcf-9a1e-7ca472d50f8c">Continuous Improvement &amp; Operational Excellence Engineer</a></td>
-<td>Limerick, County Limerick, Ireland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4466222962/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/2bec52a7-d218-4f80-9aa2-ab99f425d3e6">RF Applications Engineer</a></td>
-<td>Limerick, County Limerick, Ireland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4466246722/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Mastercard</strong></td>
-<td><a href="https://trueinterview.io/jobs/7a6eae68-0d7c-45bb-a360-cb0adcc8cb2f">Specialist, Product Management</a></td>
-<td>Dublin, County Dublin, Ireland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4474481824/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Archer Recruitment</strong></td>
-<td><a href="https://trueinterview.io/jobs/c071c7a9-6197-4015-a9ae-242cc1704d0f">Dynamics 365 Integration Engineer</a></td>
-<td>Dublin, County Dublin, Ireland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484996739/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Stantec</strong></td>
-<td><a href="https://trueinterview.io/jobs/5e68dcf8-0725-4931-9402-1c375b550f66">Graduate Electrical Engineer - 2027</a></td>
-<td>Cork, County Cork, Ireland<br/>Galway, County Galway, Ireland<br/>Dublin, County Dublin, Ireland<br/>+1 more</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4457904834/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/ac3b2489-bdd7-4b57-8981-edb2b8861cbe">Electrical Engineer</a></td>
-<td>Galway, County Galway, Ireland<br/>Cork, County Cork, Ireland<br/>Dublin, County Dublin, Ireland<br/>+1 more</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4457921104/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon Web Services (AWS)</strong></td>
-<td><a href="https://trueinterview.io/jobs/cea22ee4-9708-4933-80d4-9776f508f5ad">System Engineer, Managed Operations, ESC Managed Operations</a></td>
-<td>Dublin, County Dublin, Ireland<br/>Madrid, Community of Madrid, Spain</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476903230/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Salesforce</strong></td>
-<td><a href="https://trueinterview.io/jobs/e5b232f2-dbc3-41ba-a051-3e463c7fbd3d">Forward Deployed Engineer - Turkish</a></td>
-<td>Dublin, County Dublin, Ireland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484990074/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Jacobs</strong></td>
-<td><a href="https://trueinterview.io/jobs/1210561b-405d-4361-bff4-ec5a32e8585a">Graduate Bridge Engineer (Dublin)</a></td>
-<td>Dublin, County Dublin, Ireland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4465583403/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/351931c0-af3d-4a96-a83b-a5bfcc7b30e9">Graduate Telecom/ICT Design Engineer- Advanced Facilities</a></td>
-<td>Dublin, County Dublin, Ireland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4465598275/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Stantec</strong></td>
-<td><a href="https://trueinterview.io/jobs/fd605945-4beb-4c0d-9662-1d8c573db223">Graduate Civil Engineer - 2027 (ROI)</a></td>
-<td>Dublin, County Dublin, Ireland<br/>Castlebar, County Mayo, Ireland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4457438107/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/3bc30c26-6977-48b7-a562-7fc65ddf9a1d">Graduate Mechanical Engineer - 2027</a></td>
-<td>Galway, County Galway, Ireland<br/>Dublin, County Dublin, Ireland<br/>Cork, County Cork, Ireland<br/>+1 more</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4457419376/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Primark</strong></td>
-<td><a href="https://trueinterview.io/jobs/c2f68aab-f418-4240-9c25-d054d6b78318">Procurement Data &amp; Digital Analyst</a></td>
-<td>Dublin, Ireland<br/>Reading, United Kingdom</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Primark/744000158537388-procurement-data-digital-analyst">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Jacobs</strong></td>
-<td><a href="https://trueinterview.io/jobs/43de9102-775c-41c0-b2a7-d4db3b847ec2">Graduate Design Safety Engineer (Dublin or Cork)</a></td>
-<td>Cork, County Cork, Ireland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468260090/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>ATC (part of Arvato)</strong></td>
-<td><a href="https://trueinterview.io/jobs/a6320c17-c68d-4313-8701-282d3393e8b3">IT Helpdesk &amp; Network Administrator</a></td>
-<td>Dublin, County Dublin, Ireland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484961517/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>BMS Performance Ireland</strong></td>
-<td><a href="https://trueinterview.io/jobs/edcbbd0b-3c80-45b0-ad74-0631c185802e">Field Services Engineer</a></td>
-<td>Cork, County Cork, Ireland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467264921/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Anderson McQue</strong></td>
-<td><a href="https://trueinterview.io/jobs/99d60e49-4ffb-4c5a-84a2-05a9a3ee1855">Field Services Engineer</a></td>
-<td>Cork, County Cork, Ireland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484961019/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Reperio Human Capital</strong></td>
-<td><a href="https://trueinterview.io/jobs/9f84a15e-69e7-44cb-8f6c-9d3257b47108">ERP Developer</a></td>
-<td>Dublin, County Dublin, Ireland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484956622/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
 </table>

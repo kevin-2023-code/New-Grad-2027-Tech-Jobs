@@ -2,7 +2,7 @@
 
 # 🏜️ Salt Lake City & Utah
 
-**33 open roles.**
+**28 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -212,41 +212,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Salt Lake City, UT</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485258703/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Barr Engineering Co.</strong></td>
-<td><a href="https://trueinterview.io/jobs/6b18c6f7-0c63-4547-9e8a-560825d89235">Environmental Engineer – Entry Level (Hybrid)</a></td>
-<td>Salt Lake City, UT</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4457789551/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>HEICO</strong></td>
-<td><a href="https://trueinterview.io/jobs/0126514d-4558-477f-a1e2-b37bf0bce2b2">Engineer</a></td>
-<td>Provo, UT<br/>Peachtree City, GA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484751641/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>ClickLease</strong></td>
-<td><a href="https://trueinterview.io/jobs/848d21e0-2ddc-4ae6-b30a-23bf6c2f0924">Database Reliability Engineer</a></td>
-<td>Draper, UT</td>
-<td align="center"><a href="https://ats.rippling.com/clicklease/jobs/a6a988a1-1433-44ec-973e-9f7dfa2319cd?jobSite=Indeed">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Quilt Software</strong></td>
-<td><a href="https://trueinterview.io/jobs/237fcdaf-89e5-409b-9aee-d1fd114a993a">T1 Technical Support Analyst</a></td>
-<td>Provo, UT</td>
-<td align="center"><a href="https://apply.workable.com/j/C6343E325B">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Everpure</strong></td>
-<td><a href="https://trueinterview.io/jobs/8fa916c0-18fa-4119-b061-b15b40138ce0">Platform Services Engineer, Advanced Services (Professional Services)</a></td>
-<td>Lehi, UT</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467122839/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # 🧬 Health, biotech & medical devices
 
-**23 open roles.** 21 in the United States & Canada · 2 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
+**20 open roles.** 18 in the United States & Canada · 2 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -142,27 +142,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Richmond, VA</td>
 <td align="center"><a href="https://careers.mckesson.com/en/job/richmond/business-intelligence-and-automation-analyst/733/102650093008">Apply</a></td>
 <td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Intuitive Surgical</strong></td>
-<td><a href="https://trueinterview.io/jobs/666fdf1c-5782-4e21-8a73-3753b0243173">Quality Engineering Tech</a></td>
-<td>Durham, North Carolina, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Intuitive/744000158581188-quality-engineering-tech">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Natera</strong></td>
-<td><a href="https://trueinterview.io/jobs/4eda4ef9-f3e0-453f-8abf-b67acd069a2d">Machine Learning Scientist, Multimodal AI</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/natera/jobs/6004385004">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Moderna</strong></td>
-<td><a href="https://trueinterview.io/jobs/ee5aa885-8598-4495-8330-a5b3f6b02270">Scientist, CMC Quantitative Sciences</a></td>
-<td>Norwood, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467199679/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
 </table>

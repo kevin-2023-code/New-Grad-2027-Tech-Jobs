@@ -2,7 +2,7 @@
 
 # 📐 Engineering & architecture firms
 
-**40 open roles.** 18 in the United States & Canada · 22 elsewhere in the world. Civil, structural and environmental engineering and AEC consultancies.
+**38 open roles.** 17 in the United States & Canada · 21 elsewhere in the world. Civil, structural and environmental engineering and AEC consultancies.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>WSP</strong></td>
+<td><a href="https://trueinterview.io/jobs/a8ec552f-cf7f-4534-ba2a-8d96cc9d93cb">Early Career Environmental Engineer</a></td>
+<td>San Francisco, CA<br/>San Jose, CA<br/>Oakland, CA, United States</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98742">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/15c83fdc-bedf-4bd8-91b7-3e0bb70529f5">Eletrical Designer</a></td>
+<td>Thornhill, ON, Canada</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99430">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/92805235-c2f7-4b45-8f87-ecf9cf0d63bf">Intermediate Substation P&amp;C Engineer</a></td>
+<td>Buffalo, NY, United States</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99636">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Egis Group</strong></td>
 <td><a href="https://trueinterview.io/jobs/efa8ae29-af25-401d-9a11-9f4b3dca6707">Entry Structural | Rail Bridge Engineer</a></td>
@@ -114,34 +135,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Laramie, WY</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/apexcompanies/jobs/5445329008">Apply</a></td>
 <td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>WSP</strong></td>
-<td><a href="https://trueinterview.io/jobs/5fd6f362-910a-468a-87c8-3fc139ba2ee9">Civil Engineer-in-Training, Municipal Engineering</a></td>
-<td>Edmonton, AB, Canada</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98620">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Valdes Architecture &amp; Engineering</strong></td>
-<td><a href="https://trueinterview.io/jobs/ae28cd34-03b7-484e-810c-3483b5e70aa1">Chemical Engineer- Entry Level</a></td>
-<td>Lombard, IL</td>
-<td align="center"><a href="https://jobs.lever.co/valdeseng/5541016b-bfaf-4caa-bec5-f9df9c164df9">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Olsson</strong></td>
-<td><a href="https://trueinterview.io/jobs/baeaf3d1-964d-490c-9c29-66d5b96c3fe9">Entry-Level Geotechnical Engineer (EIT)</a></td>
-<td>Denver, CO<br/>Oklahoma City Metropolitan Area<br/>Fayetteville, AR<br/>+6 more</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5466862008">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/86a8ebdf-2911-478c-a3e1-cfbdb4ab8064">Telecom HFC Designer</a></td>
-<td>Denver, CO<br/>North Kansas City, MO<br/>Overland Park, KS<br/>+2 more</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5466827008">Apply</a></td>
-<td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
 </table>
@@ -301,13 +294,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Gold Coast, Australia</td>
 <td align="center"><a href="https://jobs.egis-group.com/job/cadet-drafter-civil-urban-transport-in-gold-coast-jid-9813">Apply</a></td>
 <td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/0d4cfb85-3837-47b0-affd-8629a51854c4">Civil Engineer Urban Transport</a></td>
-<td>Gold Coast, Queensland, Australia</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/EgisGroup/744000158501260-civil-engineer-urban-transport">Apply</a></td>
-<td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
 </table>

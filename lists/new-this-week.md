@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,772 open roles.** 1,452 in the United States & Canada · 320 elsewhere in the world. Everything the employers put up this week.
+**1,802 open roles.** 1,472 in the United States & Canada · 330 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -19,6 +19,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Tunnell Government Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/28599e92-6ba3-4c44-9c61-a9eb4ea3f151">Medical Device Data Scientist (Post-Market Analytics Hub)</a></td>
+<td>Bethesda, MD</td>
+<td align="center"><a href="https://tunnellgov.com/careers/?gh_jid=4730342006">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Credence</strong></td>
+<td><a href="https://trueinterview.io/jobs/d249a5ff-72dd-4775-9661-3b58503bb5ee">Developer/Data Analyst IN - 10.43</a></td>
+<td>Wright-Patterson AFB, OH</td>
+<td align="center"><a href="https://apply.workable.com/j/AE2494F904">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>The Judge Group</strong></td>
 <td><a href="https://trueinterview.io/jobs/0352fd8f-5440-4640-89c5-6e875769e8a4">FullStack Java Developer</a></td>
@@ -169,8 +183,8 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Minitab</strong></td>
 <td><a href="https://trueinterview.io/jobs/8301a876-b0bc-415e-bda8-6c02e37bb5d3">Software Engineer</a></td>
-<td>State College, PA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4491723610/">Apply</a></td>
+<td>State College, PA<br/>State College, Pennsylvania, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/minitab/jobs/8203700003">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
@@ -297,6 +311,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a5e243e2-1977-451c-9b90-124fafebff9e">Generative AI Engineer</a></td>
 <td>United States</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4491738140/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Salina Regional Health Center</strong></td>
+<td><a href="https://trueinterview.io/jobs/55740538-d404-43cc-bb6f-7e38ebee4c25">IT Business Intelligence Data Analyst</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://salinaregional.rec.pro.ukg.net/SAL1506SLNR/JobBoard/47f87b0d-1771-4fb3-a38b-a0e25980bd92/OpportunityDetail?opportunityId=82ba8b13-9115-440f-a43e-351c19939120&amp;postingId=96335354-2bec-49b6-8a4a-62049e5eed24">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
@@ -444,6 +465,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/f86c236e-3c7e-499a-bb9e-5822c01a361d">Entry Level Software Engineer - Atlanta, GA</a></td>
 <td>Atlanta, GA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4491718684/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Woongjin, Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/aeb2791f-9846-404f-a5ff-a45c900838f7">Data Analyst (BI Developer)_ Bilingual (Korean/ English)</a></td>
+<td>Plano, TX</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/WJCompany/744000162149468-data-analyst-bi-developer-bilingual-korean-english-">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
@@ -601,6 +629,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Opswat</strong></td>
+<td><a href="https://trueinterview.io/jobs/29a61a05-0452-445f-b2c4-658e34aa009e">Electrical Engineer</a></td>
+<td>Tampa, Florida, United States</td>
+<td align="center"><a href="https://www.opswat.com/jobs/4755059005?gh_jid=4755059005">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Murgado Automotive Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/8f33320f-4247-4071-9cdf-0e5ea848ee04">Creative Designer - Murgado Automotive Group!</a></td>
+<td>Miami, FL</td>
+<td align="center"><a href="https://jobs.lever.co/murgadoautomotive/a7ad4296-8e43-4401-aeba-82accc5bf118">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Lawrence Livermore National Laboratory</strong></td>
 <td><a href="https://trueinterview.io/jobs/0712bdd5-c7cf-4961-9a10-52abdf4f08c6">Astronomy &amp; Astrophysics Research Scientist</a></td>
 <td>Livermore, CA</td>
@@ -625,7 +667,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>Guidehouse</strong></td>
 <td><a href="https://trueinterview.io/jobs/d794d99f-359e-4508-956d-4628bdced336">Data Analyst/FM Product Consultant</a></td>
 <td>Indianapolis, IN</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4491706387/">Apply</a></td>
+<td align="center"><a href="https://guidehouse.wd1.myworkdayjobs.com/External/job/US---IN-Indianapolis/Data-Analyst-FM-Product-Consultant_36597">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
@@ -647,6 +689,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/9152facc-a6bb-4657-8689-7d2b6d3ac116">Software Tester / QA Analyst / Automation Engineer</a></td>
 <td>United States</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4490441914/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Clera</strong></td>
+<td><a href="https://trueinterview.io/jobs/b54754c8-7156-4abd-a327-3533d0b59093">Fullstack Engineer</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/Clera/ec9a9c56-3876-49df-b0c9-f8afac490c98">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
@@ -804,6 +853,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Buspatrol</strong></td>
+<td><a href="https://trueinterview.io/jobs/e4051bcd-808e-467e-92bc-c07384c5bee7">IT Ops Automation Engineer</a></td>
+<td>Austin, TX<br/>Austin, Texas</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/buspatrol/e5264fb2-c237-4a06-bcba-fd5aeaa31569">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>SCCI</strong></td>
 <td><a href="https://trueinterview.io/jobs/7937a11a-6d9e-45fd-b87a-65eb79ca6b0f">Database Developer</a></td>
 <td>Dahlgren, VA</td>
@@ -919,7 +975,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>Intel</strong></td>
 <td><a href="https://trueinterview.io/jobs/6c7cbfd0-c0cb-4648-900f-590057036350">Silicon Photonics Thin Film Development Engineer</a></td>
 <td>Albuquerque, NM</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4491182420/">Apply</a></td>
+<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-New-Mexico-Albuquerque/Silicon-Photonics-Thin-Film-Development-Engineer_JR0289102">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
@@ -2761,62 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/727d515e-6517-4c92-a059-af338643e6e4">DevOps Engineer - Federal</a></td>
 <td>Chantilly, VA</td>
 <td align="center"><a href="https://grnh.se/5t6z2kif3us">Apply</a></td>
-<td align="center">17 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Samaritan's Purse</strong></td>
-<td><a href="https://trueinterview.io/jobs/896ed20f-7901-4e63-bb08-cc1fb7aa35a3">Platform Engineer</a></td>
-<td>Boone, NC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4457532635/">Apply</a></td>
-<td align="center">17 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Drone Amplified</strong></td>
-<td><a href="https://trueinterview.io/jobs/93f6ab3a-12e3-41fd-bfb5-19879f722caf">Embedded Software Engineer</a></td>
-<td>Pennsauken, NJ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4490927692/">Apply</a></td>
-<td align="center">17 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Komatsu</strong></td>
-<td><a href="https://trueinterview.io/jobs/62b4f97e-bd57-4c36-8e39-ea2baa02ee96">QA Engineer I</a></td>
-<td>Tucson, AZ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467275584/">Apply</a></td>
-<td align="center">17 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Lila Sciences</strong></td>
-<td><a href="https://trueinterview.io/jobs/316a895e-8c60-4bd5-8372-323b8fc145dd">Machine Learning Scientist, BioML</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467462123/">Apply</a></td>
-<td align="center">17 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Atlassian</strong></td>
-<td><a href="https://trueinterview.io/jobs/dc007fba-beef-4aae-ac8a-70a419bbc0c5">AI Researcher (PhD), 2027 Graduate U.S.</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483767260/">Apply</a></td>
-<td align="center">17 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Torentify</strong></td>
-<td><a href="https://trueinterview.io/jobs/c58251c7-aa7f-4d3c-b431-6f6eaa36a1a6">Data Entry Analyst - Entry Level</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4491548991/">Apply</a></td>
-<td align="center">17 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Citadel Securities</strong></td>
-<td><a href="https://trueinterview.io/jobs/05c1aca3-9dea-4648-ab44-626e65a3402c">Software Engineer in Test (SDET)</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4348661604/">Apply</a></td>
-<td align="center">17 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Flynn Companies</strong></td>
-<td><a href="https://trueinterview.io/jobs/2853aa06-75f9-4ed2-9ea1-82405e7f3d27">Engineer</a></td>
-<td>Mississauga, ON</td>
-<td align="center"><a href="https://jobs.lever.co/flynncompanies/9f2bc73b-09b1-4a51-800e-22a54b5f6c8b">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 </tbody>

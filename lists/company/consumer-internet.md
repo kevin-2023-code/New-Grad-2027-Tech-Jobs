@@ -2,7 +2,7 @@
 
 # 📱 Consumer internet & media
 
-**138 open roles.** 75 in the United States & Canada · 63 elsewhere in the world. Social, search, streaming, messaging and consumer subscription apps.
+**133 open roles.** 75 in the United States & Canada · 58 elsewhere in the world. Social, search, streaming, messaging and consumer subscription apps.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -959,41 +959,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4477162380/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Google</strong></td>
-<td><a href="https://trueinterview.io/jobs/befddb7c-d579-40de-acc6-352fc7b98f54">Software Engineer, Android Laptops and Tablets Camera</a></td>
-<td>New Taipei, Taiwan</td>
-<td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/89540421947925190">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/504377f8-1ae4-40d6-94c4-a0e6f337102f">Software Engineer, Full Stack</a></td>
-<td>Hyderabad, Telangana, India<br/>India</td>
-<td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/126573622838862534">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>ByteDance</strong></td>
-<td><a href="https://trueinterview.io/jobs/25741ffb-2949-4592-a89c-29653aa3cbaf">Machine Learning&quot; - Graduate (Global Payment) - 2027 Start</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://joinbytedance.com/search/7701691506021910837">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/1093a808-b90e-4152-bfea-481892341d51">Software Engineer - Technical Leadership</a></td>
-<td>London, England, United Kingdom</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4465570508/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Google</strong></td>
-<td><a href="https://trueinterview.io/jobs/3a4500ee-198d-4f4f-9f10-386acd418bf0">Formal Verification Engineer, Google Cloud</a></td>
-<td>Haifa, Haifa District, Israel<br/>Tel Aviv, Tel-Aviv District, Israel</td>
-<td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/140302021944058566">Apply</a></td>
-<td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
 </table>

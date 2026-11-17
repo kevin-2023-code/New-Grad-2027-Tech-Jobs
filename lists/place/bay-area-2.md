@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**945 open roles.** 942 in the United States & Canada · 3 elsewhere in the world.
+**862 open roles.** 860 in the United States & Canada · 2 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,20 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>General Motors</strong></td>
+<td><a href="https://trueinterview.io/jobs/e93d968c-8b2e-415a-9295-3590ebcad6d9">Software Systems Engineer, Data Labeling Engineering - Early Career</a></td>
+<td>Sunnyvale, California, United States<br/>Seattle, Washington, United States<br/>Greater Seattle Area</td>
+<td align="center"><a href="https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/ML-Systems-Engineer--Data-Labeling-Engineering---Early-Career_JR-202619939">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/73fdf535-b4f9-4dc8-95b0-f77797e83729">Software Engineer, Triage Services</a></td>
+<td>Cupertino, California, United States</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200693271">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Generalist</strong></td>
 <td><a href="https://trueinterview.io/jobs/77d30662-9e55-4eeb-9351-8b7bc160901b">Forward Deployed Engineer</a></td>
@@ -2799,20 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/e66a8187-50dc-4b6c-8776-35967adff8cc">Application Development Engineer</a></td>
 <td>Mountain View, CA<br/>San Francisco, CA<br/>Seattle, WA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4477473410/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Digital Technology International</strong></td>
-<td><a href="https://trueinterview.io/jobs/b008c1f1-52be-4207-bf41-4af9283ae89f">DV Engineer - San Jose, CA / Austin, TX</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483415898/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Archer</strong></td>
-<td><a href="https://trueinterview.io/jobs/255f2c54-4396-4811-9b37-2982ee806fa9">Web Developer, Marketing Site</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484830162/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 </tbody>

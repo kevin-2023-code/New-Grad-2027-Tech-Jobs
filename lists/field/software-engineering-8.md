@@ -2,11 +2,11 @@
 
 # 💻 Software Engineering
 
-**7,438 open roles.** 5,164 in the United States & Canada · 2,274 elsewhere in the world.
+**6,290 open roles.** 4,541 in the United States & Canada · 1,749 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
-<sub>[← Page 7](software-engineering-7.md) · Page 8 of 19 · [Page 9 →](software-engineering-9.md)</sub>
+<sub>[← Page 7](software-engineering-7.md) · Page 8 of 16 · [Page 9 →](software-engineering-9.md)</sub>
 
 ## United States & Canada
 
@@ -15,6 +15,20 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>DoorDash</strong></td>
+<td><a href="https://trueinterview.io/jobs/888d631e-4d37-46e6-94ef-05737c845ce1">Perception &amp; State Estimation Engineer - DoorDash Air</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/doordashusa/jobs/8348870">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>University of the Incarnate Word</strong></td>
+<td><a href="https://trueinterview.io/jobs/e049794f-83f4-4028-a223-45178785ac61">Systems Analyst/Programmer</a></td>
+<td>San Antonio, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486803856/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>The Ai Training Company</strong></td>
 <td><a href="https://trueinterview.io/jobs/63476b12-4f2f-43a8-8210-1d346a05c1f1">Godot Game Developer | $60/hr | Remote</a></td>
@@ -2801,23 +2815,9 @@
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484369741/">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
-<tr>
-<td><strong>Dartmouth College</strong></td>
-<td><a href="https://trueinterview.io/jobs/781220e9-a034-4dc8-99c1-0c3fd23dc0fa">Infrastructure Engineer II.</a></td>
-<td>Hanover, NH</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485740450/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>The Applied Research Laboratory at Penn State University</strong></td>
-<td><a href="https://trueinterview.io/jobs/a0c25a56-ab29-4f06-b95c-87993fe389c8">Cyber Security Engineer</a></td>
-<td>Warminster, PA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4473662314/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
 </tbody>
 </table>
 
-<sub>[← Page 7](software-engineering-7.md) · Page 8 of 19 · [Page 9 →](software-engineering-9.md)</sub>
+<sub>[← Page 7](software-engineering-7.md) · Page 8 of 16 · [Page 9 →](software-engineering-9.md)</sub>
 
 [← Every filter](../README.md) · [Back to the full list](../../README.md)

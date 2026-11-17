@@ -2,7 +2,7 @@
 
 # 🏛️ Washington DC & Northern Virginia
 
-**638 open roles.**
+**601 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Tunnell Government Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/28599e92-6ba3-4c44-9c61-a9eb4ea3f151">Medical Device Data Scientist (Post-Market Analytics Hub)</a></td>
+<td>Bethesda, MD</td>
+<td align="center"><a href="https://tunnellgov.com/careers/?gh_jid=4730342006">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>NCYBER</strong></td>
 <td><a href="https://trueinterview.io/jobs/ae172afc-800d-4985-a72e-102a28640a56">Platform Infrastructure Engineer</a></td>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/8cacf831-232c-4fca-866d-64ac3f2def25">Network Engineer</a></td>
 <td>Herndon, Virginia</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/twosixtechnologies/jobs/6237746004">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>KDA Consulting</strong></td>
-<td><a href="https://trueinterview.io/jobs/854e5c91-082a-4dd0-9c65-857756e8af2e">Cyber &amp; IT Operations Analytics Engineer</a></td>
-<td>Herndon, VA</td>
-<td align="center"><a href="https://apply.workable.com/j/53AB412A71">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 </tbody>

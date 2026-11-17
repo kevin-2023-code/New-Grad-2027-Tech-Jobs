@@ -2,11 +2,11 @@
 
 # 💻 Software Engineering
 
-**7,438 open roles.** 5,164 in the United States & Canada · 2,274 elsewhere in the world.
+**6,290 open roles.** 4,541 in the United States & Canada · 1,749 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
-<sub>[← Page 3](software-engineering-3.md) · Page 4 of 19 · [Page 5 →](software-engineering-5.md)</sub>
+<sub>[← Page 3](software-engineering-3.md) · Page 4 of 16 · [Page 5 →](software-engineering-5.md)</sub>
 
 ## United States & Canada
 
@@ -15,6 +15,27 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Tata Consultancy Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/74217c84-df63-4c79-b466-72e61304004e">Fullstack Developer with AI</a></td>
+<td>Irving, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4453002229/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Atlas Copco</strong></td>
+<td><a href="https://trueinterview.io/jobs/3326ea75-0bf1-47e8-8ae9-458aac3ba6f9">CNC Programmer</a></td>
+<td>Voorheesville, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477513800/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/f5480f42-7ab1-4d86-b44a-60009dc88f6d">Software Development Engineer, ZeroTouch GSG at Amazon Leo</a></td>
+<td>Redmond, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4471113930/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Tata Consultancy Services</strong></td>
 <td><a href="https://trueinterview.io/jobs/a5164195-33ac-4426-98ec-7b67c928a0b3">Java SpringBoot Developer</a></td>
@@ -902,13 +923,6 @@
 <td><a href="https://trueinterview.io/jobs/87e2e0f8-1fc4-4929-b9e9-dc2a8b8b1511">2027 New Graduate Software Engineer</a></td>
 <td>Chicago, IL</td>
 <td align="center"><a href="https://jobs.deel.com/spiderrock-technology-solutions-llc/job-details/c6b1e5a3-298e-4952-9a1d-a76a6db87740/overview">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Department of Toxic Substances Control</strong></td>
-<td><a href="https://trueinterview.io/jobs/098991e0-0f9a-445f-a4c6-c4f3a4d3b0f4">HAZARDOUS SUBSTANCES ENGINEER</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=538090">Apply</a></td>
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>
@@ -2801,23 +2815,9 @@
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487785156/">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
-<tr>
-<td><strong>State of South Dakota</strong></td>
-<td><a href="https://trueinterview.io/jobs/4b40b3b4-a298-4031-aa6f-dfce70964861">Software Engineer</a></td>
-<td>South Dakota, United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485834558/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Vaspire Technologies Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/080b2276-4faa-48af-b3fe-4321b1446fef">Java Developer</a></td>
-<td>Charlotte, NC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486775143/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
 </tbody>
 </table>
 
-<sub>[← Page 3](software-engineering-3.md) · Page 4 of 19 · [Page 5 →](software-engineering-5.md)</sub>
+<sub>[← Page 3](software-engineering-3.md) · Page 4 of 16 · [Page 5 →](software-engineering-5.md)</sub>
 
 [← Every filter](../README.md) · [Back to the full list](../../README.md)

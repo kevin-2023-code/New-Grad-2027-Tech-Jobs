@@ -2,7 +2,7 @@
 
 # Quantitative Trader
 
-**44 open roles.** 20 in the United States & Canada · 24 elsewhere in the world.
+**37 open roles.** 19 in the United States & Canada · 18 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -150,13 +150,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485264966/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
-<tr>
-<td><strong>Pangea</strong></td>
-<td><a href="https://trueinterview.io/jobs/7fe02955-82df-4f40-b784-084458de9681">Gasoline Trader</a></td>
-<td>Houston, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484982132/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -294,48 +287,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>London, England, United Kingdom</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484816291/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Petroineos Trading Limited</strong></td>
-<td><a href="https://trueinterview.io/jobs/be991762-0a52-4119-975d-6b5ad4b9860b">Trader, Petrochemicals</a></td>
-<td>Rotterdam, South Holland, Netherlands</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4447539965/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Bozzino &amp; Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/580c455b-9140-4587-a1f6-072676b9ad26">Trader Investor / Co-Founder (Hedge Fund Start Up)</a></td>
-<td>England, United Kingdom</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484998253/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Petroineos Trading Limited</strong></td>
-<td><a href="https://trueinterview.io/jobs/e5dae24c-0ea9-45a8-a3f2-5aa865a65e91">Rubber Trader (Natural and Synthetic)</a></td>
-<td>Rotterdam, South Holland, Netherlands</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4447541818/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Swissquote</strong></td>
-<td><a href="https://trueinterview.io/jobs/8ee41138-00f6-478c-babe-0ac30f48778d">FX/Execution Trader</a></td>
-<td>Gland, Vaud, Switzerland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468669631/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Petroineos Trading Limited</strong></td>
-<td><a href="https://trueinterview.io/jobs/4d0c2fb1-32e7-4485-9c75-da6b848bd686">Metal Trader, Copper Cathodes</a></td>
-<td>London, England, United Kingdom</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4446262582/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>IFC - International Food Connectors</strong></td>
-<td><a href="https://trueinterview.io/jobs/e04fbe6f-0e0a-4492-945e-5eb78a6b0846">Trader Latin America</a></td>
-<td>Rotterdam, South Holland, Netherlands</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484982101/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # 🇪🇸 Madrid, Barcelona & Iberia
 
-**114 open roles.** 3 in the United States & Canada · 111 elsewhere in the world.
+**109 open roles.** 3 in the United States & Canada · 106 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -791,41 +791,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Barcelona, Spain</td>
 <td align="center"><a href="https://jobs.teleperformance.es/job/german-digital-customer-engineer/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Siemens Energy</strong></td>
-<td><a href="https://trueinterview.io/jobs/6c4169b2-4daa-4826-a2b0-eb83a6b9fdb4">System Administrator - Network Specialist Commissioning Engineer (f/m/d)</a></td>
-<td>Porto, Porto, Portugal</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4439438341/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Velorum</strong></td>
-<td><a href="https://trueinterview.io/jobs/8a01d8e6-7e1c-4e89-a8a8-baa1030656f6">DevOps Engineer</a></td>
-<td>Barcelona, Spain</td>
-<td align="center"><a href="https://iris-venture.careers.ats.bizneo.cloud/jobs/devops-engineer-3c32443c-46c2-4cf8-b505-040dde8cc8e8">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon Web Services (AWS)</strong></td>
-<td><a href="https://trueinterview.io/jobs/cea22ee4-9708-4933-80d4-9776f508f5ad">System Engineer, Managed Operations, ESC Managed Operations</a></td>
-<td>Madrid, Community of Madrid, Spain<br/>Dublin, County Dublin, Ireland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476903230/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Inetum</strong></td>
-<td><a href="https://trueinterview.io/jobs/41622185-371c-41c6-b3b2-f9d1169904c2">Java Full Stack Developer (French Speaker)</a></td>
-<td>Lisbon, Lisbon, Portugal</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Inetum2/744000158542739-java-full-stack-developer-french-speaker-">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Verifone</strong></td>
-<td><a href="https://trueinterview.io/jobs/ea8ed8b1-4f70-4053-b650-bec51e6cddf7">Level 1 Technical Support, Portugal</a></td>
-<td>Lisbon, Portugal</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/verifone/jobs/7997000003">Apply</a></td>
-<td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
 </table>

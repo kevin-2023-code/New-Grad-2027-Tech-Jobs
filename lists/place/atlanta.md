@@ -2,7 +2,7 @@
 
 # 🍑 Atlanta
 
-**180 open roles.**
+**161 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -92,6 +92,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/b7a8f18b-e55b-4e58-8cde-1c1281b8d6a4">DevOps Engineer</a></td>
 <td>Atlanta, GA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4491135770/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Booz Allen Hamilton</strong></td>
+<td><a href="https://trueinterview.io/jobs/f819476c-97dd-4b9a-99ea-482350ec5250">Advanced Data Scientist and Researcher</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Atlanta-GA/Advanced-Data-Scientist-and-Researcher_R0253657">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
@@ -1136,146 +1143,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Atlanta, GA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485298093/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>CARE</strong></td>
-<td><a href="https://trueinterview.io/jobs/f2309701-a3c8-4b3d-abc2-efe1f5b56bdc">AI SECURITY ENGINEER</a></td>
-<td>Atlanta, GA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485245521/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>IMEG</strong></td>
-<td><a href="https://trueinterview.io/jobs/81cd762d-4d0c-4af8-9857-1b620c83a9c3">Mechanical Engineering New Graduate | Atlanta, GA</a></td>
-<td>Atlanta, GA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4474618559/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>U.S. Bank</strong></td>
-<td><a href="https://trueinterview.io/jobs/85be9d39-624e-43a0-a1b3-1456f959996f">nCino/Moody's Product Designer</a></td>
-<td>Atlanta, GA<br/>Chicago, IL<br/>Denver, CO<br/>+7 more</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4479254166/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/ae2c2ba5-d6a9-468b-bf27-9d6082238011">Data Science Analyst</a></td>
-<td>Atlanta, GA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4480312036/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>TPI Global Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/8134991e-a26d-4d43-a4ac-15e8430bba6c">Mechanical Engineer</a></td>
-<td>Atlanta, GA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477333660/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Black &amp; Veatch</strong></td>
-<td><a href="https://trueinterview.io/jobs/5b4d1db3-02c1-4cf5-a2e2-a49b7da0275f">Graduate Engineer, Civil - Water (Southeast Region)</a></td>
-<td>Atlanta, GA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468293845/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Bank of America</strong></td>
-<td><a href="https://trueinterview.io/jobs/16ff39f5-1374-4796-96f2-170a49bb3f18">Quantitative Engineer Analyst</a></td>
-<td>Atlanta, GA<br/>Charlotte, NC<br/>Jersey City, NJ</td>
-<td align="center"><a href="https://careers.bankofamerica.com/en-us/job-detail/26040002/quantitative-engineer-analyst-multiple-locations">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>New York Technology Partners</strong></td>
-<td><a href="https://trueinterview.io/jobs/76f3da2c-ffb2-4a48-913e-847199ab2024">Artificial Intelligence Engineer - SCM</a></td>
-<td>Atlanta, GA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484980263/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>ICE</strong></td>
-<td><a href="https://trueinterview.io/jobs/471b6dd2-cd6e-4af4-8393-d76dbad5ee5c">Analyst, QA</a></td>
-<td>Atlanta, GA<br/>Jacksonville, FL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4459088313/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Sauce Labs Inc</strong></td>
-<td><a href="https://trueinterview.io/jobs/24d2c6de-a2f4-475e-a363-e4deca5e19e4">Data Center Engineer</a></td>
-<td>Atlanta, GA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/saucelabs/jobs/8334168">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>SIDRAM TECHNOLOGIES</strong></td>
-<td><a href="https://trueinterview.io/jobs/e0271881-53d1-4969-8538-91d5d1828e9c">Platform Development and AI Engineering</a></td>
-<td>Alpharetta, GA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484964792/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Dematic</strong></td>
-<td><a href="https://trueinterview.io/jobs/1acefb79-8db9-4b03-afff-a6b11b3fe6a3">Controls Engineer Technical Support - Night Shift</a></td>
-<td>Atlanta, GA<br/>Grand Rapids, MI</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4457714573/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Carollo Engineers</strong></td>
-<td><a href="https://trueinterview.io/jobs/c501692a-69f0-4516-9da3-3d6f11870867">Entry Level Civil/Environmental Engineer</a></td>
-<td>Atlanta, GA<br/>Buford, GA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4474470411/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Flock</strong></td>
-<td><a href="https://trueinterview.io/jobs/f040f2ea-8612-4d0b-ada6-9ecc1e85395d">UAS Flight Test Engineer</a></td>
-<td>Atlanta, GA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467763776/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>TPI Global Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/2c71c9ec-0981-4be5-ac6e-173361562c47">Electro Mechanical Engineer</a></td>
-<td>Atlanta, GA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477394431/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Quebec Solution Inc</strong></td>
-<td><a href="https://trueinterview.io/jobs/ee6af470-6be3-47a7-9797-d38a1cdebded">Amazon Connect Developer</a></td>
-<td>Atlanta, GA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484975086/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Open Systems Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/ee805245-3fea-4205-aef4-81b7ac14c6d9">GIS Analyst (Engineering)</a></td>
-<td>Atlanta, GA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4478690587/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Landis+Gyr</strong></td>
-<td><a href="https://trueinterview.io/jobs/f1567cda-9ae6-4830-81d8-50e113450033">Technical Implementation Engineer I</a></td>
-<td>Alpharetta, GA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4466560003/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Tata Consultancy Services</strong></td>
-<td><a href="https://trueinterview.io/jobs/ff71d552-d5df-45c7-8a33-26609f9d88e7">IBM SevOne Engineer</a></td>
-<td>Atlanta, GA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4447999698/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Falcomm</strong></td>
-<td><a href="https://trueinterview.io/jobs/bb908348-0430-42a2-9868-a1cad433e398">RF/mm-Wave GaN Power Amplifier Design Engineer</a></td>
-<td>Atlanta, GA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4440587214/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # 🏰 Warsaw, Kraków & Central Europe
 
-**88 open roles.** 1 in the United States & Canada · 87 elsewhere in the world.
+**87 open roles.** 1 in the United States & Canada · 86 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -637,13 +637,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Warszawa, Poland</td>
 <td align="center"><a href="https://scalo.traffit.com/public/an/70b89c6c991de7caa7619c4272c50d52527539432f773d3d">Apply</a></td>
 <td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Infineon Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/6d5ab89a-88d5-4f23-8268-06038e46ef53">Component Validation Engineer (f/m/div)</a></td>
-<td>Bucharest, Bucharest, Romania</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4475329266/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
 </table>

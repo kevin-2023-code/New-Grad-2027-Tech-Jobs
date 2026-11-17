@@ -2,7 +2,7 @@
 
 # Mobile Engineer
 
-**119 open roles.** 78 in the United States & Canada · 41 elsewhere in the world.
+**99 open roles.** 73 in the United States & Canada · 26 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -528,41 +528,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484806171/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
-<tr>
-<td><strong>RADcube</strong></td>
-<td><a href="https://trueinterview.io/jobs/a81529a8-a099-43a3-87c9-e44261acf293">iOS Developer</a></td>
-<td>Indianapolis, IN</td>
-<td align="center"><a href="https://jobs.radcube.com/jobs/Careers/208841000007732643/iOS-Developer">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Anything</strong></td>
-<td><a href="https://trueinterview.io/jobs/a5f6bc61-403c-4e10-801d-6171b56b57ec">Mobile Engineer</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4331956082/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>K&amp;K Global Talent Solutions INC.</strong></td>
-<td><a href="https://trueinterview.io/jobs/d5cf1b3d-037e-4a08-b0c5-4cd629438c7a">Mobile Application Developer (React Native &amp; Frontend)</a></td>
-<td>Ontario, Canada</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484974096/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Grvty</strong></td>
-<td><a href="https://trueinterview.io/jobs/c7db3117-1747-430a-977a-6f4f6804627c">Apple iOS Developer</a></td>
-<td>Sterling, Virginia, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/grvty/jobs/4472316009">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/09518289-6036-4aec-9942-a7573d6f3f34">Android Developer</a></td>
-<td>Sterling, VA<br/>Sterling, Virginia, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/grvty/jobs/4472306009">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -756,111 +721,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Almaty, Kazakhstan</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/higgsfieldai/9829ea7c-4e09-48d6-bce1-85bc36b5ec28">Apply</a></td>
 <td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Scalers</strong></td>
-<td><a href="https://trueinterview.io/jobs/7437de0e-82b7-46b9-8bfb-ee36f7a14836">Android Developer</a></td>
-<td>London Area, United Kingdom</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483739002/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Air Arabia</strong></td>
-<td><a href="https://trueinterview.io/jobs/bf5d34e3-e00c-44ef-9248-6a0a06b63b72">Software Engineer-iOS</a></td>
-<td>Pune Division, Maharashtra, India</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4475778857/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Artic Building Services</strong></td>
-<td><a href="https://trueinterview.io/jobs/1fbbc990-ada5-4189-b73c-c8186f2f5044">Mobile AC Engineer</a></td>
-<td>London, England, United Kingdom</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484985934/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Bellrock Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/c54f8069-a9f5-467c-b293-3353a52933c4">Mobile Electrical Engineer</a></td>
-<td>South Shields, England, United Kingdom</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484989387/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>OCS</strong></td>
-<td><a href="https://trueinterview.io/jobs/341a6949-baea-4754-bed7-4e2f8eeaf429">Mobile Multi Skilled Engineer</a></td>
-<td>Glasgow, Scotland, United Kingdom</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4475939576/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Lloyds Banking Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/dbf87f88-9189-427b-9bbd-f1cc26a30adc">Mobile Software Engineer - Android</a></td>
-<td>London, England, United Kingdom</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484969768/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>MediaTek</strong></td>
-<td><a href="https://trueinterview.io/jobs/2e4169dc-9c9e-4095-88e3-3599e4d449f7">Android Multimedia System Framework Engineer</a></td>
-<td>Hsinchu, Taiwan, Taiwan</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4423439406/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Wheely</strong></td>
-<td><a href="https://trueinterview.io/jobs/4cd909d4-14fa-48fd-86ae-b1ccd3aa35d9">iOS Engineer</a></td>
-<td>Λευκωσία, Nicosia, Cyprus</td>
-<td align="center"><a href="https://boards.greenhouse.io/wheely/jobs/8041654003?gh_jid=8041654003">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>GovTech Singapore</strong></td>
-<td><a href="https://trueinterview.io/jobs/c6d4f3a0-4b05-4af8-8435-6a7fff6cc303">Software Engineer, Android, Singpass</a></td>
-<td>Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4466815402/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Google</strong></td>
-<td><a href="https://trueinterview.io/jobs/befddb7c-d579-40de-acc6-352fc7b98f54">Software Engineer, Android Laptops and Tablets Camera</a></td>
-<td>New Taipei, Taiwan</td>
-<td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/89540421947925190">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Luscii - an OMRON Healthcare service</strong></td>
-<td><a href="https://trueinterview.io/jobs/df281344-d695-48c6-822a-f4a0dfcb0f52">Android Developer</a></td>
-<td>Netherlands</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484965023/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>JLL</strong></td>
-<td><a href="https://trueinterview.io/jobs/002205a0-8d76-428c-9dad-13f95d4f3272">Mobile Electrical Engineer</a></td>
-<td>London, England, United Kingdom</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484944871/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Crossing Hurdles</strong></td>
-<td><a href="https://trueinterview.io/jobs/4ac36e06-fb1b-4831-a786-84907d6c8a88">Mobile Developer | Remote</a></td>
-<td>Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477161015/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Pareto Facilities Management Ltd</strong></td>
-<td><a href="https://trueinterview.io/jobs/d13d47a4-4f21-46ff-8dac-eeeeb19b2596">Foot Mobile Electrical Engineer</a></td>
-<td>London, England, United Kingdom</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484950375/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Qualcomm</strong></td>
-<td><a href="https://trueinterview.io/jobs/14fcea88-50eb-49fb-a71f-bfc5a96264b9">Engineer- Android</a></td>
-<td>Greater Hyderabad Area</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4466519288/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # 🇫🇷 Paris & France
 
-**209 open roles.** 6 in the United States & Canada · 203 elsewhere in the world.
+**197 open roles.** 6 in the United States & Canada · 191 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1407,90 +1407,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Lille, Hauts-de-France, France</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485267484/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Alibaba Cloud</strong></td>
-<td><a href="https://trueinterview.io/jobs/7f878ba1-f2ed-4659-819c-fbbc9ad19521">Data Center Facilities Engineer-Paris, France</a></td>
-<td>Paris, Île-de-France, France</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4466220703/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Mistral AI</strong></td>
-<td><a href="https://trueinterview.io/jobs/5cfd0783-8e11-4412-b1e7-4c09b81d45c8">Research Engineer, Robotics</a></td>
-<td>Paris</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/mistral.ai/25944723-62e2-498e-8149-a588907c39d6">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Siemens</strong></td>
-<td><a href="https://trueinterview.io/jobs/728df0bf-7323-4419-8687-bc82e7e92f8a">Stage en Business Intelligence et Analyse (BI/BA) h/f</a></td>
-<td>Nantes, Pays de la Loire, France<br/>Vélizy-Villacoublay, Île-de-France, France</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4475445910/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Mistral</strong></td>
-<td><a href="https://trueinterview.io/jobs/6c043b9c-c615-4535-b0b2-89dc7fc35936">Applied Science - Cybersecurity</a></td>
-<td>Paris, Île-de-France, France<br/>London, England, United Kingdom</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484993138/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Ubisoft</strong></td>
-<td><a href="https://trueinterview.io/jobs/f20e6def-3d18-4738-960e-d5acf8e8f3ab">Data Scientist - H/F/NB</a></td>
-<td>Paris, Île-de-France, France</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Ubisoft2/744000158563410-data-scientist-h-f-nb">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>JDE Peet's</strong></td>
-<td><a href="https://trueinterview.io/jobs/e5d42492-a1c1-4316-94ef-f8332de8cb01">Stage | Business Data Analyst H/F - L’Or, Senseo, Tassimo</a></td>
-<td>Paris, Île-de-France, France</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4475471245/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>NEXTON</strong></td>
-<td><a href="https://trueinterview.io/jobs/cb82c78c-423d-41ee-94dc-5ee095328674">Data engineer Python/dask/polars H/F</a></td>
-<td>Paris, France<br/>Paris, Île-de-France, France</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/NEXTON/744000158548113-data-engineer-python-dask-polars-h-f">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Mistral AI</strong></td>
-<td><a href="https://trueinterview.io/jobs/1e067ec1-05ec-426c-8444-ccf0d899be79">Applied Science - Cybersecurity</a></td>
-<td>Paris, France<br/>London</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/mistral.ai/bc1dc526-615f-47f6-a80a-8f1b95bf75ae">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Inetum</strong></td>
-<td><a href="https://trueinterview.io/jobs/5d65a744-5b84-4e37-a4ce-dd4f3582ec12">Data Analyst F/H</a></td>
-<td>Nantes, Pays de la Loire, France</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Inetum2/744000158526808-data-analyst-f-h">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Ubisoft</strong></td>
-<td><a href="https://trueinterview.io/jobs/abe6c218-4791-49f0-bab0-30f76cfcbbd8">Game Data Analyst (H/F/NB) – The Crew Motorfest</a></td>
-<td>Lyon, Auvergne-Rhône-Alpes, France</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Ubisoft2/744000158522210-game-data-analyst-h-f-nb-the-crew-motorfest-">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Papillon Patrimoine</strong></td>
-<td><a href="https://trueinterview.io/jobs/a41a9fdf-df10-4e67-90cc-09519c25d8cd">Sales/Business Developer en Immobilier neuf H/F indépendant</a></td>
-<td>Rennes, France</td>
-<td align="center"><a href="https://apply.wink-lab.com/apply/106fc399-ea51-44bc-bae9-27ea0b04cbcf">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Ubisoft</strong></td>
-<td><a href="https://trueinterview.io/jobs/3e90150f-0a36-4425-847e-b3147de78ae9">Web Tools Programmer - H/F/NB</a></td>
-<td>Paris, Île-de-France, France</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Ubisoft2/744000158510919-web-tools-programmer-h-f-nb">Apply</a></td>
-<td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
 </table>

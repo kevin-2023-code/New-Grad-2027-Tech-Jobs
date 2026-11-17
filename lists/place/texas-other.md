@@ -2,7 +2,7 @@
 
 # 🛢️ Houston, San Antonio & the rest of Texas
 
-**183 open roles.**
+**160 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -106,6 +106,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/894cb6db-6e90-4b7f-9c70-92719abfaa99">Electrical Controls Engineer</a></td>
 <td>Houston, TX</td>
 <td align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4669082/Enchanted-Rock-Management-LLC/Electrical-Controls-Engineer">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>MD Anderson Cancer Center</strong></td>
+<td><a href="https://trueinterview.io/jobs/ba2bf64a-7d1c-45d1-b409-565fac3f0f47">Research Medical Laboratory Scientist</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://jobs.mdanderson.org/search/jobdetails/research-medical-laboratory-scientist/2cad9e26-4734-4583-a999-7dc92992679c">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
@@ -1129,174 +1136,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Antonio, Texas Metropolitan Area</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484808358/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Wesco</strong></td>
-<td><a href="https://trueinterview.io/jobs/3b57139e-f4c6-4adc-9be6-4d7936aad90d">Engineer - Application (Substation)</a></td>
-<td>Houston, TX, United States<br/>Greenfield, IN, United States</td>
-<td align="center"><a href="https://eklm.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/35824">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Hays Electrical Services</strong></td>
-<td><a href="https://trueinterview.io/jobs/0f953f70-1a57-4ec0-9aba-8130a5b01a0a">Helpdesk Technician</a></td>
-<td>Houston, TX</td>
-<td align="center"><a href="https://hayselectricalservices.applytojob.com/apply/GoOc1wBg2r/Helpdesk-Technician?%7E=">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Fluor Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/81949a48-7ea4-416e-8683-06795c492ef0">Associate Design Engineer I - Structural New Graduate</a></td>
-<td>Houston, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485244586/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>The University of Texas at San Antonio</strong></td>
-<td><a href="https://trueinterview.io/jobs/df5d440f-9d1d-4638-955f-815db8c53224">Enterprise Programmer Analyst</a></td>
-<td>San Antonio, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485254054/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>BPM Microsystems</strong></td>
-<td><a href="https://trueinterview.io/jobs/449e4dfb-7127-46ce-85d6-1f976aebe878">Software Engineer</a></td>
-<td>Houston, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484131059/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>OakTree Staffing</strong></td>
-<td><a href="https://trueinterview.io/jobs/68e3ef83-25f0-4298-a460-99af3e3159e7">Project Engineer</a></td>
-<td>The Woodlands, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4474770528/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/a0b2b16e-877a-4e22-a073-e6d4ef53d1ab">Cost Engineer</a></td>
-<td>The Woodlands, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4481254131/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>American Bureau of Shipping (ABS)</strong></td>
-<td><a href="https://trueinterview.io/jobs/00211764-e17f-498c-9fe3-4ae396ebeade">Engineer I - GES Structures and Stability</a></td>
-<td>Houston, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4459845727/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Amentum</strong></td>
-<td><a href="https://trueinterview.io/jobs/dfcabf14-1f5a-4c49-aac2-49fcb845365e">System Administrator EG Labs</a></td>
-<td>Houston, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467503314/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Expand Energy</strong></td>
-<td><a href="https://trueinterview.io/jobs/6245110e-d2ad-4a3a-b5fc-b53a22859099">Software Engineer I</a></td>
-<td>Spring, TX<br/>Oklahoma City, OK</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4474473382/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Ezee Fiber</strong></td>
-<td><a href="https://trueinterview.io/jobs/88a7e253-de7a-44ce-8958-8f0a439136c6">Engineer I, Enterprise Engineering</a></td>
-<td>Houston, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468302411/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>NOV</strong></td>
-<td><a href="https://trueinterview.io/jobs/467582bd-c1a9-46f6-9f4b-df6c3ab8f6c0">NOVOS Support Engineer</a></td>
-<td>Houston, TX</td>
-<td align="center"><a href="https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_xx/job/43663">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Nscale</strong></td>
-<td><a href="https://trueinterview.io/jobs/d658788c-4ba6-4741-98dc-d1803409cd27">GTM Engineer</a></td>
-<td>Houston, TX<br/>New York, NY<br/>San Francisco, CA<br/>+1 more</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484974880/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Bright Vision Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/720bbaee-6bb7-4b59-80d8-992a50fec953">ServiceNow Application Developer</a></td>
-<td>Sugar Land, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484986425/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Eventellect</strong></td>
-<td><a href="https://trueinterview.io/jobs/429ae006-9242-4113-ab11-a1433a4fca38">Data Scientist</a></td>
-<td>Houston, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484976273/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Pangea</strong></td>
-<td><a href="https://trueinterview.io/jobs/7fe02955-82df-4f40-b784-084458de9681">Gasoline Trader</a></td>
-<td>Houston, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484982132/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Arcadis</strong></td>
-<td><a href="https://trueinterview.io/jobs/5fe2373d-d4ab-447e-98c2-d1dfe13f283f">Entry Level Environmental Engineer</a></td>
-<td>Houston, TX<br/>Tampa, FL<br/>Philadelphia, PA<br/>+1 more</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4474826145/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>CSAT Solutions LP</strong></td>
-<td><a href="https://trueinterview.io/jobs/a6d114c2-e573-49e8-aa63-7625a146a876">Quality Engineer 1</a></td>
-<td>Houston, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484968505/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Star Pipe Products</strong></td>
-<td><a href="https://trueinterview.io/jobs/5e45a7dd-4a49-49b6-8fd4-cfadb3ec153c">Data Analyst</a></td>
-<td>Houston, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482229259/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Mott MacDonald</strong></td>
-<td><a href="https://trueinterview.io/jobs/ffa06a5a-5c3a-425c-988f-0f0caa08cfba">Graduate Electrical Engineer- 2027</a></td>
-<td>The Woodlands, TX<br/>Austin, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476958133/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>VySystems</strong></td>
-<td><a href="https://trueinterview.io/jobs/357c95fa-aa80-4e0a-96f4-ef03a8b7f8d1">Failure Analysis Engineer</a></td>
-<td>Spring, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484094972/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Zachry Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/66e93668-bb43-4a59-a345-e7f3d2abe330">Engineer III Instrumentation &amp; Control</a></td>
-<td>Houston, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4411767011/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Panthera Grid Partners</strong></td>
-<td><a href="https://trueinterview.io/jobs/2f7cc569-800f-4a23-9e8f-efca3587191c">Performance Data Engineer</a></td>
-<td>Houston, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484950999/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>FUSTIS LLC</strong></td>
-<td><a href="https://trueinterview.io/jobs/1a98c8bb-25d5-4da7-a1d2-9cfddfb2b6be">GenAI / LLM Engineer – Voice AI &amp; Agentic AI</a></td>
-<td>Houston, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484972172/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
 </table>

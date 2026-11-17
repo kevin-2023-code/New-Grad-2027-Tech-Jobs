@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**7,438 open roles.** 5,164 in the United States & Canada · 2,274 elsewhere in the world.
+**6,290 open roles.** 4,541 in the United States & Canada · 1,749 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -10,7 +10,7 @@
 
 _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-authorisation restriction._
 
-<sub>Page 1 of 19 · [Page 2 →](software-engineering-2.md)</sub>
+<sub>Page 1 of 16 · [Page 2 →](software-engineering-2.md)</sub>
 
 ## United States & Canada
 
@@ -162,8 +162,8 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Minitab</strong></td>
 <td><a href="https://trueinterview.io/jobs/8301a876-b0bc-415e-bda8-6c02e37bb5d3">Software Engineer</a></td>
-<td>State College, PA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4491723610/">Apply</a></td>
+<td>State College, PA<br/>State College, Pennsylvania, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/minitab/jobs/8203700003">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
@@ -517,6 +517,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Clera</strong></td>
+<td><a href="https://trueinterview.io/jobs/b54754c8-7156-4abd-a327-3533d0b59093">Fullstack Engineer</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/Clera/ec9a9c56-3876-49df-b0c9-f8afac490c98">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Acuity Insurance</strong></td>
 <td><a href="https://trueinterview.io/jobs/b95b39df-05ab-4381-97cc-32366e9eb25f">Software Engineer I</a></td>
 <td>Wisconsin, United States</td>
@@ -605,6 +612,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/4c04502d-da41-4d2d-8be0-08d6a1ad4200">Cyber Defence Engineer I</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/krakentech/42eb26ba-dad5-4ada-949e-fd579c991459">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Buspatrol</strong></td>
+<td><a href="https://trueinterview.io/jobs/e4051bcd-808e-467e-92bc-c07384c5bee7">IT Ops Automation Engineer</a></td>
+<td>Austin, TX<br/>Austin, Texas</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/buspatrol/e5264fb2-c237-4a06-bcba-fd5aeaa31569">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
@@ -2337,6 +2351,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>WSP</strong></td>
+<td><a href="https://trueinterview.io/jobs/92805235-c2f7-4b45-8f87-ecf9cf0d63bf">Intermediate Substation P&amp;C Engineer</a></td>
+<td>Buffalo, NY, United States</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99636">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Zenlayer</strong></td>
 <td><a href="https://trueinterview.io/jobs/8b7ef7f4-4f21-4907-84d5-17ab81453955">Developer Advocate, Lune</a></td>
 <td>Diamond Bar, California, United States</td>
@@ -2798,30 +2819,9 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://cabinetworksgroup.wd1.myworkdayjobs.com/cabinetworksgroupcareers/job/US---Ohio---Orwell/Automation---Controls-Engineer_REQ69518">Apply</a></td>
 <td align="center">16 Nov 2026</td>
 </tr>
-<tr>
-<td><strong>CAE</strong></td>
-<td><a href="https://trueinterview.io/jobs/e28fa6a3-ae8f-4b75-9416-2f85dd8209bc">Software Engineer</a></td>
-<td>Wright-Patterson AFB, OH</td>
-<td align="center"><a href="https://cae.wd3.myworkdayjobs.com/en-US/career/job/Wright-Patterson-AFB-OH/Software-Engineer_124607-1">Apply</a></td>
-<td align="center">16 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Capgemini</strong></td>
-<td><a href="https://trueinterview.io/jobs/657770a7-b980-4306-8a96-e78239197056">Observability Engineer with Promethues/Cortex/Grafana</a></td>
-<td>Alpharetta, GA</td>
-<td align="center"><a href="https://capgemini.talentnet.community/jobs/39b227c8-1842-4586-a13f-9949849d2219">Apply</a></td>
-<td align="center">16 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/ad83b48d-cf08-47c0-8625-26c1f109bbca">Salesforce Developer</a></td>
-<td>Los Angeles, CA</td>
-<td align="center"><a href="https://capgemini.talentnet.community/jobs/df085346-a79c-4f69-aaa5-50154f6ca1da">Apply</a></td>
-<td align="center">16 Nov 2026</td>
-</tr>
 </tbody>
 </table>
 
-<sub>Page 1 of 19 · [Page 2 →](software-engineering-2.md)</sub>
+<sub>Page 1 of 16 · [Page 2 →](software-engineering-2.md)</sub>
 
 [← Every filter](../README.md) · [Back to the full list](../../README.md)

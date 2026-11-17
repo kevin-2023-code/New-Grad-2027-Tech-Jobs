@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**945 open roles.** 942 in the United States & Canada · 3 elsewhere in the world.
+**862 open roles.** 860 in the United States & Canada · 2 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -80,6 +80,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/0712bdd5-c7cf-4961-9a10-52abdf4f08c6">Astronomy &amp; Astrophysics Research Scientist</a></td>
 <td>Livermore, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4491592890/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Clera</strong></td>
+<td><a href="https://trueinterview.io/jobs/b54754c8-7156-4abd-a327-3533d0b59093">Fullstack Engineer</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/Clera/ec9a9c56-3876-49df-b0c9-f8afac490c98">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
@@ -276,6 +283,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/03f9008f-5335-44c1-8d9e-d9fa86147b86">Systems Development Engineer, DC Robotics, Data Center Robotics</a></td>
 <td>San Francisco, California, United States<br/>Santa Clara, California, United States<br/>Austin, TX<br/>+2 more</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10606820/systems-development-engineer-dc-robotics-data-center-robotics">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>WSP</strong></td>
+<td><a href="https://trueinterview.io/jobs/a8ec552f-cf7f-4534-ba2a-8d96cc9d93cb">Early Career Environmental Engineer</a></td>
+<td>San Francisco, CA<br/>San Jose, CA<br/>Oakland, CA, United States</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98742">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
@@ -2803,20 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/fac236a9-b0fb-4e8c-987b-445972fd45b7">Software Engineer - Evaluation</a></td>
 <td>Fremont, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4465277137/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>General Motors</strong></td>
-<td><a href="https://trueinterview.io/jobs/e93d968c-8b2e-415a-9295-3590ebcad6d9">Software Systems Engineer, Data Labeling Engineering - Early Career</a></td>
-<td>Sunnyvale, California, United States<br/>Seattle, Washington, United States<br/>Greater Seattle Area</td>
-<td align="center"><a href="https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/ML-Systems-Engineer--Data-Labeling-Engineering---Early-Career_JR-202619939">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Apple</strong></td>
-<td><a href="https://trueinterview.io/jobs/73fdf535-b4f9-4dc8-95b0-f77797e83729">Software Engineer, Triage Services</a></td>
-<td>Cupertino, California, United States</td>
-<td align="center"><a href="https://jobs.apple.com/en-us/details/200693271">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 </tbody>

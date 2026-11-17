@@ -2,11 +2,11 @@
 
 # 💻 Software Engineering
 
-**7,438 open roles.** 5,164 in the United States & Canada · 2,274 elsewhere in the world.
+**6,290 open roles.** 4,541 in the United States & Canada · 1,749 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
-<sub>[← Page 9](software-engineering-9.md) · Page 10 of 19 · [Page 11 →](software-engineering-11.md)</sub>
+<sub>[← Page 9](software-engineering-9.md) · Page 10 of 16 · [Page 11 →](software-engineering-11.md)</sub>
 
 ## United States & Canada
 
@@ -15,6 +15,20 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Serval</strong></td>
+<td><a href="https://trueinterview.io/jobs/d19057b5-4f2d-43ba-a1cb-d36e2e10cb04">Security Engineer, Infrastructure</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/Serval/d9710f87-ce34-4a13-94d9-2558cd406a17">Apply</a></td>
+<td align="center">1 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/ae4c3dd8-c68a-4491-8f3c-215bad0831a9">Software Engineer, Infrastructure</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/Serval/dedc8cf0-cbf5-4335-ae46-c3e8e6de9c8d">Apply</a></td>
+<td align="center">1 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Tata Consultancy Services</strong></td>
 <td><a href="https://trueinterview.io/jobs/6b015c13-cf10-4576-b5dd-4dd1342f8e97">Informatica IDMC developer</a></td>
@@ -2801,23 +2815,9 @@
 <td align="center"><a href="https://grnh.se/fnxb2gsm1us">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
-<tr>
-<td><strong>Nityo Infotech</strong></td>
-<td><a href="https://trueinterview.io/jobs/520290ca-9ca9-4dc6-9590-5831998be800">.NET Full Stack Developer</a></td>
-<td>Arlington, VA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485614952/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Dust</strong></td>
-<td><a href="https://trueinterview.io/jobs/598a46d9-d1c5-41bb-9f01-6a618c0fdf0d">Partnerships Solutions Engineer</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/dust/7207f358-42a5-4c4d-b7ee-142b1d9dba04">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
 </tbody>
 </table>
 
-<sub>[← Page 9](software-engineering-9.md) · Page 10 of 19 · [Page 11 →](software-engineering-11.md)</sub>
+<sub>[← Page 9](software-engineering-9.md) · Page 10 of 16 · [Page 11 →](software-engineering-11.md)</sub>
 
 [← Every filter](../README.md) · [Back to the full list](../../README.md)

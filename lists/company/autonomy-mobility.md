@@ -2,7 +2,7 @@
 
 # 🚗 Autonomy, automotive & mobility
 
-**105 open roles.** 93 in the United States & Canada · 12 elsewhere in the world. Self-driving, automotive, drones, eVTOL and transport technology.
+**101 open roles.** 89 in the United States & Canada · 12 elsewhere in the world. Self-driving, automotive, drones, eVTOL and transport technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -639,34 +639,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Buffalo, NY</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485273426/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Magna International</strong></td>
-<td><a href="https://trueinterview.io/jobs/0dc1e7b3-a5d9-4999-bbe2-2572ff8f5e14">SCADA Engineer</a></td>
-<td>Northwood, OH</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468253960/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Aeva</strong></td>
-<td><a href="https://trueinterview.io/jobs/6904571b-9a9b-4d81-962d-3deefc5c15f2">Optical Aligner and Test Engineer - Mountain View, CA</a></td>
-<td>Mountain View, CA</td>
-<td align="center"><a href="https://jobs.lever.co/aeva/a6aa45f4-672b-4d03-bd41-2215ddf2e19e">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Magna International</strong></td>
-<td><a href="https://trueinterview.io/jobs/a0745cfe-805a-436d-b3ac-ca97c50c2c39">Manufacturing Engineer</a></td>
-<td>Milton, Ontario, Canada</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4411901167/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Motional</strong></td>
-<td><a href="https://trueinterview.io/jobs/28928d3b-645d-4d9c-a902-e1b8ecc1cf9f">Machine Learning Engineer, Data Mining</a></td>
-<td>Boston, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4428968344/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
 </table>

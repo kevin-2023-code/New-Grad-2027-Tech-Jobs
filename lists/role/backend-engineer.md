@@ -2,7 +2,7 @@
 
 # Backend Engineer
 
-**131 open roles.** 76 in the United States & Canada · 55 elsewhere in the world.
+**121 open roles.** 69 in the United States & Canada · 52 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -500,55 +500,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4483413065/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
-<tr>
-<td><strong>Bitovi</strong></td>
-<td><a href="https://trueinterview.io/jobs/c6d27fd6-8011-4833-95c2-70a0c97ef96b">Backend Developer Consultant (GraphQL &amp; Kafka)</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4479134586/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Trinity Cyber</strong></td>
-<td><a href="https://trueinterview.io/jobs/02cb9f91-848f-4e10-8101-cd8a5496c18c">Back End Developer</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4458860916/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Anything</strong></td>
-<td><a href="https://trueinterview.io/jobs/c7924048-5474-40e2-b96d-2aefe2e72395">Backend Engineer - AI</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4332205894/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>BeaconFire Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/d370968d-b197-4923-96e3-6d73a3337c41">Backend SDE</a></td>
-<td>New Jersey, United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467647475/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Zachary Piper Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/254708a5-7ae0-431e-9e0c-f17e6c8b2d10">Backend Engineer (CLEARED) - 160036</a></td>
-<td>Denver, CO</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467119987/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Torentify</strong></td>
-<td><a href="https://trueinterview.io/jobs/0a2433e1-0c87-4242-8b21-a5cb23948604">Backend Developer - USA Remote</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484962435/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/d4b72d49-5ec8-42a4-a5b6-30a4e116e284">Backend Engineer for AI Agent Builder - USA | Remote</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484959622/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -924,27 +875,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484593848/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Michael Page</strong></td>
-<td><a href="https://trueinterview.io/jobs/8f75f0a3-b790-4a5a-9a85-dc0692e9d86b">Backend Engineer (wdm) - Go, Data and Event-Driven Systems</a></td>
-<td>Berlin, Berlin, Germany</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467295048/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>TekWissen India</strong></td>
-<td><a href="https://trueinterview.io/jobs/b75b1dbd-003a-47d0-ba1b-757c3f4e5628">Java Backend Developer</a></td>
-<td>Bengaluru, Karnataka, India</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484939893/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Crewmeister</strong></td>
-<td><a href="https://trueinterview.io/jobs/10036307-30bb-459a-8c54-3567f29f72aa">Backend Software Engineer - AI/ML (m/f/d)</a></td>
-<td>India</td>
-<td align="center"><a href="https://join.com/companies/crewmeister/16889518-backend-software-engineer-ai-ml-m-f-d?pid=a13795120131dbe48464">Apply</a></td>
-<td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # 🐎 Calgary & the Prairies
 
-**24 open roles.**
+**17 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -135,55 +135,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Edmonton, Canada</td>
 <td align="center"><a href="https://amii.bamboohr.com/careers/247?postedDate=2026-10-30">Apply</a></td>
 <td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>WSP</strong></td>
-<td><a href="https://trueinterview.io/jobs/5fd6f362-910a-468a-87c8-3fc139ba2ee9">Civil Engineer-in-Training, Municipal Engineering</a></td>
-<td>Edmonton, AB, Canada</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98620">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>ENMAX</strong></td>
-<td><a href="https://trueinterview.io/jobs/a7a7632f-460c-486f-81ab-a57d394153bf">Advanced Metering Grid Operations Engineer</a></td>
-<td>Calgary, AB<br/>Calgary, Alberta, Canada</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4475726290/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Viva Tech Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/6010accf-6971-4e4b-93e8-34813af29a33">Cloud Engineer - Cloud Security</a></td>
-<td>Calgary, AB<br/>Calgary, Alberta, Canada</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484963808/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Ecolab</strong></td>
-<td><a href="https://trueinterview.io/jobs/5629e7f8-f6b1-4feb-8a6e-a3c5f9b2e10e">Thermal Mechanical Engineer</a></td>
-<td>Calgary, AB<br/>Calgary, Alberta, Canada</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476940060/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Siemens EDA (Siemens Digital Industries Software)</strong></td>
-<td><a href="https://trueinterview.io/jobs/b171c865-ac8b-40d3-b714-c60bea56d080">Software Developer - Python &amp; C++ *</a></td>
-<td>Saskatoon, Saskatchewan, Canada</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4449148037/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>CANSEL</strong></td>
-<td><a href="https://trueinterview.io/jobs/a6f9b223-1f2e-4921-8315-42662ab91175">Data &amp; Business Systems Analyst</a></td>
-<td>Winnipeg, Canada</td>
-<td align="center"><a href="https://recruiting.ultipro.ca/CAN5108CGOC/JobBoard/93be3591-28b5-40c9-8368-6b68a2a14b04/OpportunityDetail?opportunityId=f44be52d-61af-4f3b-af91-fa2c53ac8e5c&amp;postingId=9e3c3a9a-643d-413f-a17a-d6f830355b89">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Wood</strong></td>
-<td><a href="https://trueinterview.io/jobs/91534816-07e0-469e-8cf2-75e984f359f5">Intermediate Instrumentation &amp; Controls Engineer</a></td>
-<td>Calgary, AB<br/>Calgary, Alberta, Canada</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468302524/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
 </table>

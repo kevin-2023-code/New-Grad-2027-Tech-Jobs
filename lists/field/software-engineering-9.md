@@ -2,11 +2,11 @@
 
 # 💻 Software Engineering
 
-**7,438 open roles.** 5,164 in the United States & Canada · 2,274 elsewhere in the world.
+**6,290 open roles.** 4,541 in the United States & Canada · 1,749 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
-<sub>[← Page 8](software-engineering-8.md) · Page 9 of 19 · [Page 10 →](software-engineering-10.md)</sub>
+<sub>[← Page 8](software-engineering-8.md) · Page 9 of 16 · [Page 10 →](software-engineering-10.md)</sub>
 
 ## United States & Canada
 
@@ -15,6 +15,20 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Dartmouth College</strong></td>
+<td><a href="https://trueinterview.io/jobs/781220e9-a034-4dc8-99c1-0c3fd23dc0fa">Infrastructure Engineer II.</a></td>
+<td>Hanover, NH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485740450/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>The Applied Research Laboratory at Penn State University</strong></td>
+<td><a href="https://trueinterview.io/jobs/a0c25a56-ab29-4f06-b95c-87993fe389c8">Cyber Security Engineer</a></td>
+<td>Warminster, PA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4473662314/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Imi</strong></td>
 <td><a href="https://trueinterview.io/jobs/c3102681-8539-4986-982a-1a04ab752157">Project Engineer</a></td>
@@ -2801,23 +2815,9 @@
 <td align="center"><a href="https://jobs.ashbyhq.com/fireworks/7a9c5827-cbeb-4397-b364-b7a5177b9f62">Apply</a></td>
 <td align="center">1 Nov 2026</td>
 </tr>
-<tr>
-<td><strong>Serval</strong></td>
-<td><a href="https://trueinterview.io/jobs/d19057b5-4f2d-43ba-a1cb-d36e2e10cb04">Security Engineer, Infrastructure</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/Serval/d9710f87-ce34-4a13-94d9-2558cd406a17">Apply</a></td>
-<td align="center">1 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/ae4c3dd8-c68a-4491-8f3c-215bad0831a9">Software Engineer, Infrastructure</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/Serval/dedc8cf0-cbf5-4335-ae46-c3e8e6de9c8d">Apply</a></td>
-<td align="center">1 Nov 2026</td>
-</tr>
 </tbody>
 </table>
 
-<sub>[← Page 8](software-engineering-8.md) · Page 9 of 19 · [Page 10 →](software-engineering-10.md)</sub>
+<sub>[← Page 8](software-engineering-8.md) · Page 9 of 16 · [Page 10 →](software-engineering-10.md)</sub>
 
 [← Every filter](../README.md) · [Back to the full list](../../README.md)

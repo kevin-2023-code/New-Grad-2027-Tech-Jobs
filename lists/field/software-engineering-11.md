@@ -2,11 +2,11 @@
 
 # 💻 Software Engineering
 
-**7,438 open roles.** 5,164 in the United States & Canada · 2,274 elsewhere in the world.
+**6,290 open roles.** 4,541 in the United States & Canada · 1,749 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
-<sub>[← Page 10](software-engineering-10.md) · Page 11 of 19 · [Page 12 →](software-engineering-12.md)</sub>
+<sub>[← Page 10](software-engineering-10.md) · Page 11 of 16 · [Page 12 →](software-engineering-12.md)</sub>
 
 ## United States & Canada
 
@@ -15,6 +15,20 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Nityo Infotech</strong></td>
+<td><a href="https://trueinterview.io/jobs/520290ca-9ca9-4dc6-9590-5831998be800">.NET Full Stack Developer</a></td>
+<td>Arlington, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485614952/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Dust</strong></td>
+<td><a href="https://trueinterview.io/jobs/598a46d9-d1c5-41bb-9f01-6a618c0fdf0d">Partnerships Solutions Engineer</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/dust/7207f358-42a5-4c4d-b7ee-142b1d9dba04">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Path Robotics</strong></td>
 <td><a href="https://trueinterview.io/jobs/c708bc42-adc4-40e0-86f9-a70a8715ae12">Software Engineer, C++</a></td>
@@ -2801,23 +2815,9 @@
 <td align="center"><a href="https://multiview.bamboohr.com/careers/271?postedDate=2026-10-30">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
-<tr>
-<td><strong>NAVAIR</strong></td>
-<td><a href="https://trueinterview.io/jobs/b1d4280b-06a5-4797-b29a-0be8601ed118">SUPERVISORY GENERAL ENGINEER</a></td>
-<td>Naval Air Station San Diego, CA</td>
-<td align="center"><a href="https://navair.yellogov.com/jobs/QTbJRjeZE9vo_FkxqB8FsA?job_board_id=mdxt8VG0qqvc7z8xHhZztg">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>NineDot Energy</strong></td>
-<td><a href="https://trueinterview.io/jobs/65c3a1de-3f5d-4195-a4b1-e9a479ce789a">Project Engineer</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://grnh.se/a9ojktah5us">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
 </tbody>
 </table>
 
-<sub>[← Page 10](software-engineering-10.md) · Page 11 of 19 · [Page 12 →](software-engineering-12.md)</sub>
+<sub>[← Page 10](software-engineering-10.md) · Page 11 of 16 · [Page 12 →](software-engineering-12.md)</sub>
 
 [← Every filter](../README.md) · [Back to the full list](../../README.md)

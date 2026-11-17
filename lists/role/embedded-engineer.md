@@ -2,7 +2,7 @@
 
 # Embedded Engineer
 
-**168 open roles.** 122 in the United States & Canada · 46 elsewhere in the world.
+**153 open roles.** 111 in the United States & Canada · 42 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -794,83 +794,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485287099/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
-<tr>
-<td><strong>Socomec Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/2111747b-63ac-49cf-b3ac-f75d52faa425">Software/Firmware Development Engineer</a></td>
-<td>Brampton, ON, Canada</td>
-<td align="center"><a href="https://iahxgs.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/48">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>General Atomics Aeronautical Systems</strong></td>
-<td><a href="https://trueinterview.io/jobs/839f779e-8c25-4efa-82c2-3e471a1d621b">Software Embedded Developer (C++/Linux)</a></td>
-<td>Poway, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476971561/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Cadence</strong></td>
-<td><a href="https://trueinterview.io/jobs/d5cf046f-6300-4d1c-8c98-20717938fc49">Firmware Design Engineer</a></td>
-<td>Mount Royal, NJ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4440237745/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>CHAOS Industries</strong></td>
-<td><a href="https://trueinterview.io/jobs/9c324083-7f55-460d-9909-99b79e6e8230">Effector Embedded Software Engineer</a></td>
-<td>El Segundo, California, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/chaosindustries/jobs/5223337007">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Technical-Link N. America</strong></td>
-<td><a href="https://trueinterview.io/jobs/f37c92b2-fde6-47d4-9503-1af127f21db0">Embedded Software Engineer (NEON)</a></td>
-<td>Milpitas, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484985132/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Global Connect Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/dbd1fc1d-bcc9-4358-8766-2919c519f7f3">Embedded Automation Engineer - Automotive</a></td>
-<td>Oak Brook, IL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484980132/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Alarm.com</strong></td>
-<td><a href="https://trueinterview.io/jobs/57295e81-d6ca-4d20-a600-eea8c509e464">Embedded Software Engineer I</a></td>
-<td>Tysons Corner, VA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4456943495/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Maven Robotics</strong></td>
-<td><a href="https://trueinterview.io/jobs/ce48ead7-a2d9-4550-b63e-217bb959f68b">Embedded Software Engineer, Real-Time Embedded</a></td>
-<td>Santa Clara, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484972521/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/0e8823ba-2409-4104-bb6d-3dcf0611a58c">Embedded Software Engineer, Real-Time Linux</a></td>
-<td>Santa Clara, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484967807/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Leggett &amp; Platt</strong></td>
-<td><a href="https://trueinterview.io/jobs/4d904b2f-89c0-4708-aa3c-76f0fa7742d0">Embedded Electronics Engineer (Hardware)</a></td>
-<td>Carthage, MO</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4402053848/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>York Space Systems</strong></td>
-<td><a href="https://trueinterview.io/jobs/47e1c03f-d98a-40d8-9b8d-4c0d2a5fe601">Embedded Flight Software Engineer (Early Career)</a></td>
-<td>Greenwood Village, CO</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4474493319/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -1176,34 +1099,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Lille, Hauts-de-France, France</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485267484/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>iO Associates</strong></td>
-<td><a href="https://trueinterview.io/jobs/ffa24165-c4e3-4d0f-a3d5-777fb97ffa25">Embedded Software Engineer</a></td>
-<td>Cardiff, Wales, United Kingdom</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484966681/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>InfoVision Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/c516fa42-fd4d-49f6-8d89-408d47a28fd8">Embedded Software Engineer IoT Lighting Firmware</a></td>
-<td>Bengaluru, Karnataka, India</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4458707598/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Rockwell Automation</strong></td>
-<td><a href="https://trueinterview.io/jobs/e7e6733c-0cc8-4cc0-8747-079b49c6abc4">Firmware Engineer – Fresh Graduate</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4475792623/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>microTECH Global LTD</strong></td>
-<td><a href="https://trueinterview.io/jobs/b1572373-0c3a-40ce-8948-fa8850bb8aeb">Embedded Software (Rust) Engineer</a></td>
-<td>Cambridgeshire, England, United Kingdom</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484958211/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
 </table>

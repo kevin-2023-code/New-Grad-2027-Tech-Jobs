@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**2,407 open roles.** 1,841 in the United States & Canada · 566 elsewhere in the world.
+**2,206 open roles.** 1,727 in the United States & Canada · 479 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -10,7 +10,7 @@
 
 _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-authorisation restriction._
 
-<sub>Page 1 of 7 · [Page 2 →](software-engineer-2.md)</sub>
+<sub>Page 1 of 6 · [Page 2 →](software-engineer-2.md)</sub>
 
 ## United States & Canada
 
@@ -99,8 +99,8 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Minitab</strong></td>
 <td><a href="https://trueinterview.io/jobs/8301a876-b0bc-415e-bda8-6c02e37bb5d3">Software Engineer</a></td>
-<td>State College, PA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4491723610/">Apply</a></td>
+<td>State College, PA<br/>State College, Pennsylvania, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/minitab/jobs/8203700003">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
@@ -2822,6 +2822,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tbody>
 </table>
 
-<sub>Page 1 of 7 · [Page 2 →](software-engineer-2.md)</sub>
+<sub>Page 1 of 6 · [Page 2 →](software-engineer-2.md)</sub>
 
 [← Every filter](../README.md) · [Back to the full list](../../README.md)
