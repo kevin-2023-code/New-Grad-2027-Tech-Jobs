@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**6,290 open roles.** 4,541 in the United States & Canada · 1,749 elsewhere in the world.
+**9,309 open roles.** 6,138 in the United States & Canada · 3,171 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -10,7 +10,7 @@
 
 _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-authorisation restriction._
 
-<sub>Page 1 of 16 · [Page 2 →](software-engineering-2.md)</sub>
+<sub>Page 1 of 24 · [Page 2 →](software-engineering-2.md)</sub>
 
 ## United States & Canada
 
@@ -19,6 +19,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Socure</strong></td>
+<td><a href="https://trueinterview.io/jobs/3d1da307-212c-4e60-ab17-762ab806ae4d">Enterprise Security Engineer (Okta / Identity)</a></td>
+<td>Hub - New York</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/socure/58799c04-b242-4af6-9f19-91c680caecd4">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>AECOM</strong></td>
+<td><a href="https://trueinterview.io/jobs/78630a1f-1f9d-4348-a8dd-bec69e3099f0">Entry-Level Geotechnical Engineer</a></td>
+<td>Germantown, Maryland, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/AECOM2/744000162172469-entry-level-geotechnical-engineer">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>The Judge Group</strong></td>
 <td><a href="https://trueinterview.io/jobs/0352fd8f-5440-4640-89c5-6e875769e8a4">FullStack Java Developer</a></td>
@@ -177,7 +191,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>Roblox</strong></td>
 <td><a href="https://trueinterview.io/jobs/c8eb94b7-9c27-4d1a-8f73-bdeae5388dcb">Software Engineer, Communication Safety</a></td>
 <td>San Mateo, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4491408303/">Apply</a></td>
+<td align="center"><a href="https://careers.roblox.com/jobs/8386848?gh_jid=8386848">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
@@ -356,10 +370,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>EIT Professionals Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/8486d876-9cc0-42ce-84c7-5813fdce629e">Embedded Software Developer</a></td>
-<td>Peoria, IL</td>
-<td align="center"><a href="https://www.indeed.com/viewjob?jk=21a9e76e8f4d8399">Apply</a></td>
+<td><strong>Akuna Capital</strong></td>
+<td><a href="https://trueinterview.io/jobs/05f91f03-b960-49fc-99a2-9e6131089b96">Software Engineer - Python, Post Trade</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.akunacapital.com/careers/job/8359204/?gh_jid=8359204">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
@@ -479,6 +493,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/9718ee91-2c04-470f-bf86-603bdc7bb349">Entry-level Instrumentation, Controls &amp; Automation Engineer (MA, RI, CT)</a></td>
 <td>Massachusetts<br/>Andover, MA<br/>Canton, MA<br/>+2 more</td>
 <td align="center"><a href="https://jobs.lever.co/woodardcurran/b89ed7ad-8772-4564-9480-ce8d7035f460">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Saronic Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/f1610ea3-91b9-489d-8a13-83d39633e436">Mission Operation Engineer (Platform - Effectors)</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/saronic/1eb72659-5b57-4f31-97e2-82fa04b0bfdf">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
@@ -650,7 +671,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong>Northwestern Medicine</strong></td>
+<td><a href="https://trueinterview.io/jobs/b53bb35e-7c0e-466e-9bf7-b1995ce4f668">Power Plant Stationary Engineer Full Time Nights</a></td>
+<td>Palos Heights, Illinois, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/NorthwesternMedicine/744000162125839-power-plant-stationary-engineer-full-time-nights">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon</strong></td>
 <td><a href="https://trueinterview.io/jobs/50734f58-f685-4700-811d-4ac8fde3e95e">Hardware Security Lab Engineer, Devices and Services Security</a></td>
 <td>Seattle, WA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4483709949/">Apply</a></td>
@@ -1676,6 +1704,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/14873c5f-34d1-4094-8f85-4cd4d1e7b03b">Software Engineer</a></td>
 <td>Winston-Salem, NC, United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/hearst/jobs/4467518009">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>NODA AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/b5fadd98-b345-46b8-9575-b23636b946a3">Forward-Deployed Engineer, Integration</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/noda-ai/76884d22-e078-4ef9-b115-9b672035e248">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
@@ -2784,44 +2819,9 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://jobs.auburn.edu/jobs/11622/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
 <td align="center">16 Nov 2026</td>
 </tr>
-<tr>
-<td><strong>Austin Community College</strong></td>
-<td><a href="https://trueinterview.io/jobs/c5cc24e1-b77e-4860-80b7-89351defa9de">WordPress Developer (Hourly)</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://austincc.wd1.myworkdayjobs.com/en-US/External/job/Highland-Campus/WordPress-Developer--Hourly-_R-10151">Apply</a></td>
-<td align="center">16 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Black &amp; Veatch</strong></td>
-<td><a href="https://trueinterview.io/jobs/d947ead4-2f61-4ce5-8b30-6dbf8a5f2da8">Civil/Structural Field Engineer - Combined Cycle - Oklahoma</a></td>
-<td>Lawton, OK</td>
-<td align="center"><a href="https://careers.bv.com/job/Lawton-CivilStructural-Field-Engineer-Combined-Cycle-Oklahoma-OK/1457708533/">Apply</a></td>
-<td align="center">16 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Boeing</strong></td>
-<td><a href="https://trueinterview.io/jobs/f0b72b2b-616d-4f47-87d0-d9ce1e61139d">Entry Level Product Support Engineer</a></td>
-<td>Oklahoma City, OK</td>
-<td align="center"><a href="https://jobs.boeing.com/job/oklahoma-city/entry-level-product-support-engineer/185/103399557552">Apply</a></td>
-<td align="center">16 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/43cdd3b1-ab3d-4cd5-b718-a8b92d908c74">Optical Systems Engineer (Entry Level) - Millennium Space Systems</a></td>
-<td>El Segundo, CA</td>
-<td align="center"><a href="https://jobs.boeing.com/job/el-segundo/optical-systems-engineer-entry-level-millennium-space-systems/185/103395200448">Apply</a></td>
-<td align="center">16 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Cabinetworks Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/823cb7ff-23f2-49dc-a32a-e150d2e5389f">Automation &amp; Controls Engineer</a></td>
-<td>Orwell, OH</td>
-<td align="center"><a href="https://cabinetworksgroup.wd1.myworkdayjobs.com/cabinetworksgroupcareers/job/US---Ohio---Orwell/Automation---Controls-Engineer_REQ69518">Apply</a></td>
-<td align="center">16 Nov 2026</td>
-</tr>
 </tbody>
 </table>
 
-<sub>Page 1 of 16 · [Page 2 →](software-engineering-2.md)</sub>
+<sub>Page 1 of 24 · [Page 2 →](software-engineering-2.md)</sub>
 
 [← Every filter](../README.md) · [Back to the full list](../../README.md)

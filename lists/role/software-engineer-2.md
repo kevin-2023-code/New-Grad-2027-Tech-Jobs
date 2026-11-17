@@ -2,11 +2,11 @@
 
 # Software Engineer
 
-**2,206 open roles.** 1,727 in the United States & Canada · 479 elsewhere in the world.
+**2,769 open roles.** 2,030 in the United States & Canada · 739 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
-<sub>[← Page 1](software-engineer.md) · Page 2 of 6 · [Page 3 →](software-engineer-3.md)</sub>
+<sub>[← Page 1](software-engineer.md) · Page 2 of 7 · [Page 3 →](software-engineer-3.md)</sub>
 
 ## United States & Canada
 
@@ -17,6 +17,13 @@
 <tbody>
 <tr>
 <td><strong>Dover Networks LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/4da92fe7-9ccf-45b2-aa25-21199cacc2f7">Software Engineer (SWE), Level 3 [D.26.0095]</a></td>
+<td>Maryland, United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488700347/">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/57f4a79f-ccb6-44c6-9ce3-6a938aac2c2f">Software Engineer (SWE), Level 3 D.26.0236</a></td>
 <td>Maryland, United States</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4488708025/">Apply</a></td>
@@ -2808,16 +2815,9 @@
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4454791877/">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
-<tr>
-<td><strong>Greek Peak Mountain Resort</strong></td>
-<td><a href="https://trueinterview.io/jobs/c42a9643-25c9-4d75-a7f9-b2d82c60bbf0">Programmer Trainee</a></td>
-<td>Bluefield, VA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486532799/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
 </tbody>
 </table>
 
-<sub>[← Page 1](software-engineer.md) · Page 2 of 6 · [Page 3 →](software-engineer-3.md)</sub>
+<sub>[← Page 1](software-engineer.md) · Page 2 of 7 · [Page 3 →](software-engineer-3.md)</sub>
 
 [← Every filter](../README.md) · [Back to the full list](../../README.md)

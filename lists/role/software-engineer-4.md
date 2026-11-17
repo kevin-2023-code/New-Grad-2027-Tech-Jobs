@@ -2,11 +2,11 @@
 
 # Software Engineer
 
-**2,206 open roles.** 1,727 in the United States & Canada · 479 elsewhere in the world.
+**2,769 open roles.** 2,030 in the United States & Canada · 739 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
-<sub>[← Page 3](software-engineer-3.md) · Page 4 of 6 · [Page 5 →](software-engineer-5.md)</sub>
+<sub>[← Page 3](software-engineer-3.md) · Page 4 of 7 · [Page 5 →](software-engineer-5.md)</sub>
 
 ## United States & Canada
 
@@ -2818,6 +2818,6 @@
 </tbody>
 </table>
 
-<sub>[← Page 3](software-engineer-3.md) · Page 4 of 6 · [Page 5 →](software-engineer-5.md)</sub>
+<sub>[← Page 3](software-engineer-3.md) · Page 4 of 7 · [Page 5 →](software-engineer-5.md)</sub>
 
 [← Every filter](../README.md) · [Back to the full list](../../README.md)
