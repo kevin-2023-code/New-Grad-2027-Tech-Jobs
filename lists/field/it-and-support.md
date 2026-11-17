@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**648 open roles.** 547 in the United States & Canada · 101 elsewhere in the world.
+**820 open roles.** 678 in the United States & Canada · 142 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -10,7 +10,7 @@
 
 _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-authorisation restriction._
 
-<sub>Page 1 of 2 · [Page 2 →](it-and-support-2.md)</sub>
+<sub>Page 1 of 3 · [Page 2 →](it-and-support-2.md)</sub>
 
 ## United States & Canada
 
@@ -19,6 +19,62 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>TeamLogic IT, Schofield, WI</strong></td>
+<td><a href="https://trueinterview.io/jobs/f11d646f-1efd-4547-85c8-3faa598776ee">Future Opening: Onsite Level I Help Desk and Computer/IT Support Technician</a></td>
+<td>East &amp; Central Wisconsin</td>
+<td align="center"><a href="https://teamlogic-it-schofield-wi.careerplug.com/jobs/1764412">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Wolf &amp; Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/34b6ef53-5927-414c-8d63-a06ffc3bcade">Service Desk Technician</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://career-portal-wolfandco.icims.com/jobs/1609/service-desk-technician/job?in_iframe=1">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ASM Research</strong></td>
+<td><a href="https://trueinterview.io/jobs/672092a0-3684-4e9c-b733-9545c79d16e5">Help Desk Specialist I</a></td>
+<td>San Antonio, TX</td>
+<td align="center"><a href="https://myjobs.adp.com/asmexternalcareersite/cx/job-details?reqId=5001238617906">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>University Enterprises, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/066555b3-5880-4715-8b70-d9cce822913f">Student Assistant - Help Desk Information Technology (West Sacramento, CA)</a></td>
+<td>West Sacramento, CA, 95605, USA</td>
+<td align="center"><a href="https://secure6.saashr.com/ta/6158859.careers?ShowJob=722120964&amp;lang=en-US">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>InquisIT</strong></td>
+<td><a href="https://trueinterview.io/jobs/439a5d85-5844-409d-b89f-8caa7c597486">Service Desk Specialist - TIER 1</a></td>
+<td>Alexandria, VA, US</td>
+<td align="center"><a href="https://apply.clearcompany.com/inquisitllc?jobId=7c1d9b73-7808-35d3-d318-1b9e42a0f9eb">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Indero</strong></td>
+<td><a href="https://trueinterview.io/jobs/a870d255-c553-439e-9731-d6cabe9411e0">IT Technician-Canada</a> 🌐</td>
+<td>Remote — United States, Canada</td>
+<td align="center"><a href="https://www.comeet.com/jobs/innovaderm/15.003/it-technician-canada/D5.57F">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Orange County Public Schools</strong></td>
+<td><a href="https://trueinterview.io/jobs/e8da0fd8-1d2a-4218-a30f-e23b95a2d24c">TECH SUPPORT REP</a></td>
+<td>OCOEE, FL, US</td>
+<td align="center"><a href="https://classified-ocps.icims.com/jobs/158364/tech-support-rep---50085434/job?in_iframe=1">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Virginia Tech</strong></td>
+<td><a href="https://trueinterview.io/jobs/e7cd6b94-ab97-438e-b186-9fe64b0977bf">4Help IT Support Agent</a></td>
+<td>Blacksburg, Virginia, Fully Remote, Hybrid</td>
+<td align="center"><a href="https://careers.pageuppeople.com/968/cw/en-us/job/538563/4help-it-support-agent">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Archer</strong></td>
 <td><a href="https://trueinterview.io/jobs/1454a34c-9192-4025-bb05-e49c79b97214">Production Support Engineer | Cloud, DevOps &amp; SRE Graduate Programme</a></td>
@@ -2763,65 +2819,9 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4638185/Urology-of-Virginia-PLLC/Help-Desk-Technician">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
-<tr>
-<td><strong>VIVA</strong></td>
-<td><a href="https://trueinterview.io/jobs/ad9e3153-8aa9-40b8-aada-18bf61ce5616">Level 1 IT Technician (Help Desk)</a></td>
-<td>Carlsbad, NM</td>
-<td align="center"><a href="https://careers.viva-it.com/careers/opportunities/job-detail/level-1-it-technician-help-desk-RKNML13">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Zensar Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/ec3931d3-76bb-47f5-a7e3-88a0a91fec26">Service Desk Engineer</a></td>
-<td>Rockland, MA</td>
-<td align="center"><a href="https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/153435">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Invision Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/cdbb7d14-72b8-4d52-a00b-f621cd1b54f5">Network Engineer</a></td>
-<td>Tifton, GA</td>
-<td align="center"><a href="https://invtech.betterteam.com/network-engineer-5">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Nexora Group Tech</strong></td>
-<td><a href="https://trueinterview.io/jobs/36d3390c-0c7e-49dd-be67-800c3e5db5a3">Cybersecurity Analyst F-1 OPT / STEM OPT</a></td>
-<td>Raleigh, NC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483997692/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Saint Peter's Healthcare System</strong></td>
-<td><a href="https://trueinterview.io/jobs/27069023-eeea-462c-a5f8-74a64f76084d">Desktop Support Technician</a></td>
-<td>New Brunswick, NJ</td>
-<td align="center"><a href="https://saintpeters.csod.com/ux/ats/careersite/4/home/requisition/7761?c=saintpeters&amp;lang=en-US&amp;jbid=-19">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>D.L. Evans Bank</strong></td>
-<td><a href="https://trueinterview.io/jobs/cc6bdd9d-594b-48b0-87ec-87f0dcdb94f1">IT Support Technician</a></td>
-<td>Twin Falls, ID</td>
-<td align="center"><a href="https://jobs.keldair.com/jobs/103135?token=jNBrw3jU%2FEmIa1sKHNB5qw">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Cache Valley Electric</strong></td>
-<td><a href="https://trueinterview.io/jobs/e49dd71b-b510-493b-9a48-47106c74f194">IT Help Desk</a></td>
-<td>Eagle Mountain, UT</td>
-<td align="center"><a href="https://apply.workable.com/j/8C5C4F14E0">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>MICA CORPORATION</strong></td>
-<td><a href="https://trueinterview.io/jobs/8b2cc45a-2520-4652-8f0e-dd024398f930">IT Support Tech</a></td>
-<td>Fort Worth, TX</td>
-<td align="center"><a href="https://micacorporation.betterteam.com/it-support-tech">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
 </tbody>
 </table>
 
-<sub>Page 1 of 2 · [Page 2 →](it-and-support-2.md)</sub>
+<sub>Page 1 of 3 · [Page 2 →](it-and-support-2.md)</sub>
 
 [← Every filter](../README.md) · [Back to the full list](../../README.md)

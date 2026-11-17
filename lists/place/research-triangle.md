@@ -2,7 +2,7 @@
 
 # 🔺 Research Triangle & the Carolinas
 
-**148 open roles.**
+**175 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,10 +18,45 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Hitachi Energy</strong></td>
+<td><a href="https://trueinterview.io/jobs/8dadc06f-5c01-4504-a1c7-91f1354f18ba">Research Scientist – Theoretical Physics</a></td>
+<td>Raleigh, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4439363703/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Vanguard</strong></td>
+<td><a href="https://trueinterview.io/jobs/fc7f44aa-d172-445d-b894-f18ebd330c35">Data Scientist</a></td>
+<td>Charlotte, NC<br/>Scottsdale, AZ<br/>Malvern, PA<br/>+1 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490193326/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Barings</strong></td>
+<td><a href="https://trueinterview.io/jobs/428b747c-2eda-441d-b08a-eba2aae298ba">Software Engineer - .NET and Azure Developer</a></td>
+<td>Charlotte, NC</td>
+<td align="center"><a href="https://barings.wd1.myworkdayjobs.com/en-US/Barings/job/Charlotte--NC-United-States/Software-Engineer---NET-and-Azure-Developer_JR_006778-1">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/c5a8f504-f9fa-420c-9ada-2bb36f30d443">Software Development Engineer, NetOS Observability</a></td>
+<td>Raleigh, North Carolina, United States</td>
+<td align="center"><a href="https://www.amazon.jobs/en/jobs/10606779/software-development-engineer-netos-observability">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>West Fraser</strong></td>
 <td><a href="https://trueinterview.io/jobs/5ba0ffbf-12b6-45bc-a5e7-03498546cd32">Data Scientist</a></td>
 <td>Greenville, SC</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4490906464/">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Infosys</strong></td>
+<td><a href="https://trueinterview.io/jobs/87a3443b-d709-4922-9ce5-e8550ddab4d9">AI DevOps Engineer</a></td>
+<td>Research Triangle Park, NC</td>
+<td align="center"><a href="https://digitalcareers.infosys.com/global-careers/company-job/description/reqid/155891BR">Apply</a></td>
 <td align="center">16 Nov 2026</td>
 </tr>
 <tr>
@@ -71,13 +106,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/c157df0a-f5d2-4d5e-b7de-b8d068bddafd">.Net / React Developer *W2 Only*</a></td>
 <td>Charlotte, NC</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4490363277/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>LTM Limited</strong></td>
-<td><a href="https://trueinterview.io/jobs/05e947cf-fcf0-4287-8422-fb887f248875">Open USD Engineer</a></td>
-<td>Charlotte, NC</td>
-<td align="center"><a href="https://ltm.ripplehire.com/candidate/?token=6arvS2ELtXrZGLEi4WVy&amp;lang=en">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
 <tr>
@@ -599,14 +627,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Bank of America</strong></td>
-<td><a href="https://trueinterview.io/jobs/95c83e61-b91e-4785-ad91-da57ebb0f1c2">Software Engineer I</a></td>
-<td>Charlotte, North Carolina, United States<br/>Pennington, Alabama, United States<br/>Plano, Texas, United States<br/>+1 more</td>
-<td align="center"><a href="https://ghr.wd1.myworkdayjobs.com/Contractor-Conversion/job/Charlotte/Software-Engineer-I_26039862">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Michael Page</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/3e4c901b-8080-4052-b8a3-c7c9409d582b">APM/PM - Charlotte</a></td>
 <td>Charlotte, NC</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487049880/">Apply</a></td>
@@ -1047,11 +1068,179 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>AESC</strong></td>
+<td><a href="https://trueinterview.io/jobs/f7068f5f-a870-4ff6-b0b2-eafe9b2ae2c2">QMS Engineer</a></td>
+<td>Columbia, SC<br/>Florence, SC</td>
+<td align="center"><a href="https://jobs.aesc-group.com/en_US/careers/JobDetail/Florence-South-Carolina-United-States-QMS-Engineer/1131">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ally Financial</strong></td>
+<td><a href="https://trueinterview.io/jobs/51ff2ad4-f1da-47a2-b27b-065a490174ab">Software Engineer</a></td>
+<td>Charlotte, NC</td>
+<td align="center"><a href="https://ally.wd1.myworkdayjobs.com/en-US/Ally/job/Charlotte-NC/Software-Engineer_R2600942">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Hiring Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/a5109117-38ea-4c64-a00c-c64cc636927c">Electrical Engineer PE / Partner in Firm</a></td>
+<td>Greenville, SC</td>
+<td align="center"><a href="https://thehiringgroup.recruiterbox.com/jobs/fk0znkz?fjb_hash=ezLpq610">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>NeoDym Technologies</strong></td>
 <td><a href="https://trueinterview.io/jobs/55d9b3f1-9921-4517-a9c9-24cefc541cf1">Tier I Network Technician - Raleigh NC/Onsite</a></td>
 <td>Raleigh, NC</td>
 <td align="center"><a href="https://neodymtechnologies.applicantstack.com/x/detail/a2klasj05f3y/aaac">Apply</a></td>
 <td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>UNC Health</strong></td>
+<td><a href="https://trueinterview.io/jobs/59dc0fda-aad1-4c3c-a8d0-3c9e64516ce8">HCS Desktop Support Specialist - Morrisville</a></td>
+<td>Morrisville, NC</td>
+<td align="center"><a href="https://jobs.unchealthcare.org/jobs/18428111-hcs-desktop-support-specialist-morrisville?tm_job=9999-INFOR-252042&amp;tm_event=view&amp;tm_company=12726">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>TEKsystems</strong></td>
+<td><a href="https://trueinterview.io/jobs/d75a09f1-daf4-4a13-b1da-4bb6dd6e078f">Java Developer</a></td>
+<td>Charlotte, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485264469/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Dewberry</strong></td>
+<td><a href="https://trueinterview.io/jobs/c69f22b8-45fb-4025-b8e1-b17969811362">Building Automation System (BAS) / Controls Engineer</a></td>
+<td>Raleigh, NC</td>
+<td align="center"><a href="https://careers-dewberry.icims.com/jobs/16568/job">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Vulcan Elements</strong></td>
+<td><a href="https://trueinterview.io/jobs/35688074-d41b-4a8c-80be-b12606a26c0a">Controls Engineer</a></td>
+<td>Durham, NC<br/>Research Triangle Park, NC<br/>Benson, NC</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/vulcanelements/jobs/5404657008">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>IMEG</strong></td>
+<td><a href="https://trueinterview.io/jobs/6ddb48b7-5e90-497b-8c5b-41cd86879cb9">Electrical Engineering New Graduate Designer | Raleigh, NC</a></td>
+<td>Raleigh, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4472811637/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/c2c4f49f-bd12-4f45-9e63-cc6442b8bbb6">Mechanical Engineering New Graduate | Charlotte, NC</a></td>
+<td>Charlotte, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474632039/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>U.S. Bank</strong></td>
+<td><a href="https://trueinterview.io/jobs/85be9d39-624e-43a0-a1b3-1456f959996f">nCino/Moody's Product Designer</a></td>
+<td>Charlotte, NC<br/>Atlanta, GA<br/>Chicago, IL<br/>+7 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4479254166/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/aed940a9-20d9-420c-a342-919033f0be0e">Software Engineer 1 - ServiceNow - Financial Service Operations</a></td>
+<td>Charlotte, NC<br/>Cincinnati, OH<br/>Irving, TX<br/>+1 more</td>
+<td align="center"><a href="https://careers.usbank.com/global/en/job/UBNAGLOBAL20260030980EXTERNALENGLOBAL/Software-Engineer-1-ServiceNow-Financial-Service-Operations">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/ef092e9e-8142-4dab-883d-5d4f5a33f82d">Software Engineer 1 – Full-stack, Generative AI, Cloud</a></td>
+<td>Charlotte, NC<br/>Brookfield, WI<br/>Hopkins, MN<br/>+1 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4479745461/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Encoded Therapeutics Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/34aee126-c45d-4901-861e-4ee62b394a36">Engineer, Process Sciences - Upstream</a></td>
+<td>Morrisville, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4460023004/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CGI</strong></td>
+<td><a href="https://trueinterview.io/jobs/08a3e25b-977e-43cd-83c1-db16f1cde07f">Composition Developer</a></td>
+<td>Cary, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476987079/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Kaleidoscope Innovation</strong></td>
+<td><a href="https://trueinterview.io/jobs/f18389e0-40e5-423d-b39d-45cc4bb492f0">Kotlin Developer</a></td>
+<td>Raleigh, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4418779365/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Apollo Technical</strong></td>
+<td><a href="https://trueinterview.io/jobs/fe8b208d-1991-46ca-b353-0de0d1c66eb2">Structural Engineer</a></td>
+<td>Raleigh, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482118410/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Motion Recruitment</strong></td>
+<td><a href="https://trueinterview.io/jobs/198e16d3-ca68-420a-97e5-96b463c9c226">Software Engineer</a></td>
+<td>Charlotte, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4473903637/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ICF</strong></td>
+<td><a href="https://trueinterview.io/jobs/e5c58ac2-b0ab-4e3c-a7af-cc3b50d34abd">AI Engineer</a></td>
+<td>Charlotte, NC<br/>Montgomery, AL<br/>Reston, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476240104/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>EY</strong></td>
+<td><a href="https://trueinterview.io/jobs/4a0060e6-1c03-4065-a6c7-0682a0c341a6">SDC Camunda Workflow Automation Engineer---Analyst---Raleigh, NC or Dallas, TX</a></td>
+<td>Raleigh, NC<br/>Dallas, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466593581/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Bank of America</strong></td>
+<td><a href="https://trueinterview.io/jobs/16ff39f5-1374-4796-96f2-170a49bb3f18">Quantitative Engineer Analyst</a></td>
+<td>Charlotte, NC<br/>Atlanta, GA<br/>Jersey City, NJ</td>
+<td align="center"><a href="https://careers.bankofamerica.com/en-us/job-detail/26040002/quantitative-engineer-analyst-multiple-locations">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Intuitive Surgical</strong></td>
+<td><a href="https://trueinterview.io/jobs/666fdf1c-5782-4e21-8a73-3753b0243173">Quality Engineering Tech</a></td>
+<td>Durham, North Carolina, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Intuitive/744000158581188-quality-engineering-tech">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>University of North Carolina at Charlotte</strong></td>
+<td><a href="https://trueinterview.io/jobs/e469244b-f449-46f4-918b-2da83a2eba0c">Tenure Track Faculty Position - Electrical and Computer Engineering</a></td>
+<td>Charlotte, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485203311/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Strategic Staffing Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/55d98d09-855c-4961-87fd-2efcc24a3e62">Information Technology System Administrator (Video management)</a></td>
+<td>Charlotte, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484984377/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Primary Talent Partners</strong></td>
+<td><a href="https://trueinterview.io/jobs/6fe74b5c-964c-4d10-b45d-e8a62bf164b0">Video Management System Administrator</a></td>
+<td>Charlotte, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484966897/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
 </table>

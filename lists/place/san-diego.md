@@ -2,7 +2,7 @@
 
 # 🏖️ San Diego
 
-**92 open roles.**
+**118 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,6 +18,62 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Saalex Solutions - A Saalex Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/45d84649-4f5b-4ef6-9f92-5ae2cd8a25a8">Cybersecurity Engineer I</a></td>
+<td>San Diego, CA<br/>Tidewater, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490121911/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ASML</strong></td>
+<td><a href="https://trueinterview.io/jobs/d2c0054a-6697-4a97-b975-703a9ce6c625">DevOps Applications Engineer</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490129460/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>San Diego Association of Governments (SANDAG)</strong></td>
+<td><a href="https://trueinterview.io/jobs/38767633-4257-4dea-8138-a38313fbb498">Data Scientist I/II</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491525743/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>General Atomics Aeronautical Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/be6d65b6-dc8b-4baf-bbb2-837cac1ca022">Aerospace Tools &amp; Software Engineer</a></td>
+<td>Poway, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491518819/">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Carlsmed</strong></td>
+<td><a href="https://trueinterview.io/jobs/6299f612-6413-4f86-a395-344e2e3dfaca">Machine Learning Engineer, Medical Imaging</a></td>
+<td>Carlsbad, CA</td>
+<td align="center"><a href="https://carlsmed.bamboohr.com/careers/265?postedDate=2026-11-16">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Corelation Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/a9d041f1-1a2a-40d2-9aa9-428c1601b55b">Conversion Developer</a> 🌐</td>
+<td>Remote — United States<br/>San Diego, CA</td>
+<td align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4668565/Corelation-Inc/Conversion-Developer">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Quantum Design Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/1440deec-bd2b-4f10-8614-975b11666689">Product Engineer</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://qdusa.wd108.myworkdayjobs.com/quantumdesigncareers/job/QD---Inc/Product-Engineer_JR1058">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>UC San Diego Health</strong></td>
+<td><a href="https://trueinterview.io/jobs/da8ed9b3-e5ef-47b5-92f7-b6fdb98b9799">Intel. Automation Engineer – Cloud &amp; Integration</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://employment.ucsd.edu/intel-automation-engineer-cloud-integration-142195/job/8EA560C121D1BCEBA52F239D02E41EBB">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Arlo Technologies, Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/e349efeb-09ec-42bb-bae8-57d7e1afa5ea">Hardware Engineer</a></td>
 <td>Carlsbad, CA</td>
@@ -30,13 +86,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Diego, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4491009269/">Apply</a></td>
 <td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Military Spouse Jobs</strong></td>
-<td><a href="https://trueinterview.io/jobs/82b438d4-f611-47b5-a42d-5d07fee402b9">Java Software Engineer - San Diego, CA</a></td>
-<td>San Diego, California</td>
-<td align="center"><a href="https://sjobs.brassring.com/TGnewUI/Search/Home/HomeWithPreLoad?partnerid=16030&amp;siteid=6113&amp;PageType=JobDetails&amp;jobid=3398741">Apply</a></td>
-<td align="center">12 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Itility B.V.</strong></td>
@@ -347,13 +396,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/5fca7219-f7bb-42ae-9f42-e386a14be3f1">Software Engineer (San Diego Only)</a></td>
-<td>San Diego, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486093433/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>DiversyFund, Inc</strong></td>
 <td><a href="https://trueinterview.io/jobs/2d450b63-4abb-406c-a34c-6b4e3198db4f">Head AI Engineer (Full Stack)</a></td>
 <td>San Diego, CA</td>
@@ -660,6 +702,146 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Diego, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485296679/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Centurum</strong></td>
+<td><a href="https://trueinterview.io/jobs/490fe6aa-31fd-48bd-9d30-409e22b36495">Design/Test Engineer (Depot)</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://centurum.applytojob.com/apply/1OYFxKaGor/DesignTest-Engineer-Depot?%7E=">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SAIC</strong></td>
+<td><a href="https://trueinterview.io/jobs/3fa27d0f-6acc-4c21-bf3c-1282a5ebaac0">Model Based Systems Engineer</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://jobs.saic.com/jobs/18429648-model-based-systems-engineer?bid=336&amp;tm_company=2520&amp;tm_event=view&amp;tm_job=2618667">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Naval Facilities Engineering Systems Command (NAVFAC)</strong></td>
+<td><a href="https://trueinterview.io/jobs/80dc7363-6fce-49e1-9504-2e4b9fc916cc">MECHANICAL ENGINEER</a></td>
+<td>San Diego, CA<br/>Jacksonville Naval Air Station, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4447982841/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Kitchell</strong></td>
+<td><a href="https://trueinterview.io/jobs/375d6068-7ba1-4b7c-a789-e2b4c79b9507">Mechanical Engineer</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485295319/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Dexcom</strong></td>
+<td><a href="https://trueinterview.io/jobs/a09473e7-aca9-4593-98bd-94ae2718071a">SW Development Engineer 1</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://dexcom.wd1.myworkdayjobs.com/en-US/Dexcom/job/San-Diego-California/SW-Development-Engineer-1_JR121808">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SteelToad</strong></td>
+<td><a href="https://trueinterview.io/jobs/22954bd9-edc1-4a33-935d-fd263ea96385">Vulnerability Assessment Analyst and Penetration Tester</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485266926/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Insight Global</strong></td>
+<td><a href="https://trueinterview.io/jobs/023e1fc4-82a1-4fda-92e6-bf4305f1caf0">Field Data Analyst</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484801291/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>General Atomics Aeronautical Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/a1dc2372-bd79-45ff-81c7-43f6ada0fa52">Engineer, Fleet and Deployment Services</a></td>
+<td>Poway, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485239575/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>MACOM</strong></td>
+<td><a href="https://trueinterview.io/jobs/bd4a561e-fa7c-4232-ad54-d396c9608ddd">Mechanical Engineer (Entry Level)</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://macomtech.csod.com/ux/ats/careersite/4/home/requisition/3804?c=macomtech">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/37ad8998-0261-4764-8fd4-b2594e2b321b">Battery Management Systems - Electrical Engineer</a></td>
+<td>San Diego, California, United States<br/>Cupertino, California, United States</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200692331">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>General Atomics Aeronautical Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/839f779e-8c25-4efa-82c2-3e471a1d621b">Software Embedded Developer (C++/Linux)</a></td>
+<td>Poway, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476971561/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>WSP in the U.S.</strong></td>
+<td><a href="https://trueinterview.io/jobs/34908d9f-fa6c-422a-a4de-d515aa8ae191">Early Career Electrical Engineer (ESSP)</a></td>
+<td>San Diego, CA<br/>Denver, CO<br/>Fort Mill, SC<br/>+1 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4459387454/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>General Atomics Aeronautical Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/0c025c91-2fb6-4845-9e13-d53deef80866">Aerospace Flight Software Engineer</a></td>
+<td>Poway, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476914494/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/3cd7e405-cbfc-4eac-8f59-54cf172f5a50">Invitational Hiring Event - Engineering</a></td>
+<td>Poway, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476962910/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/0d835329-6c2c-45f7-93f1-ad2783689212">Cellular Protocol Development Engineer</a></td>
+<td>San Diego, California, United States</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200692503">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>FlatironDragados</strong></td>
+<td><a href="https://trueinterview.io/jobs/b67956b7-a832-4a45-be37-79586ac93a1b">New College Grad - Field Engineer</a></td>
+<td>San Diego, CA<br/>Austin, TX<br/>Redding, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4391920417/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>General Dynamics NASSCO</strong></td>
+<td><a href="https://trueinterview.io/jobs/910a8250-dc4c-47f0-933a-0d313395c727">AI Engineer (All Levels)</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://jobs.nassco.com/job/San-Diego-AI-Engineer-%28All-Levels%29-CA-92108/1432116300/?feedId=239400">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SAIC</strong></td>
+<td><a href="https://trueinterview.io/jobs/b6721d83-235f-4bd0-9188-5bd5ccc8410a">Configuration Management Database Administrator</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://jobs.saic.com/jobs/18416859-configuration-management-database-administrator?bid=336&amp;tm_company=2520&amp;tm_event=view&amp;tm_job=2618553">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Solar Turbines</strong></td>
+<td><a href="https://trueinterview.io/jobs/dcd94eb9-963f-4b55-ab48-26dbf1b8723a">2027 TMP Tech &amp; NPI Entry Level Engineering Rotation - MS/PHD</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4459379412/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>General Atomics Aeronautical Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/28de7d3f-ad54-48eb-bfc1-469bf90643c0">Mechanical Engineer</a></td>
+<td>Poway, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484990243/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
 </table>

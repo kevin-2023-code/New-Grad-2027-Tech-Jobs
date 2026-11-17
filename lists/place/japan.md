@@ -2,7 +2,7 @@
 
 # 🇯🇵 Tokyo & Japan
 
-**32 open roles.**
+**37 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,34 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Ericsson</strong></td>
+<td><a href="https://trueinterview.io/jobs/f03ff340-ca1e-40f7-8618-a6c38f93faae">Developer - Filter Design</a></td>
+<td>Yokohama, Kanagawa, Japan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474259647/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Mercari, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/c9e40498-932e-4e30-8355-6338c8fcfdf0">UX Researcher - Merpay</a></td>
+<td>Minato, Tokyo, Japan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4310844100/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Rakuten</strong></td>
+<td><a href="https://trueinterview.io/jobs/052d8856-fa3a-4940-a835-2d1e00de3707">■マーケティングディビジョン ブランドマーケティング戦略部 UXプランニング&amp;ガバナンス課：BizOps スペシャリスト（楽天モバイル事業）</a></td>
+<td>Tokyo, Japan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490192282/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/6125141d-9281-4a03-8044-3e345fffc5b3">BizOps(Business Operations) Specialist (Rakuten Mobile business) - UX Planning &amp; Governance Section, Brand Marketing Strategy Department, Marketing Division</a></td>
+<td>Tokyo, Tokyo, Japan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490176900/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>ByteDance</strong></td>
 <td><a href="https://trueinterview.io/jobs/694aae91-946f-4d14-ab66-772ee47047c7">Solutions Architect Graduate (BytePlus, Japan) - 2027 Start</a></td>
@@ -241,6 +269,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/ed2568e3-0312-420b-9d0b-c735120f074a">シニア ストラテジック パートナーシップ デベロップメント マネージャー、Android GTM</a></td>
 <td>Tokyo, Tokyo, Japan</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4476286434/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Bosch</strong></td>
+<td><a href="https://trueinterview.io/jobs/aeb0aacc-bfe4-4355-be14-5fe543535072">［ETAS］Vehicle Diagnostics Customer Solution Engineer</a></td>
+<td>ETAS - Yokohama, Kanagawa, Japan</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000158624230--etas-vehicle-diagnostics-customer-solution-engineer">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 </tbody>

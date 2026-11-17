@@ -2,7 +2,7 @@
 
 # 🏰 Warsaw, Kraków & Central Europe
 
-**75 open roles.** 1 in the United States & Canada · 74 elsewhere in the world.
+**83 open roles.** 1 in the United States & Canada · 82 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -36,6 +36,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Siemens Digital Industries Software</strong></td>
+<td><a href="https://trueinterview.io/jobs/d9790740-098a-469b-b8b8-83d903e0ab60">Scientific Software Engineer - Cloud &amp; Integration H/F</a></td>
+<td>Bucharest, Bucharest, Romania<br/>Lyon, Auvergne-Rhône-Alpes, France<br/>Barcelona, Catalonia, Spain<br/>+5 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483600336/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Siemens Energy</strong></td>
+<td><a href="https://trueinterview.io/jobs/2647df5a-5415-4f68-bdcb-abc5d682c827">Research Engineer High Voltage Applications &amp; Dielectrics (f/m/d)</a></td>
+<td>Warsaw, Mazowieckie, Poland<br/>Łódzkie, Poland<br/>Cracow Metropolitan Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490915171/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Egis Group</strong></td>
 <td><a href="https://trueinterview.io/jobs/1ae247cd-9340-4f98-a150-b2b1fd0cf7dd">Starszy Asystent Projektanta w branży konstrukcyjno-budowlanej / Designer – Nuclear Civil Works Detailing</a></td>
@@ -552,6 +566,48 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/c69991b5-3b44-4745-8208-c32844b11092">Platform Infrastructure Engineer</a></td>
 <td>Warsaw, Mazowieckie, Poland<br/>PL-Warsaw-Lixa C</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/snowflake/cbc2087c-f5fc-48b7-8d23-114836a42e3e">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ALIOR BANK</strong></td>
+<td><a href="https://trueinterview.io/jobs/05355480-a5b9-4e71-b54f-48e195479b5f">Test Automation Engineer (K/M)</a></td>
+<td>Kraków, Poland<br/>Warszawa, Poland</td>
+<td align="center"><a href="https://www.aliorbank.pl/dodatkowe-informacje/kariera/aktualne-oferty-pracy/oferta/3600085-6.html">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>BlueSoft</strong></td>
+<td><a href="https://trueinterview.io/jobs/928ae3f0-25b7-4156-99c3-47cc195f4fdf">Regular Test Automation Engineer (JAVA)</a></td>
+<td>Warszawa, Poland</td>
+<td align="center"><a href="https://bluesoft.com/job/regular-test-automation-engineer-java">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Miele</strong></td>
+<td><a href="https://trueinterview.io/jobs/36359ce3-576c-4af9-8c7c-66a8fbe3b97e">IT Specialist</a></td>
+<td>Poznań, Poland</td>
+<td align="center"><a href="https://miele.wd3.myworkdayjobs.com/en-US/miele-jobs/job/Poznan/IT-Specialist_R5277">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Nexio Management</strong></td>
+<td><a href="https://trueinterview.io/jobs/03e871c9-38cc-4c62-8bf8-97f6e87f6742">DevOps Engineer/DevSecOps (Openshift)(m/k/n)</a></td>
+<td>Warszawa, Poland</td>
+<td align="center"><a href="https://nexio.traffit.com/public/an/b1cf73e466f5c4da033a8a2314700af778363955">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Scalo</strong></td>
+<td><a href="https://trueinterview.io/jobs/95601cdd-7e64-442d-9ce8-d793b5e76dad">AI Engineer</a></td>
+<td>Warszawa, Poland</td>
+<td align="center"><a href="https://scalo.traffit.com/public/an/fdadbe7bebd8ea908177b15315927a38484b355875513d3d">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/261eee88-f166-4b15-8f48-e6980a405d15">UX/UI Designer</a></td>
+<td>Warszawa, Poland</td>
+<td align="center"><a href="https://scalo.traffit.com/public/an/70b89c6c991de7caa7619c4272c50d52527539432f773d3d">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 </tbody>

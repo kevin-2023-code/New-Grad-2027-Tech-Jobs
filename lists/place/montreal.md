@@ -2,7 +2,7 @@
 
 # 🥐 Montréal & Québec
 
-**25 open roles.**
+**36 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Indero</strong></td>
+<td><a href="https://trueinterview.io/jobs/a870d255-c553-439e-9731-d6cabe9411e0">IT Technician-Canada</a> 🌐</td>
+<td>Remote — United States, Canada<br/>Montreal, QC</td>
+<td align="center"><a href="https://www.comeet.com/jobs/innovaderm/15.003/it-technician-canada/D5.57F">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Ubisoft</strong></td>
 <td><a href="https://trueinterview.io/jobs/dbbc1366-4a8d-4901-ae47-d869baa0aa01">UI Programmer</a></td>
@@ -191,6 +198,76 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Montreal, QC<br/>Montreal, Quebec, Canada</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484815901/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>École de technologie supérieure (ETS)</strong></td>
+<td><a href="https://trueinterview.io/jobs/e45d5448-7faf-49a5-93dc-036d6e89e436">Cybersecurity - Professor</a></td>
+<td>Quebec City, Canada</td>
+<td align="center"><a href="https://universityaffairs.ca/search-jobs/?job_id=72500">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Baseten</strong></td>
+<td><a href="https://trueinterview.io/jobs/47cfbb46-521b-48a9-9204-321206e297d7">Software Engineer - Model Performance Systems</a></td>
+<td>Montreal, QC<br/>Montreal, Quebec, Canada<br/>Toronto, Ontario, Canada<br/>+3 more</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/baseten/75d7beac-0298-40fa-b206-2e0c0c08a64f">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f9bdc058-eaec-4d50-a940-d11273c1a4fa">Software Engineer - Dedicated Inference</a></td>
+<td>Montreal, QC<br/>Montreal, Quebec, Canada<br/>Toronto, Ontario, Canada<br/>+3 more</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/baseten/fc6e5f2e-eb2d-4a6c-8a51-8422e8662bde">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/42a040f7-2440-40e2-96c5-409f93c155c2">Software Engineer - Voice AI (Inference Runtime)</a></td>
+<td>Montreal, QC<br/>Montreal, Quebec, Canada<br/>Toronto, Ontario, Canada<br/>+3 more</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/baseten/6e396eb7-acb3-436a-89ec-05e755c477f2">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sunlife Québec</strong></td>
+<td><a href="https://trueinterview.io/jobs/ee273de4-0e9f-4d99-a50f-f3c0d2ec6375">Analyst, Technical Support Services</a></td>
+<td>Montreal, QC<br/>Montreal, Quebec, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484595555/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CS GROUP</strong></td>
+<td><a href="https://trueinterview.io/jobs/06f57ae1-be2d-4692-b751-7247c17c1eb8">Hardware Engineer – Aerospace</a></td>
+<td>Montreal, QC<br/>Montreal, Quebec, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485245554/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CS GROUP - Canada</strong></td>
+<td><a href="https://trueinterview.io/jobs/aec558d2-7c93-4a76-89eb-ba3d76eb1226">Hardware Engineer – Aerospace</a></td>
+<td>Montreal, QC<br/>Montreal, Quebec, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485240205/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Genpact</strong></td>
+<td><a href="https://trueinterview.io/jobs/1d42afa7-d4a4-40ca-8851-b1df9c09fe3f">Java Software Engineer</a></td>
+<td>Montreal, QC<br/>Montreal, Quebec, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4472980453/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sopra Steria</strong></td>
+<td><a href="https://trueinterview.io/jobs/ecb9e0b5-cf59-4150-809a-bdbba8aeac09">Hardware Engineer – Aerospace</a></td>
+<td>Montréal, Québec, Canada</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SopraSteria1/744000158600759-hardware-engineer-aerospace">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Plusgrade</strong></td>
+<td><a href="https://trueinterview.io/jobs/dc9f8efd-eed8-4c38-a08b-9a66fd8ad577">Software Developer</a></td>
+<td>Montreal, QC<br/>Montreal, Quebec, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4480715765/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
 </table>

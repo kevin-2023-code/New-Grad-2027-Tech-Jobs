@@ -2,7 +2,7 @@
 
 # 🌬️ Chicago
 
-**120 open roles.** 119 in the United States & Canada · 1 elsewhere in the world.
+**136 open roles.** 135 in the United States & Canada · 1 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Objective Partners</strong></td>
+<td><a href="https://trueinterview.io/jobs/b726fa64-9be0-430e-8840-0d0046a732b8">Software Engineer - C++</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4452540256/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Akuna Capital</strong></td>
+<td><a href="https://trueinterview.io/jobs/94e0173c-5046-4d58-a920-7eddabd32a8c">Floor Trader- SOFR</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491538023/">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>University of Illinois</strong></td>
+<td><a href="https://trueinterview.io/jobs/b9b475dc-7c6a-4c4f-a903-bb1821e1770a">Open Rank Faculty - Mechanical Engineering</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://uic.csod.com/ux/ats/careersite/1/home/requisition/21311?c=uic">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>CPS, Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/273afdae-678b-4889-9085-14b4d0293a64">FPGA Engineer - HFT</a></td>
@@ -849,6 +870,97 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Chicago, IL</td>
 <td align="center"><a href="https://jobs.comcast.com/job/-/-/45483/102640153792">Apply</a></td>
 <td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>GE Vernova</strong></td>
+<td><a href="https://trueinterview.io/jobs/6fa4d6e2-eabc-41fc-80e4-d34056d71d0d">Electrical Substation Project Engineer - 2</a></td>
+<td>Oak Brook, IL</td>
+<td align="center"><a href="https://careers.gevernova.com/electrical-substation-project-engineer-2/job/R5049715">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Alignerr</strong></td>
+<td><a href="https://trueinterview.io/jobs/d2c9ff99-ffcf-4cf4-9c31-5d4b0bc1ef96">Audio Engineer - Pro Tools</a></td>
+<td>Chicago, IL<br/>Boston, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485297140/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Chubb</strong></td>
+<td><a href="https://trueinterview.io/jobs/af57770e-e186-488f-b3ea-a944ec9da9ca">Business Intelligence Analyst</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483091826/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>U.S. Bank</strong></td>
+<td><a href="https://trueinterview.io/jobs/85be9d39-624e-43a0-a1b3-1456f959996f">nCino/Moody's Product Designer</a></td>
+<td>Chicago, IL<br/>Atlanta, GA<br/>Denver, CO<br/>+7 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4479254166/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>viaPhoton</strong></td>
+<td><a href="https://trueinterview.io/jobs/929a4636-8aaf-426e-8def-a2977feb40d2">Mechanical Design Engineer</a></td>
+<td>Naperville, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4469915639/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>DV Trading</strong></td>
+<td><a href="https://trueinterview.io/jobs/78175ba3-35f7-417b-9355-9dc9b08e7ce2">Back Office Developer</a></td>
+<td>Chicago, IL<br/>New York, NY</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/dvtrading/jobs/4749008005">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ALOIS Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/fac1da21-391d-4ca6-a9bd-63cbe57f1152">Electrical Engineer</a></td>
+<td>Schaumburg, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484999802/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>The Fountain Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/55932eb5-985a-495d-8b19-d494cb5a58ae">Network Administrator - Video Systems</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484973480/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Optiv</strong></td>
+<td><a href="https://trueinterview.io/jobs/9be422bc-70ed-4abf-a8a6-decd133228ee">Cybersecurity Advisor - Identity | Remote, MN, WISC, IL</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4448809568/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>En Engineering Llc</strong></td>
+<td><a href="https://trueinterview.io/jobs/28ec06de-6947-4722-9215-c9aee8a1ebb8">Design Engineer - Electric Distribution</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://recruiting2.ultipro.com/ENE1003ENENG/JobBoard/020a913b-6f29-4cb0-a3b2-8b9d82d26c72/OpportunityDetail?opportunityId=12f06beb-0405-4643-9dd3-3aa1516d84f8&amp;postingId=e2d3a1a6-dceb-4c6d-b7f4-ec90dc18f8d5">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Federal Home Loan Bank of Chicago</strong></td>
+<td><a href="https://trueinterview.io/jobs/a3d12c4c-7f4a-46ca-87b5-28997b9011dc">Quantitative Rotational Analyst</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467148061/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>WEC Energy Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/d5127af6-f9bc-46dc-83c4-4e82008eb655">Enterprise Applications Developer</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4480410378/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CNH</strong></td>
+<td><a href="https://trueinterview.io/jobs/3dde041d-3506-4238-88c4-f539e6f7605b">Engine Installation Engineer</a></td>
+<td>Oak Brook, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484974689/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
 </table>

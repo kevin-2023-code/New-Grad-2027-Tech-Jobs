@@ -2,7 +2,7 @@
 
 # Frontend Engineer
 
-**99 open roles.** 75 in the United States & Canada · 24 elsewhere in the world.
+**107 open roles.** 80 in the United States & Canada · 27 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Dezign Concepts</strong></td>
+<td><a href="https://trueinterview.io/jobs/cca4be7d-d8f0-4dff-8b03-07f8627c8013">Front End Applications Developer</a></td>
+<td>McLean, VA</td>
+<td align="center"><a href="https://dezignconceptsllc.applytojob.com/apply/3lThnO7OKF/Front-End-Applications-Developer">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Marlabs</strong></td>
 <td><a href="https://trueinterview.io/jobs/abf5e116-5ce5-4280-947b-12ed2105a49e">Front-end Software Engineer</a></td>
@@ -354,13 +361,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>KGS Technology Group, Inc</strong></td>
-<td><a href="https://trueinterview.io/jobs/685ed6e6-0293-4a56-88d7-32bc1415212f">Frontend Developer</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485762988/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Arkhya Tech Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/dcf7d21b-c2dc-4f8a-931f-45e9ec47e7ac">Dashboard / Front-End Engineer – R2R Agentic Automation</a></td>
 <td>United States</td>
@@ -515,13 +515,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>CACI International Inc</strong></td>
-<td><a href="https://trueinterview.io/jobs/146cb522-d066-4791-8c2c-5f98d7d3e117">Front End Software Developer</a></td>
-<td>Sterling, VA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483448073/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Reddit, Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/8d3d0821-5db7-4ccf-a554-757edd1981af">Front End Software Engineer, Consumer Engineering</a> 🌐</td>
 <td>Remote — United States</td>
@@ -541,6 +534,48 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484830162/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>The Ohio State University</strong></td>
+<td><a href="https://trueinterview.io/jobs/81456864-336e-4b0c-a783-74a98b50833b">Web Developer</a></td>
+<td>Columbus, OH</td>
+<td align="center"><a href="https://osu.wd1.myworkdayjobs.com/en-US/OSUCareers/job/Columbus-Campus/Web-Developer_R161744">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>California State Polytechnic University-Pomona</strong></td>
+<td><a href="https://trueinterview.io/jobs/a88e84c3-d785-44b7-b45e-23fe78df6265">Web Developer I</a></td>
+<td>Pomona, CA</td>
+<td align="center"><a href="https://careers.cpp.edu/en-us/job/563413/web-developer-i">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Illinois Department of Innovation &amp; Technology (DoIT)</strong></td>
+<td><a href="https://trueinterview.io/jobs/b7f42e30-1a43-4120-9567-e94843a20148">Web Developer / Information Systems Analyst I, Option W</a></td>
+<td>Springfield, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483081984/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>PTR Global</strong></td>
+<td><a href="https://trueinterview.io/jobs/7697250f-670e-417c-9317-0a561755475e">Web UI Engineer (Building Livestream tool exp must needed: hls.js experience)</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485244257/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ECS</strong></td>
+<td><a href="https://trueinterview.io/jobs/e3f2fbe6-04bc-4c8e-af66-17df4c33150f">Web Developer</a></td>
+<td>Florida, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4457029769/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Esri</strong></td>
+<td><a href="https://trueinterview.io/jobs/cc226c64-5301-43c2-9e64-153453dd8a39">Software Engineer I - Front-End Engineer for ArcGIS Enterprise</a></td>
+<td>Redlands, CA</td>
+<td align="center"><a href="https://www.esri.com/careers/5190253007?gh_jid=5190253007">Apply</a></td>
+<td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
 </table>
@@ -721,6 +756,27 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Gurugram, Haryana, India</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485307356/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>OverheidZZP</strong></td>
+<td><a href="https://trueinterview.io/jobs/4e605a86-5dbf-4826-b78e-89a04dcc222b">Frontend Developer</a></td>
+<td>The Hague, South Holland, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485238669/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CPS Group (UK) Limited</strong></td>
+<td><a href="https://trueinterview.io/jobs/7a268811-7757-45af-b39f-c5ce6711b68d">Frontend Developer (React / TypeScript)</a></td>
+<td>Cardiff, Wales, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484994229/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Flexiple</strong></td>
+<td><a href="https://trueinterview.io/jobs/0351def2-fc12-4d04-b736-6d0ecd62fb27">Frontend Engineer</a></td>
+<td>India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484971329/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
 </table>

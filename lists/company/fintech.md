@@ -2,7 +2,7 @@
 
 # 💳 Fintech, payments & crypto
 
-**31 open roles.** 17 in the United States & Canada · 14 elsewhere in the world. Payments, neobanks, lending, trading apps, crypto and financial infrastructure.
+**33 open roles.** 17 in the United States & Canada · 16 elsewhere in the world. Payments, neobanks, lending, trading apps, crypto and financial infrastructure.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -150,6 +150,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tbody>
 <tr>
 <td><strong>Stripe</strong></td>
+<td><a href="https://trueinterview.io/jobs/7c5635ec-9a78-4e7c-a411-4b4ad019c847">Software Engineer, New Grad - Frontend</a></td>
+<td>Barcelona, Catalonia, Spain</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4461536634/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/5222cb9d-f491-43d9-b11e-8b35291e2dc1">Backend Engineer, Internationalisation</a></td>
 <td>Barcelona</td>
 <td align="center"><a href="https://stripe.com/jobs/search?gh_jid=8353516">Apply</a></td>
@@ -245,6 +252,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Singapore<br/>Australia</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484834054/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Getnet</strong></td>
+<td><a href="https://trueinterview.io/jobs/9ea9aa44-121d-42cf-8740-576291d392eb">Specialist Software Engineer | (Node &amp; Java) Payments</a></td>
+<td>Brazil - Porto Alegre/RS</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/getnet/jobs/5015257101">Apply</a></td>
+<td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
 </table>

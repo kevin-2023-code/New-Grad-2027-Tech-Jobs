@@ -2,7 +2,7 @@
 
 # ⛰️ Vancouver & British Columbia
 
-**31 open roles.**
+**41 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/6e3c43de-0db0-4773-8288-04854ba6ee80">Software Dev Engineer, Pricing Shared Platform</a></td>
+<td>Vancouver, BC<br/>Vancouver, British Columbia, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483711770/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/b1e1cd7d-ab24-4f1b-b2bd-beb9ccb56775">Applied Scientist, PAE</a></td>
+<td>Vancouver, BC<br/>Vancouver, British Columbia, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491557304/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>TSMC</strong></td>
 <td><a href="https://trueinterview.io/jobs/285adb3f-328b-4753-a167-2138ad6ce615">Software Engineer (New Graduate) - North America Software Center</a></td>
@@ -233,6 +247,62 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Vancouver, BC<br/>Salem, OR<br/>Vancouver, WA<br/>+7 more</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4474836771/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Onboard Systems International</strong></td>
+<td><a href="https://trueinterview.io/jobs/576bd59e-f612-4474-8644-0a806f786d8e">Quality Engineer</a></td>
+<td>Vancouver, BC<br/>Vancouver, WA</td>
+<td align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4629289/Onboard-Systems-International/Quality-Engineer">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Vigor, LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/6f0b0ba4-3e53-4694-b2aa-5b9eb034defe">Structural Engineer I, Marine</a></td>
+<td>Vancouver, BC<br/>Vancouver, WA</td>
+<td align="center"><a href="https://vigorcareers.ttcportals.com/jobs/18429863-structural-engineer-i-marine?tm_job=929&amp;tm_event=view&amp;tm_company=92649">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Gdh</strong></td>
+<td><a href="https://trueinterview.io/jobs/1febc134-ea4e-4d7a-bbcb-385e22e7ffcb">Civil Engineer/Dams Engineer - Tailings</a></td>
+<td>Vancouver, BC, Canada</td>
+<td align="center"><a href="https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/28821">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Eupraxia Pharmaceuticals Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/c313d35e-173f-4fbd-a70d-40c856e7c9ca">Intermediate IT Service Desk Analyst</a></td>
+<td>Vancouver, BC<br/>Vancouver, British Columbia, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483092611/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>City of Vancouver</strong></td>
+<td><a href="https://trueinterview.io/jobs/f5e8e9b9-cbe8-4e04-946a-ece50fd41973">Building Code Engineer</a></td>
+<td>Vancouver, BC<br/>Vancouver, British Columbia, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4481142937/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Epic</strong></td>
+<td><a href="https://trueinterview.io/jobs/a230a8af-a888-4627-ab9a-ad27e0650187">Integration Solutions Engineer</a></td>
+<td>Vancouver, BC<br/>Casper, WY<br/>Lake Charles, LA<br/>+8 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4320272576/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Apera AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/7c9a6911-db43-442b-aaf8-b0f27e1e8dc1">Mechatronics Engineer – Robotics &amp; Grasping</a></td>
+<td>Vancouver, BC<br/>Vancouver, British Columbia, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484986908/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>R.V. Anderson Associates Limited</strong></td>
+<td><a href="https://trueinterview.io/jobs/60f908eb-7f45-43e4-8c16-56740dbe631c">Engineering Designer, Urban and Riverine Syst</a></td>
+<td>Vancouver, BC<br/>Vancouver, British Columbia, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4468660271/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
 </table>

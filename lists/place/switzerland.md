@@ -2,7 +2,7 @@
 
 # 🇨🇭 Zürich & Switzerland
 
-**53 open roles.** 4 in the United States & Canada · 49 elsewhere in the world.
+**71 open roles.** 5 in the United States & Canada · 66 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Citadel Securities</strong></td>
+<td><a href="https://trueinterview.io/jobs/4ed953c1-a404-4858-be10-5513428e59be">C++ Software Engineer</a></td>
+<td>Zurich, Switzerland<br/>Gurugram, Haryana, India<br/>Singapore, Singapore<br/>+6 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4281719806/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Skydio</strong></td>
 <td><a href="https://trueinterview.io/jobs/80166b5b-5071-444a-95aa-cfb9423c6bfc">Autonomy Engineer - Deep Learning</a></td>
@@ -399,6 +406,125 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Rüti, Zurich, Switzerland</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4483413780/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Allianz</strong></td>
+<td><a href="https://trueinterview.io/jobs/7a93b72d-7685-4679-861d-2972be8c5c0c">(Technical) Product Owner:in P&amp;C Non-Life 80-100%</a></td>
+<td>Zürich, Switzerland</td>
+<td align="center"><a href="https://careers.allianz.com/global/en/job/109183">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amaris Consulting</strong></td>
+<td><a href="https://trueinterview.io/jobs/00e77112-472a-41ed-b48b-19ae150ba7c3">Data Engineer (Databricks) - F/M/X</a></td>
+<td>Genève, Switzerland</td>
+<td align="center"><a href="https://careers.amaris.com/jobs/45179">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Kanton Zürich</strong></td>
+<td><a href="https://trueinterview.io/jobs/27d6af39-405b-48b4-8c89-7217e80bcd35">Platform Engineer KI</a></td>
+<td>Zürich, Switzerland</td>
+<td align="center"><a href="https://live.solique.ch/ktzh/job/details/4095084/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Universität Zürich</strong></td>
+<td><a href="https://trueinterview.io/jobs/13cf49aa-f415-4f7b-aa32-9623b27cf56c">Cloud Engineer (w/m/x)</a></td>
+<td>Zürich, Switzerland</td>
+<td align="center"><a href="https://jobs.uzh.ch/offene-stellen/cloud-engineer-w-m-x/e8a9d805-8677-45e3-8b6b-f6bfe4208cd7">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Vontobel</strong></td>
+<td><a href="https://trueinterview.io/jobs/fc2ad74b-aa9b-4d2b-8479-3329fde58bf2">Data Engineer</a></td>
+<td>Zürich, Switzerland</td>
+<td align="center"><a href="https://www.vontobel.com/en-us/about-vontobel/careers/open-positions/9465-data-engineer/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Wingtra AG</strong></td>
+<td><a href="https://trueinterview.io/jobs/081b5adf-f879-4c57-b76b-6d13365c1b7f">Mechatronic Design &amp; Test Engineer</a></td>
+<td>Zürich, Switzerland</td>
+<td align="center"><a href="https://jobs.lever.co/wingtra-2/f47a837f-fc10-42b8-93c9-97ebbb06f431">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>VZ VermögensZentrum</strong></td>
+<td><a href="https://trueinterview.io/jobs/820e4e6a-4fc6-47e5-9167-960ef50aa5ca">Professional Process Automation &amp; AI Engineer (Financial Services)</a></td>
+<td>Zurich, Zurich, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484800433/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Harmattan AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/9fc80cb4-1d8a-4351-80e9-7bdd73fa1d9c">ML Ops Engineer</a></td>
+<td>Lausanne, Vaud, Switzerland<br/>Paris<br/>Zurich</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/harmattan-ai/95687a2c-17cb-4c1e-8a88-6eebbaf56692">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Medexec</strong></td>
+<td><a href="https://trueinterview.io/jobs/3df752fc-2e51-4a97-99e7-c3a37b5767f0">Development Engineer</a></td>
+<td>Zurich, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484995672/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sword Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/2f7bf97c-e627-4109-bcd9-76cdafa5499e">DevOps Engineer</a></td>
+<td>Geneva, Geneva, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484995906/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>KastGroup AG</strong></td>
+<td><a href="https://trueinterview.io/jobs/a83f1f3b-443b-4e56-a887-ed68bf9d5785">IT-System Engineer / Systemtechniker 60% - 100% (m/w/d)</a></td>
+<td>Wallisellen / Hof, Zurich, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485203569/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/5c4e3f5a-b55e-4e3c-9cfa-bc441768c95e">IT-System Engineer / Systemtechniker Linux 80% - 100% (m/w/d)</a></td>
+<td>Wallisellen / Hof, Zurich, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485208349/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Roche</strong></td>
+<td><a href="https://trueinterview.io/jobs/95bbd85b-ecd3-428d-aa1b-69012bd3dba3">Data Scientist / Engineer - DNA-Encoded Library Technology (DELT)</a></td>
+<td>Basel, Basel, Switzerland<br/>Basel, Switzerland</td>
+<td align="center"><a href="https://careers.roche.com/de/de/job/202610-125078">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>AXA Switzerland</strong></td>
+<td><a href="https://trueinterview.io/jobs/da17a966-751f-4fed-9302-d13baf1c7a75">Analytical Cloud Software Engineer (all genders)</a></td>
+<td>Winterthur, Zurich, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485201032/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Harmattan AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/c5bb07e7-b0f0-4161-bceb-e54477f34730">Design &amp; Simulation Engineer</a></td>
+<td>Lausanne, Vaud, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484983758/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>VBV-Recruiting GmbH</strong></td>
+<td><a href="https://trueinterview.io/jobs/20df7041-280d-4706-9e04-5ed3f796cddc">SAP BTP &amp; Cloud Integration Engineer (m/w/d) 80-100%</a></td>
+<td>Zurich, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484991452/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Swisscom</strong></td>
+<td><a href="https://trueinterview.io/jobs/ba74c327-8ad4-4821-aeb6-f7ecf46938d4">Technical Product Owner - Kubernetes Platform</a></td>
+<td>Zurich, Zurich, Switzerland<br/>Zürich, Switzerland</td>
+<td align="center"><a href="https://swisscom.wd103.myworkdayjobs.com/en-US/SwisscomExternalCareers/job/Zurich/Product-Owner---Kubernetes-Platform_R-0005123">Apply</a></td>
+<td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
 </table>

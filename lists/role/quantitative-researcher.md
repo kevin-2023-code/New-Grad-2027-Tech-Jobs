@@ -2,7 +2,7 @@
 
 # Quantitative Researcher
 
-**43 open roles.** 35 in the United States & Canada · 8 elsewhere in the world.
+**46 open roles.** 37 in the United States & Canada · 9 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Citadel Securities</strong></td>
+<td><a href="https://trueinterview.io/jobs/db8005aa-22b4-4fe0-b15e-9dd3c20887cc">Crypto Quant Researcher</a></td>
+<td>Miami, FL<br/>New York City Metropolitan Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4417965828/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>佳期投资 (JQ Investments)</strong></td>
+<td><a href="https://trueinterview.io/jobs/bc4e162b-52cd-4ea2-92a0-cdfd9897da7d">Quantitative Researcher</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491136001/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Xantium Group - Tudor Investment Corporation</strong></td>
 <td><a href="https://trueinterview.io/jobs/e2a35ac1-47a3-499e-9de5-765c907f526d">Quantitative Researcher</a></td>
@@ -328,6 +342,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/14cc8f61-7a54-44d9-aab8-37c31a5c9499">Execution Quantitative Researcher, Singapore</a></td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485322025/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>HSBC</strong></td>
+<td><a href="https://trueinterview.io/jobs/a046018d-47c6-4cdf-8260-6592c82468ef">Stage - FICC Quantitative Research (f/m/d)</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://apply.careers.hsbc.com/job/PARIS-Stage-FICC-Quantitative-Research-%28fmd%29-75-75116/1376316157/?feedId=417557">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 </tbody>

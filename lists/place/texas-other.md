@@ -2,7 +2,7 @@
 
 # 🛢️ Houston, San Antonio & the rest of Texas
 
-**133 open roles.**
+**163 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,17 +18,73 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>GHD</strong></td>
-<td><a href="https://trueinterview.io/jobs/98b6725d-d99d-491f-b379-4ba29253986a">Graduate Developer</a></td>
-<td>Houston, TX<br/>King of Prussia, PA<br/>Farmington Hills, MI<br/>+3 more</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4489797543/">Apply</a></td>
-<td align="center">16 Nov 2026</td>
+<td><strong>The Lab Consulting</strong></td>
+<td><a href="https://trueinterview.io/jobs/c2ce6251-89b5-426a-b47f-67120f97a4a9">Data Scientist</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491572220/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Gdh</strong></td>
+<td><strong>Executive Title Agency, Ltd.</strong></td>
+<td><a href="https://trueinterview.io/jobs/3ddb3940-dec9-4ec9-85b8-dbc8122b6079">Data Analyst</a></td>
+<td>Houston, Texas, United States<br/>Houston, TX<br/>Dallas, Texas, United States<br/>+1 more</td>
+<td align="center"><a href="https://jobs.workable.com/view/2EmWta7j6SiB4obcSRM5wM/hybrid-data-analyst-in-houston-at-executive-title-agency">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Marathon Petroleum Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/113236a1-b7e5-450c-9348-a86b8d5ed6b4">Audit Data Analyst I</a></td>
+<td>San Antonio, TX<br/>Greater Houston<br/>Findlay, OH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491551344/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/357185d7-6138-4be7-9ccc-53b0e3568c6a">Data Scientist-Advanced Analytics</a></td>
+<td>Houston, TX<br/>Chantilly, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490109326/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Jade Business Services (JBS)</strong></td>
+<td><a href="https://trueinterview.io/jobs/d2aa7540-c92b-46e3-9b8d-b0ea6d12fb8c">DevOps Engineer</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490941583/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>InnoTech</strong></td>
+<td><a href="https://trueinterview.io/jobs/42c006cb-e0d4-4ea6-bc68-6b2d7bc532f1">Data Scientist</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490963930/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>SAP</strong></td>
+<td><a href="https://trueinterview.io/jobs/3e46cdb6-3507-4fed-bf95-cb12dcacc44b">Solution Sales Executive - Business AI Platform (BAIP) - AI Expertise</a></td>
+<td>Houston, TX<br/>Bellevue, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490107419/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ASM Research</strong></td>
+<td><a href="https://trueinterview.io/jobs/672092a0-3684-4e9c-b733-9545c79d16e5">Help Desk Specialist I</a></td>
+<td>San Antonio, TX</td>
+<td align="center"><a href="https://myjobs.adp.com/asmexternalcareersite/cx/job-details?reqId=5001238617906">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>GHD</strong></td>
 <td><a href="https://trueinterview.io/jobs/1a483fc1-982d-43ef-8bb8-7420f0c849dc">Graduate Developer</a></td>
 <td>HOUSTON, TX, United States<br/>FARMINGTON HILLS, MI, United States<br/>GOLDEN, CO, United States<br/>+3 more</td>
 <td align="center"><a href="https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/29481">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Amentum</strong></td>
+<td><a href="https://trueinterview.io/jobs/637fb024-7bf7-4bc0-866c-a19a5f8492b7">Project Engineer</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://www.amentumcareers.com/jobs/project-engineer-houston-texas-united-states-a74f64f1-4a6a-442c-b187-85ddffe11731">Apply</a></td>
 <td align="center">16 Nov 2026</td>
 </tr>
 <tr>
@@ -942,11 +998,165 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Accenture</strong></td>
+<td><a href="https://trueinterview.io/jobs/e09d738a-2894-4b86-b393-afb6a418396a">IT Live Helpdesk Support Representative - San Antonio, TX</a> 🌐</td>
+<td>Remote — United States<br/>San Antonio, TX</td>
+<td align="center"><a href="https://globalcxaccenture.avature.net/ContractorExchangeMarketplace/JobDetail/San-Antonio-Texas-United-States-IT-Live-Helpdesk-Support-Representative-San-Antonio-TX/44836">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>bastion technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/4b5c8dcb-40dd-4d4a-bf0d-dc6c202fb081">Spaceflight Propulsion Engineer - Early-Career</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://www.applicantpro.com/openings/bastiontechnologies/jobs/4261947-834478">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Chemelex</strong></td>
+<td><a href="https://trueinterview.io/jobs/1e33f681-ac7d-4a05-8099-d3a83c5e9450">Projects &amp; Services - Design Engineer I</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://jobs.dayforcehcm.com/en-US/chemelex/CANDIDATEPORTAL/jobs/2793">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cimarron Software Services Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/da5836ae-a3c5-4a28-9ae1-49ec79118ae4">Telemetry Systems Engineer</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://cimarroninc.hua.hrsmart.com/pm_module/cgi-bin/click.cgi?job_id=2810&amp;site_id=148">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>DASHIELL CORPORATION</strong></td>
+<td><a href="https://trueinterview.io/jobs/9c9b8e83-e08f-484f-a87b-7edea951742b">System Studies Engineer - Substation</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://dashiell.applicantstack.com/x/detail/a2jsjjne8pgp/aaac">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Gainwell Technologies LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/ccadb4f6-0a20-4127-b0f2-cb542b25556c">C# Application Developer</a> 🌐</td>
+<td>Remote — United States<br/>El Paso, TX</td>
+<td align="center"><a href="https://jobs.gainwelltechnologies.com/job/El-Paso-C-Application-Developer-TX-79912-8520/1446318400/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>RealmOne</strong></td>
 <td><a href="https://trueinterview.io/jobs/ad8bab13-bc59-4d15-828f-cfc5ba1222d0">System Administrator 1</a></td>
 <td>San Antonio, TX</td>
 <td align="center"><a href="https://realmone.com/job/system-administrator-1-4/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>鈺立微電子股份有限公司 eYs3D Microelectronics, Co.</strong></td>
+<td><a href="https://trueinterview.io/jobs/527556c3-813d-4d19-9501-e53e1081e013">Field Application Engineer</a></td>
+<td>San Antonio, Texas Metropolitan Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484818067/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>帝濶智慧科技（DeCloak Intelligences Co.）</strong></td>
+<td><a href="https://trueinterview.io/jobs/be275631-cdd8-499d-9343-bd2d07ecc5c1">Field Application Engineer</a></td>
+<td>San Antonio, Texas Metropolitan Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484808358/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Wesco</strong></td>
+<td><a href="https://trueinterview.io/jobs/3b57139e-f4c6-4adc-9be6-4d7936aad90d">Engineer - Application (Substation)</a></td>
+<td>Houston, TX, United States<br/>Greenfield, IN, United States</td>
+<td align="center"><a href="https://eklm.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/35824">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Hays Electrical Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/0f953f70-1a57-4ec0-9aba-8130a5b01a0a">Helpdesk Technician</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://hayselectricalservices.applytojob.com/apply/GoOc1wBg2r/Helpdesk-Technician?%7E=">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Fluor Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/81949a48-7ea4-416e-8683-06795c492ef0">Associate Design Engineer I - Structural New Graduate</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485244586/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>The University of Texas at San Antonio</strong></td>
+<td><a href="https://trueinterview.io/jobs/df5d440f-9d1d-4638-955f-815db8c53224">Enterprise Programmer Analyst</a></td>
+<td>San Antonio, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485254054/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>BPM Microsystems</strong></td>
+<td><a href="https://trueinterview.io/jobs/449e4dfb-7127-46ce-85d6-1f976aebe878">Software Engineer</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484131059/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>OakTree Staffing</strong></td>
+<td><a href="https://trueinterview.io/jobs/68e3ef83-25f0-4298-a460-99af3e3159e7">Project Engineer</a></td>
+<td>The Woodlands, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474770528/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/a0b2b16e-877a-4e22-a073-e6d4ef53d1ab">Cost Engineer</a></td>
+<td>The Woodlands, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4481254131/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>American Bureau of Shipping (ABS)</strong></td>
+<td><a href="https://trueinterview.io/jobs/00211764-e17f-498c-9fe3-4ae396ebeade">Engineer I - GES Structures and Stability</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4459845727/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amentum</strong></td>
+<td><a href="https://trueinterview.io/jobs/dfcabf14-1f5a-4c49-aac2-49fcb845365e">System Administrator EG Labs</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467503314/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Expand Energy</strong></td>
+<td><a href="https://trueinterview.io/jobs/6245110e-d2ad-4a3a-b5fc-b53a22859099">Software Engineer I</a></td>
+<td>Spring, TX<br/>Oklahoma City, OK</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474473382/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ezee Fiber</strong></td>
+<td><a href="https://trueinterview.io/jobs/88a7e253-de7a-44ce-8958-8f0a439136c6">Engineer I, Enterprise Engineering</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4468302411/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NOV</strong></td>
+<td><a href="https://trueinterview.io/jobs/467582bd-c1a9-46f6-9f4b-df6c3ab8f6c0">NOVOS Support Engineer</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_xx/job/43663">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Nscale</strong></td>
+<td><a href="https://trueinterview.io/jobs/d658788c-4ba6-4741-98dc-d1803409cd27">GTM Engineer</a></td>
+<td>Houston, TX<br/>New York, NY<br/>San Francisco, CA<br/>+1 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484974880/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Bright Vision Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/720bbaee-6bb7-4b59-80d8-992a50fec953">ServiceNow Application Developer</a></td>
+<td>Sugar Land, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484986425/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # ❄️ Stockholm & the Nordics
 
-**35 open roles.** 1 in the United States & Canada · 34 elsewhere in the world.
+**42 open roles.** 1 in the United States & Canada · 41 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -36,6 +36,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Ericsson</strong></td>
+<td><a href="https://trueinterview.io/jobs/02b83dcc-201d-4e9a-8ef5-f538db6ec427">Entry Level: Hardware Developer - Digital Design</a></td>
+<td>Gothenburg, Västra Götaland County, Sweden</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483629516/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/0c7467eb-e7b0-419f-a05d-8972ef81eb3a">Entry Level: Hardware Developer, Power Electronics</a></td>
+<td>Gothenburg, Västra Götaland County, Sweden</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491167092/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Smartlyio</strong></td>
 <td><a href="https://trueinterview.io/jobs/6aecfbd6-ce91-4215-9392-9f99070b369a">Smartly Launchpad 2027 (Software Engineer, Developer Platform)</a></td>
@@ -273,6 +287,41 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Oslo, Norway</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4483469153/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Agile Resources</strong></td>
+<td><a href="https://trueinterview.io/jobs/cc319854-eb09-409c-9a7c-545462f4f608">Embedded Software Application Engineer</a></td>
+<td>Göteborg, Sweden</td>
+<td align="center"><a href="https://arbetsformedlingen.se/platsbanken/annonser/31666564">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/bc2f6f97-e99a-4cdf-bd04-c15221456bbb">Embedded Software Engineer – Java</a></td>
+<td>Göteborg, Sweden</td>
+<td align="center"><a href="https://arbetsformedlingen.se/platsbanken/annonser/31667517">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CLEVEREX</strong></td>
+<td><a href="https://trueinterview.io/jobs/f0b387da-a3a6-4185-ac6c-a1a09ff7074f">Data Engineer i Stockholm</a></td>
+<td>Stockholm, Sweden</td>
+<td align="center"><a href="https://bemanning.cleverex.se/jobb/data-engineer-i-stockholm/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NXT Interim Stockholm AB</strong></td>
+<td><a href="https://trueinterview.io/jobs/84eaa6a7-afe6-4ee7-9bfb-c359fa8b86c9">Data Engineer – kommersiell data</a></td>
+<td>Stockholm, Sweden</td>
+<td align="center"><a href="https://arbetsformedlingen.se/platsbanken/annonser/31666938">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sopra Steria</strong></td>
+<td><a href="https://trueinterview.io/jobs/6f9eae96-09a5-45e4-8d07-0ed26460a4a7">Cloud Engineer (m/w/d)</a></td>
+<td>Stockholm, Stockholms län, Sweden<br/>Malmö, Skåne län, Sweden<br/>bundesweit, Germany<br/>+1 more</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SopraSteria1/744000158562559-cloud-engineer-m-w-d-">Apply</a></td>
+<td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
 </table>

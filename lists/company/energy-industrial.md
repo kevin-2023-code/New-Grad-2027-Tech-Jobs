@@ -2,7 +2,7 @@
 
 # ⚡ Energy, climate & industrial
 
-**7 open roles.** 5 in the United States & Canada · 2 elsewhere in the world. Energy, climate technology, utilities, manufacturing and industrials.
+**10 open roles.** 8 in the United States & Canada · 2 elsewhere in the world. Energy, climate technology, utilities, manufacturing and industrials.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -51,6 +51,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Wilmington, MA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/rebuildmanufacturing/jobs/4748455005">Apply</a></td>
 <td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Vulcan Elements</strong></td>
+<td><a href="https://trueinterview.io/jobs/35688074-d41b-4a8c-80be-b12606a26c0a">Controls Engineer</a></td>
+<td>Benson, NC<br/>Durham, NC<br/>Research Triangle Park, NC</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/vulcanelements/jobs/5404657008">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Wesco</strong></td>
+<td><a href="https://trueinterview.io/jobs/3b57139e-f4c6-4adc-9be6-4d7936aad90d">Engineer - Application (Substation)</a></td>
+<td>Greenfield, IN, United States<br/>Houston, TX, United States</td>
+<td align="center"><a href="https://eklm.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/35824">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Re:build Manufacturing</strong></td>
+<td><a href="https://trueinterview.io/jobs/6967e7e1-f603-4f24-a48b-3ee7e2ba4db6">CNC Programmer</a></td>
+<td>New Kensington, PA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/rebuildmanufacturing/jobs/4748906005">Apply</a></td>
+<td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
 </table>

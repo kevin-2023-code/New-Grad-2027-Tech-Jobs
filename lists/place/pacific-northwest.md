@@ -2,7 +2,7 @@
 
 # 🌧️ Portland, Boise & Spokane
 
-**47 open roles.**
+**54 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -134,13 +134,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/822d7e32-517a-4a22-8a0d-bf77d6cad4df">Lab Engineer</a></td>
 <td>Hillsboro, OR</td>
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Lab-Engineer_JR0288763">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Katalyst Healthcares &amp; Life Sciences</strong></td>
-<td><a href="https://trueinterview.io/jobs/a051e1e8-246d-4fcd-ae50-e399d4603b46">Test Engineer</a></td>
-<td>Beaverton, OR</td>
-<td align="center"><a href="https://www1.jobdiva.com/candidates/myjobs/openjob_outside.jsp?a=ndjdnw7vk4y5q8swci59eedy2w472z05039bawkobc550aecw9ph653e8wk1g6bh&amp;SearchString=&amp;StatesString=&amp;id=33598932&amp;compid=-1">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
@@ -345,6 +338,62 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Vancouver, WA<br/>Portland, OR<br/>Eugene, OR<br/>+7 more</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4474836771/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Jubilant HollisterStier</strong></td>
+<td><a href="https://trueinterview.io/jobs/e071b19c-91d3-457b-b1b2-800faab96280">IT Network Administrator</a></td>
+<td>Spokane, WA</td>
+<td align="center"><a href="https://jubilantcareer.jubl.com/career?company=jubilantphP2&amp;career_ns=job_listing&amp;career_job_req_id=1921&amp;lang=en_US">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Onboard Systems International</strong></td>
+<td><a href="https://trueinterview.io/jobs/576bd59e-f612-4474-8644-0a806f786d8e">Quality Engineer</a></td>
+<td>Vancouver, WA<br/>Vancouver, BC</td>
+<td align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4629289/Onboard-Systems-International/Quality-Engineer">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Vigor, LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/6f0b0ba4-3e53-4694-b2aa-5b9eb034defe">Structural Engineer I, Marine</a></td>
+<td>Vancouver, WA<br/>Vancouver, BC</td>
+<td align="center"><a href="https://vigorcareers.ttcportals.com/jobs/18429863-structural-engineer-i-marine?tm_job=929&amp;tm_event=view&amp;tm_company=92649">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>First Tech Federal Credit Union</strong></td>
+<td><a href="https://trueinterview.io/jobs/73ecd804-7719-401c-92d9-ba195f30d991">Delivery Platform System Administrator</a></td>
+<td>Hillsboro, OR<br/>Marlborough, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485287308/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>U.S. Bank</strong></td>
+<td><a href="https://trueinterview.io/jobs/85be9d39-624e-43a0-a1b3-1456f959996f">nCino/Moody's Product Designer</a></td>
+<td>Portland, OR<br/>Atlanta, GA<br/>Chicago, IL<br/>+7 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4479254166/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Epic</strong></td>
+<td><a href="https://trueinterview.io/jobs/a230a8af-a888-4627-ab9a-ad27e0650187">Integration Solutions Engineer</a></td>
+<td>Vancouver, WA<br/>Vancouver, BC<br/>Casper, WY<br/>+8 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4320272576/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Enpro Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/15fa363a-b1b0-4e3e-b46e-a7e13391ac9c">Electrical Engineer</a></td>
+<td>Boise, ID</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4421885888/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>JR Automation</strong></td>
+<td><a href="https://trueinterview.io/jobs/1ab5197b-5413-4d25-8298-b8563a26cdb4">Data Scientist I or II (MAD-BS-OR)</a></td>
+<td>Hillsboro, OR</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484977301/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
 </table>

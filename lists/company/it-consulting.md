@@ -2,7 +2,7 @@
 
 # 🧾 IT services & consulting
 
-**216 open roles.** 109 in the United States & Canada · 107 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
+**244 open roles.** 127 in the United States & Canada · 117 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,10 +18,73 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>Crosscountry Consulting</strong></td>
-<td><a href="https://trueinterview.io/jobs/ddcc550e-9a81-4ba5-b925-295261c361ef">Jr. Forward Deployed Software Engineer - (VA)</a></td>
+<td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/e6480078-7a3d-4c5d-b3fd-1c92604c4962">Data Engineer-Data Platforms-Google - 5</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4473691314/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>CrossCountry Consulting</strong></td>
+<td><a href="https://trueinterview.io/jobs/ddcc550e-9a81-4ba5-b925-295261c361ef">Jr. Forward Deployed Software Engineer - (PA)</a></td>
 <td>Georgia<br/>Philadelphia, PA<br/>McLean, VA</td>
 <td align="center"><a href="https://jobs.lever.co/crosscountry-consulting/dc96666d-77b0-4bc8-b209-a0b9250324a0">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/3c3a5b32-19bc-48ae-9f58-bac829ef4f0f">Quality Engineer-FullStack</a></td>
+<td>Bloomington, IN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489796864/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Deloitte</strong></td>
+<td><a href="https://trueinterview.io/jobs/f22356e6-224b-4c53-b9d8-9fee17a8a3b0">Delivery Consultant, Data Engineering and Gen AI Conversion Solutions</a></td>
+<td>Lake Mary, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475899854/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/357185d7-6138-4be7-9ccc-53b0e3568c6a">Data Scientist-Advanced Analytics</a></td>
+<td>Houston, TX<br/>Chantilly, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490109326/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/abc50eaf-5bff-4e67-bfa2-04c97f78702a">Research Scientist - AI Foundations</a></td>
+<td>Cambridge, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4481468447/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/327c1d32-7954-4473-9031-bb71afb2c124">Application Developer-Microsoft .NET</a></td>
+<td>Lowell, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489799612/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/b82f5c73-b1e6-428c-8923-1a7edbc2e6bc">Application Developer-zOS</a></td>
+<td>Columbus, OH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489799341/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/628de69a-b103-48b6-b49d-6e50c5684954">Application Developer-AWS Cloud Modernization</a></td>
+<td>Bellevue, WA</td>
+<td align="center"><a href="https://careers.ibm.com/en_US/careers/JobDetail?jobId=145070">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Deloitte</strong></td>
+<td><a href="https://trueinterview.io/jobs/9d52c2dc-860a-4ba0-a97e-94cb0e61871d">Salesforce Agentforce for Life Sciences - Forward Deployed Engineer- Products and Platforms</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://deloitteus.avature.net/careers/InviteToApply?jobId=373696">Apply</a></td>
 <td align="center">16 Nov 2026</td>
 </tr>
 <tr>
@@ -114,13 +177,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Santa Clara, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4488769241/">Apply</a></td>
 <td align="center">8 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Deloitte</strong></td>
-<td><a href="https://trueinterview.io/jobs/dfdebed0-2b88-4068-ace7-f1be7a44838e">Snowflake Data Engineer</a></td>
-<td>Lake Mary, FL<br/>Mechanicsburg, PA<br/>Gilbert, AZ</td>
-<td align="center"><a href="https://deloitteus.avature.net/careers/InviteToApply?jobId=374537">Apply</a></td>
-<td align="center">7 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>IBM</strong></td>
@@ -774,11 +830,81 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Capgemini</strong></td>
+<td><a href="https://trueinterview.io/jobs/d69ed988-3c95-41ee-b696-96c3cfbb1e23">Gen AI - Data Engineer with AWS Experience</a></td>
+<td>Dallas, TX</td>
+<td align="center"><a href="https://capgemini.talentnet.community/jobs/b4d81ceb-4652-4f9b-b9b5-2d104b7918d9">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/cf1f054c-0dba-4eba-9647-538c7f9fbc16">Weight Engineer</a></td>
+<td>Auburn Hills, MI</td>
+<td align="center"><a href="https://capgemini.talentnet.community/jobs/1916ed1c-bb39-47ca-bb40-8ad2cd3b0d84">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>DMI</strong></td>
+<td><a href="https://trueinterview.io/jobs/b4c93fef-7ede-4525-8bf1-24f71b2040b7">IT Support Specialist</a></td>
+<td>McLean, VA</td>
+<td align="center"><a href="https://careers-dminc.icims.com/jobs/29014/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Peraton</strong></td>
 <td><a href="https://trueinterview.io/jobs/2f41021a-9fd5-4cb0-bef4-5d7d5498e7f8">SITEC - Network Engineer - MacDill AFB</a></td>
 <td>Tampa, FL<br/>Macdill AFB, FL</td>
 <td align="center"><a href="https://www.careers.peraton.com/jobs/sitec-network-engineer-mac-dill-afb-mac-dill-afb-florida-173001-jobs--information-technology--">Apply</a></td>
 <td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Capgemini</strong></td>
+<td><a href="https://trueinterview.io/jobs/b8bbbe4d-19a1-4d7d-bd36-9283d6c85687">Fabric Data Scientist</a></td>
+<td>Greater Vancouver Metropolitan Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484808228/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/ea6e733d-77c2-4581-9bf7-b15634eca4fa">Avionic Test Engineer</a></td>
+<td>Milano, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485262570/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Peraton</strong></td>
+<td><a href="https://trueinterview.io/jobs/feacd30f-3ad7-48d0-8ef1-472acba2fcd0">Systems Engineering (SETA) Advisor</a></td>
+<td>McLean, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484583956/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>General Dynamics Information Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/d1eb144e-025d-4bfc-9f53-3b3b6765da40">DSS PMD Systems Administrator</a></td>
+<td>Washington, DC</td>
+<td align="center"><a href="https://www.gdit.com/careers/job/3b085153d/dss-pmd-systems-administrator/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CGI</strong></td>
+<td><a href="https://trueinterview.io/jobs/eeef70e9-55bc-467a-842d-335f60684f72">Business Intelligence Developer</a></td>
+<td>Arlington, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485255346/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sopra Steria</strong></td>
+<td><a href="https://trueinterview.io/jobs/ecb9e0b5-cf59-4150-809a-bdbba8aeac09">Hardware Engineer – Aerospace</a></td>
+<td>Montréal, Québec, Canada</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SopraSteria1/744000158600759-hardware-engineer-aerospace">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CGI</strong></td>
+<td><a href="https://trueinterview.io/jobs/08a3e25b-977e-43cd-83c1-db16f1cde07f">Composition Developer</a></td>
+<td>Cary, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476987079/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
 </table>
@@ -792,6 +918,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Atos</strong></td>
+<td><a href="https://trueinterview.io/jobs/90551ce9-e575-441d-a7d3-650661ddd3a3">Full Stack Engineer</a></td>
+<td>Aberdeen<br/>Aberystwyth<br/>Andover<br/>+17 more</td>
+<td align="center"><a href="https://career5.successfactors.eu/career?career_ns=job_listing&amp;company=Atos&amp;rcm_site_locale=en_US&amp;career_job_req_id=551058">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/aaa9dbe9-343a-4009-8285-db4e9526e397">Data Engineer-Data Platforms</a></td>
+<td>Kochi, Kerala, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490442097/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Valtech</strong></td>
 <td><a href="https://trueinterview.io/jobs/ded3cd7f-57b5-4842-88f5-ae54a7c9c04d">Executive Business Developer – Denmark</a></td>
@@ -1535,11 +1675,67 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong>Capgemini</strong></td>
+<td><a href="https://trueinterview.io/jobs/b3b45afa-5e2b-40a8-b8f2-8af987301338">Application Developer</a></td>
+<td>India</td>
+<td align="center"><a href="https://www.capgemini.com/jobs/577981-en_GB_SAPBTP/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Leidos</strong></td>
 <td><a href="https://trueinterview.io/jobs/52cc3b36-a793-41f5-ade3-b5b189462cf3">Storage Engineer</a></td>
 <td>Melbourne, Australia</td>
 <td align="center"><a href="https://careers.leidos.com/jobs/18426106-storage-engineer?tm_job=R-00195913&amp;tm_event=view&amp;tm_company=2502">Apply</a></td>
 <td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NTT DATA</strong></td>
+<td><a href="https://trueinterview.io/jobs/cdd5763b-5c30-44de-9060-d77b5a4f526a">Forward Deployed Engineer (w/m/x) - AI &amp; Enterprise Solutions 1 1</a></td>
+<td>Erfurt, Deutschland</td>
+<td align="center"><a href="https://careers.nttdata.com/global/en/job/1300631091be550">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sopra Steria</strong></td>
+<td><a href="https://trueinterview.io/jobs/c26f9088-676c-493b-8895-fcb7b8f90b24">Data Engineer Spark Scala - Services Financiers - Ile-De-France</a></td>
+<td>Courbevoie, France</td>
+<td align="center"><a href="https://careers.soprasteria.com/job/data-engineer-spark-scala-services-financiers-ile-de-france-in-courbevoie-france-jid-6217">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/ff6200a6-ce19-48b3-b218-8fd778f438ed">Application Developer-Salesforce</a></td>
+<td>Hyderabad, Telangana, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477117943/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CGI</strong></td>
+<td><a href="https://trueinterview.io/jobs/e926e916-b7ff-4002-b7d8-6f98f46ff9c6">Threat Detection Engineer</a></td>
+<td>Reading, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485201014/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sopra Steria</strong></td>
+<td><a href="https://trueinterview.io/jobs/4f5aff32-4160-474b-b50b-a0d549b4cd18">Cyber Security Engineer – Security Operations (m/w/d)</a></td>
+<td>Munich, Bavaria, Germany<br/>München, Germany</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SopraSteria1/744000158496579-cyber-security-engineer-security-operations-m-w-d-">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/8b18fae3-eec2-44a6-8480-85621ca00407">Cloud Native Product Owner - Public Sector (m/w/d)</a></td>
+<td>Germany<br/>bundesweit, Germany</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SopraSteria1/744000158500849-cloud-native-product-owner-public-sector-m-w-d-">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/6f9eae96-09a5-45e4-8d07-0ed26460a4a7">Cloud Engineer (m/w/d)</a></td>
+<td>Stockholm, Stockholms län, Sweden<br/>Malmö, Skåne län, Sweden<br/>bundesweit, Germany<br/>+1 more</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SopraSteria1/744000158562559-cloud-engineer-m-w-d-">Apply</a></td>
+<td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
 </table>

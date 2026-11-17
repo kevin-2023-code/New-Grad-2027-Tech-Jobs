@@ -2,7 +2,7 @@
 
 # 🧬 Health, biotech & medical devices
 
-**19 open roles.** 17 in the United States & Canada · 2 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
+**21 open roles.** 19 in the United States & Canada · 2 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -135,6 +135,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Charlotte, NC<br/>Charlotte, North Carolina, United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/rvohealth/jobs/4721689005">Apply</a></td>
 <td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>McKesson</strong></td>
+<td><a href="https://trueinterview.io/jobs/b8a7f31a-d7f2-46dd-9d0f-c4ace9ffb8b5">Business Intelligence &amp; Automation Analyst</a></td>
+<td>Richmond, VA</td>
+<td align="center"><a href="https://careers.mckesson.com/en/job/richmond/business-intelligence-and-automation-analyst/733/102650093008">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Intuitive Surgical</strong></td>
+<td><a href="https://trueinterview.io/jobs/666fdf1c-5782-4e21-8a73-3753b0243173">Quality Engineering Tech</a></td>
+<td>Durham, North Carolina, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Intuitive/744000158581188-quality-engineering-tech">Apply</a></td>
+<td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
 </table>

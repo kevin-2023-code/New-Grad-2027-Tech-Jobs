@@ -2,7 +2,7 @@
 
 # 🐎 Calgary & the Prairies
 
-**16 open roles.**
+**18 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -127,6 +127,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/26eb617d-12c9-4056-8264-84ee6aecac6c">Instrumentation &amp; Controls Engineer</a></td>
 <td>Calgary, AB<br/>Edmonton, Alberta, Canada<br/>Calgary, Alberta, Canada<br/>+2 more</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4477407667/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Alberta Machine Intelligence Institute</strong></td>
+<td><a href="https://trueinterview.io/jobs/f2f26445-9589-4e30-9f7f-7b8b6540af2a">Machine Learning Resident - Client: Ultimarii (12 month term)</a></td>
+<td>Edmonton, Canada</td>
+<td align="center"><a href="https://amii.bamboohr.com/careers/247?postedDate=2026-10-30">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>WSP</strong></td>
+<td><a href="https://trueinterview.io/jobs/5fd6f362-910a-468a-87c8-3fc139ba2ee9">Civil Engineer-in-Training, Municipal Engineering</a></td>
+<td>Edmonton, AB, Canada</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98620">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 </tbody>

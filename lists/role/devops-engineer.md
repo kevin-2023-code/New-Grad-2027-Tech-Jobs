@@ -2,7 +2,7 @@
 
 # DevOps Engineer
 
-**158 open roles.** 103 in the United States & Canada · 55 elsewhere in the world.
+**195 open roles.** 119 in the United States & Canada · 76 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,17 +18,94 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Entarian</strong></td>
+<td><a href="https://trueinterview.io/jobs/43c87697-738e-46ce-9be5-7dbb50085c82">DevOps Engineer</a></td>
+<td>Norfolk, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475815182/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Verigent</strong></td>
+<td><a href="https://trueinterview.io/jobs/7d8f9bc5-8329-4c26-a856-ce3e6a5c0e47">DevOps Engineer (TS/SCI clearance required)</a></td>
+<td>Chantilly, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490106861/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Pax Recruiting</strong></td>
+<td><a href="https://trueinterview.io/jobs/7110abe7-e39b-4389-b300-a5f9823ba162">DevOps Engineer</a></td>
+<td>Austin, TX<br/>Austin, Texas Metropolitan Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491172802/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Lorven Technologies Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/9262c980-367a-4bf0-94dc-6759ca54c51d">DevOps / AWS Cloud DevOps Engineer</a></td>
+<td>Minneapolis, MN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491183130/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Smart IT Frame LLC</strong></td>
 <td><a href="https://trueinterview.io/jobs/64e0b26a-ca26-4318-a575-1cd31465bdd9">GCP DevSecOps Engineer</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4490686292/">Apply</a></td>
-<td align="center">16 Nov 2026</td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Jade Business Services (JBS)</strong></td>
+<td><a href="https://trueinterview.io/jobs/d2aa7540-c92b-46e3-9b8d-b0ea6d12fb8c">DevOps Engineer</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490941583/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Protomiq</strong></td>
+<td><a href="https://trueinterview.io/jobs/b7a8f18b-e55b-4e58-8cde-1c1281b8d6a4">DevOps Engineer</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491135770/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ASML</strong></td>
+<td><a href="https://trueinterview.io/jobs/d2c0054a-6697-4a97-b975-703a9ce6c625">DevOps Applications Engineer</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490129460/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ELEVI Associates</strong></td>
+<td><a href="https://trueinterview.io/jobs/727d515e-6517-4c92-a059-af338643e6e4">DevOps Engineer - Federal</a></td>
+<td>Chantilly, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490178871/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Erias Ventures</strong></td>
+<td><a href="https://trueinterview.io/jobs/7780ebb0-e761-4a31-8d6e-f4017a45cea6">Enterprise - DevOps Engineer - AWS, Kubernetes, Terraform</a></td>
+<td>Annapolis Junction, MD</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490121884/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Insight Global</strong></td>
+<td><a href="https://trueinterview.io/jobs/9c15d041-f5ab-4e76-b578-b0db46edf206">Cloud/DevOps Engineer</a></td>
+<td>Beavercreek, OH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490961181/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Hired</strong></td>
 <td><a href="https://trueinterview.io/jobs/684d1964-ff32-4ea4-a5d0-62c6e5b73ded">DevOps Engineer (Remote)</a></td>
 <td>United States</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4490229299/">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Infosys</strong></td>
+<td><a href="https://trueinterview.io/jobs/87a3443b-d709-4922-9ce5-e8550ddab4d9">AI DevOps Engineer</a></td>
+<td>Research Triangle Park, NC</td>
+<td align="center"><a href="https://digitalcareers.infosys.com/global-careers/company-job/description/reqid/155891BR">Apply</a></td>
 <td align="center">16 Nov 2026</td>
 </tr>
 <tr>
@@ -738,6 +815,41 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://adidevtechnologies.recruiterbox.com/jobs/fk0xodi?fjb_hash=ezLpq610">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
+<tr>
+<td><strong>MACOM Technology Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/072e440a-a16f-444f-9548-50b01fe52c84">IT DevOps Engineer</a></td>
+<td>Lowell, MA</td>
+<td align="center"><a href="https://macomtech.csod.com/ux/ats/careersite/4/home/requisition/3807?c=macomtech">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Quantum Sky</strong></td>
+<td><a href="https://trueinterview.io/jobs/ff91b54f-1287-41f4-99f7-566ea36b1670">DevOps Engineer</a></td>
+<td>Chantilly, VA</td>
+<td align="center"><a href="https://careers-quantumsky.icims.com/jobs/2278/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Synergy</strong></td>
+<td><a href="https://trueinterview.io/jobs/1f1a9f7f-2c3b-4b17-92af-13dabf644e3b">DevOps Engineer</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482760726/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Siemens</strong></td>
+<td><a href="https://trueinterview.io/jobs/deed74f0-5146-4f17-b270-16f1e8e26ff6">Agentic AI &amp; DevOps Automation Engineer - Robotics Data Platform, Kitchener, ON</a></td>
+<td>Kitchener, Ontario, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4449361375/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>VySystems</strong></td>
+<td><a href="https://trueinterview.io/jobs/60e745fd-0518-402a-8543-319ca8d67b75">DevOps Engineer</a></td>
+<td>Toronto, Ontario, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484982950/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -750,6 +862,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Opportunity Engine, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/17e6e51f-5060-4ecc-9d39-7e8b3ea87d26">DevOps Engineer</a></td>
+<td>Greater Indianapolis</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490981027/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Sogeti</strong></td>
+<td><a href="https://trueinterview.io/jobs/31fad664-3de6-491d-b31a-af6b5d2486f9">DevOps Engineer</a></td>
+<td>Des Moines Metropolitan Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490924769/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>IBM</strong></td>
 <td><a href="https://trueinterview.io/jobs/cda27222-b3aa-42d2-a7b0-9c6d926c0d9e">Oportunidad de Pasantía: Ingeniero/a de DevOps</a></td>
@@ -1129,11 +1255,144 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>ALMR BUSINESS CONSULTING GROUP PTE. LTD.</strong></td>
+<td><a href="https://trueinterview.io/jobs/bf2fbd19-2d47-41b7-a655-7250be0c7f05">DevOps System Engineer</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.mycareersfuture.gov.sg/job/9b8740ccf5a9a7ffee7c7da5a7f533d4">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Dataport AöR</strong></td>
+<td><a href="https://trueinterview.io/jobs/133095a6-9eda-4855-8483-8700ddd2cd08">DevOps Engineer – Schwerpunkte: Anwendungen &amp; Databases (w/m/d)</a></td>
+<td>Altenholz, Deutschland</td>
+<td align="center"><a href="https://karriere.dataport.de/DevOps-Engineer-Schwerpunkte-Anwendungen-Databases-wmd-de-j11764.html">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>DICETEK LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/a96d6e1d-1fff-4df1-a3a6-1d510a1c7c80">DevOps Engineer</a></td>
+<td>Dubai, UAE</td>
+<td align="center"><a href="https://dicetek.talentrecruit.com/career-page/apply/U2FsdGVkX1%252F0f3QcpjM2V%252B9beZlintbOedQrCmTi%252FXo%253D?viewJD=true">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>DNA AI TECHNOLOGIES PTE. LTD.</strong></td>
+<td><a href="https://trueinterview.io/jobs/5bb08171-40b0-4b84-bd85-cb8f50ae69e7">Devops Automation Engineer</a></td>
+<td>Outram, Singapore</td>
+<td align="center"><a href="https://www.mycareersfuture.gov.sg/job/83157b1aac1f1f1902bab29b8521e80d">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ERNI Spain</strong></td>
+<td><a href="https://trueinterview.io/jobs/f0b6202f-df63-4a87-bf76-77c525ecbe24">Azure DevOps Engineer - Cloud Operations - Healthcare Sector</a></td>
+<td>Barcelona, Spain</td>
+<td align="center"><a href="https://spainteam.betterask.erni/jobs/8644055-azure-devops-engineer-cloud-operations-healthcare-sector">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/99aca436-d7ac-48c7-8b15-6ae8bdd3d6d4">Azure DevOps Engineer - Healthcare Sector</a></td>
+<td>Barcelona, Spain</td>
+<td align="center"><a href="https://spainteam.betterask.erni/jobs/8644049-azure-devops-engineer-healthcare-sector">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>GEMA International Hosting AG</strong></td>
+<td><a href="https://trueinterview.io/jobs/0a4b8383-4925-4258-b616-1599ea0bbf20">DevOps Engineer (w/m/d)</a></td>
+<td>Hamburg, Deutschland</td>
+<td align="center"><a href="https://t.gohiring.com/h/32d4970006ff96c719ca320316554ecd2a9cfa301dbdcc7fc6107bc1ea27e993">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>ITP Media Group</strong></td>
 <td><a href="https://trueinterview.io/jobs/5ec205ed-b743-46a2-b556-02da8760f5aa">DevOps Engineer</a></td>
 <td>Dubai, UAE</td>
 <td align="center"><a href="https://itpmediagroup.teamtailor.com/jobs/8641072-devops-engineer">Apply</a></td>
 <td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Nexio Management</strong></td>
+<td><a href="https://trueinterview.io/jobs/03e871c9-38cc-4c62-8bf8-97f6e87f6742">DevOps Engineer/DevSecOps (Openshift)(m/k/n)</a></td>
+<td>Warszawa, Poland</td>
+<td align="center"><a href="https://nexio.traffit.com/public/an/b1cf73e466f5c4da033a8a2314700af778363955">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Prodapt Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/2d50f8bf-7a04-45dc-a860-2c90ffcf1423">DevOps Engineer (L2 Support Role)</a></td>
+<td>India</td>
+<td align="center"><a href="https://careers.prodapt.com/jobs/20249/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>All About Work</strong></td>
+<td><a href="https://trueinterview.io/jobs/e64c67f3-fed2-461c-937e-1349cb8e23b5">Devops Engineer Integratie</a></td>
+<td>Utrecht, Utrecht, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485301160/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Open Universities Australia</strong></td>
+<td><a href="https://trueinterview.io/jobs/20192d0b-c68f-42d6-9e20-61680f0bc226">DevOps Engineer</a></td>
+<td>Docklands, Victoria, Australia<br/>Docklands, Australia<br/>Remote</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/OpenUniversitiesAustralia/744000158660549-devops-engineer">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Talent</strong></td>
+<td><a href="https://trueinterview.io/jobs/d3df2320-e1e5-4fc5-a4f8-2d3da9210528">DevOps Engineer - Machine Learning Platforms</a></td>
+<td>Melbourne, Victoria, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484814156/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Schuberg Philis</strong></td>
+<td><a href="https://trueinterview.io/jobs/413fd599-5549-4b77-afbc-509c8462874b">Windows DevOps Engineer</a></td>
+<td>Rotterdam, South Holland, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4449654226/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Spindox</strong></td>
+<td><a href="https://trueinterview.io/jobs/69df93dc-e798-4100-9e68-f9a1b12cc830">DevOps / Application Operations Engineer – Java</a></td>
+<td>Bioggio, Ticino, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477406828/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>HSO</strong></td>
+<td><a href="https://trueinterview.io/jobs/40d738fb-0030-49da-8cd1-286e4ef031ec">Azure DevOps Engineer</a></td>
+<td>Veenendaal, Utrecht, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4430546880/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>VOIS</strong></td>
+<td><a href="https://trueinterview.io/jobs/feb447e5-7168-430b-8b92-8b3fabe91cf1">Public Cloud DevOps Engineer (AWS) - VOIS</a></td>
+<td>Pune Division, Maharashtra, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474809810/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sword Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/2f7bf97c-e627-4109-bcd9-76cdafa5499e">DevOps Engineer</a></td>
+<td>Geneva, Geneva, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484995906/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Velorum</strong></td>
+<td><a href="https://trueinterview.io/jobs/8a01d8e6-7e1c-4e89-a8a8-baa1030656f6">DevOps Engineer</a></td>
+<td>Barcelona, Spain</td>
+<td align="center"><a href="https://iris-venture.careers.ats.bizneo.cloud/jobs/devops-engineer-3c32443c-46c2-4cf8-b505-040dde8cc8e8">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>EnBW Energie Baden-Württemberg AG</strong></td>
+<td><a href="https://trueinterview.io/jobs/45cd879b-08e3-4ad1-9814-314537187161">Platform / DevOps Engineer Linux &amp; Kubernetes (w/m/d) C-TIPCP</a></td>
+<td>Karlsruhe, Baden-Württemberg, Germany<br/>Karlsruhe, Deutschland</td>
+<td align="center"><a href="https://careers.enbw.com/de/de/job/25599">Apply</a></td>
+<td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
 </table>

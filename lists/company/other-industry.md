@@ -2,7 +2,7 @@
 
 # 💼 Other industries
 
-**24 open roles.** 4 in the United States & Canada · 20 elsewhere in the world. A real classification that none of the other sectors covers.
+**27 open roles.** 7 in the United States & Canada · 20 elsewhere in the world. A real classification that none of the other sectors covers.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -44,6 +44,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Denver, CO<br/>Dallas, TX<br/>Charlotte, NC<br/>+1 more</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/holderconstruction/jobs/4467889009">Apply</a></td>
 <td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>LexisNexis</strong></td>
+<td><a href="https://trueinterview.io/jobs/344c3675-a1ef-454c-ad6c-bd855c3a99b0">Security Engineer</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4481399071/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Fanatics Collectibles</strong></td>
+<td><a href="https://trueinterview.io/jobs/d8591b54-ed94-488e-8960-3f6e579b7923">Data Analyst, Autograph Operations &amp; Governance</a></td>
+<td>Sunnyvale, CA<br/>Sunnyvale, TX, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4467168009">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Accorhotel</strong></td>
+<td><a href="https://trueinterview.io/jobs/0e23c3e4-304d-425f-a049-e8599719093d">Building Engineer I</a></td>
+<td>Seattle, Washington, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/AccorHotel/744000158588201-building-engineer-i">Apply</a></td>
+<td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
 </table>

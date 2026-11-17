@@ -2,7 +2,7 @@
 
 # 📐 Engineering & architecture firms
 
-**35 open roles.** 14 in the United States & Canada · 21 elsewhere in the world. Civil, structural and environmental engineering and AEC consultancies.
+**38 open roles.** 17 in the United States & Canada · 21 elsewhere in the world. Civil, structural and environmental engineering and AEC consultancies.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -114,6 +114,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Laramie, WY</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/apexcompanies/jobs/5445329008">Apply</a></td>
 <td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>WSP</strong></td>
+<td><a href="https://trueinterview.io/jobs/5fd6f362-910a-468a-87c8-3fc139ba2ee9">Civil Engineer-in-Training, Municipal Engineering</a></td>
+<td>Edmonton, AB, Canada</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98620">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Valdes Architecture &amp; Engineering</strong></td>
+<td><a href="https://trueinterview.io/jobs/ae28cd34-03b7-484e-810c-3483b5e70aa1">Chemical Engineer- Entry Level</a></td>
+<td>Lombard, IL</td>
+<td align="center"><a href="https://jobs.lever.co/valdeseng/5541016b-bfaf-4caa-bec5-f9df9c164df9">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Olsson</strong></td>
+<td><a href="https://trueinterview.io/jobs/baeaf3d1-964d-490c-9c29-66d5b96c3fe9">Entry-Level Geotechnical Engineer (EIT)</a></td>
+<td>Denver, CO<br/>Oklahoma City Metropolitan Area<br/>Fayetteville, AR<br/>+6 more</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5466862008">Apply</a></td>
+<td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
 </table>

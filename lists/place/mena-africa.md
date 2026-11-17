@@ -2,7 +2,7 @@
 
 # 🌍 Dubai, Cairo, Lagos & Africa
 
-**54 open roles.** 1 in the United States & Canada · 53 elsewhere in the world.
+**55 open roles.** 1 in the United States & Canada · 54 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -37,6 +37,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Siemens</strong></td>
+<td><a href="https://trueinterview.io/jobs/227392c9-21dd-48a2-a09b-abb951155794">Software QA Engineer - Physics AI</a></td>
+<td>Qesm 2nd New Cairo, Cairo, Egypt</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483234482/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Egis Group</strong></td>
 <td><a href="https://trueinterview.io/jobs/a1ef2268-f3d3-4b3e-9511-93790d19f90c">Pre-graduate Electrical Engineer - Site (UAE National)</a></td>
 <td>Dubai, Dubai, United Arab Emirates</td>
@@ -52,13 +59,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td><strong>ByteDance</strong></td>
-<td><a href="https://trueinterview.io/jobs/e4f4b29e-299a-4f12-9d8b-d515178d2003">Enterprise Services AI Agent Engineer Graduate (Corporate Service System - Workplace Service) - 2027 Start</a></td>
-<td>Dubai, Dubai, United Arab Emirates</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4475060299/">Apply</a></td>
-<td align="center">15 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/f95ab45b-c415-47a0-b2c9-40226adce61b">AI Product Manager Graduate (Corporate Information Systems - AI Vertical Scenarios) - 2027 Start</a></td>
 <td>Dubai, Dubai, United Arab Emirates</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4475059329/">Apply</a></td>
@@ -377,6 +377,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/7707d094-6a38-4f5d-a632-9091271628cf">Graduate - Mechanical Engineering إماراتيين (خلاصة القيد)</a></td>
 <td>Dubai, UAE, United Arab Emirates</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/AECOM2/744000158681938-graduate-mechanical-engineering-">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>DICETEK LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/a96d6e1d-1fff-4df1-a3a6-1d510a1c7c80">DevOps Engineer</a></td>
+<td>Dubai, UAE</td>
+<td align="center"><a href="https://dicetek.talentrecruit.com/career-page/apply/U2FsdGVkX1%252F0f3QcpjM2V%252B9beZlintbOedQrCmTi%252FXo%253D?viewJD=true">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
