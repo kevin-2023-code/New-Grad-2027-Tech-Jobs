@@ -2,11 +2,11 @@
 
 # 🌉 SF Bay Area
 
-**1,126 open roles.** 1,121 in the United States & Canada · 5 elsewhere in the world.
+**1,364 open roles.** 1,359 in the United States & Canada · 5 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
-<sub>[← Page 1](bay-area.md) · Page 2 of 3 · [Page 3 →](bay-area-3.md)</sub>
+<sub>[← Page 1](bay-area.md) · Page 2 of 4 · [Page 3 →](bay-area-3.md)</sub>
 
 ## United States & Canada
 
@@ -1577,13 +1577,6 @@
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Etched</strong></td>
-<td><a href="https://trueinterview.io/jobs/3b88b07f-10dc-48fd-85fe-22c53b0ec5d4">Build Engineer</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/Etched/4020db7a-1ec0-48e3-9bbd-f1337c63a403">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Corgi</strong></td>
 <td><a href="https://trueinterview.io/jobs/4af57d5b-ef31-48f5-9549-1d3cbdcc1f28">Applied AI Engineer</a></td>
 <td>San Francisco, CA</td>
@@ -2815,9 +2808,16 @@
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4483094909/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
+<tr>
+<td><strong>SoloPoint Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/f7f43525-de7a-4a10-9191-f3cdf0fb9735">Failure Analysis Engineer</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485279693/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
 </tbody>
 </table>
 
-<sub>[← Page 1](bay-area.md) · Page 2 of 3 · [Page 3 →](bay-area-3.md)</sub>
+<sub>[← Page 1](bay-area.md) · Page 2 of 4 · [Page 3 →](bay-area-3.md)</sub>
 
 [← Every filter](../README.md) · [Back to the full list](../../README.md)

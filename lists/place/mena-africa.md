@@ -2,7 +2,7 @@
 
 # 🌍 Dubai, Cairo, Lagos & Africa
 
-**68 open roles.** 1 in the United States & Canada · 67 elsewhere in the world.
+**85 open roles.** 1 in the United States & Canada · 84 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -38,6 +38,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tbody>
 <tr>
 <td><strong>Egis Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/a1ef2268-f3d3-4b3e-9511-93790d19f90c">Pre-graduate Electrical Engineer - Site (UAE National)</a></td>
+<td>Dubai, Dubai, United Arab Emirates</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/EgisGroup/744000161997239-pre-graduate-electrical-engineer-site-uae-national-">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/fc67ec69-3634-43dc-b51a-0303023b791b">Pre Graduate Civil Engineer (Structural)</a></td>
 <td>Dubai, Dubai, United Arab Emirates</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/EgisGroup/744000161735039-pre-graduate-civil-engineer-structural-">Apply</a></td>
@@ -504,6 +511,118 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Abu Dhabi, UAE</td>
 <td align="center"><a href="https://dicetek.talentrecruit.com/career-page/apply/U2FsdGVkX18zhIuQctP97glBS2AeQn2le%252FmnbviYi3Y%253D?viewJD=true">Apply</a></td>
 <td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Inetum</strong></td>
+<td><a href="https://trueinterview.io/jobs/0e768848-1ba4-42d5-bd65-31dda4e10563">Développement, industrialisation et MLOps d'un modèle de Machine Learning prédictif intégré dans Microsoft Fabric</a></td>
+<td>Casablanca, Casablanca-Settat, Morocco</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Inetum2/744000157818169-developpement-industrialisation-et-mlops-d-un-modele-de-machine-learning-predictif-integre-dans-microsoft-fabric">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Fortinet</strong></td>
+<td><a href="https://trueinterview.io/jobs/cf37dc85-68f3-41ef-bcf0-aea00e914ff3">Systems Engineer (Channel) - SADC</a></td>
+<td>Johannesburg, Gauteng, South Africa</td>
+<td align="center"><a href="https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/24674">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Scalian</strong></td>
+<td><a href="https://trueinterview.io/jobs/b38fdf77-b5ab-46cf-abdd-a87a2a91110c">ERP Functional Support Engineer - Unit4</a></td>
+<td>Casablanca, Morocco</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Scalian/744000156583580-erp-functional-support-engineer-unit4">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Egis Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/ae82b6e1-bba4-47fb-aeec-42094060a055">Engineer- ELV</a></td>
+<td>Cairo, Cairo Governorate, Egypt</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/EgisGroup/744000156260611-engineer-elv">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/51f8773c-6e7c-460b-a0a4-a57d2dc339d8">Future Opportunities | Engineering, Project Controls, Document Control &amp; Support Services</a></td>
+<td>Dubai, United Arab Emirates</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/EgisGroup/744000156007298-future-opportunities-engineering-project-controls-document-control-support-services">Apply</a></td>
+<td align="center">16 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/86723e70-de7f-434b-b0ce-b634e27dbfbd">Graduate Engineer (UAE National)- Electrical or Mechanical</a></td>
+<td>Dubai, Dubai, United Arab Emirates</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/EgisGroup/744000155187714-graduate-engineer-uae-national-electrical-or-mechanical">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Loft Orbital Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/58d5a7fb-cf13-4824-bc32-fd259515c654">Satellite Operations Engineer</a></td>
+<td>Abu Dhabi</td>
+<td align="center"><a href="https://jobs.lever.co/loftorbital/bc16e2e5-65a3-412d-a186-1b9ea2a4e61c">Apply</a></td>
+<td align="center">12 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Scalian</strong></td>
+<td><a href="https://trueinterview.io/jobs/670211e1-a0d2-4472-9f46-f3d6d2e76ff3">Cloud &amp; SysOps / Automation Engineer</a></td>
+<td>Casablanca, Morocco</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Scalian/744000154625068-cloud-sysops-automation-engineer">Apply</a></td>
+<td align="center">9 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/33ca743a-d275-4718-98f3-a65af1a3dddf">Identity, OS &amp; Datacenter Engineer (M/F)</a></td>
+<td>Casablanca, Morocco</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Scalian/744000154619685-identity-os-datacenter-engineer-m-f-">Apply</a></td>
+<td align="center">9 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Devoteam</strong></td>
+<td><a href="https://trueinterview.io/jobs/788cfc4b-6e7e-4b37-98ba-c0e8412d39f9">DevOps Engineer</a></td>
+<td>Riyadh, Saudi Arabia<br/>Madrid, Comunidad de Madrid, Spain<br/>Frankfurt am Main, Hesse, Germany</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Devoteam/744000154021349-devops-engineer-">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>WSP</strong></td>
+<td><a href="https://trueinterview.io/jobs/ef07508c-73c0-4b8b-8c69-a196b6f70d9d">Resident Engineer - Electrical_ Emirati National</a></td>
+<td>Abu Dhabi, Abu Dhabi, United Arab Emirates</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96912">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Moniepoint</strong></td>
+<td><a href="https://trueinterview.io/jobs/1f9e6338-ebfb-49aa-baa5-f66d1dc4df4f">Engineering Relations Partner</a> 🌐</td>
+<td>Remote — Portugal, India, Poland<br/>Remote, Lagos, Nigeria</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/moniepoint/jobs/4997794101">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Fortinet</strong></td>
+<td><a href="https://trueinterview.io/jobs/cef49ab5-90ce-4fc8-bb52-c1b56c6b0a7c">Consulting Systems Engineer -Automation</a></td>
+<td>Dubai, United Arab Emirates<br/>LONDON, United Kingdom<br/>Frankfurt, Hessen, Germany<br/>+3 more</td>
+<td align="center"><a href="https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/22165">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Taptap Send</strong></td>
+<td><a href="https://trueinterview.io/jobs/208e1446-ce9e-485e-b049-91d68e61212e">IT Support Engineer</a></td>
+<td>Dubai</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/TaptapSend/92885421-6176-4c97-8c97-08b5fe6b4728">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon.com</strong></td>
+<td><a href="https://trueinterview.io/jobs/9cd3cf97-cd4f-4c4f-8348-4e85741259bd">Trans Topology Data Analyst, Supply Chain Transportation Planning, Supply Chain</a></td>
+<td>Dubai, UAE</td>
+<td align="center"><a href="https://www.amazon.jobs/jobs/10568628/trans-topology-data-analyst-supply-chain-transportation-planning-supply-chain?cmpid=DA_INAD200785B">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Lucidya</strong></td>
+<td><a href="https://trueinterview.io/jobs/bb4d0853-e5ea-431d-b63e-706245cccb6f">Frontend Software Engineer</a></td>
+<td>Riyadh, Saudi Arabia</td>
+<td align="center"><a href="https://4dayweek.io/job/frontend-software-engineer-at-lucidya-8fa81b9b">Apply</a></td>
+<td align="center">19 Sep 2026</td>
 </tr>
 </tbody>
 </table>

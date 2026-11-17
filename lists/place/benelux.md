@@ -2,7 +2,7 @@
 
 # 🇳🇱 Amsterdam & the Benelux
 
-**277 open roles.**
+**306 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1957,6 +1957,209 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Flanders/Brussels, Belgium</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/SopraSteria1/744000158050240-cloud-system-engineer">Apply</a></td>
 <td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ABN AMRO</strong></td>
+<td><a href="https://trueinterview.io/jobs/4f1e0023-e306-482f-98af-a76a9b776819">Business Developer - Credits Data Domain (Hay 11)</a></td>
+<td>Amsterdam, Netherlands</td>
+<td align="center"><a href="https://www.werkenbijabnamro.nl/vacature/9702/business-developer-credits-data-domain-hay-11">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Eneco</strong></td>
+<td><a href="https://trueinterview.io/jobs/2786dddb-aac0-447c-8223-16f7effeca14">Forecasting &amp; ML Data Scientist</a></td>
+<td>Rotterdam, Netherlands</td>
+<td align="center"><a href="https://www.werkenbijeneco.nl/vacatures/forecasting-ml-data-scientist-3323">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Rabobank</strong></td>
+<td><a href="https://trueinterview.io/jobs/11499703-3527-4c25-a66b-7563a70b7f9f">Medior AI &amp; Data Platform Engineer</a></td>
+<td>Utrecht, Netherlands</td>
+<td align="center"><a href="https://rabobank.jobs/nl/vacature/medior-ai-en-data-platform-engineer/JR_00146939/">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/a4c65639-bc80-4982-8227-13c9cd45f161">Consultant Data Engineer</a></td>
+<td>Amsterdam, Netherlands<br/>Antwerp, Belgium<br/>Brussels, Belgium<br/>+1 more</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Sia/744000157783710-consultant-data-engineer">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/5980e5d8-2459-412a-8e9b-4772e34372a1">Data Engineer Consultant -</a></td>
+<td>Amsterdam, North Holland, Netherlands</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Sia/744000157780360-data-engineer-consultant-">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/3afd7847-cbc8-4252-a5b1-07931bdb02bb">Engineer</a></td>
+<td>Brussels, Belgium</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Sia/744000157780065-engineer">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Bosch</strong></td>
+<td><a href="https://trueinterview.io/jobs/63ba8fcf-edbf-493d-8a14-7988ccc85390">Application Engineer Mobile Electronics (Dutch Speaking)</a></td>
+<td>Eindhoven, North Brabant, Netherlands</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000157750467-application-engineer-mobile-electronics-dutch-speaking-">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Workwize</strong></td>
+<td><a href="https://trueinterview.io/jobs/9a83405a-1238-4e53-9372-472bb4f126cd">IT Systems Administrator (Part-time /Full-time) | Amsterdam hybrid</a></td>
+<td>Amsterdam</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/workwize/jobs/5012581101">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Talan</strong></td>
+<td><a href="https://trueinterview.io/jobs/86e734bf-0e53-4605-a899-395671f23b3b">Data Engineer | DBT - Snowflake</a></td>
+<td>Luxembourg, Luxembourg</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Talan/744000157091459-data-engineer-dbt-snowflake">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/5f74c40c-3c94-48df-bfe4-ca20f4e680e9">Machine Learning Engineer l Luxembourg</a></td>
+<td>Luxembourg, Luxembourg, Luxembourg</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Talan/744000157089855-machine-learning-engineer-l-luxembourg-">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/51d95c65-df24-4cd7-a88f-413d147d3202">IA &amp; Data Engineer l Luxembourg</a></td>
+<td>Luxembourg, Luxembourg, Luxembourg</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Talan/744000157089804-ia-data-engineer-l-luxembourg">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>O-I (Owens-Illinois)</strong></td>
+<td><a href="https://trueinterview.io/jobs/bda67423-a411-465b-b4aa-4415a8192acd">Graduate Development Program (GDP) | International Engineering Traineeship</a></td>
+<td>Leerdam, Utrecht, Netherlands</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/O-I/744000155789271-graduate-development-program-gdp-international-engineering-traineeship">Apply</a></td>
+<td align="center">15 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Workwize</strong></td>
+<td><a href="https://trueinterview.io/jobs/ef068b18-c253-4cb7-83ac-4125aed738f3">Forward Deployed Engineer (Full-Stack, Client-Facing) | Amsterdam Hybrid preference, EU / UK optional</a></td>
+<td>Amsterdam</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/workwize/jobs/5001407101">Apply</a></td>
+<td align="center">15 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Inetum</strong></td>
+<td><a href="https://trueinterview.io/jobs/be4e204b-8660-40e3-99bd-10e2866b03a1">Software Engineer</a></td>
+<td>Antwerp, Flanders, Belgium</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Inetum2/744000155667829-software-engineer">Apply</a></td>
+<td align="center">15 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Monumental</strong></td>
+<td><a href="https://trueinterview.io/jobs/5fc57537-7d7a-4f02-a485-38f66842e725">Software Engineer, Frontend</a></td>
+<td>Amsterdam</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/monumental/706a2266-f50f-4da6-97b3-0b8b89ba1011">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sopra Steria</strong></td>
+<td><a href="https://trueinterview.io/jobs/bab2f89f-ad1e-40ed-b94c-ee63c479f528">.NET Developer</a></td>
+<td>Nieuwegein, Utrecht, Netherlands</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SopraSteria1/744000154180539--net-developer">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/8df2273f-9f3e-43dc-a347-a7311fe5b500">Azure DevOps Engineer</a></td>
+<td>Nieuwegein, Utrecht, Netherlands</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SopraSteria1/744000154180079-azure-devops-engineer">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/1cb1d06d-6b3b-4282-b6ea-9c63e0af91e4">Fullstack .NET Developer</a></td>
+<td>Nieuwegein, Utrecht, Netherlands</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SopraSteria1/744000154179914-fullstack-net-developer">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/b7fb5dd4-0ee3-4700-94ce-02fc9ac45c87">Cybersecurity Consultant</a></td>
+<td>Rotterdam, Zuid-Holland, Netherlands<br/>Amsterdam, North Holland, Netherlands<br/>Brussels, Belgium</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Sia/744000154117669-cybersecurity-consultant">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Devoteam</strong></td>
+<td><a href="https://trueinterview.io/jobs/773796d8-22b3-4f89-8562-c3d11548fb8c">AI Developer (.NET/Azure AI Foundry)</a></td>
+<td>Amsterdam, North Holland, Netherlands</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Devoteam/744000153715299-ai-developer-net-azure-ai-foundry-">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Riverty</strong></td>
+<td><a href="https://trueinterview.io/jobs/7dc3c3ca-9db0-44a9-8e54-a60f5730c4ad">Network Engineer (m/w/d)</a></td>
+<td>Luxembourg, Luxembourg<br/>St. Gallen, Switzerland<br/>Leipzig, Sachsen, Germany</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000153481269-network-engineer-m-w-d-">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Six Construct</strong></td>
+<td><a href="https://trueinterview.io/jobs/3e43d694-88b1-44ad-a8d1-b1698e5d870d">Project Engineer</a></td>
+<td>Brussels, Brussels, Belgium<br/>Christchurch, Canterbury Region, New Zealand<br/>Adelaide, South Australia, Australia</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/BESIX/744000153098098-project-engineer">Apply</a></td>
+<td align="center">2 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Adyen</strong></td>
+<td><a href="https://trueinterview.io/jobs/cb235017-e540-477a-87ba-3afdbbc94f67">People Technology Application Engineer</a></td>
+<td>Amsterdam</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/adyen/jobs/8226137">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Sopra Steria</strong></td>
+<td><a href="https://trueinterview.io/jobs/4fb68e20-2e6b-4294-ba0f-6105ccead543">Pega Test Engineer</a></td>
+<td>Nieuwegein, Utrecht, Netherlands</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SopraSteria1/744000152418373-pega-test-engineer">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Six Construct</strong></td>
+<td><a href="https://trueinterview.io/jobs/0c05d7a9-a2e8-4d1d-8651-28965688a752">Designer R4</a></td>
+<td>Ghent, Flanders, Belgium</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/BESIX/744000152258894-designer-r4">Apply</a></td>
+<td align="center">28 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Sopra Steria</strong></td>
+<td><a href="https://trueinterview.io/jobs/fb7866ee-0ce3-482c-b14f-4bd5af531c44">Data Engineer</a></td>
+<td>Nieuwegein, Utrecht, Netherlands<br/>Bergen, Vestland, Norway<br/>Oslo, Norway<br/>+2 more</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SopraSteria1/744000152106769-data-engineer">Apply</a></td>
+<td align="center">28 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Infinitas Learning</strong></td>
+<td><a href="https://trueinterview.io/jobs/28078291-96ea-46ca-b79f-ac2a52e867c4">Product Data Scientist - Learning Platforms</a></td>
+<td>Utrecht, Netherlands</td>
+<td align="center"><a href="https://4dayweek.io/job/product-data-scientist-learning-platforms-at-infinitas-learning-1ebf5f1e">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Sopra Steria</strong></td>
+<td><a href="https://trueinterview.io/jobs/dde309e1-29a8-44ba-b893-e8e4caaad687">Managing Consultant Cybersecurity</a></td>
+<td>Nieuwegein, Utrecht, Netherlands</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SopraSteria1/744000151353420-managing-consultant-cybersecurity-">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Flowtraders</strong></td>
+<td><a href="https://trueinterview.io/jobs/cfce6f92-70b2-4c66-a9f3-7ab27d3a0c08">Infrastructure Platform Engineer</a></td>
+<td>Amsterdam</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/flowtraders/jobs/8195974">Apply</a></td>
+<td align="center">18 Sep 2026</td>
 </tr>
 </tbody>
 </table>
