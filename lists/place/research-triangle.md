@@ -2,7 +2,7 @@
 
 # 🔺 Research Triangle & the Carolinas
 
-**196 open roles.**
+**203 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -36,6 +36,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/8802257f-27f0-4007-a604-aadf402a81b7">Application Engineer I</a></td>
 <td>Charlotte, NC</td>
 <td align="center"><a href="https://recruiting2.ultipro.com/MER1034MPCM/JobBoard/01b8d04a-6592-470e-9a0f-c753e37f1953/OpportunityDetail?opportunityId=b264a016-1e51-4e05-a544-093a1d7ef425&amp;postingId=2bf84fe6-19f5-4292-a1d9-afb680410945">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Pickle Robot Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/3a35bf3b-8a21-4b66-994c-f8e1d5d551f2">Deployment Engineer</a></td>
+<td>Greenville, SC</td>
+<td align="center"><a href="https://jobs.lever.co/picklerobot/64500145-17f2-49fa-81aa-90799f26d85b">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
@@ -1387,6 +1394,48 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/cd1e4cd2-d94d-4147-8cc4-08251f56aa0b">Supply Chain Data Integrity Analyst</a></td>
 <td>Durham, NC<br/>Raleigh-Durham-Chapel Hill Area<br/>Remote</td>
 <td align="center"><a href="https://jobs.unchealthcare.org/jobs/18415612-supply-chain-data-integrity-analyst?tm_job=9999-INFOR-246157&amp;tm_event=view&amp;tm_company=12726">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>AIG GLOBAL OPERATIONS, INC.</strong></td>
+<td><a href="https://trueinterview.io/jobs/45550474-e27c-453d-829c-88fe8c98e11b">Network Automation Engineer</a></td>
+<td>Charlotte, NC<br/>Houston, TX<br/>Philadelphia, PA</td>
+<td align="center"><a href="https://aig.wd1.myworkdayjobs.com/aig/job/200-South-College-Street-Charlotte-NC-USA/SDN-Automation-Engineer_JR2602295">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Intuitive (Intuitive Surgical)</strong></td>
+<td><a href="https://trueinterview.io/jobs/8a2d73cc-85de-4279-9d6e-0134c4ae5657">Quality Engineering Tech</a></td>
+<td>Durham, NC</td>
+<td align="center"><a href="https://careers.intuitive.com/en/jobs/744000158581188/JOB221623/quality-engineering-tech/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>The Clearing House Payments Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/7f721f28-6b83-41a0-9718-4b81e7ea9852">Information Security Data Analyst</a></td>
+<td>Charlotte, NC</td>
+<td align="center"><a href="https://theclearinghouse.wd108.myworkdayjobs.com/en-US/TheClearingHouse/job/Charlotte-Office/Information-Security-Data-Analyst_JR100216">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Dlr Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/c5bce2e0-2d2d-4a26-b1e4-aff44011ad4d">Structural Engineer</a></td>
+<td>Charlotte, North Carolina, United States<br/>Chicago, Illinois, United States, Minneapolis<br/>Orlando, Florida, United States<br/>+3 more</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/dlrgroup/jobs/5134062008">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Verizon</strong></td>
+<td><a href="https://trueinterview.io/jobs/dab6ce70-5b2f-4df0-bb0b-5ed192cf7a75">Network Assurance Engineer</a></td>
+<td>Cary, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476953900/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/98f77825-0b40-4dd6-affd-a861baacfda4">Network Operations Engineer</a></td>
+<td>Cary, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476798747/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

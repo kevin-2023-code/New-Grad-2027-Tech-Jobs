@@ -2,7 +2,7 @@
 
 # 📈 Quantitative Finance
 
-**187 open roles.** 129 in the United States & Canada · 58 elsewhere in the world.
+**189 open roles.** 130 in the United States & Canada · 59 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -920,6 +920,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484914263/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
+<tr>
+<td><strong>Echo Financial Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/489e88d1-3b61-4b1f-953a-e523b3d94c53">Quantitative Analyst</a></td>
+<td>New York City Metropolitan Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4479183270/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -1336,6 +1343,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/82b0761e-c7a5-4967-aea3-7f1f0bfe1d08">Quantitative Developer</a></td>
 <td>London, England, United Kingdom</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484798372/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Gravitas Recruitment Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/fbc89d6a-99db-472d-9b0e-09efa8c977a1">Global Futures / CTA Quant Researcher | Hong Kong</a></td>
+<td>Hong Kong</td>
+<td align="center"><a href="https://www.efinancialcareers.hk/jobs-Hong_Kong-Hong_Kong-Global_Futures__CTA_Quant_Researcher__Hong_Kong.id24949428">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

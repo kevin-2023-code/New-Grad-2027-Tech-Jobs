@@ -2,7 +2,7 @@
 
 # Quantitative Developer
 
-**88 open roles.** 68 in the United States & Canada · 20 elsewhere in the world.
+**89 open roles.** 69 in the United States & Canada · 20 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -491,6 +491,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/261910e6-abf0-40ee-b05b-3e60dde466df">Quantitative Ecologist – Portland, OR (Hybrid)</a></td>
 <td>Portland, OR</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4481791138/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Echo Financial Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/489e88d1-3b61-4b1f-953a-e523b3d94c53">Quantitative Analyst</a></td>
+<td>New York City Metropolitan Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4479183270/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

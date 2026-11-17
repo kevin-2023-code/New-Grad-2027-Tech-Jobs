@@ -2,11 +2,11 @@
 
 # 💻 Software Engineering
 
-**7,931 open roles.** 5,278 in the United States & Canada · 2,653 elsewhere in the world.
+**8,316 open roles.** 5,477 in the United States & Canada · 2,839 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
-<sub>[← Page 6](software-engineering-6.md) · Page 7 of 20 · [Page 8 →](software-engineering-8.md)</sub>
+<sub>[← Page 6](software-engineering-6.md) · Page 7 of 21 · [Page 8 →](software-engineering-8.md)</sub>
 
 ## United States & Canada
 
@@ -15,6 +15,90 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>System Soft Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/7e6e8c7e-ad94-45c6-96ed-4fdb87cb1cfb">Dotnet Developer</a></td>
+<td>Phoenix, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486094943/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>RELX</strong></td>
+<td><a href="https://trueinterview.io/jobs/cc4f4f31-d73d-42b4-ac36-da0849c879cb">Tech Accelerate Graduate Program - Software Engineer I</a></td>
+<td>Alpharetta, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486304198/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>InterImage</strong></td>
+<td><a href="https://trueinterview.io/jobs/5864dcaa-ee57-4ee5-84cd-d9d69a5d47f4">Systems Engineer</a></td>
+<td>Columbia, MD</td>
+<td align="center"><a href="https://apply.workable.com/j/10FABDE396">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Google</strong></td>
+<td><a href="https://trueinterview.io/jobs/18932373-882d-4319-b672-5a2b8659cc07">Ads Solutions Engineer, gTech Agency and Partner Engineering</a></td>
+<td>Sunnyvale, California, United States<br/>Chicago, Illinois, United States<br/>New York, NY<br/>+1 more</td>
+<td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/118330442431505094">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Marriage Media Dhaka, Bangladesh. Ghotok Ferdous.</strong></td>
+<td><a href="https://trueinterview.io/jobs/99f4aa92-70ff-4cf4-b037-3366c4cfc03d">Frontend Developer</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486093723/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>General Transportation Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/1499793f-a223-43a2-a798-5791a92052e8">Entry-Level Application Developer</a></td>
+<td>Fort Smith, AR</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486068150/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Belay Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/e09e44dd-92c2-4588-84a8-5c711d60aea9">Cloud Engineer: Cleared position</a></td>
+<td>Chantilly, VA</td>
+<td align="center"><a href="https://belaytechnologies.applytojob.com/apply/pRc0Qo8XX2/Cloud-Engineer-Cleared-Position?%7E=">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Glen-Gery Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/659ecb49-6817-461b-b3e7-076ab4dc092a">Automation and Controls - Project Engineer-</a></td>
+<td>Cheswick, PA</td>
+<td align="center"><a href="https://recruiting.ultipro.com/GLE1002GLEN/JobBoard/96e11aa1-a605-007f-7d06-da023e8c56cc/OpportunityDetail?opportunityId=8c29b904-b7cf-45da-b7ec-efeca569b851&amp;postingId=36e201c9-c8db-483d-992b-e5214e38cb9b">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Tms Llc</strong></td>
+<td><a href="https://trueinterview.io/jobs/c0a7fbf9-8f5c-4b52-94b6-0dcde88eea35">Hiring | System Engineer – Intune AD Admin | Atlanta, Georgia (Hybrid)</a></td>
+<td>Atlanta, GA<br/>Atlanta, Georgia, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/TMSLLC/744000159505246-hiring-system-engineer-intune-ad-admin-atlanta-georgia-hybrid-">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Agentio</strong></td>
+<td><a href="https://trueinterview.io/jobs/4665538c-5d87-42a4-b764-a6f968ceae4f">Software Engineer</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4479079364/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>JustPark</strong></td>
+<td><a href="https://trueinterview.io/jobs/8ea971bd-1456-40d8-93d2-e3d12b91fb10">GTM Engineer</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://apply.workable.com/j/BEF1EEA265">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>State University of New York at Plattsburgh</strong></td>
+<td><a href="https://trueinterview.io/jobs/e56d2ab2-ec9e-4b8f-8529-b961814f3fcf">Assistant Professor, Management Information Systems and Cybersecurity</a></td>
+<td>Plattsburgh, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487058263/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Quantum World Technologies Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/e75e4d0f-2ebd-4184-ac13-464831c631d7">Platform Engineer</a></td>
@@ -2731,93 +2815,9 @@
 <td align="center"><a href="https://www.constellium.com/careers/job-search/50107/combustion-engineer">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
-<tr>
-<td><strong>Corelation Inc</strong></td>
-<td><a href="https://trueinterview.io/jobs/649c6d9a-5928-4011-9477-7d3e68b0638f">UI Developer I</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4638739/Corelation-Inc/UI-Developer-I">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Crop Defenders Ltd.</strong></td>
-<td><a href="https://trueinterview.io/jobs/f828396d-98b3-4757-a3d5-b390c76270b9">Advanced Manufacturing &amp; Automation Engineer</a></td>
-<td>Leamington, Canada</td>
-<td align="center"><a href="https://cropdefenders.topgradingonline.com/job_openings/37537">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Darley</strong></td>
-<td><a href="https://trueinterview.io/jobs/198b45e4-14a3-4969-b9dd-cb98ccd78735">IT Systems Engineer</a></td>
-<td>Chippewa Falls, WI</td>
-<td align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4636153/W-S-Darley-Co/IT-Systems-Engineer">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Davidson College</strong></td>
-<td><a href="https://trueinterview.io/jobs/faf8b821-612a-456e-a46f-951da3b58292">Identity &amp; Access Management Engineer</a></td>
-<td>Davidson, NC</td>
-<td align="center"><a href="https://fa-exci-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/requisitions/preview/1069">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Delta Dental</strong></td>
-<td><a href="https://trueinterview.io/jobs/168e9670-5b34-432a-8fc3-1d1edd7d7f87">Systems Engineer</a></td>
-<td>Okemos, MI</td>
-<td align="center"><a href="https://rhsc.wd5.myworkdayjobs.com/en-US/Delta_Dental_of_Michigan/job/Okemos-MI/Systems-Engineer_JR101520">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Duolingo</strong></td>
-<td><a href="https://trueinterview.io/jobs/497d0c0d-e0a5-4732-88c3-fe7b821c941a">QA Specialist I, Recent Graduate</a></td>
-<td>New York, NY<br/>Pittsburgh, PA</td>
-<td align="center"><a href="https://grnh.se/v9c7jszp2us">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Entergy</strong></td>
-<td><a href="https://trueinterview.io/jobs/5c8d0a3a-c77f-44fd-9e57-f3f668bb04a6">Engineer I - Transformer Core Design</a></td>
-<td>Little Rock, AR</td>
-<td align="center"><a href="https://jobs.entergy.com/job-invite/124138/?locale=en%5fUS">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>FlatironDragados</strong></td>
-<td><a href="https://trueinterview.io/jobs/145a00f6-c4cc-42f0-ac7c-beb09d08eef7">Closeout Systems Engineer</a></td>
-<td>Riverdale, MD</td>
-<td align="center"><a href="https://careers-fdcorp.icims.com/jobs/9631/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>GE HealthCare</strong></td>
-<td><a href="https://trueinterview.io/jobs/5a748e83-8eac-4f8a-ac12-cba6aa187137">Systems Engineer - CT</a></td>
-<td>Waukesha, WI</td>
-<td align="center"><a href="https://careers.gehealthcare.com/global/en/job/GEVGHLGLOBALR4048586EXTERNALENGLOBAL/Systems-Engineer-CT">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>GE Vernova</strong></td>
-<td><a href="https://trueinterview.io/jobs/3c121add-6758-4b37-93ea-8e528d4458da">Core Repairs Engineer</a></td>
-<td>Greenville, SC</td>
-<td align="center"><a href="https://careers.gevernova.com/core-repairs-engineer/job/R5057717">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>General Dynamics Electric Boat</strong></td>
-<td><a href="https://trueinterview.io/jobs/4adde9dd-bbe9-4bac-b3d3-516fc9c7af95">Engineer I/II - Systems-Embedded Engineer</a></td>
-<td>Groton, CT</td>
-<td align="center"><a href="https://careers-gdeb.icims.com/jobs/20456/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Gradian Thermal Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/f0f5cbbd-5a58-4f4a-8706-b6519ee3591f">Test and Integration Engineer</a></td>
-<td>Maple Grove, MN</td>
-<td align="center"><a href="https://www.paycomonline.net/v4/ats/web.php/portal/EB2A55FA0A897310807AFC4275E4A880/jobs/194245">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
 </tbody>
 </table>
 
-<sub>[← Page 6](software-engineering-6.md) · Page 7 of 20 · [Page 8 →](software-engineering-8.md)</sub>
+<sub>[← Page 6](software-engineering-6.md) · Page 7 of 21 · [Page 8 →](software-engineering-8.md)</sub>
 
 [← Every filter](../README.md) · [Back to the full list](../../README.md)

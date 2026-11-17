@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**2,982 open roles.** 1,981 in the United States & Canada · 1,001 elsewhere in the world.
+**3,154 open roles.** 2,057 in the United States & Canada · 1,097 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,27 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Objective Partners</strong></td>
+<td><a href="https://trueinterview.io/jobs/4894cce5-2afb-4ee7-a9e2-aa371112d51b">AI Engineer</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486292696/">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>OpenAI</strong></td>
+<td><a href="https://trueinterview.io/jobs/85fcfae8-5bd6-41d8-adfd-b4a685eed915">Applied AI Engineer, Enterprise - EDU</a></td>
+<td>New York, NY<br/>San Francisco, CA<br/>New York City<br/>+1 more</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/openai/087aa4f5-1192-413a-ba34-3ae324cf90e5">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Stanford University</strong></td>
+<td><a href="https://trueinterview.io/jobs/f9e2cd5e-06e9-494c-8614-47d4a6db0631">Research Engineer, Agentic Infrastructure, liftlab - Stanford Law School</a></td>
+<td>Stanford, CA</td>
+<td align="center"><a href="https://careersearch.stanford.edu/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/201673">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Orbital</strong></td>
 <td><a href="https://trueinterview.io/jobs/243e18b1-41bd-45a7-9ca2-31f969b46cd2">AI Ops Engineer (GTM)</a></td>
@@ -2792,27 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/82ffc908-bea3-4963-9b77-cd66acdccfe3">Specialist, Data Engineer - Snowflake and Python</a></td>
 <td>Columbus, OH</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485580597/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Logical Intelligence</strong></td>
-<td><a href="https://trueinterview.io/jobs/11cbd66d-961c-4a3b-a0a0-4dc95cb467ca">Research Scientist</a></td>
-<td>San Francisco Bay Area</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487597253/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Strive Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/330372d2-6110-4aaa-97e9-54118e859e31">AI Assurance Engineer</a></td>
-<td>North Laurel, MD</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485586212/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/acbe23b4-d376-4172-8678-f6cf39880f0b">AI Gateway Engineer</a></td>
-<td>Chicago, IL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485569863/">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 </tbody>

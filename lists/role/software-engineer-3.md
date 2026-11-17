@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**2,440 open roles.** 1,827 in the United States & Canada · 613 elsewhere in the world.
+**2,535 open roles.** 1,862 in the United States & Canada · 673 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,27 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Cerbo</strong></td>
+<td><a href="https://trueinterview.io/jobs/c0b4dfbc-5068-4ef1-8018-90f65a8e2629">Software Engineer</a></td>
+<td>Atlanta Metropolitan Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486506963/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Infosys</strong></td>
+<td><a href="https://trueinterview.io/jobs/4f374e5c-6a18-4d99-81e7-7a4a266ce102">Java AWS Python Developer</a></td>
+<td>Richardson, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476462551/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>CAE</strong></td>
+<td><a href="https://trueinterview.io/jobs/aa83c0e8-a339-497f-8705-2108b31125f8">ATS Software Engineer-EN</a></td>
+<td>Altus, OK</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4449828146/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Anagh Technologies Inc</strong></td>
 <td><a href="https://trueinterview.io/jobs/670f6747-3f5b-4ef5-a669-d7aa1512bf3c">Python / Angular / AWS Developer</a></td>
@@ -2792,27 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/b13ab44b-fa2d-477b-ae5e-b94f72ee61a7">CNC Router Programmer</a></td>
 <td>Holly Springs, NC</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485777309/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Open Source Controls</strong></td>
-<td><a href="https://trueinterview.io/jobs/a50feff5-7d3d-4a35-9204-ddd5108f17c1">BAS Controls Programmer</a></td>
-<td>Nashville, TN</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485766833/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Emphasys HFA</strong></td>
-<td><a href="https://trueinterview.io/jobs/54531695-6cdc-4150-b834-1385bda4836e">Intermediate .NET Developer</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486451244/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Primary Talent Partners</strong></td>
-<td><a href="https://trueinterview.io/jobs/d6cc9ad0-7a94-440e-8e8e-0d948a70e807">Technical Writer/Training Content Developer</a></td>
-<td>Charlotte, NC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486440685/">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # 🏛️ Washington DC & Northern Virginia
 
-**647 open roles.**
+**664 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Jacobs</strong></td>
+<td><a href="https://trueinterview.io/jobs/21d6b587-e738-41dd-8726-888dad3d8b19">Platform Engineer</a></td>
+<td>Chantilly, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4448708820/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>FINRA</strong></td>
 <td><a href="https://trueinterview.io/jobs/abb2b9b4-9892-4f5f-b0d5-189d97df642c">Quantitative Analyst, Advanced Analytics</a></td>
@@ -1682,13 +1689,6 @@
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Axiom Consultants</strong></td>
-<td><a href="https://trueinterview.io/jobs/8b9f23b8-df5a-4952-b4f9-7fdc96d2daed">Scientific Developer for Model Optimization</a></td>
-<td>College Park, MD</td>
-<td align="center"><a href="https://www.applicantpro.com/openings/axiomconsultants/jobs/4260231-499465">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>BluePath Labs</strong></td>
 <td><a href="https://trueinterview.io/jobs/fc8528f4-8f9d-4778-9b76-4339a34089b4">Application and Automation Developer (Multiple Openings) - Onsite, Washington, DC</a></td>
 <td>Washington, DC</td>
@@ -1724,6 +1724,20 @@
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Centurion Consulting Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/09ca4e2f-b95f-4b0a-89af-c7aa07d601cb">Financial Software QA Engineer</a></td>
+<td>Washington, DC</td>
+<td align="center"><a href="https://centurioncg.com/job/6057-financial-software-qa-engineer/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Department of Public Works</strong></td>
+<td><a href="https://trueinterview.io/jobs/578b6696-0341-4bfa-b5e4-0ca5fd407320">Data Scientist</a></td>
+<td>Washington, DC</td>
+<td align="center"><a href="https://careers.dc.gov/psp/erecruit/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&amp;Action=U&amp;FOCUS=Applicant&amp;SiteId=1&amp;JobOpeningId=33828&amp;PostingSeq=1">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>HII</strong></td>
 <td><a href="https://trueinterview.io/jobs/ab584502-7bf7-4b10-96f3-705a9a60d0c9">Information Assurance Engineer</a></td>
 <td>Arlington, VA</td>
@@ -1732,9 +1746,58 @@
 </tr>
 <tr>
 <td><strong>Koniag Government Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/50101175-86bb-4ed7-a34e-9d8710c24b7b">Cybersecurity Specialist (RMF and IL-6)</a></td>
+<td>Washington, DC</td>
+<td align="center"><a href="https://jobs.dayforcehcm.com/en-US/kgs/CANDIDATEPORTAL/jobs/15694">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/0511c0f1-2515-4d59-a908-ca1bd9296c00">Generative AI Software Engineer</a></td>
 <td>Washington, DC</td>
 <td align="center"><a href="https://jobs.dayforcehcm.com/en-US/kgs/CANDIDATEPORTAL/jobs/15698">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/0cda12be-c8f8-491b-a616-7a85a46059bb">Java/.net Modernization Engineer</a></td>
+<td>Washington, DC</td>
+<td align="center"><a href="https://jobs.dayforcehcm.com/en-US/kgs/CANDIDATEPORTAL/jobs/15738">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/53f1111a-f106-4459-9ba7-089dd6ddda22">QA Test Engineer</a></td>
+<td>Washington, DC</td>
+<td align="center"><a href="https://jobs.dayforcehcm.com/en-US/kgs/CANDIDATEPORTAL/jobs/15723">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Lynker</strong></td>
+<td><a href="https://trueinterview.io/jobs/540e20d5-3650-4b34-aa41-e768d6cfbc46">Scientific Developer for Model Optimization</a></td>
+<td>College Park, MD</td>
+<td align="center"><a href="https://careers-lynker.icims.com/jobs/1727/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>MANTECH</strong></td>
+<td><a href="https://trueinterview.io/jobs/050dcd07-c171-4836-9162-fee2f1240c63">Linux System Administrator</a></td>
+<td>Laurel, MD</td>
+<td align="center"><a href="https://careers.mantech.com/en_US/careers/JobDetail/Linux-System-Administrator/66813">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Mayvin INC</strong></td>
+<td><a href="https://trueinterview.io/jobs/538b43ab-d8c8-414b-8368-4597f997fd61">Quality Assurance Analyst</a></td>
+<td>Washington, DC</td>
+<td align="center"><a href="https://www.paycomonline.net/v4/ats/web.php/portal/96388E6EFC6D58EF0BA4FF9C82029C5C/jobs/607889">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NTT DATA</strong></td>
+<td><a href="https://trueinterview.io/jobs/02478ab5-98b4-4975-ba12-ba47fca10106">IT Help Desk Analyst</a></td>
+<td>Washington, DC</td>
+<td align="center"><a href="https://careers.nttdata.com/global/en/job/396444">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -1742,6 +1805,62 @@
 <td><a href="https://trueinterview.io/jobs/3826bcb5-71d4-443b-b765-46c38ba320c4">Java Cloud Software Engineer</a></td>
 <td>Annapolis Junction, MD</td>
 <td align="center"><a href="https://www.careers.peraton.com/jobs/java-cloud-software-engineer-ts-sci-w-poly-annapolis-junction-maryland-172562-jobs--information-technology--">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/875ba98b-fc2d-452b-adcd-9bb9941de0a5">Requirements Engineer</a> 🌐</td>
+<td>Remote — United States<br/>Chantilly, VA</td>
+<td align="center"><a href="https://www.careers.peraton.com/jobs/requirements-engineer-undefined-undefined-172846-jobs--information-technology--">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sabree Software Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/6a04bed9-212f-4a68-bb2a-62e37a87e031">Data Engineer SSSSAI1339</a> 🌐</td>
+<td>Remote — United States<br/>Chantilly, VA</td>
+<td align="center"><a href="https://sabree.jobs.agile-ats.com/jobs/details/2874">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SAIC</strong></td>
+<td><a href="https://trueinterview.io/jobs/72cfa003-e475-4bd7-be56-cb939489850b">Space Enterprise Systems Engineer</a></td>
+<td>Chantilly, VA</td>
+<td align="center"><a href="https://jobs.saic.com/jobs/18424882-space-enterprise-systems-engineer?bid=336&amp;tm_company=2520&amp;tm_event=view&amp;tm_job=2618611">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>OPENDataJobs</strong></td>
+<td><a href="https://trueinterview.io/jobs/bb73c969-8ba9-4444-aef5-d1cb0c60130c">QA and Test Engineer Role</a></td>
+<td>Washington, DC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484753443/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Zermount, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/0ddb4cde-fe61-406b-89c0-a64c410823d0">DETECTION AND AUTOMATION ENGINEER</a></td>
+<td>Arlington, VA</td>
+<td align="center"><a href="https://zermount.isolvedhire.com/jobs/1893998-309824.html">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Aretum</strong></td>
+<td><a href="https://trueinterview.io/jobs/dee0669d-e7a7-420c-83cf-85b29debbca8">Data Solution Engineer</a></td>
+<td>McLean, Virginia, United States<br/>McLean, VA<br/>Remote</td>
+<td align="center"><a href="https://jobs.workable.com/view/cVLPtVYXUzkanYMi4czZ2r/remote-data-solution-engineer-in-mclean-at-aretum">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Peraton</strong></td>
+<td><a href="https://trueinterview.io/jobs/191b0f40-ffc6-4e1d-b783-72cc6667d034">Data Scientist 2 Top Secret/SCI w/Poly</a></td>
+<td>Laurel, MD</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476222775/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Two Six Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/866b02ff-497d-43af-a953-077017ee1a66">Cybersecurity Researcher</a></td>
+<td>Herndon, Virginia, TST Main Office (13865 Sunrise Valley Dr) - Herndon, VA<br/>Herndon, VA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/twosixtechnologies/jobs/6237744004">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

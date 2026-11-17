@@ -2,7 +2,7 @@
 
 # Full-Stack Engineer
 
-**331 open roles.** 230 in the United States & Canada · 101 elsewhere in the world.
+**344 open roles.** 237 in the United States & Canada · 107 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1627,6 +1627,55 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484919403/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
+<tr>
+<td><strong>Hillpointe</strong></td>
+<td><a href="https://trueinterview.io/jobs/8bf3b5ec-9f9b-46d8-a248-6b297b6d6b08">Full Stack Developer</a></td>
+<td>Maitland, FL</td>
+<td align="center"><a href="https://grnh.se/ya6uln158us">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Information Technology Senior Management Forum</strong></td>
+<td><a href="https://trueinterview.io/jobs/7722512f-c833-41d0-b4f0-58239e91810e">Full Stack Software Engineer</a></td>
+<td>Bloomington, IL</td>
+<td align="center"><a href="https://jobs.itsmfleaders.org/job/s3fe7z/full-stack-software-engineer/bloomington/il">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/dfde159e-3851-4b7c-af54-adcaeb6f12ed">Full-Stack Software Engineer – AWS &amp; Identity</a></td>
+<td>Bloomington, IL</td>
+<td align="center"><a href="https://jobs.itsmfleaders.org/job/wfxkv9/full-stack-software-engineer-aws-identity/bloomington/il">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Karthik Consulting</strong></td>
+<td><a href="https://trueinterview.io/jobs/a6dc0388-1c22-4bce-a62c-6e23ca7c5568">Full Stack Developer Software Engineer</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.karthikconsulting.com/jobs/full-stack-developer-software-engineer/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>McAfee</strong></td>
+<td><a href="https://trueinterview.io/jobs/44be52cb-bf97-4f1a-ae99-78a50c66521e">Full-Stack Developer</a></td>
+<td>Toronto, ON<br/>Toronto, Canada</td>
+<td align="center"><a href="https://careers.mcafee.com/jobs/1803/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>State Farm</strong></td>
+<td><a href="https://trueinterview.io/jobs/2c14c90e-eebd-4b5f-9e81-56111f12bdcd">Full-Stack Software Engineer – AWS &amp; Identity</a></td>
+<td>Bloomington, IL</td>
+<td align="center"><a href="https://jobs.statefarm.com/jobs/47134/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ATB Financial</strong></td>
+<td><a href="https://trueinterview.io/jobs/fdd849c8-7c33-4057-af4a-da457a530f49">Full Stack Software Developer</a></td>
+<td>Calgary, AB<br/>Calgary, Canada<br/>Calgary, Alberta, Canada</td>
+<td align="center"><a href="https://careers.atb.com/careers/job/1125899907737356">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -2344,6 +2393,48 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/c59e9a3b-f13a-4264-a277-9866d74bbb11">Full Stack Engineer</a></td>
 <td>Reading, England, United Kingdom</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484497130/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ALTO Wealth (aixigo AG)</strong></td>
+<td><a href="https://trueinterview.io/jobs/e7845156-199c-4100-b93a-bef84f24b267">Full Stack Developer (external) (m/f/d)</a></td>
+<td>Home Office, Deutschland</td>
+<td align="center"><a href="https://t.gohiring.com/h/3ed1d4aeb15d9bc9a6bf4a413a945567d5541aea3b68d8c7cb04f48ec8a94099">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Deploja AB</strong></td>
+<td><a href="https://trueinterview.io/jobs/8d07aa4b-14bc-4ff2-adfd-f70687af223c">Java Fullstack Developer</a></td>
+<td>Göteborg, Sweden</td>
+<td align="center"><a href="https://career.deploja.se/jobs/8634491-java-fullstack-developer">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Eulogik</strong></td>
+<td><a href="https://trueinterview.io/jobs/d64bd2ec-4a50-444a-b7da-987275abf635">Full-Stack Engineer — AI Platforms</a> 🌐</td>
+<td>Remote — India</td>
+<td align="center"><a href="https://eulogik.com/careers">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Hadean</strong></td>
+<td><a href="https://trueinterview.io/jobs/46f5d29d-bbdc-4bcb-90a1-350e43fe9670">Full Stack Software Engineer</a></td>
+<td>London, United Kingdom</td>
+<td align="center"><a href="https://hadean.teamtailor.com/jobs/8638860-full-stack-software-engineer">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>LendInvest</strong></td>
+<td><a href="https://trueinterview.io/jobs/1435834e-da04-40d4-bd2d-a07d615cd050">Full Stack Engineer</a></td>
+<td>Glasgow, United Kingdom</td>
+<td align="center"><a href="https://careers.lendinvest.com/jobs/8634094-full-stack-engineer">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Turium Ai</strong></td>
+<td><a href="https://trueinterview.io/jobs/38c72293-f2df-4d02-9aaa-8820ac0d2ff2">Graduate Full Stack Developer</a></td>
+<td>Canberra, Australian Capital Territory, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484155536/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

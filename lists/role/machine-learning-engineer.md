@@ -2,7 +2,7 @@
 
 # Machine Learning Engineer
 
-**417 open roles.** 309 in the United States & Canada · 108 elsewhere in the world.
+**434 open roles.** 313 in the United States & Canada · 121 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -24,6 +24,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/be6e0301-340e-4dbe-8dd3-4e2a45f29d4a">Software Engineer, ML (Time Series Forecasting)</a></td>
 <td>Brooklyn, NY</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4482772578/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Lab37</strong></td>
+<td><a href="https://trueinterview.io/jobs/ab01050e-2ec5-4816-ab3f-806c201a78c4">Cloud Platform - ML Robotics Infra Engineer</a></td>
+<td>Pittsburgh, PA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/lab37/jobs/8948542002">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
@@ -2182,6 +2189,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484795255/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
+<tr>
+<td><strong>TikTok USDS JV</strong></td>
+<td><a href="https://trueinterview.io/jobs/ac071c9f-8158-43e3-a965-3cdfd8609b64">AI Assurance Engineer - MLE Focus</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://careers.tiktokusds.com/usds/position/7701559506359486773/detail">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Open Insights</strong></td>
+<td><a href="https://trueinterview.io/jobs/80bc028e-1355-4a86-9709-91f1c09b0414">Machine Learning Engineer</a></td>
+<td>Jordan, PA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484798287/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Boson AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/ece579bd-c2cc-4199-9f69-810c4586e495">Machine Learning Engineer - Enterprise</a></td>
+<td>Toronto, Ontario, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4300547073/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -2802,34 +2830,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Sangerhausen, Saxony-Anhalt, Germany</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485279346/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Optum India</strong></td>
-<td><a href="https://trueinterview.io/jobs/65779aa3-45cb-4842-b2db-a67b245ede72">AI/ML Engineer</a></td>
-<td>Gurgaon, Haryana, India</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485262106/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Harmattan AI</strong></td>
-<td><a href="https://trueinterview.io/jobs/9fc80cb4-1d8a-4351-80e9-7bdd73fa1d9c">ML Ops Engineer</a></td>
-<td>Lausanne, Vaud, Switzerland<br/>Paris<br/>Zurich</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/harmattan-ai/95687a2c-17cb-4c1e-8a88-6eebbaf56692">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Niantic Spatial, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/cac41076-1b48-4947-87bd-948e89c575bc">3D Computer Vision Research Engineer, Geospatial Visual Localization</a></td>
-<td>London, England, United Kingdom<br/>London, United Kingdom</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/niantic-spatial/c1864d09-d969-4b86-87aa-67c2783880a3">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Erasmus MC</strong></td>
-<td><a href="https://trueinterview.io/jobs/d1629ade-b7df-4795-b866-ec781c88f349">Master’s Thesis Student AI/ML Methods in Primary Care Data</a></td>
-<td>Rotterdam, South Holland, Netherlands</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485250300/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
 </table>

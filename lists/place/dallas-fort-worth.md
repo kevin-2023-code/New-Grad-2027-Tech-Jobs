@@ -2,7 +2,7 @@
 
 # 🤠 Dallas–Fort Worth
 
-**290 open roles.**
+**304 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -2045,6 +2045,104 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/232f1e1b-e39c-4017-a38b-cb1635835ae7">Design Verification Engineer | PI</a></td>
 <td>Dallas, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4454200441/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Adidev Technologies Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/b85328a8-7a26-457d-a8b2-02184ec8795d">Civil Engineer</a></td>
+<td>Plano, TX</td>
+<td align="center"><a href="https://adidevtechnologies.recruiterbox.com/jobs/fk0z653?fjb_hash=ezLpq610">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Capgemini</strong></td>
+<td><a href="https://trueinterview.io/jobs/1bae9c30-f979-4a61-8ab5-1889093e1799">BI / ETL Test Engineer - SAP BW</a></td>
+<td>Irving, TX</td>
+<td align="center"><a href="https://www.capgemini.com/jobs/587963-en_US_SAPBTP/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Equinix</strong></td>
+<td><a href="https://trueinterview.io/jobs/345799d7-ff4d-44bf-aa0d-3c756a23aa67">DevOps Engineer</a></td>
+<td>Dallas, TX</td>
+<td align="center"><a href="https://careers.equinix.com/jobs/devops-engineer-dallas-texas-united-states-toronto-ontario-canada">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Forvis Mazars, LLP</strong></td>
+<td><a href="https://trueinterview.io/jobs/72489442-2f54-4a7d-ba47-b045e58b3f2f">Analytical Data Engineer</a></td>
+<td>Dallas, TX<br/>Kansas City, MO<br/>Springfield, MO</td>
+<td align="center"><a href="https://forvis.avature.net/experiencedcareers/JobDetail/Analytical-Data-Engineer/15762">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Lockton Companies</strong></td>
+<td><a href="https://trueinterview.io/jobs/8e5e0e0b-d412-41eb-8680-f3055be7ca94">Health Actuarial, Data Analyst</a></td>
+<td>Plano, TX</td>
+<td align="center"><a href="https://careers.lockton.com/jobid/2601V3">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>MasTec Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/a0e7e2cf-8c1f-4514-a5f9-f9088dfe9465">IT Analyst (NEX)</a></td>
+<td>Dallas, TX</td>
+<td align="center"><a href="https://careers.mastec.com/jobs/71169/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>PRIDE Industries</strong></td>
+<td><a href="https://trueinterview.io/jobs/525fdbde-1953-4f75-8f80-87a16ea6895f">Stationary Engineer</a></td>
+<td>Fort Worth, TX</td>
+<td align="center"><a href="https://careers-prideindustries.icims.com/jobs/20715/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sammons Industrial, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/f16b9781-2e68-4000-b156-4f7512848097">Business Intelligence Engineer</a></td>
+<td>Dallas, TX</td>
+<td align="center"><a href="https://sammonsindustrial.wd501.myworkdayjobs.com/SIND/job/Dallas-TX/Business-Intelligence-Engineer_JR10703">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ShipStation Global</strong></td>
+<td><a href="https://trueinterview.io/jobs/4e8f6827-b371-4f7f-8ab6-a910e50b6ad4">Software Engineer</a></td>
+<td>Dallas, TX</td>
+<td align="center"><a href="https://jobs.dayforcehcm.com/en-US/wwex/CANDIDATEPORTAL/jobs/6565">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Synapse ITS</strong></td>
+<td><a href="https://trueinterview.io/jobs/c9218406-aa62-4096-b2fa-e5de0d40a3c5">DevOps Engineer</a></td>
+<td>Plano, TX</td>
+<td align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4626532/SynapseITS/DevOps-Engineer">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Trend Micro Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/8a878729-5afc-42ac-b2c6-f4bd7dab53da">Business Intelligence Engineer</a></td>
+<td>Irving, TX</td>
+<td align="center"><a href="https://trendmicro.wd3.myworkdayjobs.com/en-US/External/job/Irving-Texas/Business-Intelligence-Engineer_R0010359">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Vertiv</strong></td>
+<td><a href="https://trueinterview.io/jobs/0c55cea6-ee9f-4830-bcdc-087d3271faac">Supervising Engineer</a></td>
+<td>Dallas, TX</td>
+<td align="center"><a href="https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/20274143">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Evlo AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/e25f6885-8b0d-401a-a611-0070e1470164">Technical Support Engineer</a></td>
+<td>Dallas, TX<br/>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483671711/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Dlr Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/c5bce2e0-2d2d-4a26-b1e4-aff44011ad4d">Structural Engineer</a></td>
+<td>Fort Worth, Texas, United States<br/>Chicago, Illinois, United States, Minneapolis<br/>Orlando, Florida, United States<br/>+3 more</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/dlrgroup/jobs/5134062008">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

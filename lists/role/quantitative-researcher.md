@@ -2,7 +2,7 @@
 
 # Quantitative Researcher
 
-**51 open roles.** 40 in the United States & Canada · 11 elsewhere in the world.
+**52 open roles.** 40 in the United States & Canada · 12 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -384,6 +384,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/2521378b-2b3a-4f8e-968c-c7c83f96637c">Research Executive (Quantitative)</a></td>
 <td>City Of London, England, United Kingdom</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484915760/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Gravitas Recruitment Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/fbc89d6a-99db-472d-9b0e-09efa8c977a1">Global Futures / CTA Quant Researcher | Hong Kong</a></td>
+<td>Hong Kong</td>
+<td align="center"><a href="https://www.efinancialcareers.hk/jobs-Hong_Kong-Hong_Kong-Global_Futures__CTA_Quant_Researcher__Hong_Kong.id24949428">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

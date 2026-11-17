@@ -2,7 +2,7 @@
 
 # 🏖️ San Diego
 
-**130 open roles.** 129 in the United States & Canada · 1 elsewhere in the world.
+**136 open roles.** 135 in the United States & Canada · 1 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -918,6 +918,48 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/dc4965fd-1585-4c18-9144-fad20361e97e">Manufacturing Engineer</a></td>
 <td>San Diego, CA<br/>Burlington, NC<br/>Brampton, Ontario, Canada</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484745408/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>AEVEX</strong></td>
+<td><a href="https://trueinterview.io/jobs/186b72b2-9e2d-4dff-a43e-9a2c7a90a469">Flight Test Engineer</a></td>
+<td>Poway, CA</td>
+<td align="center"><a href="https://grnh.se/albqdr738us">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/8e93b4a3-3272-407d-9a22-9c07d813f43c">Software Engineer, Safari Extensions</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200676418-3543?board_id=JB001">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/96dd7880-4a64-4a9d-95c0-f7324f275e27">Software Quality Automation Engineer - Phone, FaceTime and Contacts</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200673871-3543?board_id=JB001">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Jacobs</strong></td>
+<td><a href="https://trueinterview.io/jobs/1b08c9af-e693-4f1a-8472-5082877eb23c">Entry Level Instrumentation and Controls (I&amp;C) Engineer</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://careers.jacobs.com/en_US/careers/JobDetail/Entry-Level-Instrumentation-and-Controls-I-C-Engineer/47305">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NV5</strong></td>
+<td><a href="https://trueinterview.io/jobs/4644c4a0-6583-4f88-a958-c46633db3a80">Gas Design Engineer I</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://uscareers-nv5jobs.icims.com/jobs/25921/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>LPL Financial</strong></td>
+<td><a href="https://trueinterview.io/jobs/f6396cca-3e98-49d6-8606-232ec26109fb">AVP, Compute and Microsoft Azure Engineer</a></td>
+<td>San Diego, CA<br/>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484790324/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

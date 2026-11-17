@@ -2,7 +2,7 @@
 
 # QA Engineer
 
-**263 open roles.** 171 in the United States & Canada · 92 elsewhere in the world.
+**283 open roles.** 185 in the United States & Canada · 98 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Parlement des Jeunes du Bénin</strong></td>
+<td><a href="https://trueinterview.io/jobs/397aaf85-77bd-4480-b2ff-039590e72cf6">Software Tester / QA Analyst / Automation Engineer</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490488909/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Informa Bahrain</strong></td>
 <td><a href="https://trueinterview.io/jobs/9152facc-a6bb-4657-8689-7d2b6d3ac116">Software Tester / QA Analyst / Automation Engineer</a></td>
@@ -1214,6 +1221,97 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://careers.tistatech.com/jobs/6132/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/96dd7880-4a64-4a9d-95c0-f7324f275e27">Software Quality Automation Engineer - Phone, FaceTime and Contacts</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200673871-3543?board_id=JB001">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Applied Information Sciences</strong></td>
+<td><a href="https://trueinterview.io/jobs/37427f48-39cb-42fb-b6d2-e08273ba8196">Cloud Migration Test Automation Engineer</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://appliedis.wd5.myworkdayjobs.com/en-US/AIS_Careers/job/Remote---VA/Cloud-Migration-Test-Automation-Engineer_JR2026001422">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Centurion Consulting Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/09ca4e2f-b95f-4b0a-89af-c7aa07d601cb">Financial Software QA Engineer</a></td>
+<td>Washington, DC</td>
+<td align="center"><a href="https://centurioncg.com/job/6057-financial-software-qa-engineer/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Koniag Government Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/53f1111a-f106-4459-9ba7-089dd6ddda22">QA Test Engineer</a></td>
+<td>Washington, DC</td>
+<td align="center"><a href="https://jobs.dayforcehcm.com/en-US/kgs/CANDIDATEPORTAL/jobs/15723">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Mayvin INC</strong></td>
+<td><a href="https://trueinterview.io/jobs/538b43ab-d8c8-414b-8368-4597f997fd61">Quality Assurance Analyst</a></td>
+<td>Washington, DC</td>
+<td align="center"><a href="https://www.paycomonline.net/v4/ats/web.php/portal/96388E6EFC6D58EF0BA4FF9C82029C5C/jobs/607889">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Nidec Motor Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/d709bc8c-4948-4212-97fb-7e92ee5d2101">Quality Assurance Engineer</a></td>
+<td>Lexington, TN</td>
+<td align="center"><a href="https://nidec.wd1.myworkdayjobs.com/en-US/Nidec/job/North-AmericaUSATennesseeLexington-TN/Quality-Assurance-Engineer_R0018160">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Siemens</strong></td>
+<td><a href="https://trueinterview.io/jobs/b8ec4856-bf2d-4ffd-a4d7-331fd7299f69">SW QA Engineer</a></td>
+<td>Wilsonville, OR</td>
+<td align="center"><a href="https://jobs.siemens.com/externaljobs/JobDetail/527603">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Catalent</strong></td>
+<td><a href="https://trueinterview.io/jobs/69b573fe-ffe3-4b21-a1b5-87aa22f4da32">Quality Assurance Specialist I</a></td>
+<td>Chelsea, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484759695/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>OPENDataJobs</strong></td>
+<td><a href="https://trueinterview.io/jobs/bb73c969-8ba9-4444-aef5-d1cb0c60130c">QA and Test Engineer Role</a></td>
+<td>Washington, DC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484753443/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Actalent</strong></td>
+<td><a href="https://trueinterview.io/jobs/805df27f-8dbd-4691-a86d-dc3b531cb5dc">Quality Assurance Specialist</a></td>
+<td>Plainville, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484903087/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Alignerr</strong></td>
+<td><a href="https://trueinterview.io/jobs/49a2a00b-1a97-4af7-9e54-14f836ba1876">Healthcare AI QA Labeler – Central American Spanish Speaker</a></td>
+<td>Los Angeles Metropolitan Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484786801/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/c1b3e0a9-2cba-45da-a43a-08a11612e2de">Healthcare AI Call QA Labeler – Central American Spanish</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484779958/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Nestlé Purina North America</strong></td>
+<td><a href="https://trueinterview.io/jobs/b388edf5-91f6-4c38-b76c-63e91f7d4977">Product Quality Assurance Coordinator</a></td>
+<td>Jefferson, WI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4478072462/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -1868,6 +1966,48 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/2f2dccc8-5649-4094-98e5-798018be4def">Software Tester</a></td>
 <td>City Of Westminster, England, United Kingdom</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484795368/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>HC</strong></td>
+<td><a href="https://trueinterview.io/jobs/f17a772a-25d7-4a8b-8851-965f8ea43ed5">QA sénior trading platform (anglais courant) H/F (IT) / Freelance</a></td>
+<td>La Défense, France</td>
+<td align="center"><a href="https://www.free-work.com/fr/tech-it/job-mission/autre/qa-senior-trading-platform-anglais-courant-h-f">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Oficina de Treball del SOC</strong></td>
+<td><a href="https://trueinterview.io/jobs/0e2e59e2-6220-4c36-b9b0-dc54c4917645">QA ENGINEER - TÃˆCNIC/A EN XARXES INFORMÃ€TIQUES (AMB CERTIFICAT DE DISCAPACITAT)</a></td>
+<td>Barcelona, Spain</td>
+<td align="center"><a href="https://feinaactiva.gencat.cat/search/offers/detail/09202631160">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Wayfinder Family Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/a37c7ba2-d9f4-4c13-b346-e923c1bcac14">Quality Assurance Specialist</a></td>
+<td>Greater Sacramento</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484794262/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CareCone Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/fb0cd14b-7b38-431d-84a2-ae159eccc561">Quality Assurance - Embedded Devices / TV Apps</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484773969/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CLS - Complete Laboratory Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/79d84f36-0205-4053-9cff-5cbe4bbf894d">QA Analyst</a></td>
+<td>Galway, County Galway, Ireland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484786235/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ELLKAY</strong></td>
+<td><a href="https://trueinterview.io/jobs/8574a600-affa-46f9-bedf-725790e51497">Quality and Test Automation Engineer</a></td>
+<td>India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483653027/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

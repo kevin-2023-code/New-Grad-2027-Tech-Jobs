@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**809 open roles.** 404 in the United States & Canada · 405 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**824 open roles.** 415 in the United States & Canada · 409 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Fortinet</strong></td>
+<td><a href="https://trueinterview.io/jobs/0f077cce-b9aa-4436-80a6-77f57c60c724">Early Careers: Software Developer Engineer</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/24983">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Amazon</strong></td>
 <td><a href="https://trueinterview.io/jobs/ddfc24f9-bd48-4f3a-8e3a-5b440e8a9b1d">Software Development Engineer, Region Flexibility Engineering</a></td>
@@ -220,13 +227,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/03f9008f-5335-44c1-8d9e-d9fa86147b86">Systems Development Engineer, DC Robotics, Data Center Robotics</a></td>
 <td>Austin, TX<br/>Seattle, Washington, United States<br/>San Francisco, California, United States<br/>+2 more</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10606820/systems-development-engineer-dc-robotics-data-center-robotics">Apply</a></td>
-<td align="center">17 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Fortinet</strong></td>
-<td><a href="https://trueinterview.io/jobs/0f077cce-b9aa-4436-80a6-77f57c60c724">Early Careers: Software Developer Engineer</a></td>
-<td>Sunnyvale, CA</td>
-<td align="center"><a href="https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/24983">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>

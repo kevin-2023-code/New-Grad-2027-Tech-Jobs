@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**1,355 open roles.** 921 in the United States & Canada · 434 elsewhere in the world.
+**1,426 open roles.** 971 in the United States & Canada · 455 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,27 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>AECOM</strong></td>
+<td><a href="https://trueinterview.io/jobs/1655b105-f58d-48b3-9b59-ca2356e52aab">Civil Engineer - Highways</a></td>
+<td>Colorado Springs, Colorado, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/AECOM2/744000159681799-civil-engineer-highways">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Jacobs</strong></td>
+<td><a href="https://trueinterview.io/jobs/14808d4e-5927-4010-97a9-76757c4b4333">Entry Level Electrical Engineer - Data Centers</a></td>
+<td>New York, NY<br/>Denver, CO<br/>Columbus, OH<br/>+8 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487211729/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>PDS Tech Commercial, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/454ad8df-c7a2-4803-b4f5-72bc3a3e0560">Supplier Manufacturing Engineer</a></td>
+<td>El Segundo, CA</td>
+<td align="center"><a href="https://100hires.com/j/RQEzrNk">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Stepan Company</strong></td>
 <td><a href="https://trueinterview.io/jobs/9064ae31-3e9d-4266-90f4-1ae71dff4405">Reliability Engineer</a></td>
@@ -2792,27 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/870875fd-c5b2-46d4-8549-9297a0fd21c1">Engineer Electrical Engineering</a></td>
 <td>Franklin, MA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4474411425/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>ClickLease</strong></td>
-<td><a href="https://trueinterview.io/jobs/848d21e0-2ddc-4ae6-b30a-23bf6c2f0924">Database Reliability Engineer</a></td>
-<td>Draper, UT</td>
-<td align="center"><a href="https://ats.rippling.com/clicklease/jobs/a6a988a1-1433-44ec-973e-9f7dfa2319cd?jobSite=Indeed">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Elev8 Recruitment</strong></td>
-<td><a href="https://trueinterview.io/jobs/9ebbe0bb-c530-438e-a34b-e4efa93c5ed2">Mechanical Engineer</a></td>
-<td>Los Angeles Metropolitan Area</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484987791/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>GlobalFoundries</strong></td>
-<td><a href="https://trueinterview.io/jobs/375794be-b89e-4c7e-946e-f88d5f9c4293">Manufacturing Quality Engineer (2027 New College Graduate)</a></td>
-<td>Essex Junction, VT</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4481168052/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

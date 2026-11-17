@@ -2,7 +2,7 @@
 
 # 🧬 Health, biotech & medical devices
 
-**23 open roles.** 21 in the United States & Canada · 2 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
+**25 open roles.** 22 in the United States & Canada · 3 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -164,6 +164,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4467199679/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
+<tr>
+<td><strong>AbbVie</strong></td>
+<td><a href="https://trueinterview.io/jobs/b34414bc-39e8-4016-a001-b21f6d5f6fe0">Biopharmaceutical R&amp;D Data Analytics &amp; Visualization Scientist</a></td>
+<td>North Chicago, Illinois, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990016484835-biopharmaceutical-r-d-data-analytics-visualization-scientist">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -189,6 +196,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Hyderabad, India<br/>India</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/truveta/jobs/6240382004">Apply</a></td>
 <td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Alimentiv</strong></td>
+<td><a href="https://trueinterview.io/jobs/3d245c8f-4cd6-4aa4-8b5e-ef8719ca6cb5">Clinical Database Programmer</a> 🌐</td>
+<td>Remote — United Kingdom, Ireland, Poland</td>
+<td align="center"><a href="https://jobs.lever.co/alimentiv-2/5f31963e-d799-49e4-9c48-483b73852afe">Apply</a></td>
+<td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # Mobile Engineer
 
-**129 open roles.** 80 in the United States & Canada · 49 elsewhere in the world.
+**133 open roles.** 83 in the United States & Canada · 50 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -577,6 +577,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484754898/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
+<tr>
+<td><strong>Current</strong></td>
+<td><a href="https://trueinterview.io/jobs/92696a4b-961a-4b09-aaad-cba653e0267f">Software Engineer, iOS</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://current.com/careers/open-positions/?id=8077997&amp;gh_jid=8077997">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Wipro</strong></td>
+<td><a href="https://trueinterview.io/jobs/4c9161e1-a73f-4c2b-8ba1-661fa494b5e4">Software Engineer - C++ / Python / Android / Java L1</a></td>
+<td>Waterloo, ON<br/>Ottawa, ON<br/>Waterloo, Canada<br/>+1 more</td>
+<td align="center"><a href="https://careers.wipro.com/job/Software-Engineer-C%2B%2B-Python-Android-Java-L1/208351-en_US">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>BJAK</strong></td>
+<td><a href="https://trueinterview.io/jobs/cfc9f08d-3afd-495f-9c7c-b998dcdddb57">Android Developer</a></td>
+<td>London Area, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484780734/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -930,6 +951,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/936c9640-4618-4eda-8a47-b12b9c5f3edf">iOS Engineer (up to £150k)</a></td>
 <td>London, England, United Kingdom</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484906176/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Groupe SII</strong></td>
+<td><a href="https://trueinterview.io/jobs/cb497286-cddb-46e1-bc9a-cfba3a07d543">Mobile Test Automation Engineer (f/m/x)</a></td>
+<td>Cambridge, United Kingdom</td>
+<td align="center"><a href="https://sii.pl/oferty-pracy/id/38534/mobile-test-automation-engineer-fmx/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

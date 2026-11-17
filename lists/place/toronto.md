@@ -2,7 +2,7 @@
 
 # 🍁 Toronto, Waterloo & Ottawa
 
-**138 open roles.**
+**148 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -22,6 +22,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/2f8cd82b-a970-4e8b-b1a0-8671d940ff94">Silicon Support Team Engineer for 3rd Party SERDES PHYs</a></td>
 <td>Markham, Ontario, Canada</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4490143762/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Flynn Companies</strong></td>
+<td><a href="https://trueinterview.io/jobs/2853aa06-75f9-4ed2-9ea1-82405e7f3d27">Engineer</a></td>
+<td>Mississauga, ON</td>
+<td align="center"><a href="https://jobs.lever.co/flynncompanies/9f2bc73b-09b1-4a51-800e-22a54b5f6c8b">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
@@ -981,6 +988,69 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/af1a48cd-f906-417b-9cad-2aa473ed1655">Machine Learning Evaluation Specialist</a></td>
 <td>Toronto, Ontario, Canada<br/>New York, NY<br/>London, England, United Kingdom</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484795255/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Manulife</strong></td>
+<td><a href="https://trueinterview.io/jobs/10e4296a-aa84-4cac-b731-eeb81d8786d1">Digital Product Owner</a></td>
+<td>Waterloo, ON<br/>Waterloo, Canada</td>
+<td align="center"><a href="https://careers.manulife.com/global/en/job/JR26101297/Digital-Product-Owner">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>McAfee</strong></td>
+<td><a href="https://trueinterview.io/jobs/e9271630-b6fb-4559-9560-69c8518ad306">Cloud Software Engineer</a></td>
+<td>Toronto, ON<br/>Toronto, Canada</td>
+<td align="center"><a href="https://careers.mcafee.com/jobs/1813/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/44be52cb-bf97-4f1a-ae99-78a50c66521e">Full-Stack Developer</a></td>
+<td>Toronto, ON<br/>Toronto, Canada</td>
+<td align="center"><a href="https://careers.mcafee.com/jobs/1803/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>TJX Canada</strong></td>
+<td><a href="https://trueinterview.io/jobs/d47814de-3edd-491b-aad5-799f3a41ef2a">Business intelligence &amp; Data Analyst</a></td>
+<td>Mississauga, Canada</td>
+<td align="center"><a href="https://jobs.tjx.com/global/en/job/TJCOGLOBALREQ168606EXTERNALENGLOBAL/Business-intelligence-Data-Analyst">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Wipro</strong></td>
+<td><a href="https://trueinterview.io/jobs/4c9161e1-a73f-4c2b-8ba1-661fa494b5e4">Software Engineer - C++ / Python / Android / Java L1</a></td>
+<td>Waterloo, ON<br/>Ottawa, ON<br/>Waterloo, Canada<br/>+1 more</td>
+<td align="center"><a href="https://careers.wipro.com/job/Software-Engineer-C%2B%2B-Python-Android-Java-L1/208351-en_US">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Alignerr</strong></td>
+<td><a href="https://trueinterview.io/jobs/41c30c6b-2017-45a2-92dd-6d0b3719ad6a">AI Red Team Penetration Tester</a></td>
+<td>Toronto, Ontario, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484785816/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/a12c0532-0201-4df5-8c8d-9f8c7f705ea3">Cybersecurity Defense Analyst</a></td>
+<td>Toronto, Ontario, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484777956/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Boson AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/ece579bd-c2cc-4199-9f69-810c4586e495">Machine Learning Engineer - Enterprise</a></td>
+<td>Toronto, Ontario, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4300547073/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Financeit</strong></td>
+<td><a href="https://trueinterview.io/jobs/201b9ab5-4079-485f-bc55-6bd04cac9181">Data Scientist, Risk Modeling &amp; Analytics</a></td>
+<td>Toronto, Ontario, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474360614/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

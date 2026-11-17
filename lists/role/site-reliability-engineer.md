@@ -2,7 +2,7 @@
 
 # Site Reliability Engineer
 
-**132 open roles.** 62 in the United States & Canada · 70 elsewhere in the world.
+**136 open roles.** 64 in the United States & Canada · 72 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -449,6 +449,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a25f35aa-46ef-46de-8ef7-1299c6514b49">Site Civil Engineer</a></td>
 <td>Saratoga Springs, NY</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484914342/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Pearson</strong></td>
+<td><a href="https://trueinterview.io/jobs/d0aeab41-bad9-47bc-9784-42ed66b194f3">Advanced Specialist, DevOps &amp; SRE</a></td>
+<td>Bloomington, MN</td>
+<td align="center"><a href="https://pearson.jobs/honolulu-hi/advanced-specialist-devops-sre/2EA0EFF29FAA43DB81684AB1DD455643/job/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Thomson Reuters</strong></td>
+<td><a href="https://trueinterview.io/jobs/b84b07f8-d498-413b-8f51-30e7fc95cb4e">Site Reliability Engineer, Reuters</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/United-States-of-America-New-York-New-York/Site-Reliability-Engineer--Reuters_JREQ204669">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
@@ -951,6 +965,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/1496b149-1ba9-4adc-8884-3772cc14c853">Civil Site Engineer</a></td>
 <td>Chennai, Tamil Nadu, India</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484923098/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>John Holland</strong></td>
+<td><a href="https://trueinterview.io/jobs/e5965a93-d742-48ef-862e-ad66255319e9">Site Engineer - Radio &amp; Communication Systems</a></td>
+<td>Adelaide, Australia</td>
+<td align="center"><a href="https://jobs.johnholland.com.au/T2D/job/Adelaide-Site-Engineer-Radio-&amp;-Communication-Systems-SA-5000/1369667766/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Parklife Metro</strong></td>
+<td><a href="https://trueinterview.io/jobs/2589ede7-ef7a-4e9a-bf90-5ed6b2be19c7">Site Engineer - Fit Out</a></td>
+<td>Badgerys Creek, New South Wales, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482567817/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

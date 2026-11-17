@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**2,982 open roles.** 1,981 in the United States & Canada · 1,001 elsewhere in the world.
+**3,154 open roles.** 2,057 in the United States & Canada · 1,097 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -16,7 +16,28 @@
 </thead>
 <tbody>
 <tr>
+<td><strong>Logical Intelligence</strong></td>
+<td><a href="https://trueinterview.io/jobs/11cbd66d-961c-4a3b-a0a0-4dc95cb467ca">Research Scientist</a></td>
+<td>San Francisco Bay Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487597253/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Strive Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/330372d2-6110-4aaa-97e9-54118e859e31">AI Assurance Engineer</a></td>
+<td>North Laurel, MD</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485586212/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/acbe23b4-d376-4172-8678-f6cf39880f0b">AI Gateway Engineer</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485569863/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/1c453e86-d35f-4eda-958d-ea09fea26ac0">AI Workflow Developer</a></td>
 <td>North Laurel, MD</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485565989/">Apply</a></td>
@@ -2792,27 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/bbbd00d4-91fe-4b8e-9b40-f5353041b489">Data Analyst</a></td>
 <td>Foster City, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4486487057/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Regions Bank</strong></td>
-<td><a href="https://trueinterview.io/jobs/73ef53b1-4006-4098-902e-7a463ba6bf38">Data and Analytics Developer</a></td>
-<td>Birmingham, AL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486804977/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Arcfield</strong></td>
-<td><a href="https://trueinterview.io/jobs/34efd89b-dc32-43a7-9d8f-77ca24002504">Data Analyst / Applied Mathematician</a></td>
-<td>Chesterbrook, PA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486022658/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Ramp</strong></td>
-<td><a href="https://trueinterview.io/jobs/23cd5e4a-3221-412b-852e-827952f50abd">Research Engineer, Benchmarks &amp; Evaluation</a></td>
-<td>New York, NY (HQ)<br/>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/ramp/d8925f84-562f-470c-a5bd-4f6c20009361">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 </tbody>

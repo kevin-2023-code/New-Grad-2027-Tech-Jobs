@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**2,982 open roles.** 1,981 in the United States & Canada · 1,001 elsewhere in the world.
+**3,154 open roles.** 2,057 in the United States & Canada · 1,097 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -20,6 +20,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Texas A&amp;M Engineering Experiment Station (TEES)</strong></td>
+<td><a href="https://trueinterview.io/jobs/d1b6b125-2281-41e6-8e1c-cfbbe2de8efe">Research Engineer I</a></td>
+<td>College Station, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491722577/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>North</strong></td>
 <td><a href="https://trueinterview.io/jobs/be6e0301-340e-4dbe-8dd3-4e2a45f29d4a">Software Engineer, ML (Time Series Forecasting)</a></td>
 <td>Brooklyn, NY</td>
@@ -31,6 +38,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/5e226db8-41aa-4233-ade5-b40488629e68">Enterprise Account Executive – AI-Native B2B Advertising Platform</a></td>
 <td>Clearwater, FL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4491408512/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Lab37</strong></td>
+<td><a href="https://trueinterview.io/jobs/ab01050e-2ec5-4816-ab3f-806c201a78c4">Cloud Platform - ML Robotics Infra Engineer</a></td>
+<td>Pittsburgh, PA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/lab37/jobs/8948542002">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
@@ -563,6 +577,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/40e78c81-8b61-4467-9f14-169d354045b1">Data Engineer – Alternative Data</a></td>
 <td>New York City Metropolitan Area</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4490156081/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Partsbase Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/a89037ef-11c5-494c-9d95-44ffdc056215">AI Design Engineer</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/partsbase/1629660d-b818-4526-8a3c-3aa56dc6d773">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
@@ -2796,27 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/e344816b-2b4d-4786-a354-e8819ffeef5a">Biomedical Data Analyst</a></td>
 <td>Remote</td>
 <td align="center"><a href="https://computercraft.applytojob.com/apply/XGX5ImT8kw/Biomedical-Data-Analyst?%7E=">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Objective Partners</strong></td>
-<td><a href="https://trueinterview.io/jobs/4894cce5-2afb-4ee7-a9e2-aa371112d51b">AI Engineer</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486292696/">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>OpenAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/85fcfae8-5bd6-41d8-adfd-b4a685eed915">Applied AI Engineer, Enterprise - EDU</a></td>
-<td>New York, NY<br/>San Francisco, CA<br/>New York City<br/>+1 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/087aa4f5-1192-413a-ba34-3ae324cf90e5">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Stanford University</strong></td>
-<td><a href="https://trueinterview.io/jobs/f9e2cd5e-06e9-494c-8614-47d4a6db0631">Research Engineer, Agentic Infrastructure, liftlab - Stanford Law School</a></td>
-<td>Stanford, CA</td>
-<td align="center"><a href="https://careersearch.stanford.edu/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/201673">Apply</a></td>
 <td align="center">7 Nov 2026</td>
 </tr>
 </tbody>

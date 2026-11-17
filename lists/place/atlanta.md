@@ -2,7 +2,7 @@
 
 # 🍑 Atlanta
 
-**183 open roles.**
+**187 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -27,8 +27,8 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>EDB</strong></td>
 <td><a href="https://trueinterview.io/jobs/f7d9a93b-a53e-4c10-be5d-1434ac2a8155">Platform Engineer-Kubernetes Operators</a></td>
-<td>Atlanta, GA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4491706147/">Apply</a></td>
+<td>Atlanta, GA<br/>Remote - United States</td>
+<td align="center"><a href="https://www.enterprisedb.com/careers/job-openings?gh_jid=8202744003">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
@@ -1292,10 +1292,38 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>AICA</strong></td>
+<td><a href="https://trueinterview.io/jobs/12516136-23ad-4a1b-aeea-24666af858cb">Data Analyst</a></td>
+<td>Marietta, GA</td>
+<td align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4623220/Proco-LLC/Data-Analyst">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>CharterUp</strong></td>
 <td><a href="https://trueinterview.io/jobs/50edc64f-1ecc-483b-8220-0f814dea2fea">Data Analyst</a></td>
 <td>Atlanta, GA<br/>Atlanta, Georgia</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/charterup/jobs/5466377008">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>National Christian Foundation</strong></td>
+<td><a href="https://trueinterview.io/jobs/f4eb03fb-d08a-4c80-881f-629397e43f5d">IT Support Specialist, Tier I – Shared Services</a></td>
+<td>Alpharetta, GA</td>
+<td align="center"><a href="https://nationalchristian.atsondemand.com/index.cfm?fuseaction=512337.viewjobdetail&amp;CID=512337&amp;JID=916328">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Volaris</strong></td>
+<td><a href="https://trueinterview.io/jobs/7f273e68-878e-467a-904e-c02861457990">DevOps Engineer</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://volarisgroup.wd3.myworkdayjobs.com/en-US/Volaris/job/United-States---Atlanta-Peachtree-Dunwoody-Rd-GA/DevOps-Engineer_R72031-1">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Anduril</strong></td>
+<td><a href="https://trueinterview.io/jobs/cc7b1edb-205f-416e-8faa-ee29e769a68f">Data Analyst, Quality</a></td>
+<td>Atlanta, GA<br/>Atlanta, Georgia, United States, Atlanta, GA</td>
+<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5278364007?gh_jid=5278364007">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

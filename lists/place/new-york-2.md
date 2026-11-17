@@ -2,7 +2,7 @@
 
 # 🗽 New York City
 
-**562 open roles.**
+**576 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1143,10 +1143,108 @@
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Amazon.com</strong></td>
+<td><a href="https://trueinterview.io/jobs/b46b979f-3ccc-4821-850c-3d4a650d1d83">Business Intelligence Engineer, Advertising Finance</a></td>
+<td>New York, NY<br/>Seattle, WA</td>
+<td align="center"><a href="https://www.amazon.jobs/jobs/10593878/business-intelligence-engineer-advertising-finance?cmpid=DA_INAD200785B">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Current</strong></td>
+<td><a href="https://trueinterview.io/jobs/92696a4b-961a-4b09-aaad-cba653e0267f">Software Engineer, iOS</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://current.com/careers/open-positions/?id=8077997&amp;gh_jid=8077997">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Epstein Becker &amp; Green, P.C</strong></td>
+<td><a href="https://trueinterview.io/jobs/d593cb6f-257b-4eac-ad8f-f00609f21bff">Desktop Support Specialist</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://careers-ebglaw.icims.com/jobs/1702/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Natilik</strong></td>
+<td><a href="https://trueinterview.io/jobs/f876a83b-0992-4d64-a61c-0a179d9943cd">Networking Engineer</a></td>
+<td>New York, NY<br/>London, United Kingdom</td>
+<td align="center"><a href="https://natilik.teamtailor.com/jobs/8637739-networking-engineer">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Société Générale</strong></td>
+<td><a href="https://trueinterview.io/jobs/f3f0083b-fdd2-4a1b-b564-d23315378eb9">Fixed Income Electronic Trading- Programmer Analyst</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://careers.societegenerale.com/en/job-offers/fixed-income-electronic-trading-programmer-analyst-26000D8N-en">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Spin Master</strong></td>
 <td><a href="https://trueinterview.io/jobs/0653a770-9ca8-4c19-83cc-db6813b6ca99">Backend Platform Engineer - Hapiko</a></td>
 <td>New York, NY<br/>Remote</td>
 <td align="center"><a href="https://www.spinmastercareers.com/global/be/job/SPMAGLOBALR5173BEGLOBAL/Backend-Platform-Engineer-Hapiko">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Thomson Reuters</strong></td>
+<td><a href="https://trueinterview.io/jobs/b84b07f8-d498-413b-8f51-30e7fc95cb4e">Site Reliability Engineer, Reuters</a> 🌐</td>
+<td>Remote — United States<br/>New York, NY</td>
+<td align="center"><a href="https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/United-States-of-America-New-York-New-York/Site-Reliability-Engineer--Reuters_JREQ204669">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Linq</strong></td>
+<td><a href="https://trueinterview.io/jobs/36291486-e111-4327-8243-356e9d64b346">Developer Relations</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484784972/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>LPL Financial</strong></td>
+<td><a href="https://trueinterview.io/jobs/f6396cca-3e98-49d6-8606-232ec26109fb">AVP, Compute and Microsoft Azure Engineer</a></td>
+<td>New York, NY<br/>San Diego, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484790324/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Clearstreet</strong></td>
+<td><a href="https://trueinterview.io/jobs/76931616-2dda-40b4-bb60-b16c16072338">Security Operations Engineer</a></td>
+<td>New York, NY, New York</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/clearstreet/jobs/8331641">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Melotech</strong></td>
+<td><a href="https://trueinterview.io/jobs/0b4d8973-a7c5-46fc-81a6-4c479a6aef2b">Data Scientist</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4480497784/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Newtonx</strong></td>
+<td><a href="https://trueinterview.io/jobs/d40dda28-891b-4394-afd2-3adfe20930dc">Support Engineer, IT</a></td>
+<td>New York City</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/newtonx/cd7d5c1f-c703-4215-aeeb-0cc3e519359d/application">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Percepta</strong></td>
+<td><a href="https://trueinterview.io/jobs/2c539eda-3174-4eb9-94a5-02fd4a5da2d2">Research Scientist – Reinforcement Learning (RL)</a></td>
+<td>New York, NY<br/>New York City<br/>Boston, MA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/percepta/e2dd1d63-dcc1-463e-8564-40a3106f6847">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>The Voleon Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/769f5f6a-d72e-4223-91fb-6f9045f8cbab">Software Engineer - University Hire 2027</a></td>
+<td>New York, NY<br/>Berkeley, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4459034091/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Two Sigma</strong></td>
+<td><a href="https://trueinterview.io/jobs/d200beae-f81c-4b02-9104-cafa5dc5ce28">Data Scientist - Campus Full-Time</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466200161/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

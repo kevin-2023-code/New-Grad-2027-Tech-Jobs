@@ -2,7 +2,7 @@
 
 # 🇩🇪 Berlin, Munich & Germany
 
-**219 open roles.** 1 in the United States & Canada · 218 elsewhere in the world.
+**238 open roles.** 1 in the United States & Canada · 237 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1560,6 +1560,139 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/8ced4868-eaf5-4c6f-85a6-f6e5e1b8aa66">Data Engineer (all genders) in Frankfurt</a></td>
 <td>Frankfurt, Hesse, Germany</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4377464821/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Darktrace</strong></td>
+<td><a href="https://trueinterview.io/jobs/95eb9129-4c89-4b47-ba5b-9863cb55b5cc">Cybersecurity Solutions Engineer</a></td>
+<td>München, Deutschland</td>
+<td align="center"><a href="https://darktrace.wd3.myworkdayjobs.com/en-US/DarktaceExternal/job/Munich-Office/Cybersecurity-Solutions-Engineer_JR102583">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Deloitte</strong></td>
+<td><a href="https://trueinterview.io/jobs/d0365b67-fe98-49c7-8c6e-e5f6c2a1569c">Consultant Forward Deployed Engineering (m/w/d)</a></td>
+<td>Hamburg, Deutschland<br/>Berlin, Deutschland<br/>Düsseldorf, Deutschland<br/>+1 more</td>
+<td align="center"><a href="https://job.deloitte.com/job-consultant-forward-deployed-engineering-mwd-_50552">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>DigitalService GmbH des Bundes</strong></td>
+<td><a href="https://trueinterview.io/jobs/11e89110-36cf-41dc-89f4-22b9e9f9e500">Software Engineer (all genders) - Internal Tools &amp; Integrations</a></td>
+<td>Berlin, Deutschland</td>
+<td align="center"><a href="https://grnh.se/ebphh7h2teu">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Kassenärztliche Bundesvereinigung KdöR</strong></td>
+<td><a href="https://trueinterview.io/jobs/04abbf8a-e5c6-4883-be40-18729d31dac4">Data Scientist (w/m/d)</a></td>
+<td>Berlin, Deutschland</td>
+<td align="center"><a href="https://kbv.hr4you.org/job/view/1612/data-scientist-w-m-d?page_lang=de">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Median Kliniken</strong></td>
+<td><a href="https://trueinterview.io/jobs/e2a40b0d-4add-4562-b4fe-daa956da645a">DevOps Engineer / Medical Device (w/m/d)</a></td>
+<td>Berlin, Deutschland</td>
+<td align="center"><a href="https://karriere.median-kliniken.de/de/jobs/job/DevOps-Engineer--Medical-Device-wmd-de-j19156.html">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NXP Semiconductors</strong></td>
+<td><a href="https://trueinterview.io/jobs/31dbd72f-b239-4340-8d7b-8c9a7660a0d5">Working Student (f/m/d) Embedded Network Software Engineer - Automotive Ethernet</a></td>
+<td>Hamburg, Deutschland</td>
+<td align="center"><a href="https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Hamburg/Working-Student--f-m-d--Embedded-Network-Software-Engineer---Automotive-Ethernet_R-10067322">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Q.ant GmbH</strong></td>
+<td><a href="https://trueinterview.io/jobs/46db27d7-2fe1-4b97-ae55-6dd01a6fa794">Lab Software Automation Engineer (m/f/d)</a></td>
+<td>Stuttgart, Deutschland</td>
+<td align="center"><a href="https://t.gohiring.com/h/02eb3f0b5fea0a620b29f6db3da9af83e3d55c0d9dffac0264a173eceb28454c">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Qargo</strong></td>
+<td><a href="https://trueinterview.io/jobs/99b8fe3d-ea20-44f8-8f20-ca1bf05df5db">Solutions Engineer (Germany)</a></td>
+<td>Berlin, Deutschland</td>
+<td align="center"><a href="https://careers.qargo.com/jobs/8636280-solutions-engineer-germany">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Quest Global</strong></td>
+<td><a href="https://trueinterview.io/jobs/d5d38b8c-c7ab-4e59-a812-92a036bb6354">Risk management and V&amp;V Engineer</a></td>
+<td>München, Deutschland</td>
+<td align="center"><a href="https://careers.quest-global.com/global/en/job/QGRQGAGLOBALP124172EXTERNALENGLOBAL/Risk-management-and-V-V-Engineer">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>REWE digital</strong></td>
+<td><a href="https://trueinterview.io/jobs/37cc086d-0f8e-401a-9c2d-e1819566bd9e">Software/AI Engineer (w/d/m)</a></td>
+<td>Köln, Deutschland</td>
+<td align="center"><a href="https://karriere.rewe-group.com/job-invite/975402/?locale=de_DE">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Stadtsparkasse Düsseldorf</strong></td>
+<td><a href="https://trueinterview.io/jobs/00c0e436-38d0-42f9-a2b3-679f55669bfa">Spezialist:in Data Scientist Digitalisierung und Business Analytics (m/w/d)</a></td>
+<td>Düsseldorf, Deutschland</td>
+<td align="center"><a href="https://sskduesseldorf.helixjobs.com/_/jobad?prj=100050P468">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>T-Mobile</strong></td>
+<td><a href="https://trueinterview.io/jobs/2b91bd88-c744-457c-bfab-628116d780e6">Werkstudent*in Software Engineer (m/w/d/x)</a></td>
+<td>Leipzig, Deutschland<br/>Bonn, Deutschland</td>
+<td align="center"><a href="https://careers.telekom.com/en/jobs/werkstudentin-software-engineer-m-w-d-x-919274">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Trivago</strong></td>
+<td><a href="https://trueinterview.io/jobs/dc54f4c4-041b-487e-a942-375ae83355ed">Data Engineer</a></td>
+<td>Düsseldorf, Deutschland</td>
+<td align="center"><a href="https://grnh.se/3enyyjft2us">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>VRG GmbH</strong></td>
+<td><a href="https://trueinterview.io/jobs/41d08707-e114-457c-8634-f40cfe342926">Machine Learning-Engineer (m/w/d)</a></td>
+<td>Berlin, Deutschland<br/>Oldenburg, Deutschland</td>
+<td align="center"><a href="https://jobdb.softgarden.de/jobdb/public/jobdb/posting/68419488/0/0/Machine+Learning-Engineer+%28m-w-d%29.html">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Vazyme</strong></td>
+<td><a href="https://trueinterview.io/jobs/0cfe4344-d91b-479b-b291-123e8b65a299">Biotech Technical Support - EU</a></td>
+<td>Berlin, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484780570/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>adesso SE</strong></td>
+<td><a href="https://trueinterview.io/jobs/10ee6e9c-ba52-484d-98cf-91004941d359">DevOps Engineer Java (all genders)</a></td>
+<td>Munich, Bavaria, Germany<br/>Walldorf, Baden-Württemberg, Germany<br/>Rostock, Mecklenburg-West Pomerania, Germany<br/>+1 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4423890854/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Alpine Eagle</strong></td>
+<td><a href="https://trueinterview.io/jobs/88e36028-5ed5-47d6-9545-3b375e9b12f0">Sensor Fusion Engineer – Multi-Sensor Integration (m/f/d)</a></td>
+<td>Munich, Bavaria, Germany<br/>Karlsruhe, Baden-Württemberg, Germany, München, Bavaria, Germany</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/alpineeagle/jobs/4999743101">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Hamburger Verkehrsverbund (hvv)</strong></td>
+<td><a href="https://trueinterview.io/jobs/df21dcb3-e7a1-4e55-9697-603dabb67105">Cloud Engineer (m/w/d)</a></td>
+<td>Hamburg, Hamburg, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4479282301/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>N8n</strong></td>
+<td><a href="https://trueinterview.io/jobs/f5d23c4f-492b-4fe7-98ec-d48123a3cb8f">Support Engineer (EMEA)</a></td>
+<td>Berlin Office, Estonia, Latvia, Slovenia, Hungary, Portugal, Germany, Austria, Finland, Ireland, Bulgaria, Denmark, Belg<br/>Spain</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/n8n/178a1783-90a6-43ea-b019-74e8af3e8f73/application">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

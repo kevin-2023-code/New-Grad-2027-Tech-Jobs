@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**2,440 open roles.** 1,827 in the United States & Canada · 613 elsewhere in the world.
+**2,535 open roles.** 1,862 in the United States & Canada · 673 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,27 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>AgileGrid Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/43654859-f5ca-4302-8aa9-71af60c00b07">Oracle Developer</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488440180/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Soho Square Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/6a0d8103-88bc-45a2-992a-4a05293b595f">SAP Cloud Integration Developer</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486288578/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Chewy</strong></td>
+<td><a href="https://trueinterview.io/jobs/d45b74b5-98c9-4981-902e-899ce7fa42c2">Software Engineer I, Full Stack, Promotions</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://careers.chewy.com/us/en/job/R31442/Software-Engineer-I-Full-Stack-Promotions">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>BBG Ventures</strong></td>
 <td><a href="https://trueinterview.io/jobs/98530497-ca0e-4a60-9067-958f1ad80497">Software Engineer</a></td>
@@ -2792,27 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/2ff3d653-524b-4007-91e4-f120acc118a7">Software Engineer</a></td>
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487534373/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Cerbo</strong></td>
-<td><a href="https://trueinterview.io/jobs/c0b4dfbc-5068-4ef1-8018-90f65a8e2629">Software Engineer</a></td>
-<td>Atlanta Metropolitan Area</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486506963/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Infosys</strong></td>
-<td><a href="https://trueinterview.io/jobs/4f374e5c-6a18-4d99-81e7-7a4a266ce102">Java AWS Python Developer</a></td>
-<td>Richardson, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476462551/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>CAE</strong></td>
-<td><a href="https://trueinterview.io/jobs/aa83c0e8-a339-497f-8705-2108b31125f8">ATS Software Engineer-EN</a></td>
-<td>Altus, OK</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4449828146/">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # 🇪🇸 Madrid, Barcelona & Iberia
 
-**119 open roles.** 3 in the United States & Canada · 116 elsewhere in the world.
+**131 open roles.** 3 in the United States & Canada · 128 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -55,6 +55,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/d9790740-098a-469b-b8b8-83d903e0ab60">Scientific Software Engineer - Cloud &amp; Integration H/F</a></td>
 <td>Barcelona, Catalonia, Spain<br/>Lyon, Auvergne-Rhône-Alpes, France<br/>Liège, Walloon Region, Belgium<br/>+5 more</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4483600336/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Reachdesk Ltd</strong></td>
+<td><a href="https://trueinterview.io/jobs/5cc52b41-bf3c-437a-8745-0dd2a990a08e">Revenue Systems and Integrations Engineer</a></td>
+<td>Lisbon, Portugal<br/>London, England, United Kingdom</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/reachdesk/jobs/5040334101">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
@@ -860,6 +867,83 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/4ed65032-3ad6-4106-8df9-e35695e6544a">STRESS ENGINEER</a></td>
 <td>Madrid, Spain<br/>Bristol, England, United Kingdom</td>
 <td align="center"><a href="https://www.capgemini.com/jobs/587272-es_ES_SAPBTP/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Concentrix</strong></td>
+<td><a href="https://trueinterview.io/jobs/403ea4f1-7bdc-44da-a9f2-d602ec4c45dd">Remote Support Engineer - (Italian speaking) - Hybrid - High Tech - HD01</a></td>
+<td>Barcelona, Spain</td>
+<td align="center"><a href="https://talkpu.sh/t/KzscqzG2J">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CrowdFarming</strong></td>
+<td><a href="https://trueinterview.io/jobs/347da268-f79d-4a79-9707-7d34e64426c8">Software Development Engineer (Regenerative Agriculture)</a></td>
+<td>Madrid, Spain</td>
+<td align="center"><a href="https://workwithus.crowdfarming.com/jobs/8637591-software-development-engineer-regenerative-agriculture">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Dentsu</strong></td>
+<td><a href="https://trueinterview.io/jobs/09a6316b-2e6f-4266-8273-3679c3b2fd0f">SAP Engagement Cloud Engineer</a></td>
+<td>Barcelona, Spain</td>
+<td align="center"><a href="https://dentsuaegis.wd3.myworkdayjobs.com/en-US/DAN_GLOBAL/job/Barcelona---Av-Diagonal-177/SAP-Engagement-Cloud-Engineer_R1133795">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>knowmad mood</strong></td>
+<td><a href="https://trueinterview.io/jobs/9f29176f-9c2f-46eb-a873-0d95567b058f">Data Engineer - Microsoft BI Specialist</a></td>
+<td>Madrid, Spain</td>
+<td align="center"><a href="https://knowmadmood.teamtailor.com/jobs/8638263-data-engineer-microsoft-bi-specialist">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Merkle, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/449bd14b-5489-41b6-ac8f-495fac1089c2">SAP Engagement Cloud Engineer</a></td>
+<td>Barcelona, Spain</td>
+<td align="center"><a href="https://www.merkle.com/en/careers/jobs/job-details.html/es/R1133795.html">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NextPower</strong></td>
+<td><a href="https://trueinterview.io/jobs/03fb18e7-a494-4701-ada7-5e7fdd019de8">Firmware Engineer</a></td>
+<td>Valencia, Spain</td>
+<td align="center"><a href="https://nextracker.wd5.myworkdayjobs.com/en-US/nextpower_careers/job/Valencia-Valencia--ESP/Firmware-Engineer_NX-5002">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Oficina de Treball del SOC</strong></td>
+<td><a href="https://trueinterview.io/jobs/d834e2cc-b85a-49f4-8506-00da937fc60e">DATA ENGINEER - ESPECIALISTES EN BASES DE DADES I XARXES INFORMÃ€TIQUES</a></td>
+<td>Barcelona, Spain</td>
+<td align="center"><a href="https://feinaactiva.gencat.cat/search/offers/detail/09202631136">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/0e2e59e2-6220-4c36-b9b0-dc54c4917645">QA ENGINEER - TÃˆCNIC/A EN XARXES INFORMÃ€TIQUES (AMB CERTIFICAT DE DISCAPACITAT)</a></td>
+<td>Barcelona, Spain</td>
+<td align="center"><a href="https://feinaactiva.gencat.cat/search/offers/detail/09202631160">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Tecdata Engineering</strong></td>
+<td><a href="https://trueinterview.io/jobs/6951b942-af5e-4d8f-966d-ca22640d573c">Data Engineer / ETL | Microsoft Fabric</a></td>
+<td>Madrid, Spain</td>
+<td align="center"><a href="https://job.tecdata.es/jobs/8636189-data-engineer-etl-microsoft-fabric">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e5cc7216-ada7-4300-a7b9-f61267167ad0">DATA ENGINEER / ETL ESPECIALIZADO EN MICROSOFT FABRIC</a></td>
+<td>Madrid, Spain</td>
+<td align="center"><a href="https://job.tecdata.es/jobs/8636103-data-engineer-etl-especializado-en-microsoft-fabric">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Tesla</strong></td>
+<td><a href="https://trueinterview.io/jobs/fe4a31b3-2187-433b-bccf-b858a96ba501">Field Quality Engineer</a></td>
+<td>Valencia, Spain</td>
+<td align="center"><a href="https://www.tesla.com/careers/search/job/288249">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

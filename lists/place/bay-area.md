@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**964 open roles.** 960 in the United States & Canada · 4 elsewhere in the world.
+**994 open roles.** 990 in the United States & Canada · 4 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Fortinet</strong></td>
+<td><a href="https://trueinterview.io/jobs/0f077cce-b9aa-4436-80a6-77f57c60c724">Early Careers: Software Developer Engineer</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/24983">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Lawrence Livermore National Laboratory</strong></td>
 <td><a href="https://trueinterview.io/jobs/0712bdd5-c7cf-4961-9a10-52abdf4f08c6">Astronomy &amp; Astrophysics Research Scientist</a></td>
@@ -213,13 +220,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/03f9008f-5335-44c1-8d9e-d9fa86147b86">Systems Development Engineer, DC Robotics, Data Center Robotics</a></td>
 <td>San Francisco, California, United States<br/>Santa Clara, California, United States<br/>Austin, TX<br/>+2 more</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10606820/systems-development-engineer-dc-robotics-data-center-robotics">Apply</a></td>
-<td align="center">17 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Fortinet</strong></td>
-<td><a href="https://trueinterview.io/jobs/0f077cce-b9aa-4436-80a6-77f57c60c724">Early Careers: Software Developer Engineer</a></td>
-<td>Sunnyvale, CA</td>
-<td align="center"><a href="https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/24983">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>

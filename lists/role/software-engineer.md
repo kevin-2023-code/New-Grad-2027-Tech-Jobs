@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**2,440 open roles.** 1,827 in the United States & Canada · 613 elsewhere in the world.
+**2,535 open roles.** 1,862 in the United States & Canada · 673 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Bet365</strong></td>
+<td><a href="https://trueinterview.io/jobs/f0f35558-ca5c-482b-ad9f-cefa31db57a7">Software Engineer, Offers</a></td>
+<td>Denver, CO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491731559/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Management Science &amp; Innovation</strong></td>
+<td><a href="https://trueinterview.io/jobs/3d42be6e-88d6-481d-be4c-b633cdba4485">Developer - Data Analytics</a></td>
+<td>Reston, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491733247/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Zenix Aerospace AMT/Damar</strong></td>
+<td><a href="https://trueinterview.io/jobs/03a2120f-72a4-4bb8-bd04-f03263a8bac4">CNC Programmer - Damar</a></td>
+<td>Monroe, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491420318/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Cox Automotive Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/f86c236e-3c7e-499a-bb9e-5822c01a361d">Entry Level Software Engineer - Atlanta, GA</a></td>
@@ -41,7 +62,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong>Fortinet</strong></td>
+<td><a href="https://trueinterview.io/jobs/0f077cce-b9aa-4436-80a6-77f57c60c724">Early Careers: Software Developer Engineer</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/24983">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>FANTOM CORPORATION</strong></td>
 <td><a href="https://trueinterview.io/jobs/61f56b79-3a2e-4c29-9cef-be5b5053e115">RF Software Engineer Level 0</a></td>
 <td>Hanover, MD</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4491709982/">Apply</a></td>
@@ -752,13 +780,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/c5a8f504-f9fa-420c-9ada-2bb36f30d443">Software Development Engineer, NetOS Observability</a></td>
 <td>Raleigh, North Carolina, United States</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10606779/software-development-engineer-netos-observability">Apply</a></td>
-<td align="center">17 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Fortinet</strong></td>
-<td><a href="https://trueinterview.io/jobs/0f077cce-b9aa-4436-80a6-77f57c60c724">Early Careers: Software Developer Engineer</a></td>
-<td>Sunnyvale, CA</td>
-<td align="center"><a href="https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/24983">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
@@ -2796,27 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/53054d3d-918b-4e89-adc4-dd57e54a663b">EAGLE PACE/STAR Developer</a></td>
 <td>Jersey City, NJ</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4488455266/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>AgileGrid Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/43654859-f5ca-4302-8aa9-71af60c00b07">Oracle Developer</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4488440180/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Soho Square Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/6a0d8103-88bc-45a2-992a-4a05293b595f">SAP Cloud Integration Developer</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486288578/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Chewy</strong></td>
-<td><a href="https://trueinterview.io/jobs/d45b74b5-98c9-4981-902e-899ce7fa42c2">Software Engineer I, Full Stack, Promotions</a></td>
-<td>Boston, MA</td>
-<td align="center"><a href="https://careers.chewy.com/us/en/job/R31442/Software-Engineer-I-Full-Stack-Promotions">Apply</a></td>
 <td align="center">6 Nov 2026</td>
 </tr>
 </tbody>

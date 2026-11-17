@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**896 open roles.** 565 in the United States & Canada · 331 elsewhere in the world.
+**926 open roles.** 574 in the United States & Canada · 352 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -150,6 +150,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/feedc73d-006c-40ad-9144-154a6b2b4280">Software Dev Engineer, Amazon AI at Work</a></td>
 <td>Seattle, WA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4490174068/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Partsbase Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/a89037ef-11c5-494c-9d95-44ffdc056215">AI Design Engineer</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/partsbase/1629660d-b818-4526-8a3c-3aa56dc6d773">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/d99260ba-841a-4049-bdab-c7e65864fc6e">Software AI Engineer / Robotics / Brooklyn</a></td>
 <td>Brooklyn, NY</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4486191824/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Cognizant</strong></td>
-<td><a href="https://trueinterview.io/jobs/2f1174f9-3aed-4748-8b6e-66c7db980a15">Gen AI Developer</a></td>
-<td>Washington DC-Baltimore Area</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486411277/">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 </tbody>

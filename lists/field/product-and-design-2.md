@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**483 open roles.** 266 in the United States & Canada · 217 elsewhere in the world.
+**499 open roles.** 274 in the United States & Canada · 225 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,62 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>MediaTek</strong></td>
+<td><a href="https://trueinterview.io/jobs/1241855f-8e20-4e4d-beae-36986f144db9">TOP Designer &amp; FE Integrator</a></td>
+<td>Hsinchu, Taiwan, Taiwan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4430856587/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Siemens Energy</strong></td>
+<td><a href="https://trueinterview.io/jobs/6660ac2b-f1dc-45bc-826d-38ac36ddc405">Mechanical Designer for Offers Trainee</a></td>
+<td>Guanajuato, Guanajuato, Mexico</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476825474/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sony Interactive Entertainment</strong></td>
+<td><a href="https://trueinterview.io/jobs/f05d106f-0142-48f5-af8d-d06bdff4ffdd">ゲームデザイナー・Game Designer/Team ASOBI</a></td>
+<td>Tokyo, Japan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4450035982/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Kumbh Design</strong></td>
+<td><a href="https://trueinterview.io/jobs/9b984ecb-a0d2-44d7-8fb5-5f732e305a95">Motion Designer &amp; Reel Editor – AI Video Editing</a></td>
+<td>India</td>
+<td align="center"><a href="https://www.kumbhdesign.com/jobs/motion-designer-reel-editor-ai-video-editing/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Tesla</strong></td>
+<td><a href="https://trueinterview.io/jobs/df7e9dd8-a8b1-4cef-a5ba-cc0c9922b366">UX Engineer, Powertrain</a></td>
+<td>East Attica, Attiki, Greece</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485640851/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Rush Street Interactive</strong></td>
+<td><a href="https://trueinterview.io/jobs/0748be9a-c529-4b2e-915a-0874325b925c">Product Owner, Sportsbook</a></td>
+<td>Medellín</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/rushstreetinteractive/jobs/6233015004">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>MediaTek</strong></td>
+<td><a href="https://trueinterview.io/jobs/f95dc8c4-8445-4f4d-a84e-7bf7e5e25704">Digital IC Designer and integrator</a></td>
+<td>Hsinchu, Taiwan, Taiwan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4414477218/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ubisoft</strong></td>
+<td><a href="https://trueinterview.io/jobs/2d81c959-a8ab-405f-a5e8-cb0bd9c9aa5d">Technical Animator</a></td>
+<td>Chengdu, Sichuan, China</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Ubisoft2/744000158745355-technical-animator">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Picnic Technologies</strong></td>
 <td><a href="https://trueinterview.io/jobs/19ce4f99-6bbd-4bbc-aa20-c67804545aa5">UX Researcher - Dutch speaking</a></td>
@@ -596,6 +652,62 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/f13120ec-d01c-4fe0-a291-4cb874ce223d">Web Designer Executive</a></td>
 <td>Delhi, India</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484919253/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Boosta</strong></td>
+<td><a href="https://trueinterview.io/jobs/b8c89c81-077a-44bf-89d4-fc2ec502c81b">AI Creative Designer</a></td>
+<td>Warszawa, Poland</td>
+<td align="center"><a href="https://grnh.se/rok3tul2teu">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Bpifrance</strong></td>
+<td><a href="https://trueinterview.io/jobs/c86b79c6-b0cd-409b-acbe-a49d6159e22c">Product Owner Comptabilité F/H</a></td>
+<td>Maisons-Alfort, France</td>
+<td align="center"><a href="https://talents.bpifrance.fr/opportunites/product-owner-comptabilite-f-h/?id=10197-53">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CONSORT Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/e63bef12-b530-47a3-81d7-1363a6a89ae9">Proxy Product Owner H/F Consortia - Testing, Développement, Data &amp; IA · Lyon</a></td>
+<td>Lyon, France</td>
+<td align="center"><a href="https://careers.consort-group.com/jobs/8634925-proxy-product-owner-h-f">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>HC</strong></td>
+<td><a href="https://trueinterview.io/jobs/05054929-8acd-46b1-9a92-b95132547111">Product Owner applicatif à Nantes (H/F) (IT) / Freelance</a></td>
+<td>Nantes, France</td>
+<td align="center"><a href="https://www.free-work.com/fr/tech-it/job-mission/product-owner/product-owner-api-a-nantes-h-f-1">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NEXT</strong></td>
+<td><a href="https://trueinterview.io/jobs/534a8d96-dc6c-4eea-ae47-f5d07318f5e7">Graphic Designer- 12 month FTC</a></td>
+<td>Leicester, United Kingdom</td>
+<td align="center"><a href="https://careers.next.co.uk/jobs/77983">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Australian Broadcasting Corporation (ABC)</strong></td>
+<td><a href="https://trueinterview.io/jobs/2a268f05-fe3f-42d5-9a2d-0e70170f4e62">Product Designer | iview</a></td>
+<td>Brisbane, Queensland, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484767336/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Exame | Saint Paul</strong></td>
+<td><a href="https://trueinterview.io/jobs/a99f3386-e573-482a-8e75-951e3e68f126">Product Owner Pleno</a></td>
+<td>São Paulo, EXAME - SÃO PAULO</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/exame/jobs/6237961004">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Serrala</strong></td>
+<td><a href="https://trueinterview.io/jobs/1c0bdfa2-fdb3-4b60-9f22-cbfa6c08dddf">Product Owner (SAP)</a></td>
+<td>Pune District, Maharashtra, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476760968/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

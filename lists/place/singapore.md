@@ -2,7 +2,7 @@
 
 # 🇸🇬 Singapore
 
-**335 open roles.** 9 in the United States & Canada · 326 elsewhere in the world.
+**367 open roles.** 9 in the United States & Canada · 358 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -2372,6 +2372,230 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/7465a357-3e90-416d-9a28-5dba95763708">Cloud FinOps Analyst / Cloud Cost Analyst / FinOps Engineer</a></td>
 <td>Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484789903/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ABeam Consulting (Singapore)</strong></td>
+<td><a href="https://trueinterview.io/jobs/5163ae25-0dff-4150-a230-ee0491078514">Microsoft Fabric Data Lake Developer</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://abeamconsultingsingapore.applytojob.com/apply/3EsMRYQQCo/Microsoft-Fabric-Data-Lake-Developer?%7E=">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CONSULGURU PTE. LTD.</strong></td>
+<td><a href="https://trueinterview.io/jobs/0127da6d-d3b1-4d7e-a62a-a46425684a01">AI Scientist</a></td>
+<td>Toa Payoh, Singapore</td>
+<td align="center"><a href="https://www.mycareersfuture.gov.sg/job/da5bd4f57fb2b91378f04d88add846ff">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>DADACONSULTANTS PTE. LTD.</strong></td>
+<td><a href="https://trueinterview.io/jobs/eac4a89b-482c-46a1-a9a0-abb18b81bad3">ICT Infrastructure Engineer (AI Platform) – Financial Regulatory Sector</a></td>
+<td>Clementi, Singapore</td>
+<td align="center"><a href="https://www.mycareersfuture.gov.sg/job/b3105e0b23018b02a69ed32bb9764c22">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>DataSpark Pte Ltd</strong></td>
+<td><a href="https://trueinterview.io/jobs/c4ea6dfa-8816-4589-a4d4-d58287c19378">#EG #EX Outsystems Developer</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.ncs.co/careers/job-details/?jobSource=sm&amp;jobId=6000000001534286">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Exceltech Computers Pte. Ltd.</strong></td>
+<td><a href="https://trueinterview.io/jobs/e3df9060-7475-4b8d-a562-523ba5019248">SAS Migration- APPLICATIONS PROGRAMMER</a></td>
+<td>Bedok, Singapore</td>
+<td align="center"><a href="https://www.mycareersfuture.gov.sg/job/a95f6e26355ddf0eacd35c9d2203e9bd">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>FSK Advisory Pte Ltd</strong></td>
+<td><a href="https://trueinterview.io/jobs/a799f82c-d386-40ad-82ad-461c2b649242">Product Engineering, Technical Operations Management</a></td>
+<td>River Valley, Singapore</td>
+<td align="center"><a href="https://www.mycareersfuture.gov.sg/job/8d5d84db7bbefb33d9c5a7339dbe40de">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>INFOSYS COMPAZ PTE. LTD.</strong></td>
+<td><a href="https://trueinterview.io/jobs/861e30eb-84cd-40ed-8f60-286dca77abd5">Software Developer</a></td>
+<td>Clementi, Singapore</td>
+<td align="center"><a href="https://www.mycareersfuture.gov.sg/job/032e3495664f495b57928b1609574032">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>INNOVATIQ TECHNOLOGIES PTE. LTD.</strong></td>
+<td><a href="https://trueinterview.io/jobs/4cd81ada-1c57-4e0a-a08a-a33c5864bf7b">ICT Infrastructure - Cloud, AI</a></td>
+<td>Singapore, Singapore<br/>Tanjong Pagar, Singapore</td>
+<td align="center"><a href="https://www.mycareersfuture.gov.sg/job/011c955598883021d99f357d352d9cae">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>JEET ANALYTICS PTE. LTD.</strong></td>
+<td><a href="https://trueinterview.io/jobs/1a8eab94-95b3-4d03-9e57-14fab3158a44">Software Engineer</a></td>
+<td>Outram, Singapore</td>
+<td align="center"><a href="https://www.mycareersfuture.gov.sg/job/32cc6254521ca5113c7371090cc90443">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>LINCSTECH CIRCUIT SINGAPORE PTE. LTD.</strong></td>
+<td><a href="https://trueinterview.io/jobs/83f502e2-1265-464b-9ed3-1447aaff9818">Frontend Development Engineer(Full-Stack)</a></td>
+<td>Pasir Ris, Singapore</td>
+<td align="center"><a href="https://www.mycareersfuture.gov.sg/job/4030770c4590052c24e949034eed9ed9">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>LYNEER CORP (SINGAPORE) PTE. LTD.</strong></td>
+<td><a href="https://trueinterview.io/jobs/8ab6f589-6069-4f35-9ea9-0a806dd448ab">TAP Developer</a></td>
+<td>Tanjong Pagar, Singapore</td>
+<td align="center"><a href="https://www.mycareersfuture.gov.sg/job/05766c7120633c3c7c5743b946d97c20">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NANO CLOUD PRIVATE LIMITED</strong></td>
+<td><a href="https://trueinterview.io/jobs/4d4cbca6-5ab5-4e72-b4ab-0f0c6caf77cd">SAP Analytics Cloud Developer</a></td>
+<td>Geylang, Singapore</td>
+<td align="center"><a href="https://www.mycareersfuture.gov.sg/job/9546ee22fa115d3cc014eee359fccebf">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Nexwave Technologies Pte Ltd</strong></td>
+<td><a href="https://trueinterview.io/jobs/9bbf35e7-03df-470e-b559-7642f1fdf9b4">Engineer (NET)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.mycareersfuture.gov.sg/job/b14ebbe6cc31017500484b647f22887e">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>REOLINK TECHNOLOGY PTE. LTD.</strong></td>
+<td><a href="https://trueinterview.io/jobs/ce51fc24-56ed-4345-82fe-de9af75683c5">Data Engineer</a></td>
+<td>Serangoon, Singapore</td>
+<td align="center"><a href="https://www.mycareersfuture.gov.sg/job/d0ce034ab86cc7f188e655883475568c">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>TANGPINXUAN PTE. LTD.</strong></td>
+<td><a href="https://trueinterview.io/jobs/59107c25-b246-4803-9de9-474987446174">Software Engineer</a></td>
+<td>Geylang, Singapore</td>
+<td align="center"><a href="https://www.mycareersfuture.gov.sg/job/7d07d9de2afbc49888f3a23d0357c7e6">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>TikTok</strong></td>
+<td><a href="https://trueinterview.io/jobs/dfa4a0f3-035d-45d0-ab02-876b7063b8e0">Machine Learning Engineer - Emerging Business - TikTok BRIC</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://lifeattiktok.com/search/7702053561758746885">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>UARROW PTE. LTD.</strong></td>
+<td><a href="https://trueinterview.io/jobs/ee0d8947-2e7b-4730-aed2-f43fa05054fc">Software Engineer</a></td>
+<td>Bedok, Singapore</td>
+<td align="center"><a href="https://www.mycareersfuture.gov.sg/job/ed42be265decb76dac46f6a38a1ff815">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>UNISYNC SYSTEMS PTE. LTD.</strong></td>
+<td><a href="https://trueinterview.io/jobs/437e0c6c-d69c-42d8-964f-67b723e75ef0">Software Engineer</a></td>
+<td>Bugis, Singapore</td>
+<td align="center"><a href="https://www.mycareersfuture.gov.sg/job/d9650e958fe3b3fea710549f0f742195">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>V4 IMPACT PTE. LTD.</strong></td>
+<td><a href="https://trueinterview.io/jobs/749d6471-762e-453f-8880-5c4dc013576d">AI Scientist</a></td>
+<td>Geylang, Singapore</td>
+<td align="center"><a href="https://www.mycareersfuture.gov.sg/job/aa6102e3e8234fb43184b6b53a61c2de">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ZEAL INFOTECH</strong></td>
+<td><a href="https://trueinterview.io/jobs/07bb1cb2-3809-4598-ad0f-96226ac0e751">Software Developer</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.mycareersfuture.gov.sg/job/38706c08718ee488f0d085d919b0417a">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Zenith Infotech</strong></td>
+<td><a href="https://trueinterview.io/jobs/b475b4fb-c233-4ed4-8412-648e0a2f7736">Data Scientist, Digital Transformation Project</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.mycareersfuture.gov.sg/job/0b3e2cfa3d93192a14770dc4eaa9a7f5">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ZHONG QI FUTURE (SINGAPORE) PTE. LTD.</strong></td>
+<td><a href="https://trueinterview.io/jobs/aefdf0c9-ab08-4c34-8104-53fbe63f5bcc">IT Cloud Engineer [ 5 - 5.5 days, Tai Seng ]</a></td>
+<td>Outram, Singapore</td>
+<td align="center"><a href="https://www.mycareersfuture.gov.sg/job/c0c84c08460dbe7f1b6bf248f2bb9eb2">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Vision Inspection Contracting (VIC)</strong></td>
+<td><a href="https://trueinterview.io/jobs/bfba9d8e-3c9b-4ad7-b630-e5647d72e391">AI Research Engineer / Applied Scientist / Machine Learning Researcher</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482575530/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/574e6055-97b6-477a-9b8c-bdfb1eb8e71c">Generative AI Engineer / Generative AI Specialist / Generative AI Consultant</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484772902/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CareCone Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/fb0cd14b-7b38-431d-84a2-ae159eccc561">Quality Assurance - Embedded Devices / TV Apps</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484773969/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/c32082fb-71d3-482b-a3ee-420ac03ff1da">Data Engineer</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484784606/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Augmentus Robotics</strong></td>
+<td><a href="https://trueinterview.io/jobs/c16d5199-c4ee-4f60-8d29-765c538baf00">Graduate Engineer</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484786452/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Manpower Singapore</strong></td>
+<td><a href="https://trueinterview.io/jobs/ac77c32c-76a9-46bd-a9e7-dda6c2479713">Control Systems Test Engineer</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484780595/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>PCSS</strong></td>
+<td><a href="https://trueinterview.io/jobs/b239a486-b9ed-4043-abdc-a978266b7563">Infrastructure Engineer (Fresh Graduates Welcomed)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4460241647/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Firmus Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/c07d9155-95bf-4c95-979f-4b3c04672b0d">Platform Reliability Engineer</a></td>
+<td>Sydney, New South Wales, Australia, Australia, Singapore<br/>Melbourne, Australia<br/>Melbourne, Victoria, Australia</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/firmus/jobs/5464412008">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Gateway Search</strong></td>
+<td><a href="https://trueinterview.io/jobs/26303c52-cc90-465a-8767-2ab1a8f3ea84">Java / Go Software Engineer</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4479615011/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Intrinsic</strong></td>
+<td><a href="https://trueinterview.io/jobs/c0c47fe0-eab1-4b91-9c13-0517561e975a">Software Engineer, Perception</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://boards.greenhouse.io/intrinsicrobotics/jobs/5991885004?gh_jid=5991885004">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

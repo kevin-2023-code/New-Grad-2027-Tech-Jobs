@@ -2,13 +2,15 @@
 
 # 🌐 Remote
 
-**382 open roles.** 249 in the United States & Canada · 133 elsewhere in the world. Postings the pipeline classified as remote.
+**414 open roles.** 271 in the United States & Canada · 143 elsewhere in the world. Postings the pipeline classified as remote.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
 > The catalog’s own work-mode classification, not a keyword match on the title. Hybrid postings are not here — they are a different answer to "must I move?".
 
 _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-authorisation restriction._
+
+<sub>Page 1 of 2 · [Page 2 →](remote-2.md)</sub>
 
 ## United States & Canada
 
@@ -17,6 +19,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Bugcrowd</strong></td>
+<td><a href="https://trueinterview.io/jobs/6fc9e660-8a5c-4452-a456-29ad32035284">Application Security Engineer (Part time - Friday to Monday)</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://boards.greenhouse.io/bugcrowd/jobs/8396259?gh_jid=8396259">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Kraken</strong></td>
+<td><a href="https://trueinterview.io/jobs/4c04502d-da41-4d2d-8be0-08d6a1ad4200">Cyber Defence Engineer I</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/krakentech/42eb26ba-dad5-4ada-949e-fd579c991459">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Partsbase Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/a89037ef-11c5-494c-9d95-44ffdc056215">AI Design Engineer</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/partsbase/1629660d-b818-4526-8a3c-3aa56dc6d773">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Smart IT Frame LLC</strong></td>
 <td><a href="https://trueinterview.io/jobs/64e0b26a-ca26-4318-a575-1cd31465bdd9">GCP DevSecOps Engineer</a> 🌐</td>
@@ -1760,6 +1783,139 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://waldenlocalmeat.isolvedhire.com/jobs/1894234-371842.html">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
+<tr>
+<td><strong>Amazon.com</strong></td>
+<td><a href="https://trueinterview.io/jobs/2a8a0c99-cbe8-4b1d-8dba-57d4d9bb7865">Lab Engineer, LEO - Plexus Lab</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://www.amazon.jobs/jobs/10603824/lab-engineer-leo--plexus-lab?cmpid=DA_INAD200785B">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Applied Information Sciences</strong></td>
+<td><a href="https://trueinterview.io/jobs/37427f48-39cb-42fb-b6d2-e08273ba8196">Cloud Migration Test Automation Engineer</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://appliedis.wd5.myworkdayjobs.com/en-US/AIS_Careers/job/Remote---VA/Cloud-Migration-Test-Automation-Engineer_JR2026001422">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/2432b50c-2aa4-4e85-9120-e0aa1238c52a">Database Engineer</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://appliedis.wd5.myworkdayjobs.com/en-US/AIS_Careers/job/Remote---VA/Database-Engineer_JR2026001420-2">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>BluprintX</strong></td>
+<td><a href="https://trueinterview.io/jobs/6047decd-cfca-4d25-aef0-0d6dea3c67fb">Front-end AEM Developer</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://bluprintx.teamtailor.com/jobs/8638560-front-end-aem-developer">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Centene</strong></td>
+<td><a href="https://trueinterview.io/jobs/9eb8f148-508c-4a0c-a20e-7f54f5b89daa">Data Analyst III SQL, Snowflake</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://jobs.centene.com/us/en/jobs/1672733/data-analyst-iii-sql-snowflake/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cloud Resourcing</strong></td>
+<td><a href="https://trueinterview.io/jobs/1549cd85-e765-48e3-be04-577070fa03bf">CLDRSRC10379 - Power Pages Developer- Remote - Canada - Contract</a> 🌐</td>
+<td>Remote — Canada</td>
+<td align="center"><a href="https://candidateportal.ceipal.com/job-details/0hGEBStyBfTffcHB6h5Tz5yOdD3hJRrUTXkd9LNWyA0">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Fox Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/24cca96b-3d8e-4da3-bad7-041f1abbb5ff">Software Developer</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://fox.wd1.myworkdayjobs.com/en-US/Domestic/job/Los-Angeles-California-USA/Software-Developer_R50034213">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Lawrence Livermore National Laboratory</strong></td>
+<td><a href="https://trueinterview.io/jobs/a2c58b49-ea9a-4d99-bb96-6468d609448b">Technical Consultant / System Administration Liaison – Active Security Clearance Required</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://www.llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016508706">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Neuehealth</strong></td>
+<td><a href="https://trueinterview.io/jobs/4a0dd5d1-8b8d-4d47-8701-eff752e618f8">Frontend Software Engineer</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://grnh.se/s96hswij4us">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Peraton</strong></td>
+<td><a href="https://trueinterview.io/jobs/875ba98b-fc2d-452b-adcd-9bb9941de0a5">Requirements Engineer</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://www.careers.peraton.com/jobs/requirements-engineer-undefined-undefined-172846-jobs--information-technology--">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Qualus</strong></td>
+<td><a href="https://trueinterview.io/jobs/b5fd8f47-8c38-4a60-9a66-ba99cedfdbbc">Energy Engineer</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://talent.qualuscorp.com/jobs/5815/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sabree Software Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/6a04bed9-212f-4a68-bb2a-62e37a87e031">Data Engineer SSSSAI1339</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://sabree.jobs.agile-ats.com/jobs/details/2874">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>St. Luke's Health System</strong></td>
+<td><a href="https://trueinterview.io/jobs/fd45ba39-cbf4-4e18-9d4f-7d20d85ff104">Quality &amp; Regulatory Data Analyst - St. Luke's Health Plan</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://slhs.avature.net/careersmarketplace/JobDetail?jobId=159842">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Thomson Reuters</strong></td>
+<td><a href="https://trueinterview.io/jobs/b84b07f8-d498-413b-8f51-30e7fc95cb4e">Site Reliability Engineer, Reuters</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/United-States-of-America-New-York-New-York/Site-Reliability-Engineer--Reuters_JREQ204669">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>TRI-GLOBAL SOLUTIONS GROUP INC.</strong></td>
+<td><a href="https://trueinterview.io/jobs/285991e1-da84-4baf-8da8-1b3f6ca0ec42">Power Pages Specialist (Developer)</a> 🌐</td>
+<td>Remote — Canada</td>
+<td align="center"><a href="https://apply.tri-global.com/job/tri-global-solutions-group-inc-remote-within-canada-5-power-pages-migration-specialist-developer/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Instructure, Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/6b018cf4-b60c-4d28-8161-fa3f2d76e5b4">L1 Support Engineer - Portuguese (Part-time)</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/instructure/3ba0efe9-7bb6-498c-be6f-e1f084fa7983/application">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/96c6c1cb-30b5-4731-af82-51c706135bf2">L1 Support Engineer - Spanish Backup</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/instructure/5c011c93-63d1-4376-97be-be2550410e1b/application">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f650ded0-14bc-4549-85a1-de5331d673c9">L1 Support Engineer - Spanish Bilingual</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/instructure/6ac72011-6515-4506-9507-9a239d4da9a5/application">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Saildrone</strong></td>
+<td><a href="https://trueinterview.io/jobs/fab9b4e6-d195-4663-98f4-e311c35bc051">Hydrographic Surveyor</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://www.saildrone.com/careers/available-jobs?gh_jid=4467483009">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -2675,35 +2831,9 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center"><a href="https://jobs.ashbyhq.com/masabi/fca8ebee-2309-4e75-8e7e-65ada7eeaf51">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
-<tr>
-<td><strong>Pliant</strong></td>
-<td><a href="https://trueinterview.io/jobs/716e5b9e-4a73-4103-b9dd-881a1055ce57">Agentic Tooling Engineer EU/UK remote (m/f/d) remote</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/pliant/89ec000f-a3f4-46b1-bb31-8e5bdf1f63a4">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Nagarro</strong></td>
-<td><a href="https://trueinterview.io/jobs/63859d93-976b-4437-b8d5-a9a4afcad618">AI Agent Platform Engineer</a> 🌐</td>
-<td>Remote — Poland</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Nagarro1/744000158497729-ai-agent-platform-engineer">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Nuitée</strong></td>
-<td><a href="https://trueinterview.io/jobs/22109ceb-78a8-4468-bb14-95e4d8d52b7e">Software Engineer, Flights</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://job-boards.eu.greenhouse.io/nuitee/jobs/5020333101">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>BandLab Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/fc229d9f-22f8-41a6-abee-c6764fb5bdd2">Audio Software Engineer — DSP &amp; Audio Engine</a> 🌐</td>
-<td>Remote — Singapore</td>
-<td align="center"><a href="https://bandlab.pinpointhq.com/postings/c31e7e16-7790-469d-8333-4c27810db70e">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
 </tbody>
 </table>
+
+<sub>Page 1 of 2 · [Page 2 →](remote-2.md)</sub>
 
 [← Every filter](README.md) · [Back to the full list](../README.md)

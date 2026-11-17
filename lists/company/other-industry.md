@@ -2,7 +2,7 @@
 
 # 💼 Other industries
 
-**29 open roles.** 9 in the United States & Canada · 20 elsewhere in the world. A real classification that none of the other sectors covers.
+**31 open roles.** 11 in the United States & Canada · 20 elsewhere in the world. A real classification that none of the other sectors covers.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Bet365</strong></td>
+<td><a href="https://trueinterview.io/jobs/f0f35558-ca5c-482b-ad9f-cefa31db57a7">Software Engineer, Offers</a></td>
+<td>Denver, CO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491731559/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>FanDuel</strong></td>
 <td><a href="https://trueinterview.io/jobs/d044541d-99f3-4707-9848-d20074f286f9">Quantitative Software Engineer</a></td>
@@ -78,6 +85,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/4e7b7e68-aecb-4d88-b597-f77e9f42f085">PROJECT ENGINEER</a></td>
 <td>Austin, TX<br/>Reno, Nevada, United States<br/>Austin, Texas, United States<br/>+1 more</td>
 <td align="center"><a href="https://corbins.us/careers?gh_jid=4662733008">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Holder Construction</strong></td>
+<td><a href="https://trueinterview.io/jobs/09a4bb11-6d5d-471b-8b7a-fab86ebea644">Office Engineer - Entry Level</a></td>
+<td>Pittsburgh, PA<br/>Shippingport, PA<br/>Ohio</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/holderconstruction/jobs/4472151009">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

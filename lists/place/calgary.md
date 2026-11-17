@@ -2,7 +2,7 @@
 
 # 🐎 Calgary & the Prairies
 
-**29 open roles.**
+**33 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -218,6 +218,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/f707f5b2-d927-4692-a10b-a92a2a200b68">Electrical Engineering EIT - New Graduate</a></td>
 <td>Calgary, AB<br/>Calgary, Alberta, Canada</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4470681001/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cloud Resourcing</strong></td>
+<td><a href="https://trueinterview.io/jobs/1549cd85-e765-48e3-be04-577070fa03bf">CLDRSRC10379 - Power Pages Developer- Remote - Canada - Contract</a> 🌐</td>
+<td>Remote — Canada<br/>Edmonton, Canada</td>
+<td align="center"><a href="https://candidateportal.ceipal.com/job-details/0hGEBStyBfTffcHB6h5Tz5yOdD3hJRrUTXkd9LNWyA0">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Teledyne Micralyne Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/f27be6ce-152c-4856-b467-1be474b5df8e">Software Development Engineer</a></td>
+<td>Edmonton, Canada</td>
+<td align="center"><a href="https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/Canada---Edmonton-AB/Software-Development-Engineer_REQ36962?locations=06e4ddafd2f3100211b29c0a69f30000">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Beyond Energy Services and Technology Corp.</strong></td>
+<td><a href="https://trueinterview.io/jobs/615ae8e6-2bd2-4df1-a239-7a08ba412dbf">Technical Support Specialist</a></td>
+<td>Calgary, AB<br/>Calgary, Alberta, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484782224/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ATB Financial</strong></td>
+<td><a href="https://trueinterview.io/jobs/fdd849c8-7c33-4057-af4a-da457a530f49">Full Stack Software Developer</a></td>
+<td>Calgary, AB<br/>Calgary, Canada<br/>Calgary, Alberta, Canada</td>
+<td align="center"><a href="https://careers.atb.com/careers/job/1125899907737356">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # Hardware Engineer
 
-**224 open roles.** 139 in the United States & Canada · 85 elsewhere in the world.
+**234 open roles.** 146 in the United States & Canada · 88 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Enterprise Peak</strong></td>
+<td><a href="https://trueinterview.io/jobs/bc098875-c487-4e00-966a-49ccfa8db5f9">Power Electronics Hardware Engineer – NPI/Prototype Bring-Up</a></td>
+<td>Olathe, KS</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491423176/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>IBM</strong></td>
 <td><a href="https://trueinterview.io/jobs/927e4fa6-cdba-4d22-9b0b-0e4ee23e8d07">Quantum Control Systems Engineer (Hardware, FPGA, &amp; Embedded Systems)</a></td>
@@ -990,6 +997,48 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://jobs.ashbyhq.com/sesame/fe29b210-c799-4542-b83a-69939def908f">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
+<tr>
+<td><strong>Ferrotec (USA) Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/ca64cec8-9cd5-4358-941b-397746840c9b">Manufacturing Hardware Test Engineer</a></td>
+<td>Livermore, CA</td>
+<td align="center"><a href="https://secure4.saashr.com/ta/6164782.jobs?ShowJob=1057271234">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Honeywell Aerospace</strong></td>
+<td><a href="https://trueinterview.io/jobs/1479e417-b927-48f8-8bbf-62c5e3972219">Hardware Engineer I</a></td>
+<td>Clearwater, FL</td>
+<td align="center"><a href="https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/126722">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Voyager Technologies, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/370174fa-4be0-4ea8-a7f4-93dfbfa20772">Electrical Hardware Engineer I</a></td>
+<td>Pittsburgh, PA</td>
+<td align="center"><a href="https://grnh.se/afqgn8gf9us">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Lumilens</strong></td>
+<td><a href="https://trueinterview.io/jobs/b0706aa1-0192-4c49-990c-e41efeb8c9ec">Silicon Photonic Design Engineer</a></td>
+<td>San Francisco Bay Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484770084/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>HFBAC - Hiring For and Building Awesome Companies</strong></td>
+<td><a href="https://trueinterview.io/jobs/824c8b31-b4f2-4bfa-a09f-bba8544e7ee9">Hardware Engineer</a></td>
+<td>San Francisco Bay Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484751969/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/79b6ce7b-b741-4f96-aec9-bc4eaa384133">Hardware Systems Engineer</a></td>
+<td>Cupertino, California, United States</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200691110">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -1038,6 +1087,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Scalian</strong></td>
+<td><a href="https://trueinterview.io/jobs/b6444fd3-68de-4fd6-bc50-d35f47459a7e">Ingénieur FPGA - Bureau d’Études (H/F)</a></td>
+<td>Toulouse, Occitanie, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Scalian/744000162082679--ingenieur-fpga-bureau-d-etudes-h-f-">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/cfaee2a4-3e4e-4cfe-9a94-e48940b72b6e">Ingénieur FPGA - Systèmes Spatiaux (H/F)</a></td>
+<td>Toulouse, Occitanie, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Scalian/744000162049082--ingenieur-fpga-systemes-spatiaux-h-f-">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Ericsson</strong></td>
 <td><a href="https://trueinterview.io/jobs/02b83dcc-201d-4e9a-8ef5-f538db6ec427">Entry Level: Hardware Developer - Digital Design</a></td>
 <td>Gothenburg, Västra Götaland County, Sweden</td>
@@ -1049,13 +1112,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/0c7467eb-e7b0-419f-a05d-8972ef81eb3a">Entry Level: Hardware Developer, Power Electronics</a></td>
 <td>Gothenburg, Västra Götaland County, Sweden</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4491167092/">Apply</a></td>
-<td align="center">17 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Scalian</strong></td>
-<td><a href="https://trueinterview.io/jobs/cfaee2a4-3e4e-4cfe-9a94-e48940b72b6e">Ingénieur FPGA - Systèmes Spatiaux (H/F)</a></td>
-<td>Toulouse, Occitanie, France</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Scalian/744000162049082--ingenieur-fpga-systemes-spatiaux-h-f-">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
@@ -1595,6 +1651,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/33acb834-70a3-4356-a16d-302f6ba8d021">Semiconductor Digital IC Design Engineer (SoC Timing) I Singapore</a></td>
 <td>Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484902740/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Groupe SII</strong></td>
+<td><a href="https://trueinterview.io/jobs/53389b12-5ec3-43f6-9891-814cc13c38ba">Hardware Test Automation Engineer (f/m/x)</a></td>
+<td>Cambridge, United Kingdom</td>
+<td align="center"><a href="https://sii.pl/oferty-pracy/id/38535/hardware-test-automation-engineer-fmx/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>VIRO</strong></td>
+<td><a href="https://trueinterview.io/jobs/6da71ef1-9d20-48c4-a16b-7891276ccd4f">(EPLAN) Hardware Engineer</a></td>
+<td>Arnhem, Gelderland, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4448201058/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

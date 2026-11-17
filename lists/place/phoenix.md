@@ -2,7 +2,7 @@
 
 # 🌵 Phoenix & Arizona
 
-**150 open roles.** 148 in the United States & Canada · 2 elsewhere in the world.
+**154 open roles.** 152 in the United States & Canada · 2 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1051,6 +1051,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/d934332c-ebff-4a83-81c5-f0d86579e57a">RF Mechanical Engineer I</a></td>
 <td>Tucson, AZ</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484795846/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cognizant</strong></td>
+<td><a href="https://trueinterview.io/jobs/4b47642f-ae11-4f49-a387-92d89e486086">IT Service Desk</a></td>
+<td>Mesa, AZ</td>
+<td align="center"><a href="https://careers.cognizant.com/global-en/jobs/00071024601/it-service-desk/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Copper State Credit Union</strong></td>
+<td><a href="https://trueinterview.io/jobs/d9934d96-79a2-4181-9a0e-1b72c42ff9e5">Data Integration Analyst</a></td>
+<td>Phoenix, AZ</td>
+<td align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4625840/Copper-State-Credit-Union/Data-Integration-Analyst">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Software Technology, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/36e61de6-2ede-4ec9-af2e-d1cc3f5f27bd">F5 Load balancing engineer :: Chandler, AZ Hybrid</a></td>
+<td>Chandler, AZ</td>
+<td align="center"><a href="https://stiorg.applicantstack.com/x/detail/a2jv0tkm329y/aaac">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Grand Canyon University</strong></td>
+<td><a href="https://trueinterview.io/jobs/02246639-f62c-46fa-a7e2-b9dd2bf6dfa3">Electrical Design Principles II &amp; Lab – Adjunct Faculty – Traditional Campus (Spring 2027) – College of Engineering and Technology</a></td>
+<td>Phoenix, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484420582/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

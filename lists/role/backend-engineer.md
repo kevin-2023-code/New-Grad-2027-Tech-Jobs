@@ -2,7 +2,7 @@
 
 # Backend Engineer
 
-**137 open roles.** 75 in the United States & Canada · 62 elsewhere in the world.
+**139 open roles.** 77 in the United States & Canada · 62 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -540,6 +540,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/68f525d1-7ba7-4e4b-996e-afba27d6e0a3">Backend Engineer</a></td>
 <td>Palo Alto, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484937678/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Bear Claw</strong></td>
+<td><a href="https://trueinterview.io/jobs/e68c701c-9e7a-43f7-a358-599b66976ebd">Backend PHP Developer - AWS / Serverless</a></td>
+<td>Evanston, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4481917141/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Glean</strong></td>
+<td><a href="https://trueinterview.io/jobs/2ea7c332-8ab1-4682-911d-773a42220dbf">Software Engineer, University Grad</a></td>
+<td>Mountain View, California, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/gleanwork/jobs/4748567005">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

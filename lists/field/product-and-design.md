@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**483 open roles.** 266 in the United States & Canada · 217 elsewhere in the world.
+**499 open roles.** 274 in the United States & Canada · 225 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1881,6 +1881,62 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484914238/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
+<tr>
+<td><strong>CELLA</strong></td>
+<td><a href="https://trueinterview.io/jobs/3b6f412f-ad0b-4357-8b43-163a2b433c00">UX Content Designer</a></td>
+<td>Philadelphia, PA</td>
+<td align="center"><a href="https://cellainc.com/jobs/detail/ux-content-designer-hybrid/1366143/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>FedEx</strong></td>
+<td><a href="https://trueinterview.io/jobs/85d71bf1-1841-43cc-b160-def597cb7b21">USI Marketing Product Management Advisor</a></td>
+<td>Collierville, TN</td>
+<td align="center"><a href="https://careers.fedex.com/usi-marketing-product-management-advisor/job/P25-392383-1">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Manulife</strong></td>
+<td><a href="https://trueinterview.io/jobs/10e4296a-aa84-4cac-b731-eeb81d8786d1">Digital Product Owner</a></td>
+<td>Waterloo, ON<br/>Waterloo, Canada</td>
+<td align="center"><a href="https://careers.manulife.com/global/en/job/JR26101297/Digital-Product-Owner">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Pacific Science Center</strong></td>
+<td><a href="https://trueinterview.io/jobs/d23433ca-be9c-4fa6-a398-d2f7f54d6bb9">Graphic Designer I (Temporary)</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://jobs.dayforcehcm.com/en-US/pacsci/CANDIDATEPORTAL/jobs/2881">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Western Governors University</strong></td>
+<td><a href="https://trueinterview.io/jobs/ea03d15d-5270-4f0a-8bda-8de50f19355d">Instructional Designer</a></td>
+<td>Salt Lake City, UT</td>
+<td align="center"><a href="https://wgu.wd5.myworkdayjobs.com/en-US/External/job/Salt-Lake-City-UT/Instructional-Designer_JR-026476">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon Web Services (AWS)</strong></td>
+<td><a href="https://trueinterview.io/jobs/d39054f1-52c3-47d9-933e-1793fc9d2e36">UX Designer, AWS Applied AI Solutions</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467917163/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Applied Intuition</strong></td>
+<td><a href="https://trueinterview.io/jobs/6817059d-7fa0-494f-9bae-ba72754f795e">UX Test Engineer - New Grad (2027)</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/applied/c222bb2f-893d-455b-8dd2-f585205632e4">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Oetiker Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/30c59f04-e715-4cdf-bb46-5d30ec815e02">R&amp;D Engineer (Product Development Designer / Engineer)</a></td>
+<td>Lancaster, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474461412/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -2774,62 +2830,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Massy, France</td>
 <td align="center"><a href="https://www.safran-group.com/jobs/france/massy/stage-product-owner-navcharts-analyse-vol-fh-fh-191009">Apply</a></td>
 <td align="center">1 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>MediaTek</strong></td>
-<td><a href="https://trueinterview.io/jobs/1241855f-8e20-4e4d-beae-36986f144db9">TOP Designer &amp; FE Integrator</a></td>
-<td>Hsinchu, Taiwan, Taiwan</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4430856587/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Siemens Energy</strong></td>
-<td><a href="https://trueinterview.io/jobs/6660ac2b-f1dc-45bc-826d-38ac36ddc405">Mechanical Designer for Offers Trainee</a></td>
-<td>Guanajuato, Guanajuato, Mexico</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476825474/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Sony Interactive Entertainment</strong></td>
-<td><a href="https://trueinterview.io/jobs/f05d106f-0142-48f5-af8d-d06bdff4ffdd">ゲームデザイナー・Game Designer/Team ASOBI</a></td>
-<td>Tokyo, Japan</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4450035982/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Kumbh Design</strong></td>
-<td><a href="https://trueinterview.io/jobs/9b984ecb-a0d2-44d7-8fb5-5f732e305a95">Motion Designer &amp; Reel Editor – AI Video Editing</a></td>
-<td>India</td>
-<td align="center"><a href="https://www.kumbhdesign.com/jobs/motion-designer-reel-editor-ai-video-editing/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Tesla</strong></td>
-<td><a href="https://trueinterview.io/jobs/df7e9dd8-a8b1-4cef-a5ba-cc0c9922b366">UX Engineer, Powertrain</a></td>
-<td>East Attica, Attiki, Greece</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485640851/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Rush Street Interactive</strong></td>
-<td><a href="https://trueinterview.io/jobs/0748be9a-c529-4b2e-915a-0874325b925c">Product Owner, Sportsbook</a></td>
-<td>Medellín</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/rushstreetinteractive/jobs/6233015004">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>MediaTek</strong></td>
-<td><a href="https://trueinterview.io/jobs/f95dc8c4-8445-4f4d-a84e-7bf7e5e25704">Digital IC Designer and integrator</a></td>
-<td>Hsinchu, Taiwan, Taiwan</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4414477218/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Ubisoft</strong></td>
-<td><a href="https://trueinterview.io/jobs/2d81c959-a8ab-405f-a5e8-cb0bd9c9aa5d">Technical Animator</a></td>
-<td>Chengdu, Sichuan, China</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Ubisoft2/744000158745355-technical-animator">Apply</a></td>
-<td align="center">30 Oct 2026</td>
 </tr>
 </tbody>
 </table>

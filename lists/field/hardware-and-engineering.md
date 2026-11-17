@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**1,355 open roles.** 921 in the United States & Canada · 434 elsewhere in the world.
+**1,426 open roles.** 971 in the United States & Canada · 455 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Enterprise Peak</strong></td>
+<td><a href="https://trueinterview.io/jobs/bc098875-c487-4e00-966a-49ccfa8db5f9">Power Electronics Hardware Engineer – NPI/Prototype Bring-Up</a></td>
+<td>Olathe, KS</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491423176/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>IBM</strong></td>
 <td><a href="https://trueinterview.io/jobs/927e4fa6-cdba-4d22-9b0b-0e4ee23e8d07">Quantum Control Systems Engineer (Hardware, FPGA, &amp; Embedded Systems)</a></td>
@@ -178,6 +185,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/70653f52-6010-4604-a8ef-3229b02300f0">Drafter / Designer</a></td>
 <td>Richland, MS</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4490961361/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Ford Motor Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/772b06a1-854d-4282-97cb-87b6877a0620">Engineering Specialist, Manufacturing Engineering</a></td>
+<td>Buffalo, NY, United States</td>
+<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70745">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/a381f31b-1e77-44b9-9554-d34b097454b9">Quality Engineering Specialist (LAP)</a></td>
+<td>Louisville, KY, United States</td>
+<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71244">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
@@ -2796,27 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a6877f2d-bf2c-4a25-a317-9f7ea47d57b3">Hardware Engineer</a></td>
 <td>Dartmouth, Nova Scotia, Canada</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485504356/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>AECOM</strong></td>
-<td><a href="https://trueinterview.io/jobs/1655b105-f58d-48b3-9b59-ca2356e52aab">Civil Engineer - Highways</a></td>
-<td>Colorado Springs, Colorado, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/AECOM2/744000159681799-civil-engineer-highways">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Jacobs</strong></td>
-<td><a href="https://trueinterview.io/jobs/14808d4e-5927-4010-97a9-76757c4b4333">Entry Level Electrical Engineer - Data Centers</a></td>
-<td>New York, NY<br/>Denver, CO<br/>Columbus, OH<br/>+8 more</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487211729/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>PDS Tech Commercial, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/454ad8df-c7a2-4803-b4f5-72bc3a3e0560">Supplier Manufacturing Engineer</a></td>
-<td>El Segundo, CA</td>
-<td align="center"><a href="https://100hires.com/j/RQEzrNk">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 </tbody>

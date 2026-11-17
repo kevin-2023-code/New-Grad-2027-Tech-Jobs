@@ -2,7 +2,7 @@
 
 # Embedded Engineer
 
-**173 open roles.** 122 in the United States & Canada · 51 elsewhere in the world.
+**179 open roles.** 123 in the United States & Canada · 56 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -871,6 +871,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://cubiscan.isolvedhire.com/jobs/1894170-576519.html">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
+<tr>
+<td><strong>Actalent</strong></td>
+<td><a href="https://trueinterview.io/jobs/0ff937b3-8337-4d1a-a477-11f51412a982">Firmware Test Engineer</a></td>
+<td>Solon, OH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484793480/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -1238,6 +1245,41 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/12481cf7-c149-4e5a-bb85-9993cfcfebc9">Embedded Software Engineer</a></td>
 <td>Arnhem, Gelderland, Netherlands</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484924128/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NextPower</strong></td>
+<td><a href="https://trueinterview.io/jobs/03fb18e7-a494-4701-ada7-5e7fdd019de8">Firmware Engineer</a></td>
+<td>Valencia, Spain</td>
+<td align="center"><a href="https://nextracker.wd5.myworkdayjobs.com/en-US/nextpower_careers/job/Valencia-Valencia--ESP/Firmware-Engineer_NX-5002">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NXP Semiconductors</strong></td>
+<td><a href="https://trueinterview.io/jobs/31dbd72f-b239-4340-8d7b-8c9a7660a0d5">Working Student (f/m/d) Embedded Network Software Engineer - Automotive Ethernet</a></td>
+<td>Hamburg, Deutschland</td>
+<td align="center"><a href="https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Hamburg/Working-Student--f-m-d--Embedded-Network-Software-Engineer---Automotive-Ethernet_R-10067322">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NXT Interim AB</strong></td>
+<td><a href="https://trueinterview.io/jobs/c686f5ec-7678-4cb5-87d6-066243cb93d4">Embedded Software Engineer för kommande uppdrag</a></td>
+<td>Malmö, Sweden</td>
+<td align="center"><a href="https://arbetsformedlingen.se/platsbanken/annonser/31662976">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Rheem Australia</strong></td>
+<td><a href="https://trueinterview.io/jobs/0a6a5190-1df6-4b9b-906c-20ac99bd4543">Embedded Software Developer</a></td>
+<td>Rydalmere, Australia</td>
+<td align="center"><a href="https://rheem.bigredsky.com/page.php?pageID=160&amp;windowUID=0&amp;AdvertID=934476">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>株式会社 JAC International</strong></td>
+<td><a href="https://trueinterview.io/jobs/e9f602b1-3683-4360-bdc6-14a4261cb92e">Embedded Software Engineer</a></td>
+<td>—</td>
+<td align="center"><a href="https://www.careercross.com/job/detail-1619583">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

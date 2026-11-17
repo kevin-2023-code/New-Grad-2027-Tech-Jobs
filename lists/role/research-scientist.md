@@ -2,7 +2,7 @@
 
 # Research Scientist
 
-**256 open roles.** 216 in the United States & Canada · 40 elsewhere in the world.
+**273 open roles.** 231 in the United States & Canada · 42 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Texas A&amp;M Engineering Experiment Station (TEES)</strong></td>
+<td><a href="https://trueinterview.io/jobs/d1b6b125-2281-41e6-8e1c-cfbbe2de8efe">Research Engineer I</a></td>
+<td>College Station, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491722577/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Lawrence Livermore National Laboratory</strong></td>
 <td><a href="https://trueinterview.io/jobs/0712bdd5-c7cf-4961-9a10-52abdf4f08c6">Astronomy &amp; Astrophysics Research Scientist</a></td>
@@ -1529,6 +1536,104 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/79768134398943942">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
+<tr>
+<td><strong>Amazon.com</strong></td>
+<td><a href="https://trueinterview.io/jobs/acc73ff9-62ab-4d6d-96a2-3b165f64d87b">Applied Scientist, Amazon Robotics</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://www.amazon.jobs/jobs/10593026/applied-scientist-amazon-robotics-?cmpid=DA_INAD200785B">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Broad Institute</strong></td>
+<td><a href="https://trueinterview.io/jobs/13bc3981-0307-4317-aa32-eba433e41b4f">Research Scientist I -The Center for Therapeutic Genetics (CTG)</a></td>
+<td>Cambridge, MA</td>
+<td align="center"><a href="https://broadinstitute.avature.net/en_US/careers/JobDetail/Research-Scientist-I-The-Center-for-Therapeutic-Genetics-CTG/22722">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>DeepMind</strong></td>
+<td><a href="https://trueinterview.io/jobs/9f9d5344-e9fe-4870-8b83-ef192fda6667">Research Engineer, Gemini Personalization Research, DeepMind</a></td>
+<td>Mountain View, CA</td>
+<td align="center"><a href="https://careers.google.com/jobs/results/79768134398943942-research-engineer/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>National Oceanic &amp; Atmospheric Administration (NOAA)</strong></td>
+<td><a href="https://trueinterview.io/jobs/462626b7-599d-49b2-9fad-40e87a11a8ae">Research Physical Scientist</a></td>
+<td>Boulder, CO</td>
+<td align="center"><a href="https://www.usajobs.gov/job/890652100">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Northeastern University</strong></td>
+<td><a href="https://trueinterview.io/jobs/9557c6f2-6b03-4410-9a7e-eec891b7dce4">Research Engineer</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://northeastern.wd1.myworkdayjobs.com/en-US/careers/job/Boston-MA-Main-Campus/Research-Engineer_R143103">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/1b03a7dc-a683-4445-844a-2f490a9cc328">Research Scientist</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://northeastern.wd1.myworkdayjobs.com/en-US/careers/job/Boston-MA-Main-Campus/Research-Scientist_R143108">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>The University of Iowa</strong></td>
+<td><a href="https://trueinterview.io/jobs/da0c7027-4707-4339-b51b-a6aa62f70579">​Assistant Research Scientist, ITI​</a></td>
+<td>Iowa City, IA</td>
+<td align="center"><a href="https://uiowa.referrals.selectminds.com/jobs/%E2%80%8Bassistant-research-scientist-iti%E2%80%8B-51401">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Virginia Commonwealth University</strong></td>
+<td><a href="https://trueinterview.io/jobs/d2c0e53e-082e-4d30-8a6e-ae44c19591a7">Research Scientist - Microbiology and Immunology</a></td>
+<td>Richmond, VA</td>
+<td align="center"><a href="https://vcujobs.com/jobs/research-scientist-microbiology-and-immunology-mcv-main-campus-virginia-united-states">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Zymo Research</strong></td>
+<td><a href="https://trueinterview.io/jobs/9f942763-cf2c-471c-8666-2f35d83abb3f">Post-Doctoral Research Scientist – Molecular Assay Development and Epigenetics</a></td>
+<td>Irvine, CA</td>
+<td align="center"><a href="https://www.zymoresearch.com/pages/career-post-doctoral-research-scientist-molecular-assay-development-and-epigenetics">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/d1c1dfd9-a1ca-4c15-9713-674447b5ca96">Post-Doctoral Research Scientist – NGS Methods Development and Cancer Genomics</a></td>
+<td>Irvine, CA</td>
+<td align="center"><a href="https://www.zymoresearch.com/pages/career-post-doctoral-research-scientist-ngs-methods-development-and-cancer-genomics">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/915a3cf0-c672-4eec-9486-f3fbc752107a">Post-Doctoral Research Scientist – Probes Enrichment and DNA Methylation</a></td>
+<td>Irvine, CA</td>
+<td align="center"><a href="https://app.trinethire.com/companies/22866-zymo-research-corporation/jobs/126123-post-doctoral-research-scientist-probes-enrichment-and-dna-methylation">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Mindspan Institute</strong></td>
+<td><a href="https://trueinterview.io/jobs/9d7749ce-0e57-48bd-a0f8-bc02a14d37fe">Research Scientist, Deep Learning Models</a></td>
+<td>Cambridge, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484792218/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>OpenAI</strong></td>
+<td><a href="https://trueinterview.io/jobs/dcd977de-9a27-43c2-a798-4dcd7a252504">Research Engineer / Research Scientist, Human Flourishing</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/openai/0f600ed1-d70a-4648-820f-a1d1da3f7617/application">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Percepta</strong></td>
+<td><a href="https://trueinterview.io/jobs/2c539eda-3174-4eb9-94a5-02fd4a5da2d2">Research Scientist – Reinforcement Learning (RL)</a></td>
+<td>New York, NY<br/>Boston, MA<br/>New York City</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/percepta/e2dd1d63-dcc1-463e-8564-40a3106f6847">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -1819,6 +1924,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/dff3dcdd-0dd0-4e89-8157-a492b6902386">Research Engineer I (Computer Science/Computer Engineering)</a></td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484465031/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Inria</strong></td>
+<td><a href="https://trueinterview.io/jobs/2ab55be9-4c37-4a5f-b1d2-13e82dd0f88e">CSCW/HCI Research Engineer F/M, PILOT project – PEPR eNSEMBLE (France 2030)</a></td>
+<td>Villers-lès-Nancy, France</td>
+<td align="center"><a href="https://jobs.inria.fr/public/classic/fr/offres/2026-10663">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/d5f2bcb2-db99-47a1-a3ee-3aa6172f0a2b">Research engineer Perspective-Grounded Spatial Reasoning in Multimodal Large Language Models</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://jobs.inria.fr/public/classic/fr/offres/2026-10630">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

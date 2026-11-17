@@ -2,7 +2,7 @@
 
 # Frontend Engineer
 
-**125 open roles.** 89 in the United States & Canada · 36 elsewhere in the world.
+**130 open roles.** 92 in the United States & Canada · 38 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -640,6 +640,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484793657/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
+<tr>
+<td><strong>BluprintX</strong></td>
+<td><a href="https://trueinterview.io/jobs/6047decd-cfca-4d25-aef0-0d6dea3c67fb">Front-end AEM Developer</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://bluprintx.teamtailor.com/jobs/8638560-front-end-aem-developer">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Neuehealth</strong></td>
+<td><a href="https://trueinterview.io/jobs/4a0dd5d1-8b8d-4d47-8701-eff752e618f8">Frontend Software Engineer</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://grnh.se/s96hswij4us">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>State of Illinois</strong></td>
+<td><a href="https://trueinterview.io/jobs/5730f31d-1ef5-4e93-973b-863fd3fa54cf">Web Developer / Information Systems Analyst I, Option W</a></td>
+<td>Springfield, IL</td>
+<td align="center"><a href="https://illinois.jobs2web.com/job/Springfield-Web-Developer-Information-Systems-Analyst-I%2C-Option-W-IL-62703/1437439100/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -902,6 +923,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/3fd06644-c783-4bae-9095-4a6c700cafca">Front End Software Engineer</a></td>
 <td>Brisbane, Queensland, Australia</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484902792/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>LINCSTECH CIRCUIT SINGAPORE PTE. LTD.</strong></td>
+<td><a href="https://trueinterview.io/jobs/83f502e2-1265-464b-9ed3-1447aaff9818">Frontend Development Engineer(Full-Stack)</a></td>
+<td>Pasir Ris, Singapore</td>
+<td align="center"><a href="https://www.mycareersfuture.gov.sg/job/4030770c4590052c24e949034eed9ed9">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Royal Houdijk</strong></td>
+<td><a href="https://trueinterview.io/jobs/bee3de06-a2cc-494a-86a3-51feec721846">Front-end developer</a></td>
+<td>Vlaardingen, South Holland, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477677371/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**2,982 open roles.** 1,981 in the United States & Canada · 1,001 elsewhere in the world.
+**3,154 open roles.** 2,057 in the United States & Canada · 1,097 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,27 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Regions Bank</strong></td>
+<td><a href="https://trueinterview.io/jobs/73ef53b1-4006-4098-902e-7a463ba6bf38">Data and Analytics Developer</a></td>
+<td>Birmingham, AL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486804977/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Arcfield</strong></td>
+<td><a href="https://trueinterview.io/jobs/34efd89b-dc32-43a7-9d8f-77ca24002504">Data Analyst / Applied Mathematician</a></td>
+<td>Chesterbrook, PA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486022658/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Ramp</strong></td>
+<td><a href="https://trueinterview.io/jobs/23cd5e4a-3221-412b-852e-827952f50abd">Research Engineer, Benchmarks &amp; Evaluation</a></td>
+<td>New York, NY (HQ)<br/>San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/ramp/d8925f84-562f-470c-a5bd-4f6c20009361">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>United Contractor Services</strong></td>
 <td><a href="https://trueinterview.io/jobs/2a1aa192-926b-4b15-bcf5-a95f9b01b11b">AI Engineer – Agentic Systems &amp; Automation</a></td>
@@ -2792,27 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/961e2d5c-e6a2-4829-b269-3a4610cbc668">AI Software Engineer</a></td>
 <td>Buffalo, NY</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4477871015/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>ANDRO Computational Solutions, LLC</strong></td>
-<td><a href="https://trueinterview.io/jobs/f17184af-de8b-4c68-9f52-5878722383e5">O-RAN &amp; RF Machine Learning Engineer (NextG Wireless)</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483480814/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>HTD Resources</strong></td>
-<td><a href="https://trueinterview.io/jobs/abcd605c-d20b-4561-98ff-4fd56bcd1007">Data Scientist</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483488495/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Trilogy Analytical Laboratory</strong></td>
-<td><a href="https://trueinterview.io/jobs/9e84e2d8-c288-4232-9365-0e80d3679f5c">Machine Learning Engineer</a></td>
-<td>Washington, DC<br/>Washington, MO</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484896330/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 </tbody>

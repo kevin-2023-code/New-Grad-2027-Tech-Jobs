@@ -2,7 +2,7 @@
 
 # Product Manager
 
-**217 open roles.** 110 in the United States & Canada · 107 elsewhere in the world.
+**224 open roles.** 112 in the United States & Canada · 112 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -787,6 +787,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484908629/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
+<tr>
+<td><strong>FedEx</strong></td>
+<td><a href="https://trueinterview.io/jobs/85d71bf1-1841-43cc-b160-def597cb7b21">USI Marketing Product Management Advisor</a></td>
+<td>Collierville, TN</td>
+<td align="center"><a href="https://careers.fedex.com/usi-marketing-product-management-advisor/job/P25-392383-1">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Manulife</strong></td>
+<td><a href="https://trueinterview.io/jobs/10e4296a-aa84-4cac-b731-eeb81d8786d1">Digital Product Owner</a></td>
+<td>Waterloo, ON<br/>Waterloo, Canada</td>
+<td align="center"><a href="https://careers.manulife.com/global/en/job/JR26101297/Digital-Product-Owner">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -1546,6 +1560,41 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/5d797712-2a2f-4992-b81c-bc793d057759">SVP - Product Management</a></td>
 <td>Derbyshire, England, United Kingdom</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484906614/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Bpifrance</strong></td>
+<td><a href="https://trueinterview.io/jobs/c86b79c6-b0cd-409b-acbe-a49d6159e22c">Product Owner Comptabilité F/H</a></td>
+<td>Maisons-Alfort, France</td>
+<td align="center"><a href="https://talents.bpifrance.fr/opportunites/product-owner-comptabilite-f-h/?id=10197-53">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CONSORT Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/e63bef12-b530-47a3-81d7-1363a6a89ae9">Proxy Product Owner H/F Consortia - Testing, Développement, Data &amp; IA · Lyon</a></td>
+<td>Lyon, France</td>
+<td align="center"><a href="https://careers.consort-group.com/jobs/8634925-proxy-product-owner-h-f">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>HC</strong></td>
+<td><a href="https://trueinterview.io/jobs/05054929-8acd-46b1-9a92-b95132547111">Product Owner applicatif à Nantes (H/F) (IT) / Freelance</a></td>
+<td>Nantes, France</td>
+<td align="center"><a href="https://www.free-work.com/fr/tech-it/job-mission/product-owner/product-owner-api-a-nantes-h-f-1">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Exame | Saint Paul</strong></td>
+<td><a href="https://trueinterview.io/jobs/a99f3386-e573-482a-8e75-951e3e68f126">Product Owner Pleno</a></td>
+<td>São Paulo, EXAME - SÃO PAULO</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/exame/jobs/6237961004">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Serrala</strong></td>
+<td><a href="https://trueinterview.io/jobs/1c0bdfa2-fdb3-4b60-9f22-cbfa6c08dddf">Product Owner (SAP)</a></td>
+<td>Pune District, Maharashtra, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476760968/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

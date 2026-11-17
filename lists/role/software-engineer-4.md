@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**2,440 open roles.** 1,827 in the United States & Canada · 613 elsewhere in the world.
+**2,535 open roles.** 1,862 in the United States & Canada · 673 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,27 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Open Source Controls</strong></td>
+<td><a href="https://trueinterview.io/jobs/a50feff5-7d3d-4a35-9204-ddd5108f17c1">BAS Controls Programmer</a></td>
+<td>Nashville, TN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485766833/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Emphasys HFA</strong></td>
+<td><a href="https://trueinterview.io/jobs/54531695-6cdc-4150-b834-1385bda4836e">Intermediate .NET Developer</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486451244/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Primary Talent Partners</strong></td>
+<td><a href="https://trueinterview.io/jobs/d6cc9ad0-7a94-440e-8e8e-0d948a70e807">Technical Writer/Training Content Developer</a></td>
+<td>Charlotte, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486440685/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Ocarrol rent a car</strong></td>
 <td><a href="https://trueinterview.io/jobs/11db5ee3-cac6-40b8-9cd2-3169dd52f9f4">PHP Developer</a></td>
@@ -2792,27 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/a5443be1-a38a-4f9a-ac61-d46f23d468f6">Java MS Developer</a></td>
 <td>Irving, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4467133219/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Teero</strong></td>
-<td><a href="https://trueinterview.io/jobs/e2ed91b8-e5f6-4171-96f1-c38acee83a11">Software Engineer</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4418158932/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Saksoft</strong></td>
-<td><a href="https://trueinterview.io/jobs/dd82dc25-f858-46db-b7e1-cfb75b99af02">Looking for Snowflake developer in San Jose, CA – Hybrid- 3 days</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483445138/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Tata Consultancy Services</strong></td>
-<td><a href="https://trueinterview.io/jobs/5a97de35-a545-40cb-b335-f0695f852105">Python &amp; Oracle Developer</a></td>
-<td>Charlotte, NC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467125312/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 </tbody>

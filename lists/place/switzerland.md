@@ -2,7 +2,7 @@
 
 # 🇨🇭 Zürich & Switzerland
 
-**106 open roles.** 5 in the United States & Canada · 101 elsewhere in the world.
+**110 open roles.** 5 in the United States & Canada · 105 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -769,6 +769,34 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/60c2153b-64aa-4038-a996-ddbb9a8684e3">Flight Guidance &amp; Motion Planning Engineer</a></td>
 <td>Lausanne, Vaud, Switzerland<br/>Zurich<br/>Paris</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/harmattan-ai/9d735123-888d-4791-bb4c-95cd84b8be49">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>EPFL</strong></td>
+<td><a href="https://trueinterview.io/jobs/1912169a-71a5-4978-b8b4-e7c673c7f222">RF Systems Engineer / EMC Specialist</a></td>
+<td>Lausanne, Switzerland</td>
+<td align="center"><a href="https://careers.epfl.ch/job/Lausanne-RF-Systems-Engineer-EMC-Specialist/1165700155/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>grape insurance</strong></td>
+<td><a href="https://trueinterview.io/jobs/8afe9307-c60e-4485-b55b-9ca225c174f3">Applied ML Engineer/Data Scientist</a></td>
+<td>Zürich, Switzerland</td>
+<td align="center"><a href="https://jobs.eu.lever.co/grape-health/ffccb847-0654-476f-9881-49ecd649c703">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>IMD International Institute for Management Development</strong></td>
+<td><a href="https://trueinterview.io/jobs/ca0d07db-f59a-40a9-8b6b-4e9f4f64c2ce">IT Support Engineer</a></td>
+<td>Lausanne, Switzerland</td>
+<td align="center"><a href="https://jobs.imd.org/job/Lausanne-IT-Support-Engineer/1376170357/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Universität Basel</strong></td>
+<td><a href="https://trueinterview.io/jobs/c8a8126e-07e4-48ad-8e31-74440b29390b">PhD Position in Machine Learning for Preterm Lung Health (100%)</a></td>
+<td>Basel, Switzerland</td>
+<td align="center"><a href="https://jobs.unibas.ch/offene-stellen/phd-position-in-machine-learning-for-preterm-lung-health/2bdf22ba-4c38-4881-b522-2fa11b51a0a9">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

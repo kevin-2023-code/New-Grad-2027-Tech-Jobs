@@ -2,7 +2,7 @@
 
 # 🎸 Austin
 
-**285 open roles.** 281 in the United States & Canada · 4 elsewhere in the world.
+**287 open roles.** 283 in the United States & Canada · 4 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1978,10 +1978,24 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Charles Schwab</strong></td>
+<td><a href="https://trueinterview.io/jobs/a122b28a-fd89-4070-822c-bb429bb9531f">AI Developer - Financial Crimes AI &amp; Automation</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://www.schwabjobs.com/job/austin/ai-developer-financial-crimes-ai-and-automation/33727/102580634640">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>SpaceX</strong></td>
 <td><a href="https://trueinterview.io/jobs/58f13af9-0a32-4016-93c8-c9658509b3d2">Automation &amp; Controls Engineer, PCB (Starlink/Starmind)</a></td>
 <td>Bastrop, TX</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8904356002?gh_jid=8904356002">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Tesla</strong></td>
+<td><a href="https://trueinterview.io/jobs/c74d3faf-c062-4f6f-916b-b2657b7bc5ea">Manufacturing Quality Engineer</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://www.tesla.com/careers/search/job/288090">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

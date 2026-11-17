@@ -2,7 +2,7 @@
 
 # Machine Learning Engineer
 
-**417 open roles.** 309 in the United States & Canada · 108 elsewhere in the world.
+**434 open roles.** 313 in the United States & Canada · 121 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,34 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Optum India</strong></td>
+<td><a href="https://trueinterview.io/jobs/65779aa3-45cb-4842-b2db-a67b245ede72">AI/ML Engineer</a></td>
+<td>Gurgaon, Haryana, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485262106/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Harmattan AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/9fc80cb4-1d8a-4351-80e9-7bdd73fa1d9c">ML Ops Engineer</a></td>
+<td>Lausanne, Vaud, Switzerland<br/>Paris<br/>Zurich</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/harmattan-ai/95687a2c-17cb-4c1e-8a88-6eebbaf56692">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Niantic Spatial, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/cac41076-1b48-4947-87bd-948e89c575bc">3D Computer Vision Research Engineer, Geospatial Visual Localization</a></td>
+<td>London, England, United Kingdom<br/>London, United Kingdom</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/niantic-spatial/c1864d09-d969-4b86-87aa-67c2783880a3">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Erasmus MC</strong></td>
+<td><a href="https://trueinterview.io/jobs/d1629ade-b7df-4795-b866-ec781c88f349">Master’s Thesis Student AI/ML Methods in Primary Care Data</a></td>
+<td>Rotterdam, South Holland, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485250300/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Alpine SG</strong></td>
 <td><a href="https://trueinterview.io/jobs/18a3e82a-c695-44dd-8ce9-f5789ef9a7e6">AI/ML Software Engineer</a> 🌐</td>
@@ -134,6 +162,97 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/3cea4a2c-f1db-4160-b755-85127cfed49d">Machine Learning Engineer</a></td>
 <td>London, England, United Kingdom</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484901232/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Chantiers de l'Atlantique</strong></td>
+<td><a href="https://trueinterview.io/jobs/f442aba8-e1b5-4532-88ac-f9a8b0a7c584">Stage - Ingénieur(e) Machine Learning et Informatique H/F</a></td>
+<td>Saint-Nazaire, France</td>
+<td align="center"><a href="https://carrieres-offresemploi.chantiers-atlantique.com/offre-de-emploi/emploi-stage-ingenieur-e-machine-learning-et-informatique-h-f_2302.aspx">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>GE HealthCare</strong></td>
+<td><a href="https://trueinterview.io/jobs/273bcce6-12c0-42f3-826b-7c57c5033b9e">stage -Nouveaux développements en traitement d’images et Deep Learning pour la mammographie</a></td>
+<td>Buc, France</td>
+<td align="center"><a href="https://careers.gehealthcare.com/global/en/job/GEVGHLGLOBALR4048631EXTERNALENGLOBAL/stage-Nouveaux-d%C3%A9veloppements-en-traitement-d%E2%80%99images-et-Deep-Learning-pour-la-mammographie">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Girsberger Informatik AG</strong></td>
+<td><a href="https://trueinterview.io/jobs/b31c7a81-5c14-433a-af9d-0c3551a581ba">Data Scientist / Machine Learning Engineer (80–100 %)</a></td>
+<td>Brunnen, Switzerland</td>
+<td align="center"><a href="https://giag.ch/de/stelleninserate/data-scientist-machine-learning-engineer">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>grape insurance</strong></td>
+<td><a href="https://trueinterview.io/jobs/8afe9307-c60e-4485-b55b-9ca225c174f3">Applied ML Engineer/Data Scientist</a></td>
+<td>Zürich, Switzerland</td>
+<td align="center"><a href="https://jobs.eu.lever.co/grape-health/ffccb847-0654-476f-9881-49ecd649c703">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Groupe SII</strong></td>
+<td><a href="https://trueinterview.io/jobs/482eeaf5-2969-4bdf-99ad-3b6c2e050f1f">Stage Ingénieur IA &amp; Machine Learning – Données de simulation (F/H)</a></td>
+<td>Nantes, France</td>
+<td align="center"><a href="https://sii-group.com/fr-FR/offers/aeronautique-spatial-et-defense/stage-ingenieur-ia-machine-learning-donnees-de-simulation-fh">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Needefy AB</strong></td>
+<td><a href="https://trueinterview.io/jobs/5663a3cb-a919-41fe-9a59-48d0b95457fb">Machine Learning Engineer / ML Engineer</a></td>
+<td>Kista, Sweden</td>
+<td align="center"><a href="https://jobb.needefy.com/jobs/8637769-machine-learning-engineer-ml-engineer">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Seawind Solution</strong></td>
+<td><a href="https://trueinterview.io/jobs/8f16e614-eb11-419c-8619-ca7940bfcf39">AI/ML Developer</a></td>
+<td>India</td>
+<td align="center"><a href="https://www.seawindsolution.com/Career">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>TikTok</strong></td>
+<td><a href="https://trueinterview.io/jobs/dfa4a0f3-035d-45d0-ab02-876b7063b8e0">Machine Learning Engineer - Emerging Business - TikTok BRIC</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://lifeattiktok.com/search/7702053561758746885">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Universität Basel</strong></td>
+<td><a href="https://trueinterview.io/jobs/c8a8126e-07e4-48ad-8e31-74440b29390b">PhD Position in Machine Learning for Preterm Lung Health (100%)</a></td>
+<td>Basel, Switzerland</td>
+<td align="center"><a href="https://jobs.unibas.ch/offene-stellen/phd-position-in-machine-learning-for-preterm-lung-health/2bdf22ba-4c38-4881-b522-2fa11b51a0a9">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Université de Toulouse</strong></td>
+<td><a href="https://trueinterview.io/jobs/8679a09a-8466-4175-bab5-0ef73be2b2b8">Maître de Conférences en Statistique, Optimisation et Machine Learning F/H - (REF 352)</a></td>
+<td>Toulouse, France</td>
+<td align="center"><a href="https://univ-tlse3.nous-recrutons.fr/job/holv6lds6j">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>VRG GmbH</strong></td>
+<td><a href="https://trueinterview.io/jobs/41d08707-e114-457c-8634-f40cfe342926">Machine Learning-Engineer (m/w/d)</a></td>
+<td>Berlin, Deutschland<br/>Oldenburg, Deutschland</td>
+<td align="center"><a href="https://jobdb.softgarden.de/jobdb/public/jobdb/posting/68419488/0/0/Machine+Learning-Engineer+%28m-w-d%29.html">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Flexiple</strong></td>
+<td><a href="https://trueinterview.io/jobs/6b1cc960-b658-4fb8-9bf8-5fba8bb11699">Machine Learning Engineer</a></td>
+<td>India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484904056/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Zepcruit</strong></td>
+<td><a href="https://trueinterview.io/jobs/ff9b98b2-ed0a-41ac-8f46-35d7bf184f95">AI/ML Engineer</a></td>
+<td>Pune Division, Maharashtra, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4468357948/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

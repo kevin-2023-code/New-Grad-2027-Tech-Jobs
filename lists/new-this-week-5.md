@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,676 open roles.** 1,369 in the United States & Canada · 307 elsewhere in the world. Everything the employers put up this week.
+**1,696 open roles.** 1,383 in the United States & Canada · 313 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -17,6 +17,146 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>FujiFilm</strong></td>
+<td><a href="https://trueinterview.io/jobs/8905bbb6-22e5-485e-afa1-3c2d99e8ae18">Tech Support Engineer, MI - 1</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://uscareers-fujifilm.icims.com/jobs/39231/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Egis Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/491af20e-26c1-4c0f-bcaf-7139f450dba3">Pre Graduate Project Engineer (UAE National)</a></td>
+<td>Abu Dhabi, Abu Dhabi, United Arab Emirates</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/EgisGroup/744000161428235-pre-graduate-project-engineer-uae-national-">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Bosch</strong></td>
+<td><a href="https://trueinterview.io/jobs/60800492-9f0c-4106-96d7-170656a88c90">IT Service Desk Associate (Level 1) - Urgent Hiring!</a></td>
+<td>Taguig, Philippines</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000161425919-it-service-desk-associate-level-1-urgent-hiring-">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>TikTok</strong></td>
+<td><a href="https://trueinterview.io/jobs/6e308bc7-a05a-43fd-ab25-aa9da13ed53c">Audio Algorithm Researcher Graduate (Immersive Intelligent) - 2027 Start (PhD)</a></td>
+<td>Sydney, New South Wales, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4437010841/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/633ca696-1818-451f-bbf2-dbe803be5393">Software Engineer Graduate (Multimedia Arch-Live) - 2027 Start (BS/MS)</a></td>
+<td>Sydney, New South Wales, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4437019594/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Cisco</strong></td>
+<td><a href="https://trueinterview.io/jobs/7fb8729c-3576-4b92-b91f-0c873b62d271">Software Engineer - Early in Career</a></td>
+<td>Oeiras, Lisbon, Portugal</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482722186/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Testlio</strong></td>
+<td><a href="https://trueinterview.io/jobs/9690e0a0-9531-44c9-8f92-e342c54b9c71">Freelance Software Tester | Remote in Belgium</a></td>
+<td>Belgium</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/testlio/jobs/8384245">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Cisco</strong></td>
+<td><a href="https://trueinterview.io/jobs/86915e43-8d39-4b12-97b8-bd2186bad2b1">Software Engineer, Splunk - Product Sizing and Packaging - Australia</a></td>
+<td>North Sydney, New South Wales, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4463593653/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon Web Services (AWS)</strong></td>
+<td><a href="https://trueinterview.io/jobs/3175e617-ad57-4609-b952-a056e4f28a80">Applied Scientist, OpenSearch Shanghai</a></td>
+<td>Shanghai, Shanghai, China</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490392945/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>TikTok</strong></td>
+<td><a href="https://trueinterview.io/jobs/7d148a9a-634e-44e2-80d2-639ccf6237b1">Fullstack Engineer (Data Application &amp; AI Agent) - TikTok Live - Singapore</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489261986/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Helsing</strong></td>
+<td><a href="https://trueinterview.io/jobs/44035abf-b8bb-4eff-a59a-a73fde6602ba">Early Careers - Aerospace and Aeronautical Engineering</a></td>
+<td>London<br/>Munich</td>
+<td align="center"><a href="https://helsing.ai/jobs/5035173101?gh_jid=5035173101">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>SkillStorm</strong></td>
+<td><a href="https://trueinterview.io/jobs/9a36e623-0872-4515-a917-fd4e565b9ed0">Junior Full Stack Engineer</a></td>
+<td>Greater Houston</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490367111/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f2e8c1c5-6185-4900-945f-2118196195c1">Associate Developer</a></td>
+<td>Dallas-Fort Worth Metroplex</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490363404/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/697b6db0-666f-4053-866e-969620082ab1">Associate Full Stack Developer</a></td>
+<td>Dallas-Fort Worth Metroplex</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490362471/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Wavestone</strong></td>
+<td><a href="https://trueinterview.io/jobs/4662ba01-d55e-422e-8516-96eadac7c271">Consultant·e Data et AI Engineer – Jeune diplômé·e (H/F) - Nantes</a></td>
+<td>Nantes, Pays de la Loire, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Wavestone1/744000161332369-consultant-e-data-et-ai-engineer-jeune-diplome-e-h-f-nantes">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Mthree</strong></td>
+<td><a href="https://trueinterview.io/jobs/61efbf2e-b655-402b-9bd1-a7b4367e3a19">Junior Data Engineer - Budapest, Hungary</a></td>
+<td>Hungary</td>
+<td align="center"><a href="https://mthree.com/careers/job/?gh_jid=4729130006">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Sopra Steria</strong></td>
+<td><a href="https://trueinterview.io/jobs/fb58c1df-ae89-443c-8b3b-aebbee6ea119">Technical Engineer for Virtual Products at Aerospace &amp; Infrastructure (m/w/d)</a></td>
+<td>Hamburg, Hamburg, Germany</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SopraSteria1/744000161321159-technical-engineer-for-virtual-products-at-aerospace-infrastructure-m-w-d-">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>SGS</strong></td>
+<td><a href="https://trueinterview.io/jobs/8e4bf6bf-6a61-4dce-9326-1a20c6ed66b0">Jr. Security Evaluator - Fault Injection</a></td>
+<td>Barcelona, Catalunya, Spain</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SGS/744000161311679-jr-security-evaluator-fault-injection">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>NAVER LABS Europe</strong></td>
+<td><a href="https://trueinterview.io/jobs/a63aa482-1277-4638-ae49-aad4e40d31c4">Research Scientist in AI for Robotics F/M</a></td>
+<td>Meylan, Auvergne-Rhône-Alpes, France</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4419815256/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Ci&amp;t</strong></td>
+<td><a href="https://trueinterview.io/jobs/7359a93c-a11a-468a-a9d8-491671500222">[Job-32678] Master Backend Developer (Kotlin/Java), Brasil</a></td>
+<td>Brazil</td>
+<td align="center"><a href="https://jobs.lever.co/ciandt/d6754ade-f9a5-4145-8a4d-61e7b71c1f36">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>TikTok</strong></td>
 <td><a href="https://trueinterview.io/jobs/b92d4115-2733-414c-8510-f77d19d9ec3a">AI Infrastructure Engineer Graduate (TikTok Live Recommendation Architecture) - 2027 Start</a></td>

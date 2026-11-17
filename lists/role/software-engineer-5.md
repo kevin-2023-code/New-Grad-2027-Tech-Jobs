@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**2,440 open roles.** 1,827 in the United States & Canada · 613 elsewhere in the world.
+**2,535 open roles.** 1,862 in the United States & Canada · 673 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,27 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Teero</strong></td>
+<td><a href="https://trueinterview.io/jobs/e2ed91b8-e5f6-4171-96f1-c38acee83a11">Software Engineer</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4418158932/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Saksoft</strong></td>
+<td><a href="https://trueinterview.io/jobs/dd82dc25-f858-46db-b7e1-cfb75b99af02">Looking for Snowflake developer in San Jose, CA – Hybrid- 3 days</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483445138/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Tata Consultancy Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/5a97de35-a545-40cb-b335-f0695f852105">Python &amp; Oracle Developer</a></td>
+<td>Charlotte, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467125312/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>JPMorganChase</strong></td>
 <td><a href="https://trueinterview.io/jobs/57627cb8-9e1c-4b66-807f-d3a6deceb429">2027 Software Engineer Program - Full-Time - United States - February Start</a></td>
@@ -1556,13 +1577,6 @@
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Axiom Consultants</strong></td>
-<td><a href="https://trueinterview.io/jobs/8b9f23b8-df5a-4952-b4f9-7fdc96d2daed">Scientific Developer for Model Optimization</a></td>
-<td>College Park, MD</td>
-<td align="center"><a href="https://www.applicantpro.com/openings/axiomconsultants/jobs/4260231-499465">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>BluePath Labs</strong></td>
 <td><a href="https://trueinterview.io/jobs/fc8528f4-8f9d-4778-9b76-4339a34089b4">Application and Automation Developer (Multiple Openings) - Onsite, Washington, DC</a></td>
 <td>Washington, DC</td>
@@ -1598,10 +1612,241 @@
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>6 Degrees Health</strong></td>
+<td><a href="https://trueinterview.io/jobs/829415c5-eedb-4921-a8f8-492c84ed232c">Programmer Analyst</a></td>
+<td>Amarillo, TX</td>
+<td align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4627496/6-Degrees-Health/Programmer-Analyst">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Alarm.com</strong></td>
+<td><a href="https://trueinterview.io/jobs/4b420f8e-533d-43df-bfac-7c9c90b3c5bc">Software Engineer</a></td>
+<td>Needham, MA</td>
+<td align="center"><a href="https://grnh.se/vrsie9gx2us">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon.com</strong></td>
+<td><a href="https://trueinterview.io/jobs/901a3f00-3809-410d-94c5-72135ab7c7ae">SDE (Rust or C/C++) , Device Cloud Core Services</a></td>
+<td>Denver, CO</td>
+<td align="center"><a href="https://www.amazon.jobs/jobs/10602474/sde-rust-or-cc--device-cloud-core-services?cmpid=DA_INAD200785B">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f6f7592c-7e57-45ae-baab-68faea928ada">Software Development Engineer, Customer Experience and Business Trends</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://www.amazon.jobs/jobs/10601961/software-development-engineer-customer-experience-and-business-trends?cmpid=DA_INAD200785B">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/9152a41b-91ba-4247-aa17-2c16fb1d515a">Software Development Engineer, WW Stores FinTech</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://www.amazon.jobs/jobs/10595040/software-development-engineer-ww-stores-fintech?cmpid=DA_INAD200785B">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>AMD</strong></td>
+<td><a href="https://trueinterview.io/jobs/f6efe6b5-af73-4437-a03a-47d82d5f322e">Software Development Engineer - GPU Libraries</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://careers.amd.com/jobs/94263/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/8e93b4a3-3272-407d-9a22-9c07d813f43c">Software Engineer, Safari Extensions</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200676418-3543?board_id=JB001">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Argonne National Laboratory</strong></td>
+<td><a href="https://trueinterview.io/jobs/60c85d56-0641-48cc-87c4-69723dfd02c8">Postbaccalaureate Appointee - Robotics Software Developer, Rapid Prototyping Laboratory</a></td>
+<td>Lemont, IL</td>
+<td align="center"><a href="https://argonne.wd1.myworkdayjobs.com/en-US/Argonne_Careers/job/Lemont-IL-USA/Postbaccalaureate-Appointee---Robotics-Software-Developer--Rapid-Prototyping-Laboratory_423629-1">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Beneva</strong></td>
+<td><a href="https://trueinterview.io/jobs/289a4a40-3662-4604-988b-d25413ad8bb5">Developer Analyst</a></td>
+<td>Quebec City, Canada</td>
+<td align="center"><a href="https://beneva.wd10.myworkdayjobs.com/en-US/BenevaSite_carriere/job/Quebec-Quebec/Analyste-dveloppeur_R18167">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cloud Resourcing</strong></td>
+<td><a href="https://trueinterview.io/jobs/1549cd85-e765-48e3-be04-577070fa03bf">CLDRSRC10379 - Power Pages Developer- Remote - Canada - Contract</a> 🌐</td>
+<td>Remote — Canada</td>
+<td align="center"><a href="https://candidateportal.ceipal.com/job-details/0hGEBStyBfTffcHB6h5Tz5yOdD3hJRrUTXkd9LNWyA0">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Fort McKay First Nation</strong></td>
+<td><a href="https://trueinterview.io/jobs/e448a84b-f735-450b-a071-9f148785d2e4">Arts and Culture Programmer - 075-2026</a></td>
+<td>Fort Mackay, Canada</td>
+<td align="center"><a href="https://fortmckay.bamboohr.com/careers/158?postedDate=2026-10-29">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Fox Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/24cca96b-3d8e-4da3-bad7-041f1abbb5ff">Software Developer</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://fox.wd1.myworkdayjobs.com/en-US/Domestic/job/Los-Angeles-California-USA/Software-Developer_R50034213">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>KLA</strong></td>
+<td><a href="https://trueinterview.io/jobs/9b07b4f0-6f3b-42cc-b43d-7356fb8e0cc0">System Software Engineer - Distributed Computing</a></td>
+<td>Milpitas, CA</td>
+<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/System-Software-Engineer---Distributed-Computing_2642720-1">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Lynker</strong></td>
+<td><a href="https://trueinterview.io/jobs/540e20d5-3650-4b34-aa41-e768d6cfbc46">Scientific Developer for Model Optimization</a></td>
+<td>College Park, MD</td>
+<td align="center"><a href="https://careers-lynker.icims.com/jobs/1727/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>McAfee</strong></td>
+<td><a href="https://trueinterview.io/jobs/e9271630-b6fb-4559-9560-69c8518ad306">Cloud Software Engineer</a></td>
+<td>Toronto, ON<br/>Toronto, Canada</td>
+<td align="center"><a href="https://careers.mcafee.com/jobs/1813/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Miami Dade County</strong></td>
+<td><a href="https://trueinterview.io/jobs/73322c4e-19bb-4e38-9f4c-5313d5f53e54">Information Software Developer (Communications, Information &amp; Technology)</a></td>
+<td>United States</td>
+<td align="center"><a href="https://jobs.miamidade.gov/psc/JOBS/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&amp;Action=U&amp;FOCUS=Applicant&amp;SiteId=1&amp;JobOpeningId=103607&amp;PostingSeq=1">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Northern Illinois University</strong></td>
+<td><a href="https://trueinterview.io/jobs/e268017f-7d2c-47f7-92cb-ff1fe190fddd">Database Administrator/Programmer (2453)</a></td>
+<td>DeKalb, IL</td>
+<td align="center"><a href="https://employment.niu.edu/postings/98251">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>OpenAI</strong></td>
+<td><a href="https://trueinterview.io/jobs/a8a95ca3-bef5-4573-8e99-ce1bdf91c47d">Software Engineer, IP Infrastructure</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/openai/33acf0e2-5c11-46d7-9dc9-417f5537139b">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Peraton</strong></td>
 <td><a href="https://trueinterview.io/jobs/3826bcb5-71d4-443b-b765-46c38ba320c4">Java Cloud Software Engineer</a></td>
 <td>Annapolis Junction, MD</td>
 <td align="center"><a href="https://www.careers.peraton.com/jobs/java-cloud-software-engineer-ts-sci-w-poly-annapolis-junction-maryland-172562-jobs--information-technology--">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Principal Financial Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/cd53adb7-187c-4993-abe9-03fea2163a72">Software Engineer I</a></td>
+<td>Des Moines, IA</td>
+<td align="center"><a href="https://careers.principal.com/us/jobs/53906/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>S.S. White Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/22ea6e02-b3e0-421b-88ca-f7ceafe0c172">Software Engineer</a></td>
+<td>Saint Petersburg, FL</td>
+<td align="center"><a href="https://sswhite.zohorecruit.com/recruit/PortalDetail.na?iframe=true&amp;digest=ACu7IOG96Qd7lCxo.3r8hXGAUnkE7bVo.a85bxdBEmQ-&amp;jobid=373056000025306001&amp;widgetid=373056000000072311&amp;embedsource=CareerSite">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ShipStation Global</strong></td>
+<td><a href="https://trueinterview.io/jobs/4e8f6827-b371-4f7f-8ab6-a910e50b6ad4">Software Engineer</a></td>
+<td>Dallas, TX</td>
+<td align="center"><a href="https://jobs.dayforcehcm.com/en-US/wwex/CANDIDATEPORTAL/jobs/6565">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Social Security Administration</strong></td>
+<td><a href="https://trueinterview.io/jobs/f870c0b9-5afe-436b-aa0a-5c8963c4cbb4">IT Specialist (Pega Developer) Direct Hire</a></td>
+<td>Birmingham, AL</td>
+<td align="center"><a href="https://www.usajobs.gov/job/890664600">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Société Générale</strong></td>
+<td><a href="https://trueinterview.io/jobs/f3f0083b-fdd2-4a1b-b564-d23315378eb9">Fixed Income Electronic Trading- Programmer Analyst</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://careers.societegenerale.com/en/job-offers/fixed-income-electronic-trading-programmer-analyst-26000D8N-en">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Teledyne Micralyne Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/f27be6ce-152c-4856-b467-1be474b5df8e">Software Development Engineer</a></td>
+<td>Edmonton, Canada</td>
+<td align="center"><a href="https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/Canada---Edmonton-AB/Software-Development-Engineer_REQ36962?locations=06e4ddafd2f3100211b29c0a69f30000">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>TRI-GLOBAL SOLUTIONS GROUP INC.</strong></td>
+<td><a href="https://trueinterview.io/jobs/285991e1-da84-4baf-8da8-1b3f6ca0ec42">Power Pages Specialist (Developer)</a> 🌐</td>
+<td>Remote — Canada</td>
+<td align="center"><a href="https://apply.tri-global.com/job/tri-global-solutions-group-inc-remote-within-canada-5-power-pages-migration-specialist-developer/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Tetra Tech Digital Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/b6bd3a6c-4b59-4c49-bfd7-7645df0ec107">PI Developer</a></td>
+<td>The Woodlands, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484795444/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Gamma</strong></td>
+<td><a href="https://trueinterview.io/jobs/77e28741-f4ff-4bbb-be89-f73f8ba7b784">Software Engineer, Data Systems</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/gamma/4b2c97d1-b12b-46b7-9e24-1fcd248e28a3">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Linq</strong></td>
+<td><a href="https://trueinterview.io/jobs/36291486-e111-4327-8243-356e9d64b346">Developer Relations</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484784972/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Actalent</strong></td>
+<td><a href="https://trueinterview.io/jobs/9aed57ec-53b1-466f-8ff6-1cf429de4785">Software Support Engineer</a></td>
+<td>Brookfield, WI<br/>Waukesha, WI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484752073/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>University of Colorado Boulder</strong></td>
+<td><a href="https://trueinterview.io/jobs/1dcc6733-e746-4480-a8ee-5137458129ca">CIRES/NOAA Global Monitoring Laboratory, Instrument Developer in Support of Atmospheric Trace Gas Measurements</a></td>
+<td>Boulder, CO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484789536/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Terac</strong></td>
+<td><a href="https://trueinterview.io/jobs/19ed7bcc-323d-45d2-b19f-ec45951a150a">Software Engineer</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484782709/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Extrahop Networks</strong></td>
+<td><a href="https://trueinterview.io/jobs/bae4e215-4359-4c87-9ec0-9add907dc129">Software Engineer I | Cloud</a></td>
+<td>Seattle, WA, 500 Seattle Corporate</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/extrahopnetworks/jobs/6119816004">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>The Voleon Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/769f5f6a-d72e-4223-91fb-6f9045f8cbab">Software Engineer - University Hire 2027</a></td>
+<td>New York, NY<br/>Berkeley, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4459034091/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
@@ -2580,251 +2825,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/63ee4373-7fe8-4f78-9a60-79b739975cb4">Software Engineer - Advanced</a></td>
 <td>Pune Division, Maharashtra, India</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4486521184/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Klanik</strong></td>
-<td><a href="https://trueinterview.io/jobs/5156298f-4ea8-4aa2-a20e-ae85d4d5d79b">Software Engineer Full Stack Go / React (H/F)</a></td>
-<td>Lyon, Auvergne-Rhône-Alpes, France</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486346518/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Tenth Revolution Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/ea02d69c-e78d-48e6-ad9b-47c040a3d2e4">Dotnet Developer</a></td>
-<td>Stavanger/Sandnes, Rogaland, Norway</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485064785/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Envision Technology Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/f32999d2-cd9d-478d-8b47-0cf2d6945c25">NodeJs Developer</a></td>
-<td>Dallas-Fort Worth Metroplex</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486399650/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Tenth Revolution Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/77b3d5a8-43c4-463f-b6b8-4376d5d6854b">Business Developer / IT Recruitment - Dutch speaker</a></td>
-<td>Barcelona, Catalonia, Spain</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485064662/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>MediaTek</strong></td>
-<td><a href="https://trueinterview.io/jobs/e70373d5-13d3-4d95-b76b-98752d8ba0c6">Linux Software Engineer_Taipei</a></td>
-<td>Taipei, Taipei City, Taiwan</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4459743724/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/2e64c55d-d008-45b4-8fea-46f71665a390">Software Development Engineer, Sports Data Platform - Prime Video Sports</a></td>
-<td>Bengaluru, Karnataka, India</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487530094/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Bosch</strong></td>
-<td><a href="https://trueinterview.io/jobs/9d817204-077c-45de-a9f9-7bdb98f90163">Vehicle Dynamics Software Engineer Graduate</a></td>
-<td>Nuneaton, England, United Kingdom</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000159679514-vehicle-dynamics-software-engineer-graduate">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>HELPLINE</strong></td>
-<td><a href="https://trueinterview.io/jobs/5138591a-a85d-4a3c-be9e-8ec67ebf4a04">Software Developer C++</a></td>
-<td>Florence, Tuscany, Italy</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/EVERIENCE/744000159676599-software-developer-c-">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon Web Services (AWS)</strong></td>
-<td><a href="https://trueinterview.io/jobs/bebbfe73-f150-4dd0-a1e6-d988bed3ac62">Software Dev Engineer-II, Infra Supply Chain Automation</a></td>
-<td>Bengaluru, Karnataka, India</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487291517/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Analog Devices</strong></td>
-<td><a href="https://trueinterview.io/jobs/e015637a-003a-4f54-be15-c346af682871">Software Development Engineer</a></td>
-<td>Pudong, Shanghai, China</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4470418214/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>SAP IT Business Systeme</strong></td>
-<td><a href="https://trueinterview.io/jobs/50f4cd9d-0355-42b4-9955-46350b9f731f">Developer - SAP Concur Spend</a></td>
-<td>Sao Leopoldo, Brazil</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000159651470-developer-sap-concur-spend">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Infineon Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/0aec99db-6c38-45da-a886-435ea175aa47">Software Engineer Verification Automation (f/m/div)</a></td>
-<td>Bucharest, Bucharest, Romania</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4479520755/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Ericsson</strong></td>
-<td><a href="https://trueinterview.io/jobs/5a98f52a-d0cc-4539-a35f-9a5decf40e3a">2027 New Graduates - RAN Software Developer</a></td>
-<td>Beijing, Beijing, China</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4460045206/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Sopra Steria</strong></td>
-<td><a href="https://trueinterview.io/jobs/acfcf598-5f6c-4e32-8079-97d3dee99f92">Software Developer mit Open Search Expertise (m/w/d)</a></td>
-<td>bundesweit, Germany</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/SopraSteria1/744000159624824-software-developer-mit-open-search-expertise-m-w-d-">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/c616376f-56d7-49f2-8306-ee7a4e5c40c1">PEGA Developer (w/m/d)</a></td>
-<td>bundesweit, Germany</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/SopraSteria1/744000159625179-pega-developer-w-m-d-">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Neo4j</strong></td>
-<td><a href="https://trueinterview.io/jobs/5f4dc1ad-a2a5-4c89-88ff-bc7ce56cdc92">Software Engineer – Database Kernel</a></td>
-<td>Malmö<br/>London</td>
-<td align="center"><a href="https://boards.greenhouse.io/neo4j/jobs/4727062006?gh_jid=4727062006">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>LY Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/eb0f662b-3d61-4f2d-8efd-301360346616">サポートエンジニア / LINE Developer Product</a></td>
-<td>Tokyo, Japan</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486359917/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Margo</strong></td>
-<td><a href="https://trueinterview.io/jobs/b7450d14-c230-45f1-aca1-534b6c61b439">C# / .NET Developer – Front Office Liquidity, Treasury &amp; Risk Systems</a></td>
-<td>London</td>
-<td align="center"><a href="https://jobs.lever.co/margo-group/6bed8e22-f0ea-4499-a50d-b93753fa307e">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Cisco</strong></td>
-<td><a href="https://trueinterview.io/jobs/de73140a-45b5-4b74-a430-695da86e735c">Audio Software Developer</a></td>
-<td>Norway</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487258071/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>IBM</strong></td>
-<td><a href="https://trueinterview.io/jobs/71840a45-8ee8-43fe-beaf-65f892cd4755">Linux Kernel OS Developer</a></td>
-<td>Waterford, County Waterford, Ireland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485078409/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>IKEA</strong></td>
-<td><a href="https://trueinterview.io/jobs/b289402c-5aa5-4afe-9ce7-6baab1b0027b">Software Engineer| Data Enablement | Data &amp; Product</a></td>
-<td>Malmö, Sweden</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/InterIKEAGroup/744000159606684-software-engineer-data-enablement-data-product">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/b26a1882-2649-4163-b3ed-bd1569047c9a">Software Engineer Leader | Data Enablement | Data &amp; Product</a></td>
-<td>Malmö, Sweden</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/InterIKEAGroup/744000159603285-software-engineer-leader-data-enablement-data-product-">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Deepl</strong></td>
-<td><a href="https://trueinterview.io/jobs/e2455a7f-53ac-4513-ae63-546bb29a2b84">Software Engineer | Identity and Access Management | Full-Stack</a></td>
-<td>London</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/DeepL/0c9d3b11-a6d1-49d5-ac6b-41cb3f6f2a6c">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Bet365</strong></td>
-<td><a href="https://trueinterview.io/jobs/5c3454dd-8c98-4f04-bb19-fa8a1d2d574e">Software Developer, Offers</a></td>
-<td>Stoke-on-Trent, England, United Kingdom</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Bet3651/744000159599661-software-developer-offers">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Circana France</strong></td>
-<td><a href="https://trueinterview.io/jobs/d85ce905-6715-4652-981b-4dc1e0a86465">Software Engineer - JavaScript developer</a></td>
-<td>Courbevoie, France</td>
-<td align="center"><a href="https://recruiting2.ultipro.com/INF1019IRINC/JobBoard/17a8d008-9efe-4e51-8460-47ee205d5229/OpportunityDetail?opportunityId=942e7ef5-4e35-48aa-b917-bff10e457552&amp;postingId=768716df-79fc-4ed8-8da1-0b1f0ad3dd02">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>MSX International</strong></td>
-<td><a href="https://trueinterview.io/jobs/992369b2-d548-4f2b-acda-6a26f1a820cb">Content Developer</a></td>
-<td>Mumbai, Maharashtra, India</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/MSXInternational/3743990016612496-content-developer-">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>WILD TECH</strong></td>
-<td><a href="https://trueinterview.io/jobs/6901f0f8-b48e-4d30-9b31-cfba3e041f97">MS D365 FnO Technical Developer</a></td>
-<td>North Sydney, Australia</td>
-<td align="center"><a href="https://jobs.employmenthero.com/application_jobs/b2594235-8b03-4dd0-b3a2-88b70d8c1d72/view">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Tenth Revolution Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/1b2aac18-8c25-456a-a439-18d2e688d6c5">Business Developer / Recrutement IT</a></td>
-<td>Barcelona, Catalonia, Spain</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485067636/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>MediaTek</strong></td>
-<td><a href="https://trueinterview.io/jobs/beef8178-cd6c-4cfa-a548-1c6215c53ec5">System Software Engineer</a></td>
-<td>Gyeonggi, South Korea</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486338744/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Isento GmbH</strong></td>
-<td><a href="https://trueinterview.io/jobs/29e73b85-bf1b-4e01-9133-e62f8d861731">Software Developer (m/w/d) - Schwerpunkt Angular</a></td>
-<td>Nürnberg, Deutschland</td>
-<td align="center"><a href="https://join.com/companies/isento/16910158-software-developer-m-w-d-schwerpunkt-angular?pid=a13795120131dbe48464">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/7deb5190-c8b9-417e-9ff5-497d6510c461">Software Developer - Fokus Secure Software Development (m/w/d)</a></td>
-<td>Nürnberg, Deutschland</td>
-<td align="center"><a href="https://join.com/companies/isento/16910156-software-developer-fokus-secure-software-development-m-w-d?pid=a13795120131dbe48464">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Bosch</strong></td>
-<td><a href="https://trueinterview.io/jobs/d5db9a48-5d5e-4769-91b3-bf00a4e39f7e">UX Designer/ Java developer</a></td>
-<td>bengaluru, India</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000159553918-ux-designer-java-developer">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Babel</strong></td>
-<td><a href="https://trueinterview.io/jobs/ba1a4da8-210d-4376-a678-926796687b0a">Python Developer</a></td>
-<td>Madrid, Spain</td>
-<td align="center"><a href="https://babelgroup.wd103.myworkdayjobs.com/es/REC_External_Career_Site/job/MADRID/Python-Developer_JR109667">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Eka finance</strong></td>
-<td><a href="https://trueinterview.io/jobs/060783a0-dfb0-4bb5-bbc1-34200c775839">Software Python Developers / Paris Pod/ £ Flexible</a></td>
-<td>Paris, France</td>
-<td align="center"><a href="https://www.efinancialcareers.fr/jobs-France-Paris-Software_Python_Developers__Paris_Pod_%C2%A3_Flexible.id24968808">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Leibniz Institut DSMZ - Deutsche Sammlung von Mikroorganismen und Zellkulturen GmbH</strong></td>
-<td><a href="https://trueinterview.io/jobs/a77cd910-c70e-4799-b138-9bd20e919f36">Software Developer for the MediaDive Database (m/f/d)</a></td>
-<td>Braunschweig, Deutschland</td>
-<td align="center"><a href="https://www.dsmz.de/dsmz/career/job-offer-11-26">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 </tbody>

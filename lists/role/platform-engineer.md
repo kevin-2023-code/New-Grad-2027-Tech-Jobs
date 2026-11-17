@@ -2,7 +2,7 @@
 
 # Platform Engineer
 
-**232 open roles.** 150 in the United States & Canada · 82 elsewhere in the world.
+**238 open roles.** 150 in the United States & Canada · 88 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -27,8 +27,8 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>EDB</strong></td>
 <td><a href="https://trueinterview.io/jobs/f7d9a93b-a53e-4c10-be5d-1434ac2a8155">Platform Engineer-Kubernetes Operators</a></td>
-<td>Atlanta, GA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4491706147/">Apply</a></td>
+<td>Atlanta, GA<br/>Remote - United States</td>
+<td align="center"><a href="https://www.enterprisedb.com/careers/job-openings?gh_jid=8202744003">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
@@ -1651,6 +1651,48 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/94cf7f81-5853-4beb-be21-41acdeb092b3">Platform/Product Engineer (up to £150k)</a></td>
 <td>London, England, United Kingdom</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484910274/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Aneo</strong></td>
+<td><a href="https://trueinterview.io/jobs/afc279a9-2c71-44c1-af12-193ddd1b4a02">Consultant AI &amp; Platform Engineer – CI/CD &amp; Agents IA H/F</a></td>
+<td>Montrouge, France</td>
+<td align="center"><a href="https://aneo.recruitee.com/o/consultant-ai-platform-engineer-cicd-agents-ia-hf">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>D-EDGE</strong></td>
+<td><a href="https://trueinterview.io/jobs/3db58fc3-34d9-402d-88c4-a40315b2b1ff">Platform Engineer (M/F/NB)</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://careers.d-edge.com/jobs/8636759-platform-engineer-m-f-nb">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Poly-clip System GmbH &amp; Co. KG</strong></td>
+<td><a href="https://trueinterview.io/jobs/190f58f2-6371-4077-9cfe-3aec41b5eb2d">IoT Platform Engineer (m/w/d) – Cloud &amp; Edge Connectivity</a></td>
+<td>Hattersheim, Deutschland</td>
+<td align="center"><a href="https://jobdb.softgarden.de/jobdb/public/jobdb/posting/68441237/0/0/IoT+Platform+Engineer+%28m-w-d%29+%E2%80%93+Cloud+%26+Edge+Connectivity.html">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Rijksuniversiteit Groningen</strong></td>
+<td><a href="https://trueinterview.io/jobs/6442f9a6-20ad-444a-a186-706446866d1b">General Open Orbital Dynamics Platform scientific software developer</a></td>
+<td>Groningen, Netherlands</td>
+<td align="center"><a href="https://werkenbij.rug.nl/vacature/general-open-orbital-dynamics-platform-scientific-software-developer-2523/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Capgemini</strong></td>
+<td><a href="https://trueinterview.io/jobs/54849956-39fa-4d9d-a36d-5bc3f5e3ad2d">Platform Engineer - NL</a></td>
+<td>Utrecht, Utrecht, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4478445017/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Firmus Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/c07d9155-95bf-4c95-979f-4b3c04672b0d">Platform Reliability Engineer</a></td>
+<td>Sydney, New South Wales, Australia, Australia, Singapore<br/>Melbourne, Australia<br/>Melbourne, Victoria, Australia</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/firmus/jobs/5464412008">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

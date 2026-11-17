@@ -2,7 +2,7 @@
 
 # 📱 Consumer internet & media
 
-**143 open roles.** 77 in the United States & Canada · 66 elsewhere in the world. Social, search, streaming, messaging and consumer subscription apps.
+**144 open roles.** 78 in the United States & Canada · 66 elsewhere in the world. Social, search, streaming, messaging and consumer subscription apps.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -554,6 +554,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/87d31e6f-336b-49ce-ad3c-5e571d5d2965">Research Engineer, Gemini Personalization Research, DeepMind</a></td>
 <td>Mountain View, California, United States</td>
 <td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/79768134398943942">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>LinkedIn</strong></td>
+<td><a href="https://trueinterview.io/jobs/62786e39-4434-4486-b761-f7da771bb292">Software Engineer - AI Platform</a></td>
+<td>Mountain View, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4465588693/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

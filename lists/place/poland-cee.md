@@ -2,7 +2,7 @@
 
 # 🏰 Warsaw, Kraków & Central Europe
 
-**88 open roles.** 1 in the United States & Canada · 87 elsewhere in the world.
+**90 open roles.** 1 in the United States & Canada · 89 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -643,6 +643,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/fd0c480e-6372-4635-84dc-e3ff427ec498">AI &amp; Data Engineer</a></td>
 <td>Prague<br/>Czechia<br/>Poland</td>
 <td align="center"><a href="https://job-boards.eu.greenhouse.io/shipmonk/jobs/5010216101">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Boosta</strong></td>
+<td><a href="https://trueinterview.io/jobs/b8c89c81-077a-44bf-89d4-fc2ec502c81b">AI Creative Designer</a></td>
+<td>Warszawa, Poland</td>
+<td align="center"><a href="https://grnh.se/rok3tul2teu">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sorigo</strong></td>
+<td><a href="https://trueinterview.io/jobs/8cfd15ec-14ac-4d77-aa7a-318fad7032ea">Big Data Engineer / Engineerka</a></td>
+<td>Warszawa, Poland</td>
+<td align="center"><a href="https://sorigo.recruitify.ai/job/c9169411-29b5-4d68-b1b1-6c5da23c5355">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

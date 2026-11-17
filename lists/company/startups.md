@@ -2,7 +2,7 @@
 
 # 🌱 Startups (under 200)
 
-**57 open roles.** 44 in the United States & Canada · 13 elsewhere in the world. Early-stage technology companies.
+**58 open roles.** 44 in the United States & Canada · 14 elsewhere in the world. Early-stage technology companies.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -426,6 +426,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/5dd23714-dfdb-4886-9cd0-1af1664dfbf5">Data Scientist, Pricing</a></td>
 <td>Stockholm<br/>London Area, United Kingdom</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/lovable/03e04a4e-75d6-425f-843d-684ae505fa61">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Micro1</strong></td>
+<td><a href="https://trueinterview.io/jobs/61ac526a-6b28-4db6-abd5-8e7b71a5e0dd">Software Engineer (Electron.js)</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://jobs.micro1.ai/post/8c0ddeba-5240-4059-9e61-544dd2c8292f?first_page=/careers&amp;last_page=/careers">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

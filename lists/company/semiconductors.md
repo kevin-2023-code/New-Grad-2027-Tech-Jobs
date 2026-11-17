@@ -2,7 +2,7 @@
 
 # 🔬 Semiconductors & chips
 
-**275 open roles.** 99 in the United States & Canada · 176 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
+**283 open roles.** 104 in the United States & Canada · 179 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -708,6 +708,41 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/63485b1e-d630-4682-89bf-b23f858bc1bc">Systems Validation Engineer - Data Center GPU</a></td>
 <td>Markham, Ontario, Canada</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4474800375/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f6efe6b5-af73-4437-a03a-47d82d5f322e">Software Development Engineer - GPU Libraries</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://careers.amd.com/jobs/94263/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Applied Materials</strong></td>
+<td><a href="https://trueinterview.io/jobs/0646843f-3ad9-4c49-84d9-c0fecf1e91d2">RF Electrical Engineer New College Grad- Master's (Santa Clara, CA)</a></td>
+<td>Santa Clara, CA</td>
+<td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790318196131">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Coherent Corp.</strong></td>
+<td><a href="https://trueinterview.io/jobs/11695b10-fdf6-4732-9732-f8beb28e113b">Data Analyst - Project Management Support</a></td>
+<td>Budd Lake, NJ</td>
+<td align="center"><a href="https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2015589">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>KLA</strong></td>
+<td><a href="https://trueinterview.io/jobs/9b07b4f0-6f3b-42cc-b43d-7356fb8e0cc0">System Software Engineer - Distributed Computing</a></td>
+<td>Milpitas, CA</td>
+<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/System-Software-Engineer---Distributed-Computing_2642720-1">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Micron Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/23068d40-0d7a-464e-92cd-c68ebbc6a579">CVD Equipment Development Engineer, Advanced Memory Pathfinding</a></td>
+<td>Albany, NY</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/45230506?domain=micron.com">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
@@ -1952,6 +1987,27 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/3e4fa833-8ff8-4e37-9b52-369a55082032">Engineer, Equipment Engineering</a></td>
 <td>Cavite, Calabarzon, Philippines</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484904948/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>KLA</strong></td>
+<td><a href="https://trueinterview.io/jobs/80bc44af-ccf1-46a9-877b-a1df6af4987f">Optical Practical Engineer</a></td>
+<td>—</td>
+<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Yavne-Israel/Optical-Practical-Engineer_2641244-2">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NXP Semiconductors</strong></td>
+<td><a href="https://trueinterview.io/jobs/31dbd72f-b239-4340-8d7b-8c9a7660a0d5">Working Student (f/m/d) Embedded Network Software Engineer - Automotive Ethernet</a></td>
+<td>Hamburg, Deutschland</td>
+<td align="center"><a href="https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Hamburg/Working-Student--f-m-d--Embedded-Network-Software-Engineer---Automotive-Ethernet_R-10067322">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Graphcore</strong></td>
+<td><a href="https://trueinterview.io/jobs/1fb0bf33-bdc5-4472-8286-3304725bea01">Software Infrastructure Kubernetes Engineer</a></td>
+<td>Bristol, England, United Kingdom<br/>London, UK<br/>Cambridge, UK<br/>+1 more</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/graphcore/jobs/8605734002">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

@@ -2,11 +2,11 @@
 
 # 💻 Software Engineering
 
-**7,931 open roles.** 5,278 in the United States & Canada · 2,653 elsewhere in the world.
+**8,316 open roles.** 5,477 in the United States & Canada · 2,839 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
-<sub>[← Page 8](software-engineering-8.md) · Page 9 of 20 · [Page 10 →](software-engineering-10.md)</sub>
+<sub>[← Page 8](software-engineering-8.md) · Page 9 of 21 · [Page 10 →](software-engineering-10.md)</sub>
 
 ## United States & Canada
 
@@ -15,6 +15,90 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Amazon Web Services (AWS)</strong></td>
+<td><a href="https://trueinterview.io/jobs/88fe02bf-b5f1-4c12-90b2-e67f81096db1">Software Development Engineer, Route 53</a></td>
+<td>Seattle, WA<br/>Herndon, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4460549058/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Envision Technology Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/faf58f4f-6b76-4460-b1ca-80fb1cfe89ac">Android Developer (Need Local Only )</a></td>
+<td>Alpharetta, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486191356/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>HMG AMERICA LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/307dd92e-5565-47b4-9d67-f0d337b1ab4a">Java Software Engineer</a></td>
+<td>Atlanta Metropolitan Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485741260/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>NASK</strong></td>
+<td><a href="https://trueinterview.io/jobs/260b0e89-533c-4d64-b062-997312ebf750">Software Engineer – Data Visualization &amp; UI/UX with Security Clearance</a></td>
+<td>Fairfax, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485729360/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>TekStaff IT Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/ad2a7833-7186-47d5-a3d7-fb559dd39c15">Developer</a></td>
+<td>Florida, United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486174951/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Hearst</strong></td>
+<td><a href="https://trueinterview.io/jobs/d2ef1467-8577-46e4-a347-e90f2f6cbd88">ServiceNow Developer</a></td>
+<td>Dallas, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485743212/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Ace Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/d4fdd347-41a1-4203-93d7-723557c97fe5">Embedded Systems Controls Engineer | Peoria, IL – Onsite Role | W2 Only</a></td>
+<td>Peoria, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485733278/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Ampstek</strong></td>
+<td><a href="https://trueinterview.io/jobs/653dd70d-9187-4189-9791-e8b737613b57">Software Engineer (Embedded C++)</a></td>
+<td>Denver, CO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484119343/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Anduril Industries</strong></td>
+<td><a href="https://trueinterview.io/jobs/d6eb38f0-67e3-406a-9746-637e315b1fc1">Mission Software Engineer, Vehicle Software, GenSWE</a></td>
+<td>Costa Mesa, California, United States</td>
+<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/4672868007?gh_jid=4672868007">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Blue Coding</strong></td>
+<td><a href="https://trueinterview.io/jobs/7e1d73da-05f3-4fb1-8221-487e4198d8c9">Software Engineer (V)</a></td>
+<td>Remote Latam</td>
+<td align="center"><a href="https://jobs.lever.co/bluecoding/456ce1b0-5a77-4a27-9a82-37d0074f14ec">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>CIS TECHNOLOGIES INC</strong></td>
+<td><a href="https://trueinterview.io/jobs/1a0e6e7b-6d65-4001-b418-ed485cc772fe">Salesforce Developer</a></td>
+<td>Dallas, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484355871/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Clevanoo LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/4b034b7c-e7f4-458c-92dd-59c8d9c12e1c">Peoplesoft Developer</a></td>
+<td>Okemos, MI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485731231/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Lab37</strong></td>
 <td><a href="https://trueinterview.io/jobs/82f8a835-c3df-405a-80de-5e1e83034a4d">Robotics Software Engineer</a></td>
@@ -2731,93 +2815,9 @@
 <td align="center"><a href="https://www.jobs.virginia.gov/jobs/sfp-developer-fairfax-county-virginia-united-states">Apply</a></td>
 <td align="center">1 Nov 2026</td>
 </tr>
-<tr>
-<td><strong>Northrop Grumman</strong></td>
-<td><a href="https://trueinterview.io/jobs/09eaf2f4-8e42-4380-8754-1d9292edff19">Classisfied Cybersecurity Analyst - TS/SCI</a></td>
-<td>Rolling Meadows, IL</td>
-<td align="center"><a href="https://jobs.northropgrumman.com/careers/job/1340075169143?code=JB-17946&amp;domain=ngc.com">Apply</a></td>
-<td align="center">1 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/97775c5f-bd9a-4b5f-a59f-3d3ab3231c0d">CORE Systems Engineer</a></td>
-<td>Baltimore, MD</td>
-<td align="center"><a href="https://jobs.northropgrumman.com/careers/job/1340075107829?code=JB-17946&amp;domain=ngc.com">Apply</a></td>
-<td align="center">1 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Pensa Labs</strong></td>
-<td><a href="https://trueinterview.io/jobs/4625c16e-686e-4c64-b660-a3598fff328e">Production Engineer</a></td>
-<td>Brooklyn, NY</td>
-<td align="center"><a href="https://pensa-labs.breezy.hr/p/02926266c134-production-engineer">Apply</a></td>
-<td align="center">1 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>PRI Consultants</strong></td>
-<td><a href="https://trueinterview.io/jobs/ccb017d4-609b-42a5-85eb-88b3bcbfb0c5">Software Developer</a></td>
-<td>Calgary, AB<br/>Mississauga, Canada<br/>Calgary, Canada</td>
-<td align="center"><a href="https://pri.breezy.hr/p/801cac88eb4d-software-developer">Apply</a></td>
-<td align="center">1 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>SOFTLINE TECHNOLOGY</strong></td>
-<td><a href="https://trueinterview.io/jobs/0e476222-da97-4b79-98ac-2a5daf543264">Software Developer</a></td>
-<td>Toronto, ON<br/>Toronto, Canada</td>
-<td align="center"><a href="https://softlinetechnology.com/job/title-dashed-rq11819/">Apply</a></td>
-<td align="center">1 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Solidus Technical Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/95031ad9-7a1b-49db-be9a-28a58f625e96">Systems / MBSE Engineer</a></td>
-<td>Albuquerque, NM</td>
-<td align="center"><a href="https://solidus.smartsearch.jobs/jobdetails.asp?da=_202611&amp;job_number=5389&amp;sourcename=Indeed">Apply</a></td>
-<td align="center">1 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Tsunami Tsolutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/1d5791bb-d22d-41f1-9ecf-b3c6b3454c24">QA Automation Engineer (Hybrid - Glastonbury CT)</a></td>
-<td>Glastonbury, CT</td>
-<td align="center"><a href="https://tsunami-tsolutions.breezy.hr/p/5e6dc8e040f8-qa-automation-engineer-hybrid-glastonbury-ct">Apply</a></td>
-<td align="center">1 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Mobile Career</strong></td>
-<td><a href="https://trueinterview.io/jobs/c1f0dc17-b2df-4702-943c-f1495f1ffaf7">Full-Stack Engineer, Part-Time AI Code Evaluation - Remote (United States)</a></td>
-<td>Marietta, GA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485933517/">Apply</a></td>
-<td align="center">1 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Block</strong></td>
-<td><a href="https://trueinterview.io/jobs/4ffb9e94-c4b8-49ca-86ae-d209385240df">Software Engineer, Finance Applications</a></td>
-<td>San Francisco Bay Area<br/>Bay Area, CA, United States of America</td>
-<td align="center"><a href="http://block.xyz/careers/jobs/4901418008?gh_jid=4901418008">Apply</a></td>
-<td align="center">1 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>ECLARO</strong></td>
-<td><a href="https://trueinterview.io/jobs/03e76d6b-0393-4a4d-860c-458966b409e6">Web Application Developer</a></td>
-<td>Miami, FL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4458099738/">Apply</a></td>
-<td align="center">1 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Wynen's</strong></td>
-<td><a href="https://trueinterview.io/jobs/e62fb672-3fc6-4334-814b-eabb009b9074">Software Development Trainee</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485165926/">Apply</a></td>
-<td align="center">1 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/b4dc4753-ff86-4c91-8d6d-c124bdec5c76">Software Development Engineer, Amazon Core Shopping, Buy for Me</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468307777/">Apply</a></td>
-<td align="center">1 Nov 2026</td>
-</tr>
 </tbody>
 </table>
 
-<sub>[← Page 8](software-engineering-8.md) · Page 9 of 20 · [Page 10 →](software-engineering-10.md)</sub>
+<sub>[← Page 8](software-engineering-8.md) · Page 9 of 21 · [Page 10 →](software-engineering-10.md)</sub>
 
 [← Every filter](../README.md) · [Back to the full list](../../README.md)

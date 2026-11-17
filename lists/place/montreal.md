@@ -2,7 +2,7 @@
 
 # 🥐 Montréal & Québec
 
-**43 open roles.**
+**44 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -316,6 +316,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/65f8fcf5-0b4a-4c07-b94d-e93478617ba4">Systems Integration Engineer</a></td>
 <td>Montreal, QC<br/>Montreal, Quebec, Canada</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4483796507/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Beneva</strong></td>
+<td><a href="https://trueinterview.io/jobs/289a4a40-3662-4604-988b-d25413ad8bb5">Developer Analyst</a></td>
+<td>Quebec City, Canada</td>
+<td align="center"><a href="https://beneva.wd10.myworkdayjobs.com/en-US/BenevaSite_carriere/job/Quebec-Quebec/Analyste-dveloppeur_R18167">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
