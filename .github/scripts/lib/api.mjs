@@ -24,8 +24,8 @@ export const DEFAULT_API_BASE = 'https://trueinterview.io';
 /** The largest page the API serves (`API_MAX_LIMIT` in its own spec). */
 const PAGE_SIZE = 50;
 
-/** A hard stop on the walk: 200 pages is 10,000 roles. */
-const MAX_PAGES = 200;
+/** A hard stop on the walk: 600 pages is 30,000 roles. The new-grad query reported 23,180 on 2026-11-17, past the old 200-page stop. */
+const MAX_PAGES = 600;
 
 /** How long one request may take before it is abandoned. */
 const TIMEOUT_MS = 30_000;
