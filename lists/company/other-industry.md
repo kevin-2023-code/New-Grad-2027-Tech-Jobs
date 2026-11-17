@@ -2,7 +2,7 @@
 
 # 💼 Other industries
 
-**31 open roles.** 11 in the United States & Canada · 20 elsewhere in the world. A real classification that none of the other sectors covers.
+**30 open roles.** 9 in the United States & Canada · 21 elsewhere in the world. A real classification that none of the other sectors covers.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -20,8 +20,8 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Bet365</strong></td>
 <td><a href="https://trueinterview.io/jobs/f0f35558-ca5c-482b-ad9f-cefa31db57a7">Software Engineer, Offers</a></td>
-<td>Denver, CO</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4491731559/">Apply</a></td>
+<td>Denver, Colorado, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Bet3651/744000162156269-software-engineer-offers">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
@@ -80,20 +80,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://job-boards.greenhouse.io/fairlife/jobs/5239915007">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
-<tr>
-<td><strong>Corbins</strong></td>
-<td><a href="https://trueinterview.io/jobs/4e7b7e68-aecb-4d88-b597-f77e9f42f085">PROJECT ENGINEER</a></td>
-<td>Austin, TX<br/>Reno, Nevada, United States<br/>Austin, Texas, United States<br/>+1 more</td>
-<td align="center"><a href="https://corbins.us/careers?gh_jid=4662733008">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Holder Construction</strong></td>
-<td><a href="https://trueinterview.io/jobs/09a4bb11-6d5d-471b-8b7a-fab86ebea644">Office Engineer - Entry Level</a></td>
-<td>Pittsburgh, PA<br/>Shippingport, PA<br/>Ohio</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/holderconstruction/jobs/4472151009">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -106,6 +92,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Bet365</strong></td>
+<td><a href="https://trueinterview.io/jobs/d80e69c5-f788-4c10-bc7a-c86522db22e8">Copy of Motion Graphics Designer – Growth Media</a></td>
+<td>Sofia, Sofia-Capital, Bulgaria</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Bet3651/744000162091308-copy-of-motion-graphics-designer-growth-media">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Accorhotel</strong></td>
 <td><a href="https://trueinterview.io/jobs/cd484082-6c87-4d50-a9d1-17f4abc487c0">Manutentore Albergo - Shift Engineer</a></td>

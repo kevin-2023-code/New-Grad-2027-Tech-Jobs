@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**1,101 open roles.** 890 in the United States & Canada · 211 elsewhere in the world.
+**953 open roles.** 786 in the United States & Canada · 167 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -31,6 +31,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/ac0d0f6a-c821-47fd-88ec-f6bf88555efb">IT Support</a></td>
 <td>Columbus, IN</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4491576621/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>GR8 Tech</strong></td>
+<td><a href="https://trueinterview.io/jobs/e4397d68-213c-48c2-8fa9-ecb500f11eae">Middle L1 Technical Support Specialist</a></td>
+<td>Europe<br/>Armenia<br/>Georgia</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/GR8-TECH/dff790dc-e1f2-4cec-b112-5c77f738a0b7">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/259b8499-2998-4943-867a-4e346e4e0236">Technical System Administrator</a></td>
 <td>Manhattan, NY<br/>Baltimore, MD</td>
 <td align="center"><a href="https://vervichr.apscareerportal.com/j/036vcsp">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>J.W. Speaker Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/28a2df7d-5cf8-48d5-8830-bf87e4da418e">Service Desk Specialist</a></td>
-<td>Germantown, WI</td>
-<td align="center"><a href="https://recruiting.ultipro.com/JWS1000/JobBoard/3f2cb93c-c041-b65a-1edb-09573a51de1a/OpportunityDetail?opportunityId=66b81acb-c175-4d82-9cf6-3dcaac5a9d4e&amp;postingId=d372d84c-7485-4aac-9c1e-dd57b46e02e3">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 </tbody>

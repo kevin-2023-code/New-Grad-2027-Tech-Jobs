@@ -2,7 +2,7 @@
 
 # Product Manager
 
-**224 open roles.** 112 in the United States & Canada · 112 elsewhere in the world.
+**205 open roles.** 107 in the United States & Canada · 98 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -766,41 +766,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4468261153/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
-<tr>
-<td><strong>V-Soft Consulting Group, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/ec851003-c105-4f90-b092-57646c334288">Technical Product Owner</a></td>
-<td>Louisville, KY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4475457068/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>TEKsystems</strong></td>
-<td><a href="https://trueinterview.io/jobs/acb3410c-f5e8-464e-a4a0-668bb8dd0e7d">Product Owner</a></td>
-<td>Ottawa, Ontario, Canada</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484902789/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Skill</strong></td>
-<td><a href="https://trueinterview.io/jobs/4a64d46f-43c6-4a8d-9398-082bc9ac9e17">Product Owner, Mobile Application [SK-24396]</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484908629/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>FedEx</strong></td>
-<td><a href="https://trueinterview.io/jobs/85d71bf1-1841-43cc-b160-def597cb7b21">USI Marketing Product Management Advisor</a></td>
-<td>Collierville, TN</td>
-<td align="center"><a href="https://careers.fedex.com/usi-marketing-product-management-advisor/job/P25-392383-1">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Manulife</strong></td>
-<td><a href="https://trueinterview.io/jobs/10e4296a-aa84-4cac-b731-eeb81d8786d1">Digital Product Owner</a></td>
-<td>Waterloo, ON<br/>Waterloo, Canada</td>
-<td align="center"><a href="https://careers.manulife.com/global/en/job/JR26101297/Digital-Product-Owner">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -1497,104 +1462,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/763dd192-c5ee-45b6-a96b-28d87beb0897">Product Owner (m/w/d)</a></td>
 <td>Greater Rostock Region</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4478432712/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>FFB | Fidelity International</strong></td>
-<td><a href="https://trueinterview.io/jobs/f2263ff3-90c3-4ad8-9461-39df763bf36e">Product Owner – Altersvorsorgedepot</a></td>
-<td>Kronberg, Hesse, Germany</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484929953/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>ToBeIT</strong></td>
-<td><a href="https://trueinterview.io/jobs/a712743b-7dfa-426a-9fb3-76eb9868b6a8">Product Owner Negocio</a></td>
-<td>Pozuelo de Alarcón, Spain</td>
-<td align="center"><a href="https://tobeit.factorial.com/job_posting/product-owner-negocio-331162">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>NGS Super</strong></td>
-<td><a href="https://trueinterview.io/jobs/4f83548b-20e4-44e1-84ee-0637e95d752d">Salesforce Product Owner</a></td>
-<td>Sydney, New South Wales, Australia</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467765931/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Lentl</strong></td>
-<td><a href="https://trueinterview.io/jobs/1f4fa02c-88cd-4b17-87b8-9780905b5f96">AI-product owner</a></td>
-<td>Oss, North Brabant, Netherlands</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4479345603/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>MAG – Marketplace Amplifier GmbH</strong></td>
-<td><a href="https://trueinterview.io/jobs/24f78ac5-95fb-4ca8-991a-52805a241c9c">Technical Product Owner ERP &amp; Logistics (m/w/d)</a></td>
-<td>Ober-Ramstadt, Hesse, Germany</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484927724/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Serviguidebpo</strong></td>
-<td><a href="https://trueinterview.io/jobs/b7f3bf20-916c-4076-91dd-df1c279ee9ee">Product Owner E-Commerce</a></td>
-<td>Madrid, Spain</td>
-<td align="center"><a href="https://sgtech.viterbit.site/product-owner-e-commerce-Xpfa2wupMTj5/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>University Hospital Basel</strong></td>
-<td><a href="https://trueinterview.io/jobs/70977162-ee60-47cb-b699-373caeadfbde">Product Owner Netzwerkplattform</a></td>
-<td>Basel, Basel, Switzerland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4479835807/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Blaser Group GmbH</strong></td>
-<td><a href="https://trueinterview.io/jobs/831ffa5b-31bf-43ba-a40a-bc2550f5db8b">Product Owner B2B E-Commerce (m/w/d)</a></td>
-<td>Isny im Allgäu, Baden-Württemberg, Germany<br/>Isny im Allgäu, Deutschland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484924310/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Experis UK</strong></td>
-<td><a href="https://trueinterview.io/jobs/5d797712-2a2f-4992-b81c-bc793d057759">SVP - Product Management</a></td>
-<td>Derbyshire, England, United Kingdom</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484906614/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Bpifrance</strong></td>
-<td><a href="https://trueinterview.io/jobs/c86b79c6-b0cd-409b-acbe-a49d6159e22c">Product Owner Comptabilité F/H</a></td>
-<td>Maisons-Alfort, France</td>
-<td align="center"><a href="https://talents.bpifrance.fr/opportunites/product-owner-comptabilite-f-h/?id=10197-53">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>CONSORT Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/e63bef12-b530-47a3-81d7-1363a6a89ae9">Proxy Product Owner H/F Consortia - Testing, Développement, Data &amp; IA · Lyon</a></td>
-<td>Lyon, France</td>
-<td align="center"><a href="https://careers.consort-group.com/jobs/8634925-proxy-product-owner-h-f">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>HC</strong></td>
-<td><a href="https://trueinterview.io/jobs/05054929-8acd-46b1-9a92-b95132547111">Product Owner applicatif à Nantes (H/F) (IT) / Freelance</a></td>
-<td>Nantes, France</td>
-<td align="center"><a href="https://www.free-work.com/fr/tech-it/job-mission/product-owner/product-owner-api-a-nantes-h-f-1">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Exame | Saint Paul</strong></td>
-<td><a href="https://trueinterview.io/jobs/a99f3386-e573-482a-8e75-951e3e68f126">Product Owner Pleno</a></td>
-<td>São Paulo, EXAME - SÃO PAULO</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/exame/jobs/6237961004">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Serrala</strong></td>
-<td><a href="https://trueinterview.io/jobs/1c0bdfa2-fdb3-4b60-9f22-cbfa6c08dddf">Product Owner (SAP)</a></td>
-<td>Pune District, Maharashtra, India</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476760968/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

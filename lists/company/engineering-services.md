@@ -2,7 +2,7 @@
 
 # 📐 Engineering & architecture firms
 
-**43 open roles.** 21 in the United States & Canada · 22 elsewhere in the world. Civil, structural and environmental engineering and AEC consultancies.
+**40 open roles.** 18 in the United States & Canada · 22 elsewhere in the world. Civil, structural and environmental engineering and AEC consultancies.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -141,27 +141,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/86a8ebdf-2911-478c-a3e1-cfbdb4ab8064">Telecom HFC Designer</a></td>
 <td>Denver, CO<br/>North Kansas City, MO<br/>Overland Park, KS<br/>+2 more</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5466827008">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>ms consultants, inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/0c79d178-169a-4836-b20b-17c12434f5a0">Electrical Engineer, Water/Wastewater</a></td>
-<td>Pittsburgh, PA<br/>Columbus, OH<br/>Cleveland, OH<br/>+2 more</td>
-<td align="center"><a href="https://jobs.lever.co/msconsultants/0ad07367-8275-4ab8-a255-92e95d70de36">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Dlr Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/c5bce2e0-2d2d-4a26-b1e4-aff44011ad4d">Structural Engineer</a></td>
-<td>Chicago, Illinois, United States, Minneapolis<br/>Orlando, Florida, United States<br/>West Palm Beach, Florida, United States<br/>+3 more</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/dlrgroup/jobs/5134062008">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>WSP</strong></td>
-<td><a href="https://trueinterview.io/jobs/3125d03c-9423-46a8-9ede-cc597449e028">Early Career Electrical Engineer - Renewables</a></td>
-<td>Billings, MT, United States</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96744">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

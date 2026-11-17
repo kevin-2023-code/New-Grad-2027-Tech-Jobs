@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**1,426 open roles.** 971 in the United States & Canada · 455 elsewhere in the world.
+**1,272 open roles.** 898 in the United States & Canada · 374 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -24,6 +24,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/bc098875-c487-4e00-966a-49ccfa8db5f9">Power Electronics Hardware Engineer – NPI/Prototype Bring-Up</a></td>
 <td>Olathe, KS</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4491423176/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ALTEN Technology USA</strong></td>
+<td><a href="https://trueinterview.io/jobs/f8e1302a-a5b2-41a3-8823-b6214282ce54">Hardware Test Engineer</a></td>
+<td>Mountain View, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4473278578/">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/7fb092e6-0f29-4fcc-8046-44a7de659718">Electrical Engineer, Avionics</a></td>
 <td>Long Beach, California, United States</td>
 <td align="center"><a href="https://boards.greenhouse.io/vast/jobs/4726923006?gh_jid=4726923006">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Lockheed Martin</strong></td>
-<td><a href="https://trueinterview.io/jobs/a6877f2d-bf2c-4a25-a317-9f7ea47d57b3">Hardware Engineer</a></td>
-<td>Dartmouth, Nova Scotia, Canada</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485504356/">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 </tbody>

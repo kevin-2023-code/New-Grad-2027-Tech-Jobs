@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**1,426 open roles.** 971 in the United States & Canada · 455 elsewhere in the world.
+**1,272 open roles.** 898 in the United States & Canada · 374 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Lockheed Martin</strong></td>
+<td><a href="https://trueinterview.io/jobs/a6877f2d-bf2c-4a25-a317-9f7ea47d57b3">Hardware Engineer</a></td>
+<td>Dartmouth, Nova Scotia, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485504356/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>AECOM</strong></td>
 <td><a href="https://trueinterview.io/jobs/1655b105-f58d-48b3-9b59-ca2356e52aab">Civil Engineer - Highways</a></td>
@@ -2806,13 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/7c9a6911-db43-442b-aaf8-b0f27e1e8dc1">Mechatronics Engineer – Robotics &amp; Grasping</a></td>
 <td>Vancouver, BC<br/>Vancouver, British Columbia, Canada</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484986908/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>iAutomation</strong></td>
-<td><a href="https://trueinterview.io/jobs/870875fd-c5b2-46d4-8549-9297a0fd21c1">Engineer Electrical Engineering</a></td>
-<td>Franklin, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4474411425/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**1,101 open roles.** 890 in the United States & Canada · 211 elsewhere in the world.
+**953 open roles.** 786 in the United States & Canada · 167 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>J.W. Speaker Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/28a2df7d-5cf8-48d5-8830-bf87e4da418e">Service Desk Specialist</a></td>
+<td>Germantown, WI</td>
+<td align="center"><a href="https://recruiting.ultipro.com/JWS1000/JobBoard/3f2cb93c-c041-b65a-1edb-09573a51de1a/OpportunityDetail?opportunityId=66b81acb-c175-4d82-9cf6-3dcaac5a9d4e&amp;postingId=d372d84c-7485-4aac-9c1e-dd57b46e02e3">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Axs</strong></td>
 <td><a href="https://trueinterview.io/jobs/c56d628b-461a-40fb-bd3b-d66c20b40242">IT Specialist I (Field)</a></td>
@@ -2710,110 +2717,115 @@
 <td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/172c522b-b085-401b-8bd6-c7e98c1da318">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
+</tbody>
+</table>
+
+## Elsewhere in the world
+
+_Roles outside the United States & Canada, and roles whose country the catalog could not read._
+
+<table>
+<thead>
+<tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
+</thead>
+<tbody>
 <tr>
-<td><strong>Star Catcher</strong></td>
-<td><a href="https://trueinterview.io/jobs/cb963975-79e8-422c-a474-d1ab7611fa91">IT Support Technician</a></td>
-<td>Jacksonville, FL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476909058/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
+<td><strong>dRofus</strong></td>
+<td><a href="https://trueinterview.io/jobs/f633d55d-8df7-4820-9b22-cf86fe2969ef">Technical Support Specialist – Tier 1</a></td>
+<td>London, England, United Kingdom</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/NemetschekSE2/744000162139209-technical-support-specialist-tier-1-">Apply</a></td>
+<td align="center">17 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Fleet Response</strong></td>
-<td><a href="https://trueinterview.io/jobs/29aa57df-1421-4127-9b84-64a3ad7402dd">Help Desk Support Engineer I</a></td>
-<td>Hudson, OH</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476506988/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
+<td><strong>Levio</strong></td>
+<td><a href="https://trueinterview.io/jobs/6a0f0480-91c9-42c3-810e-11294677f17c">IT Support and Services Coordinator</a></td>
+<td>Montréal or Québec</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/levio/jobs/8943226002">Apply</a></td>
+<td align="center">17 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Careerscape</strong></td>
-<td><a href="https://trueinterview.io/jobs/79a9febc-cac8-4965-9781-a4f91b06a215">Remote Help Desk Assistant</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4478989517/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
+<td><strong>Veolia</strong></td>
+<td><a href="https://trueinterview.io/jobs/e6248fa6-53c1-483d-b8d3-cde99b96b1ce">Technical Support Engineer</a></td>
+<td>Lane End, England, United Kingdom</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000162041660-technical-support-engineer">Apply</a></td>
+<td align="center">17 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Mitsubishi Power Americas</strong></td>
-<td><a href="https://trueinterview.io/jobs/01fbbaf9-a55b-43b7-a99e-95047cfa30c5">Data Systems Administrator</a></td>
-<td>Orlando, FL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4472742495/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
+<td><strong>Emed</strong></td>
+<td><a href="https://trueinterview.io/jobs/0e4f9f62-045d-45b9-8359-e4b7bc5915d9">IT Support Engineer (1st Line)</a></td>
+<td>London, England</td>
+<td align="center"><a href="https://www.emed.com/uk/job?gh_jid=5039911101">Apply</a></td>
+<td align="center">17 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Canvas</strong></td>
-<td><a href="https://trueinterview.io/jobs/f42a0798-4921-41ad-8601-a8852b47b3c7">Network Administrator</a></td>
-<td>Holloman Air Force Base, NM</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468279044/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
+<td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/97550800-a38f-4c2f-af4c-2d0f75685a7d">Data Center Technical Support Operations Engr, AWS Infra-operation DCEO</a></td>
+<td>Zhongwei, People's Republic of China</td>
+<td align="center"><a href="https://www.amazon.jobs/en/jobs/10606895/data-center-technical-support-operations-engr-aws-infra-operation-dceo">Apply</a></td>
+<td align="center">17 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>White Pine County</strong></td>
-<td><a href="https://trueinterview.io/jobs/45569f1f-7a7b-44d8-9bfe-e57ef09b4633">IT Help Desk</a></td>
-<td>Ely, NV</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484945363/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
+<td><strong>Emerson</strong></td>
+<td><a href="https://trueinterview.io/jobs/f6de9e97-2523-49ab-b509-eed39e34e15d">Technical Support Representative with Hungarian</a></td>
+<td>CLUJ NAPOCA, CLUJ, Romania</td>
+<td align="center"><a href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008685">Apply</a></td>
+<td align="center">17 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Bart &amp; Associates, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/0a254f3d-bc17-43f6-a4de-e492b23380f0">Windows Systems Administrator</a></td>
-<td>Alexandria, VA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4448264466/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/76622a6a-9eb4-4df1-8144-76317fb9af9e">Technical Support Representative with Italian</a></td>
+<td>CLUJ NAPOCA, CLUJ, Romania</td>
+<td align="center"><a href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011978">Apply</a></td>
+<td align="center">17 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Wexford Health Sources</strong></td>
-<td><a href="https://trueinterview.io/jobs/944e2cb6-da70-4f56-a915-ee36a2ea11d9">HelpDesk Support Specialist</a></td>
-<td>Pittsburgh, PA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484932977/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
+<td><strong>Walden Security</strong></td>
+<td><a href="https://trueinterview.io/jobs/01415e9e-1e44-4e04-93f0-8ea80d5bf4a5">Part Time Security Officer - Ridgeville, SC</a></td>
+<td>Charleston</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/waldensecurity/jobs/5296583007">Apply</a></td>
+<td align="center">16 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Cognizant</strong></td>
-<td><a href="https://trueinterview.io/jobs/a5fc2272-6c81-4c13-a74c-9a715fed19a0">IT Support - Executive</a></td>
-<td>Raleigh, NC</td>
-<td align="center"><a href="https://careers.cognizant.com/global-en/jobs/00070879741/it-support-executive/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
+<td><strong>Spatial Data Logic</strong></td>
+<td><a href="https://trueinterview.io/jobs/aa136274-4c20-46e7-a25d-ff515f929b4e">Technical Support Specialist</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://ats.rippling.com/sdl/jobs/f691c2cb-a11a-487f-8182-12a758573ecd?jobSite=Indeed">Apply</a></td>
+<td align="center">16 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Alexander Technology Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/96a2ab1e-f980-4fed-92f5-24a0421c5523">Cloud Database Engineer / Modern DBA</a></td>
-<td>Dedham, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4446256121/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
+<td><strong>Merative</strong></td>
+<td><a href="https://trueinterview.io/jobs/27a49cd7-c7a2-43f9-9352-d61b2553fd4f">Technical Support Engineer I</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://merative.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Remote--United-States/Technical-Support-Engineer-I_JR01777">Apply</a></td>
+<td align="center">16 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Perkins&amp;Will</strong></td>
-<td><a href="https://trueinterview.io/jobs/8271036b-80ec-4be4-8eca-6ff7e9587508">IT Technician I</a></td>
-<td>Denver, CO</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4459011159/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
+<td><strong>NV5</strong></td>
+<td><a href="https://trueinterview.io/jobs/46a73a3f-8d17-4fc4-8902-da8712e6c808">Geospatial Systems Administrator</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://uscareers-nv5jobs.icims.com/jobs/26234/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">16 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Legora</strong></td>
-<td><a href="https://trueinterview.io/jobs/9d838628-5927-4e5c-9c8d-0ed188851ed0">Workplace Network Engineer</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4474457840/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
+<td><strong>Sapiens</strong></td>
+<td><a href="https://trueinterview.io/jobs/b14ffe8c-6be6-473c-8fdf-dc01a2f8c2f1">L2 Support Engineer (AI)</a></td>
+<td>London, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491227763/">Apply</a></td>
+<td align="center">15 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Communication Service for the Deaf (CSD)</strong></td>
-<td><a href="https://trueinterview.io/jobs/60ac465e-06e9-4fe4-9dc7-2531b4da0bdc">IT Support Specialist</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484929762/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
+<td><strong>Foundever</strong></td>
+<td><a href="https://trueinterview.io/jobs/1eb3e2b9-ca86-47f1-b3e9-bb9d7c550449">Work at Home - Seasonal Customer Service/Technical Support 1</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://jobs.foundever.com/job/Remote-Work-at-Home-Seasonal-Customer-ServiceTechnical-Support-1-Any/1450549400/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Bart &amp; Associates, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/395d5981-0225-4b5a-9e6f-e9f46c7cc48e">Database Administrator</a></td>
-<td>Alexandria, VA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4448264465/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Bank of Hope</strong></td>
-<td><a href="https://trueinterview.io/jobs/a9a685c3-834c-4315-aa23-cc6908b1f3f6">IT Analyst I - Desktop</a></td>
-<td>Gardena, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4446699443/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
+<td><strong>FujiFilm</strong></td>
+<td><a href="https://trueinterview.io/jobs/8905bbb6-22e5-485e-afa1-3c2d99e8ae18">Tech Support Engineer, MI - 1</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://uscareers-fujifilm.icims.com/jobs/39231/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">13 Nov 2026</td>
 </tr>
 </tbody>
 </table>

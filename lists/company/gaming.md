@@ -2,7 +2,7 @@
 
 # 🎮 Gaming & interactive
 
-**8 open roles.** 3 in the United States & Canada · 5 elsewhere in the world. Games, game engines and interactive entertainment.
+**9 open roles.** 4 in the United States & Canada · 5 elsewhere in the world. Games, game engines and interactive entertainment.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>Roblox</strong></td>
+<td><a href="https://trueinterview.io/jobs/c8eb94b7-9c27-4d1a-8f73-bdeae5388dcb">Software Engineer, Communication Safety</a></td>
+<td>San Mateo, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491408303/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/771697b2-03ef-4fee-9bf0-ba8df53fab8a">Software Engineer, Data Access</a></td>
 <td>San Mateo, CA</td>
 <td align="center"><a href="https://careers.roblox.com/jobs/8168881?gh_jid=8168881">Apply</a></td>

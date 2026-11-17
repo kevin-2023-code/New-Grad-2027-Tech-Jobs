@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**994 open roles.** 990 in the United States & Canada · 4 elsewhere in the world.
+**945 open roles.** 942 in the United States & Canada · 3 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,62 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Generalist</strong></td>
+<td><a href="https://trueinterview.io/jobs/77d30662-9e55-4eeb-9351-8b7bc160901b">Forward Deployed Engineer</a></td>
+<td>San Mateo, CA<br/>Boston (Somerville)<br/>San Francisco Bay Area (San Mateo)</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/generalist/15b3d06b-ffa9-495a-b56f-d662c9be2b86">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Andromeda Cluster</strong></td>
+<td><a href="https://trueinterview.io/jobs/3029be66-5511-45f6-867b-683a8eb5b384">Network Engineer</a> 🌐</td>
+<td>Remote — United States<br/>North America Remote / San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/andromeda/85dccef8-520e-4087-abc0-ca840b950ed8">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/1c938c63-ac88-4430-b1d7-9ca7028a432a">Deployment Engineer</a> 🌐</td>
+<td>Remote — United States<br/>North America Remote / San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/andromeda/3b90958e-9272-489b-9570-81b593aff398">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Samba</strong></td>
+<td><a href="https://trueinterview.io/jobs/0fc316aa-579d-4f46-8480-4932515ea89c">Data Scientist</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4478412192/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/a9bbb85c-d230-46c5-bb15-7b651ec410db">AI GTM Engineer</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4478406342/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Terranova Talent Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/f9009e42-545e-4c06-a5ff-6c5d0927318b">Software Engineer</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486507844/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>TikTok</strong></td>
+<td><a href="https://trueinterview.io/jobs/4bf077d2-de48-477b-8f0c-d8f36038c30c">Research Engineer - TikTok Ads Core ML, Ranking</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486519361/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/3303590d-9d42-4f11-a19d-6486eb565736">Wireless RF OTA Connectivity Validation Engineer</a></td>
+<td>Cupertino, California, United States<br/>Santa Clara, California, United States</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200693288">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Xforia Global Talent &amp; Technology Solutions</strong></td>
 <td><a href="https://trueinterview.io/jobs/4ea2c2fb-d963-4544-990a-7a77dc9d2e7e">Product Data Scientist - W2 Contract / H1 Transfer</a></td>
@@ -2757,62 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/255f2c54-4396-4811-9b37-2982ee806fa9">Web Developer, Marketing Site</a></td>
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484830162/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>OpenAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/b404db48-d97c-446a-9f3d-3b3f71095d6b">Service Designer, Intelligence &amp; Investigations</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484817462/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Chart Industries, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/46bf2890-a669-4293-97b1-a77dc76277bd">Application Engineer</a></td>
-<td>Fremont, CA<br/>Austin, TX<br/>Sparks, NV<br/>+18 more</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483411916/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Archer</strong></td>
-<td><a href="https://trueinterview.io/jobs/f8ff1893-4ec1-481b-8bad-b388cdb05ed5">Software Engineer, Agent (Brazilian Portuguese speaking)</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484831147/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/7e32c714-61c4-437e-b796-c1e917f16d53">Sustaining and Validation Hardware Engineer (Bash Scripting)</a></td>
-<td>Santa Clara, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484820493/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/08b83d2f-f96b-4cda-ac8e-663f2a178315">Software Engineer, Agent - Retail</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484832089/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/86926edc-cc92-4b54-a41d-90f513aba3cb">Software Engineer, Inference</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484823354/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Danta Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/1656f388-ffe1-4d71-a40a-60afe1ecf0cd">Data Scientist � Machine Learning, Deep Learning &amp; Agentic AI</a></td>
-<td>San Jose, CA<br/>Berkeley, CA<br/>Atlanta, GA<br/>+1 more</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485294763/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Zipline</strong></td>
-<td><a href="https://trueinterview.io/jobs/0258fd8f-541a-432c-a6e1-bea4054cc02e">Software Engineer, Production Test</a></td>
-<td>South San Francisco, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485287944/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 </tbody>

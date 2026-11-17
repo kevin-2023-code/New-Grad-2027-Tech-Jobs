@@ -2,7 +2,7 @@
 
 # 🌵 Phoenix & Arizona
 
-**154 open roles.** 152 in the United States & Canada · 2 elsewhere in the world.
+**146 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>EY</strong></td>
+<td><a href="https://trueinterview.io/jobs/4ffebfc3-4a91-494e-a919-20020ab91514">Project-Based Long Duration, Service Delivery Center, Java Developer - Analyst</a></td>
+<td>Phoenix, AZ</td>
+<td align="center"><a href="https://career5.successfactors.eu/career?career_ns=job_listing&amp;company=EYHRISPRD1&amp;rcm_site_locale=en_US&amp;career_job_req_id=1761430">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Galent</strong></td>
+<td><a href="https://trueinterview.io/jobs/f1ab9dbb-b3e6-4a93-a9fc-415eaac124cb">Mean Stack Developer</a></td>
+<td>Phoenix, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490810348/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Pima County</strong></td>
 <td><a href="https://trueinterview.io/jobs/c9c54832-ba63-4fbe-902e-72db0aec5d0d">ITSD - Software Engineer I</a></td>
@@ -484,13 +498,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/09a4bf09-918c-4b40-838d-58f3ab1d2535">Cloud-Native Engineer</a></td>
 <td>Phoenix, AZ</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485541140/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Infosys</strong></td>
-<td><a href="https://trueinterview.io/jobs/46ec0005-d735-479c-8d79-e515a89536d9">IOS Developer</a></td>
-<td>Phoenix, AZ<br/>Richardson, TX<br/>Johnston, RI</td>
-<td align="center"><a href="https://digitalcareers.infosys.com/global-careers/company-job/description/reqid/155644BR">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
@@ -1030,81 +1037,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/82c8508a-eded-44ab-b9f8-e4174042fd7d">Help Desk/Desktop Support Analyst</a></td>
 <td>Tucson, AZ<br/>Monrovia, CA<br/>White Plains, NY<br/>+4 more</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484459864/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Swift Placement and Consulting</strong></td>
-<td><a href="https://trueinterview.io/jobs/1bd6d618-bb10-4159-a88b-c7c80d2b815d">CNC Machine Tool Sales Engineer</a></td>
-<td>Phoenix, AZ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477127107/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Jobot Consulting</strong></td>
-<td><a href="https://trueinterview.io/jobs/06874d5d-2078-41b1-9cd9-b92a4d78db94">Avionics Systems Engineer – Display Systems</a></td>
-<td>Phoenix, AZ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484913855/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Raytheon</strong></td>
-<td><a href="https://trueinterview.io/jobs/d934332c-ebff-4a83-81c5-f0d86579e57a">RF Mechanical Engineer I</a></td>
-<td>Tucson, AZ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484795846/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Cognizant</strong></td>
-<td><a href="https://trueinterview.io/jobs/4b47642f-ae11-4f49-a387-92d89e486086">IT Service Desk</a></td>
-<td>Mesa, AZ</td>
-<td align="center"><a href="https://careers.cognizant.com/global-en/jobs/00071024601/it-service-desk/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Copper State Credit Union</strong></td>
-<td><a href="https://trueinterview.io/jobs/d9934d96-79a2-4181-9a0e-1b72c42ff9e5">Data Integration Analyst</a></td>
-<td>Phoenix, AZ</td>
-<td align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4625840/Copper-State-Credit-Union/Data-Integration-Analyst">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Software Technology, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/36e61de6-2ede-4ec9-af2e-d1cc3f5f27bd">F5 Load balancing engineer :: Chandler, AZ Hybrid</a></td>
-<td>Chandler, AZ</td>
-<td align="center"><a href="https://stiorg.applicantstack.com/x/detail/a2jv0tkm329y/aaac">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Grand Canyon University</strong></td>
-<td><a href="https://trueinterview.io/jobs/02246639-f62c-46fa-a7e2-b9dd2bf6dfa3">Electrical Design Principles II &amp; Lab – Adjunct Faculty – Traditional Campus (Spring 2027) – College of Engineering and Technology</a></td>
-<td>Phoenix, AZ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484420582/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-</tbody>
-</table>
-
-## Elsewhere in the world
-
-_Roles outside the United States & Canada, and roles whose country the catalog could not read._
-
-<table>
-<thead>
-<tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>Cirrus Logic</strong></td>
-<td><a href="https://trueinterview.io/jobs/7ceb4106-c052-45aa-b100-a556553fbb59">Analog Design Engineer (DG)</a></td>
-<td>Chandler, Arizona<br/>Edinburgh, Scotland, United Kingdom<br/>Austin, Texas<br/>+1 more</td>
-<td align="center"><a href="https://jobs.eu.lever.co/cirrus/c2356727-770d-4596-b884-013798c28582">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/d051c1a3-df3d-4eeb-b4d8-324f08e4eb6d">Digital Design Engineer (TR-NWB)</a></td>
-<td>Chandler, Arizona<br/>Austin, TX<br/>Edinburgh, Scotland<br/>+3 more</td>
-<td align="center"><a href="https://jobs.eu.lever.co/cirrus/e392cbc9-0291-4330-b963-5a61defd43f3">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
