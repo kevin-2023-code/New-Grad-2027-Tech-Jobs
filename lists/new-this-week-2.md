@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**788 open roles.** 592 in the United States & Canada · 196 elsewhere in the world. Everything the employers put up this week.
+**791 open roles.** 591 in the United States & Canada · 200 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -1352,13 +1352,6 @@
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487926115/">Apply</a></td>
 <td align="center">9 Nov 2026</td>
 </tr>
-<tr>
-<td><strong>Generis Tek Inc</strong></td>
-<td><a href="https://trueinterview.io/jobs/ce36fc17-98ad-4a51-9c5d-a3178c75cc51">UX Designer-Hybrid</a></td>
-<td>Dallas, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487792427/">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -1372,6 +1365,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Patrianna</strong></td>
+<td><a href="https://trueinterview.io/jobs/bd021a37-4ea5-4e85-a033-2129870e9262">Product Owner</a></td>
+<td>Gibraltar<br/>Bulgaria<br/>Poland<br/>+1 more</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/patrianna/39e91b7c-60c4-41fd-96ba-6b55122bb6b4">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Accorhotel</strong></td>
 <td><a href="https://trueinterview.io/jobs/cd484082-6c87-4d50-a9d1-17f4abc487c0">Manutentore Albergo - Shift Engineer</a></td>
 <td>Rome, Lazio, Italy</td>
@@ -1383,6 +1383,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/cfaee2a4-3e4e-4cfe-9a94-e48940b72b6e">Ingénieur FPGA - Systèmes Spatiaux (H/F)</a></td>
 <td>Toulouse, Occitanie, France</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Scalian/744000162049082--ingenieur-fpga-systemes-spatiaux-h-f-">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>SAP IT Business Systeme</strong></td>
+<td><a href="https://trueinterview.io/jobs/d492e5c5-21ef-4da0-8608-4ba68e397468">Working Student - User Experience Researcher @ SAP Ariba Procurement</a></td>
+<td>Walldorf, Germany</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000162049999-working-student-user-experience-researcher-sap-ariba-procurement">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
@@ -1411,6 +1418,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/57a7593d-c895-47b1-8dba-b935849b24bd">General Maintenance Technician - Chemical Engineer</a></td>
 <td>Udaipur, Rajasthan, India</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/AccorHotel/744000162039900-general-maintenance-technician-chemical-engineer">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Emed</strong></td>
+<td><a href="https://trueinterview.io/jobs/0e4f9f62-045d-45b9-8359-e4b7bc5915d9">IT Support Engineer (1st Line)</a></td>
+<td>London, England</td>
+<td align="center"><a href="https://www.emed.com/uk/job?gh_jid=5039911101">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
@@ -2433,6 +2447,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/788a1cb9-adb0-4325-93ef-4e4b0d1fcfc0">Junior AI Developer - SAP Signavio Process.AI (limited contract)</a></td>
 <td>Brno-střed, Jihomoravský kraj, Czechia</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000161239549-junior-ai-developer-sap-signavio-process-ai-limited-contract-">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Coupang</strong></td>
+<td><a href="https://trueinterview.io/jobs/bb7de7ea-f6f0-4a70-853c-34bf584138f6">[쿠팡파이낸셜] Data Scientist (Credit Strategy)</a></td>
+<td>Seoul, South Korea</td>
+<td align="center"><a href="https://www.coupang.jobs/en/jobs/?gh_jid=8381980">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # ⚡ Energy, climate & industrial
 
-**13 open roles.** 10 in the United States & Canada · 3 elsewhere in the world. Energy, climate technology, utilities, manufacturing and industrials.
+**12 open roles.** 10 in the United States & Canada · 2 elsewhere in the world. Energy, climate technology, utilities, manufacturing and industrials.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -112,13 +112,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Bad Schwartau, Deutschland</td>
 <td align="center"><a href="https://wir-sind-voltus.de/2026/09/17/e-commerce-data-engineer-m-w-d/">Apply</a></td>
 <td align="center">1 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Protolabs</strong></td>
-<td><a href="https://trueinterview.io/jobs/be5713a2-eb58-49a2-b854-a3499ceb911a">Manufacturing Engineer</a></td>
-<td>Telford, England, United Kingdom</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4446310500/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # 🌍 Dubai, Cairo, Lagos & Africa
 
-**61 open roles.** 1 in the United States & Canada · 60 elsewhere in the world.
+**59 open roles.** 1 in the United States & Canada · 58 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -436,24 +436,10 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Stylo</strong></td>
-<td><a href="https://trueinterview.io/jobs/a53cc815-724a-460c-916b-fa7b5ef430b5">Data Protection Analyst</a></td>
-<td>Dubai, UAE</td>
-<td align="center"><a href="https://styloshoes.site/jobs/data-protection-analyst/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Zapegg Tax Consultant</strong></td>
 <td><a href="https://trueinterview.io/jobs/db59c1a7-5110-426a-9a65-4d1616652df9">IT Support Engineer</a></td>
 <td>Dubai, UAE</td>
 <td align="center"><a href="https://recruitment.zapegg.com/job/it-support-engineer-14/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>10 Xer</strong></td>
-<td><a href="https://trueinterview.io/jobs/e2d75316-d070-4da2-b48a-a26847a0d9d9">Information Security Engineer</a></td>
-<td>Dubai, UAE</td>
-<td align="center"><a href="https://app.taraki.co/home/jobs?view=information-security-engineer-10-xer-1">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
