@@ -2,7 +2,7 @@
 
 # 🥐 Montréal & Québec
 
-**36 open roles.**
+**43 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -267,6 +267,55 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/dc9f8efd-eed8-4c38-a08b-9a66fd8ad577">Software Developer</a></td>
 <td>Montreal, QC<br/>Montreal, Quebec, Canada</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4480715765/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>PSP Investments | Investissements PSP</strong></td>
+<td><a href="https://trueinterview.io/jobs/5f7070bf-da90-4c34-b912-82d205bebf51">Solution Designer (Endpoints), Cloud Technologies</a></td>
+<td>Montreal, QC<br/>Montreal, Quebec, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467954437/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Charles River Laboratories</strong></td>
+<td><a href="https://trueinterview.io/jobs/ebb73525-a90e-43b1-a82f-ac5fc766cfb7">Research Scientist - Safety Assessment Toxicology</a></td>
+<td>Laval, Quebec, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476791816/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ubisoft Montréal</strong></td>
+<td><a href="https://trueinterview.io/jobs/be0a5717-ce8d-4378-b385-87644448fad1">Animation Programmer</a></td>
+<td>Montreal, QC<br/>Montreal, Quebec, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4465555623/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>PACE Aerospace &amp; IT</strong></td>
+<td><a href="https://trueinterview.io/jobs/d3991eb1-27b0-4578-a757-a1b7bb06c999">Software Developer</a></td>
+<td>Montreal, QC<br/>Montreal, Quebec, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475701626/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Raas Infotek</strong></td>
+<td><a href="https://trueinterview.io/jobs/bd79d07f-49c8-4d0d-ab17-66311c743bf7">Automation Engineer(UNIX/Linux,Python &amp; Shell Scripting)</a></td>
+<td>Montreal, QC<br/>Montreal, Quebec, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484723147/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Accenture</strong></td>
+<td><a href="https://trueinterview.io/jobs/e64352df-3459-4c08-90e8-a976825112ff">AI Native Developer (Agentic / Applied)</a></td>
+<td>Montreal, QC<br/>Montreal, Quebec, Canada<br/>Vancouver, BC<br/>+5 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476996625/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>AtkinsRéalis</strong></td>
+<td><a href="https://trueinterview.io/jobs/65f8fcf5-0b4a-4c07-b94d-e93478617ba4">Systems Integration Engineer</a></td>
+<td>Montreal, QC<br/>Montreal, Quebec, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483796507/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # 🏤 Mid-sized tech (200–999)
 
-**45 open roles.** 32 in the United States & Canada · 13 elsewhere in the world. Big enough to have a real engineering org, small enough that you will meet the founders.
+**57 open roles.** 37 in the United States & Canada · 20 elsewhere in the world. Big enough to have a real engineering org, small enough that you will meet the founders.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Hightouch</strong></td>
+<td><a href="https://trueinterview.io/jobs/72fccf73-c6c3-48ef-8919-9f92167c692e">Software Engineer, Control Plane</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475865792/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Rokt</strong></td>
 <td><a href="https://trueinterview.io/jobs/d75537a0-98cc-4340-a97d-2a437a3fde66">Junior Software Engineer - Rokt Residency</a></td>
@@ -241,6 +248,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4476986322/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
+<tr>
+<td><strong>Tenstorrent</strong></td>
+<td><a href="https://trueinterview.io/jobs/a7886820-4a06-4884-a724-3132996f4d22">Signal Integrity Engineer</a></td>
+<td>Austin, TX<br/>Boston, Massachusetts, United States<br/>Toronto, Ontario, Canada<br/>+3 more</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/tenstorrent/jobs/5091260007">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Notion</strong></td>
+<td><a href="https://trueinterview.io/jobs/c9c759c1-a294-4648-bddf-1ea391b8a1e8">Data Scientist, Growth</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4458773276/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Tenstorrent</strong></td>
+<td><a href="https://trueinterview.io/jobs/7da78634-2b1c-4baf-b83a-58a64f7688d3">Datacenter &amp; Agentic AI Workload Performance Optimization Engineer</a></td>
+<td>Greater Toronto Area, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475497657/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/6cedc317-8ae6-4e61-9b37-d85d5c6a60e6">Low-Level Software Engineer, LLK</a></td>
+<td>Toronto, Ontario, Canada</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/tenstorrent/jobs/5260226007">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -253,6 +288,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Mirantis</strong></td>
+<td><a href="https://trueinterview.io/jobs/8154c5f2-185c-41fa-8c0f-82504ec3c2ad">Data Analyst (EMEA, Remote)</a></td>
+<td>Kazakhstan, Turkistan Region, Kazakhstan</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Mirantis/744000162118988-data-analyst-emea-remote-">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Scaleway</strong></td>
+<td><a href="https://trueinterview.io/jobs/c1eed624-d179-4478-905e-bbdafe3110ef">Software Engineer AI Agents</a></td>
+<td>Paris<br/>Toulouse<br/>Lyon<br/>+4 more</td>
+<td align="center"><a href="https://jobs.lever.co/scaleway/b3d95e02-d56d-41d1-a225-a01f264b781f">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Cohere</strong></td>
 <td><a href="https://trueinterview.io/jobs/02988dc1-37ab-4049-8938-4d8faedcc9ac">Software Engineer, ML Ops</a></td>
@@ -342,6 +391,41 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/5cfd0783-8e11-4412-b1e7-4c09b81d45c8">Research Engineer, Robotics</a></td>
 <td>Paris</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/mistral.ai/25944723-62e2-498e-8149-a588907c39d6">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>DataSnipper</strong></td>
+<td><a href="https://trueinterview.io/jobs/ab19d4f6-e807-4bb2-8f58-346d79ebbb0b">GTM Engineer</a></td>
+<td>Amsterdam, North Holland, Netherlands</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/datasnipper/5820263e-a066-4217-a0b2-6ce8eaad663d">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Mistral AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/1e067ec1-05ec-426c-8444-ccf0d899be79">Applied Science - Cybersecurity</a></td>
+<td>Paris, France<br/>London</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/mistral.ai/bc1dc526-615f-47f6-a80a-8f1b95bf75ae">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Thought Machine</strong></td>
+<td><a href="https://trueinterview.io/jobs/726bf352-f9f0-4edb-868b-f553e41db542">Forward Deployed Engineer</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4468616224/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Neura Robotics</strong></td>
+<td><a href="https://trueinterview.io/jobs/e0b16bd4-2a10-4bfc-b818-c9e06e6de533">System Integration Engineer (Mensch)</a></td>
+<td>Riederich, Deutschland<br/>Metzingen / Riederich</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/neura-robotics-gmbh/d402f6ad-eaf3-48ef-82a6-fbdc4d8790a0">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/5ed26543-2a52-4840-a29d-7ae47c9be1b1">First Level Support Engineer (Mensch)</a></td>
+<td>Metzingen / Riederich</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/neura-robotics-gmbh/fe2512b2-4e19-45f8-bf18-266df94f3d05">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

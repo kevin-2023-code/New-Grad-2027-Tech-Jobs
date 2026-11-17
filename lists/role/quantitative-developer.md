@@ -2,7 +2,7 @@
 
 # Quantitative Developer
 
-**83 open roles.** 65 in the United States & Canada · 18 elsewhere in the world.
+**88 open roles.** 68 in the United States & Canada · 20 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>REKRUITD</strong></td>
+<td><a href="https://trueinterview.io/jobs/46f3e42b-087f-42f4-a6f4-d25313042b0e">Quantitative Model Risk Analyst</a></td>
+<td>Greater Chicago Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491572841/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Millennium</strong></td>
 <td><a href="https://trueinterview.io/jobs/198c8d77-8efd-4e0c-aeed-b3e6448bdcb8">Quantitative Analyst, Quantitative Strategies</a></td>
@@ -472,6 +479,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485200196/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
+<tr>
+<td><strong>Saragossa</strong></td>
+<td><a href="https://trueinterview.io/jobs/27985eec-a9b9-4f7a-9660-e8da73188931">Quant Developer | Fixed Income - $400K+ - Front Office - NYC / Philadelphia</a></td>
+<td>New York City Metropolitan Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4441543079/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Tetra Tech</strong></td>
+<td><a href="https://trueinterview.io/jobs/261910e6-abf0-40ee-b05b-3e60dde466df">Quantitative Ecologist – Portland, OR (Hybrid)</a></td>
+<td>Portland, OR</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4481791138/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -608,6 +629,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/8e3e3594-cab5-4d1f-b531-ba08516af301">Auditor Actuarial and Quantitative Risk Management</a></td>
 <td>Hannover, Lower Saxony, Germany</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4404096629/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Forschungszentrum Jülich</strong></td>
+<td><a href="https://trueinterview.io/jobs/ed875b1b-ce1d-4ac4-bbd7-0b1995ba8670">PhD Position - Quantitative Modelling of Tissue Growth</a></td>
+<td>Jülich, Deutschland</td>
+<td align="center"><a href="https://recruiting.fz-juelich.de/jobposting/2fce59bf5333ec87b4c8351e25b45fb22bf6cc1a0">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Dex</strong></td>
+<td><a href="https://trueinterview.io/jobs/82b0761e-c7a5-4967-aea3-7f1f0bfe1d08">Quantitative Developer</a></td>
+<td>London, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484798372/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

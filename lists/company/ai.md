@@ -2,7 +2,7 @@
 
 # 🧠 AI labs & AI infrastructure
 
-**100 open roles.** 78 in the United States & Canada · 22 elsewhere in the world. Foundation-model labs, AI products, evaluation and data vendors, GPU clouds.
+**111 open roles.** 86 in the United States & Canada · 25 elsewhere in the world. Foundation-model labs, AI products, evaluation and data vendors, GPU clouds.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -480,13 +480,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Snorkel AI</strong></td>
-<td><a href="https://trueinterview.io/jobs/60582b63-d28b-4645-af89-57a1ebfbc7ed">Research Scientist</a></td>
-<td>San Francisco, CA (Hybrid)<br/>New York City, NY (Hybrid)<br/>United States (Remote)</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/snorkelai/jobs/5690608004">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Fluidstack</strong></td>
 <td><a href="https://trueinterview.io/jobs/dd70ff80-27fe-41be-b0a2-6b106d598b1b">Platform Engineer</a> 🌐</td>
 <td>Remote — United States</td>
@@ -562,6 +555,69 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>New York, NY<br/>San Francisco</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/baseten/c07eb44f-b5fa-4808-90b7-03b265d97836">Apply</a></td>
 <td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>OpenAI</strong></td>
+<td><a href="https://trueinterview.io/jobs/94a64afd-5337-4169-8b34-63cf75a0bea7">Research Engineer / Research Scientist / AI Systems Engineer, RSI</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/openai/7243bdb7-7f75-4dff-a10f-18bd7296f632">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/1a702bb2-6830-407b-ac5b-df8853fcb65b">Research Engineer / Research Scientist - Personal AGI, Memory</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4448246875/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Otter.ai</strong></td>
+<td><a href="https://trueinterview.io/jobs/7eeba7dc-a676-4dc8-9a77-82e882d6f645">Software Engineer, Front-End (New Grad)</a></td>
+<td>Mountain View, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476958699/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Fluidstack</strong></td>
+<td><a href="https://trueinterview.io/jobs/0f77ba2f-1e3d-472a-99f3-d789aa712f75">Network Engineer, Connectivity &amp; Strategy</a></td>
+<td>San Francisco, CA<br/>New York, NY<br/>Austin, TX<br/>+1 more</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/172c522b-b085-401b-8bd6-c7e98c1da318">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cursor</strong></td>
+<td><a href="https://trueinterview.io/jobs/cbac0b06-dfa6-49e8-aa23-f0731c7405b2">Software Engineer, RL Environments</a></td>
+<td>Palo Alto, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467943602/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cartesia</strong></td>
+<td><a href="https://trueinterview.io/jobs/d284fadf-36e9-4cf7-9208-c9f933534a9f">Software Engineer, Agent Harness</a></td>
+<td>San Francisco, CA<br/>*HQ - San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/cartesia/16cd6cd7-454b-4e44-9a04-6a4677a3e920">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cognition</strong></td>
+<td><a href="https://trueinterview.io/jobs/75d7d6e9-4bfa-41a9-8f4a-43ab35bb5680">Partner Deployed Engineer</a></td>
+<td>San Francisco, CA<br/>Austin, TX<br/>Austin County, TX<br/>+2 more</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/cognition/6d539905-c75e-45e0-8c3e-db9831a5e6e6">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Baseten</strong></td>
+<td><a href="https://trueinterview.io/jobs/22c695f7-ef61-4f17-a03b-890a3c1a54d1">Post-Training Research Engineer</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/baseten/68328a94-f785-463b-a3d7-b0dfc11839b5">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Lila Sciences</strong></td>
+<td><a href="https://trueinterview.io/jobs/d41c40b3-a1d4-4344-a4b8-df33149e4e5a">Forward Deployed Engineer, Physical Sciences (Level Flexible)</a></td>
+<td>Cambridge, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4312078643/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
 </table>
@@ -727,6 +783,27 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/87e67df4-7e22-40e2-aa95-9da42b6a4e66">Simulation Engineer - Thermal Process</a></td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484984348/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Mistral AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/1e067ec1-05ec-426c-8444-ccf0d899be79">Applied Science - Cybersecurity</a></td>
+<td>Paris, France<br/>London</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/mistral.ai/bc1dc526-615f-47f6-a80a-8f1b95bf75ae">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>OpenAI</strong></td>
+<td><a href="https://trueinterview.io/jobs/80944f54-0af0-408b-a704-bab33eb4a47b">IT Support Specialist</a></td>
+<td>London, England, United Kingdom<br/>San Francisco<br/>London, UK</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/openai/49ae54dc-3d33-4107-8112-63fac1ee86ca">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Lovable</strong></td>
+<td><a href="https://trueinterview.io/jobs/5dd23714-dfdb-4886-9cd0-1af1664dfbf5">Data Scientist, Pricing</a></td>
+<td>Stockholm<br/>London Area, United Kingdom</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/lovable/03e04a4e-75d6-425f-843d-684ae505fa61">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

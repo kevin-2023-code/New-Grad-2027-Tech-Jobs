@@ -2,7 +2,7 @@
 
 # 🏗️ Large tech (1,000–9,999)
 
-**131 open roles.** 90 in the United States & Canada · 41 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
+**143 open roles.** 95 in the United States & Canada · 48 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -647,6 +647,41 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://www.esri.com/careers/5190253007?gh_jid=5190253007">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
+<tr>
+<td><strong>Geotab</strong></td>
+<td><a href="https://trueinterview.io/jobs/175f81c3-00c6-4436-ad07-7af66adbcffa">Vehicle Systems Engineering</a></td>
+<td>Waterloo, Ontario, Canada</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/geotab/jobs/5446132008">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Darktrace</strong></td>
+<td><a href="https://trueinterview.io/jobs/0dfacdb9-c561-45de-a8e8-9c9d0a68c4c8">Solutions Engineer, Acquisition</a></td>
+<td>Denver, CO<br/>Colorado, United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477122035/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>OpenAI</strong></td>
+<td><a href="https://trueinterview.io/jobs/94a64afd-5337-4169-8b34-63cf75a0bea7">Research Engineer / Research Scientist / AI Systems Engineer, RSI</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/openai/7243bdb7-7f75-4dff-a10f-18bd7296f632">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/1a702bb2-6830-407b-ac5b-df8853fcb65b">Research Engineer / Research Scientist - Personal AGI, Memory</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4448246875/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Clio</strong></td>
+<td><a href="https://trueinterview.io/jobs/b4b682b9-99be-4d9b-aedd-42da0f04fbea">Application Security Developer</a></td>
+<td>Toronto, Ontario, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475428586/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -664,6 +699,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/7c5635ec-9a78-4e7c-a411-4b4ad019c847">Software Engineer, New Grad - Frontend</a></td>
 <td>Barcelona, Catalonia, Spain</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4461536634/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>GitLab</strong></td>
+<td><a href="https://trueinterview.io/jobs/e8e357bf-fb4e-4ac3-8f6a-8d6a94ce341c">Backend Engineer (Ruby), AI Engineering: AI Catalog</a> 🌐</td>
+<td>Remote — United Kingdom</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/gitlab/jobs/8940898002">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
@@ -944,6 +986,48 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/98f2ec9b-acd7-46aa-9ca3-1b9b1bed4ab7">Software Engineer, 2D</a></td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4477523034/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Anaplan</strong></td>
+<td><a href="https://trueinterview.io/jobs/37d2d9a1-99ae-414f-adc6-010a53009524">Data Scientist</a></td>
+<td>Manchester, England, United Kingdom<br/>London, United Kingdom<br/>Manchester, United Kingdom</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/anaplan/jobs/8654662002">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Trainline</strong></td>
+<td><a href="https://trueinterview.io/jobs/4a8e6640-39c3-4c5c-9ed5-c1970f1723ab">Platform Engineer</a></td>
+<td>London</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/trainline/8536b13b-5ff7-4551-a77d-88d8b4dd43f5">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>OpenAI</strong></td>
+<td><a href="https://trueinterview.io/jobs/80944f54-0af0-408b-a704-bab33eb4a47b">IT Support Specialist</a></td>
+<td>London, England, United Kingdom<br/>San Francisco<br/>London, UK</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/openai/49ae54dc-3d33-4107-8112-63fac1ee86ca">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Nice</strong></td>
+<td><a href="https://trueinterview.io/jobs/c4196f93-11f2-4d17-bc44-cb25d371e058">Implementation Engineer (Professional Services Engineer)</a></td>
+<td>Philippines - Manila</td>
+<td align="center"><a href="https://boards.eu.greenhouse.io/nice/jobs/5020530101?gh_jid=5020530101">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Xero</strong></td>
+<td><a href="https://trueinterview.io/jobs/d215cf25-d1ea-441e-998d-5c08f83592bb">Search Engineer</a></td>
+<td>Melbourne, Victoria, Australia<br/>Sydney, New South Wales, Australia<br/>Brisbane, Queensland, Australia<br/>+5 more</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/xero/9eef7111-d180-4e9e-a3df-f5f36f8b61f8">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Arista Networks</strong></td>
+<td><a href="https://trueinterview.io/jobs/92ea5635-dc0f-4305-a105-d70ca89884b0">Electrical Design Verification Test (EDVT) Engineer</a></td>
+<td>Bengaluru, Karnataka, India</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/AristaNetworks/744000158462784-electrical-design-verification-test-edvt-engineer-">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

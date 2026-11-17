@@ -2,7 +2,7 @@
 
 # ☁️ Developer tools, cloud & data infrastructure
 
-**35 open roles.** 19 in the United States & Canada · 16 elsewhere in the world. Cloud, CDNs, databases, data platforms, observability and DevOps.
+**41 open roles.** 20 in the United States & Canada · 21 elsewhere in the world. Cloud, CDNs, databases, data platforms, observability and DevOps.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Hightouch</strong></td>
+<td><a href="https://trueinterview.io/jobs/72fccf73-c6c3-48ef-8919-9f92167c692e">Software Engineer, Control Plane</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475865792/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Mirantis</strong></td>
 <td><a href="https://trueinterview.io/jobs/8bd6ce35-f2fc-4dca-ac42-b35113540af2">Software Development Engineer</a> 🌐</td>
@@ -163,6 +170,27 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Mirantis</strong></td>
+<td><a href="https://trueinterview.io/jobs/8154c5f2-185c-41fa-8c0f-82504ec3c2ad">Data Analyst (EMEA, Remote)</a></td>
+<td>Kazakhstan, Turkistan Region, Kazakhstan</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Mirantis/744000162118988-data-analyst-emea-remote-">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>GitLab</strong></td>
+<td><a href="https://trueinterview.io/jobs/e8e357bf-fb4e-4ac3-8f6a-8d6a94ce341c">Backend Engineer (Ruby), AI Engineering: AI Catalog</a> 🌐</td>
+<td>Remote — United Kingdom</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/gitlab/jobs/8940898002">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Scaleway</strong></td>
+<td><a href="https://trueinterview.io/jobs/c1eed624-d179-4478-905e-bbdafe3110ef">Software Engineer AI Agents</a></td>
+<td>Paris<br/>Toulouse<br/>Lyon<br/>+4 more</td>
+<td align="center"><a href="https://jobs.lever.co/scaleway/b3d95e02-d56d-41d1-a225-a01f264b781f">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Cloudflare</strong></td>
 <td><a href="https://trueinterview.io/jobs/40c37563-ec04-4013-b057-5744d43c7294">Customer Engineer AI/ Start Up's</a></td>
 <td>Hybrid</td>
@@ -273,6 +301,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4449199674/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Langchain</strong></td>
+<td><a href="https://trueinterview.io/jobs/c714c670-f79d-48a8-8d44-b6fc412cd35c">EMEA Technical Support Engineer</a></td>
+<td>London</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/langchain/46c1a69d-5eff-425f-8f76-da7ddf047dd4">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Dash0</strong></td>
+<td><a href="https://trueinterview.io/jobs/06bcf672-b50e-4639-9e1b-0f2fe23d9fea">Enterprise Solutions Engineer - Nordics</a></td>
+<td>Amsterdam, North Holland, Netherlands<br/>Amsterdam Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4446698712/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
 </table>

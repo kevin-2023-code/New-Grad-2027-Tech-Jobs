@@ -2,7 +2,7 @@
 
 # 🌧️ Portland, Boise & Spokane
 
-**54 open roles.**
+**61 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,41 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>VELOX Media</strong></td>
+<td><a href="https://trueinterview.io/jobs/0a883f44-6c6d-46bb-ac1e-fb03a56ca8e7">GTM Engineer (AI Sales &amp; Engineering)</a></td>
+<td>Boise, ID</td>
+<td align="center"><a href="https://velox.breezy.hr/p/891c7cc10cc0-gtm-engineer-ai-sales-engineering">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Jireh Semiconductor</strong></td>
+<td><a href="https://trueinterview.io/jobs/acbccb52-1888-4368-888b-85cc4840f75f">Software Engineer - Fab Automation</a></td>
+<td>Hillsboro, OR</td>
+<td align="center"><a href="https://www.applicantpro.com/openings/aosmd/jobs/4277229-185326">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>City of Eugene, OR</strong></td>
+<td><a href="https://trueinterview.io/jobs/d1c30c8c-84b7-47dd-b9b5-3bbf4ea71b59">Data Resilience Engineer</a></td>
+<td>Eugene, OR</td>
+<td align="center"><a href="https://www.governmentjobs.com/careers/eugene/jobs/5549779/data-resilience-engineer">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Intel Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/ad0f33b4-d205-4401-93b4-63376e079908">Electrical Failure Analysis Engineer - Nanoprobing</a></td>
+<td>Hillsboro, OR</td>
+<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Electrical-Failure-Analysis-Engineer---Nanoprobing_JR0289232">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>NSC Global</strong></td>
+<td><a href="https://trueinterview.io/jobs/b746f69f-2444-486e-b2ed-8038fd4470ca">IT Support Engineer</a></td>
+<td>Hillsboro, OR<br/>San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/nsc-global/8a944dfd-b9d3-472e-ad96-33b75f457a0e">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>TSMC</strong></td>
 <td><a href="https://trueinterview.io/jobs/285adb3f-328b-4753-a167-2138ad6ce615">Software Engineer (New Graduate) - North America Software Center</a></td>
@@ -163,13 +198,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — United States, Canada<br/>Vancouver, WA</td>
 <td align="center"><a href="https://htginc.bamboohr.com/careers/223?postedDate=2026-11-04">Apply</a></td>
 <td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Wunderlich-Malec</strong></td>
-<td><a href="https://trueinterview.io/jobs/4470e94c-23b7-44ec-b4ea-dbeddb26f7ac">Controls Engineer</a></td>
-<td>Boise, ID</td>
-<td align="center"><a href="https://recruiting2.ultipro.com/WUN1002WND/JobBoard/cf373efc-2fad-42c7-b3ea-efbff4360573/OpportunityDetail?opportunityId=fcba996e-0c99-4803-bcee-5f811f273a06&amp;postingId=02541414-be92-4b64-b4ca-f2b7f9565b7a">Apply</a></td>
-<td align="center">3 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>SecureWorld</strong></td>
@@ -393,6 +421,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/1ab5197b-5413-4d25-8298-b8563a26cdb4">Data Scientist I or II (MAD-BS-OR)</a></td>
 <td>Hillsboro, OR</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484977301/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sierra Pacific Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/c357e7dd-2973-4277-a35f-615781bf2524">Engineer - Controls</a></td>
+<td>Eugene, OR</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484982391/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>JR Automation</strong></td>
+<td><a href="https://trueinterview.io/jobs/4be57a5d-cb01-4cd5-a86c-b8a5210e4cb9">AI Data &amp; Security Governance Engineer (MAD-BS-OR)</a></td>
+<td>Hillsboro, OR</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484962878/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Tetra Tech</strong></td>
+<td><a href="https://trueinterview.io/jobs/261910e6-abf0-40ee-b05b-3e60dde466df">Quantitative Ecologist – Portland, OR (Hybrid)</a></td>
+<td>Portland, OR</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4481791138/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

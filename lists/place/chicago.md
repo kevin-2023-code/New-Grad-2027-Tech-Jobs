@@ -2,7 +2,7 @@
 
 # 🌬️ Chicago
 
-**136 open roles.** 135 in the United States & Canada · 1 elsewhere in the world.
+**158 open roles.** 157 in the United States & Canada · 1 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,6 +18,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Randstad Digital Americas</strong></td>
+<td><a href="https://trueinterview.io/jobs/be3bfe05-5c1a-4c53-94a6-c2b347996ada">Custom Software Engineer</a></td>
+<td>Chicago, IL<br/>Minneapolis, MN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491591466/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>OP Recruiting</strong></td>
+<td><a href="https://trueinterview.io/jobs/ede95c74-5c2e-4586-ab07-424e66fae7ec">Software Engineer - C++</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4455541108/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon Web Services (AWS)</strong></td>
+<td><a href="https://trueinterview.io/jobs/47d60ca7-bee0-4500-a4b7-d0f220c21964">Product Lifecycle Electrical Engineer, Data Center Electrical Products and Services</a></td>
+<td>Chicago, IL<br/>Atlanta, GA<br/>Austin, TX<br/>+2 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491543932/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Objective Partners</strong></td>
 <td><a href="https://trueinterview.io/jobs/b726fa64-9be0-430e-8840-0d0046a732b8">Software Engineer - C++</a></td>
 <td>Chicago, IL</td>
@@ -25,10 +46,38 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>AAR</strong></td>
+<td><a href="https://trueinterview.io/jobs/fecfe9d8-c61c-493b-98a6-5fc825aceff2">Site Reliability Engineer</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482139042/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>OP Recruiting</strong></td>
+<td><a href="https://trueinterview.io/jobs/9592f7b3-8825-422d-947f-9d2bfc24feea">Software Developer (Java)</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4446512315/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Akuna Capital</strong></td>
 <td><a href="https://trueinterview.io/jobs/94e0173c-5046-4d58-a920-7eddabd32a8c">Floor Trader- SOFR</a></td>
 <td>Chicago, IL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4491538023/">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Metronet</strong></td>
+<td><a href="https://trueinterview.io/jobs/f30cf22f-eb3d-420f-9fc9-4c38f881d9a4">Enterprise Network Engineer - Chicago, IL</a> 🌐</td>
+<td>Remote — United States<br/>Chicago, IL</td>
+<td align="center"><a href="https://recruiting2.ultipro.com/QSE1000QSER/JobBoard/6cf8d9f1-7140-4a4f-8dba-c15b5a2fafb0/OpportunityDetail?opportunityId=e9486a49-fe05-4ad1-b41a-c9d38b53c266&amp;postingId=1890300c-1d7f-4c3c-bd6e-edc45d244aa5">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Agilant Solutions, Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/98e33ca6-46d0-4406-b23d-9e1fd7e377c5">Systems Engineer</a></td>
+<td>Naperville, IL</td>
+<td align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4668367/TOGA-Technology/Systems-Engineer">Apply</a></td>
 <td align="center">16 Nov 2026</td>
 </tr>
 <tr>
@@ -85,6 +134,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/d892c5c3-07b4-4e23-a09c-8ca9f672ca7d">Software Engineer</a></td>
 <td>Chicago, IL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4488623343/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon.com</strong></td>
+<td><a href="https://trueinterview.io/jobs/6718818a-219a-496f-996e-e7bfb60086bd">Product Lifecycle Electrical Engineer, Data Center Electrical Products and Services</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.amazon.jobs/jobs/10606818/product-lifecycle-electrical-engineer-data-center-electrical-products-and-services?cmpid=DA_INAD200785B">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/bdd5a4c1-eb0c-40c9-9ee6-d40e98b2a71e">Product Lifecycle Electrical Engineer, Data Center Engineering - Electrical Products and Services (DCE-EPS)</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.amazon.jobs/jobs/10606823/product-lifecycle-electrical-engineer-data-center-engineering--electrical-products-and-services-dceeps?cmpid=DA_INAD200785B">Apply</a></td>
 <td align="center">10 Nov 2026</td>
 </tr>
 <tr>
@@ -960,6 +1023,97 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/3dde041d-3506-4238-88c4-f539e6f7605b">Engine Installation Engineer</a></td>
 <td>Oak Brook, IL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484974689/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Global Connect Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/dbd1fc1d-bcc9-4358-8766-2919c519f7f3">Embedded Automation Engineer - Automotive</a></td>
+<td>Oak Brook, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484980132/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sargent &amp; Lundy</strong></td>
+<td><a href="https://trueinterview.io/jobs/007e56a1-2a0a-47b7-8ebf-5190914f8fba">Entry Level Civil Engineer (January 2027)</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475473447/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Exponent</strong></td>
+<td><a href="https://trueinterview.io/jobs/bec82904-4e2c-4fde-8a3e-71d28e5aa12d">Mechanical Engineer (Ph.D.)</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475701981/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Rang Technologies Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/acc62eae-9a66-4c03-86c8-2fe4fdf1d157">Electrical Engineer</a></td>
+<td>Schaumburg, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484966618/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Clayco</strong></td>
+<td><a href="https://trueinterview.io/jobs/576d8b02-27b3-4653-91ed-cc9e315fcdf5">Software Engineer - Full Stack &amp; AI-Enabled Development</a></td>
+<td>Chicago, IL<br/>Greater St. Louis</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476203136/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>GTECH LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/0cd8e1d7-30ff-40fe-a674-8cd504d73435">AI Software Engineer | Remote | W2 Only</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484975129/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Tata Consultancy Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/ab9368f5-0720-480a-a693-f9707cce4c6b">Ping engineer</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4457418564/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/42c8c6c0-7253-4869-b87a-6f599272ccad">Certificate Lifecycle/ PKI Engineer with Venafi Expertise</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4446292567/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Prestige Staffing</strong></td>
+<td><a href="https://trueinterview.io/jobs/0987a80b-1ce7-455e-a380-9c8837cd3acd">Cloud Engineer</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474466959/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cyclotron, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/7ba99d53-f016-4bfc-a42e-929809428cc5">Microsoft Security Engineer-Client Consulting</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475724149/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>JPMorganChase</strong></td>
+<td><a href="https://trueinterview.io/jobs/04cc45b7-2f4a-42af-8947-2329d12fd3a9">2027 Software Engineer Program - Full-Time - United States - July Start</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4448194736/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>DRW</strong></td>
+<td><a href="https://trueinterview.io/jobs/acb92b0e-78fc-4011-9b33-b33e23e73991">Data Analyst - Business Intelligence</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/drweng/jobs/8256605">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Edgehog Trading</strong></td>
+<td><a href="https://trueinterview.io/jobs/814094b5-c9dc-40df-9934-789b06b0f5dc">Quantitative Researcher</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484914263/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # ⛰️ Vancouver & British Columbia
 
-**41 open roles.**
+**47 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/ddfc24f9-bd48-4f3a-8e3a-5b440e8a9b1d">Software Development Engineer, Region Flexibility Engineering</a></td>
+<td>Vancouver, BC<br/>Vancouver, British Columbia, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483771888/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/6e3c43de-0db0-4773-8288-04854ba6ee80">Software Dev Engineer, Pricing Shared Platform</a></td>
 <td>Vancouver, BC<br/>Vancouver, British Columbia, Canada</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4483711770/">Apply</a></td>
@@ -302,6 +309,41 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/60f908eb-7f45-43e4-8c16-56740dbe631c">Engineering Designer, Urban and Riverine Syst</a></td>
 <td>Vancouver, BC<br/>Vancouver, British Columbia, Canada</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4468660271/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/f27fb98e-d39b-4ddc-b7ec-68fda55e21ab">Software Development Engineer, WW Deals &amp; Promotions</a></td>
+<td>Vancouver, BC<br/>Vancouver, British Columbia, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4459080262/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Asana</strong></td>
+<td><a href="https://trueinterview.io/jobs/c4691173-ece2-4e31-883b-159ce333963a">Workday Integration Developer</a></td>
+<td>Vancouver, BC<br/>Vancouver, British Columbia, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474473602/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CGI</strong></td>
+<td><a href="https://trueinterview.io/jobs/18b02137-045b-40d4-bc46-edb6962711c8">.NET Cloud Native API Developer (Banking/ Financial Services)</a></td>
+<td>Vancouver, BC<br/>Vancouver, British Columbia, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4429908096/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Dilawri Group of Companies</strong></td>
+<td><a href="https://trueinterview.io/jobs/28a0413a-07e6-44dd-9fbe-5ade1a4ec3c6">IT Service Desk</a></td>
+<td>Vancouver, BC<br/>Vancouver, British Columbia, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4439345863/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Accenture</strong></td>
+<td><a href="https://trueinterview.io/jobs/e64352df-3459-4c08-90e8-a976825112ff">AI Native Developer (Agentic / Applied)</a></td>
+<td>Vancouver, BC<br/>Vancouver, British Columbia, Canada<br/>Ottawa, Ontario, Canada<br/>+5 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476996625/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

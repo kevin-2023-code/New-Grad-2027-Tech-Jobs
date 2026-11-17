@@ -2,7 +2,7 @@
 
 # 💼 Other industries
 
-**27 open roles.** 7 in the United States & Canada · 20 elsewhere in the world. A real classification that none of the other sectors covers.
+**29 open roles.** 9 in the United States & Canada · 20 elsewhere in the world. A real classification that none of the other sectors covers.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -64,6 +64,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/0e23c3e4-304d-425f-a049-e8599719093d">Building Engineer I</a></td>
 <td>Seattle, Washington, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/AccorHotel/744000158588201-building-engineer-i">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Fairlife</strong></td>
+<td><a href="https://trueinterview.io/jobs/12e6c88c-baef-4123-9e93-7bb94775a8f8">Operations Data Analyst</a></td>
+<td>Webster, NY<br/>Webster, New York, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/fairlife/jobs/5239915007">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Corbins</strong></td>
+<td><a href="https://trueinterview.io/jobs/4e7b7e68-aecb-4d88-b597-f77e9f42f085">PROJECT ENGINEER</a></td>
+<td>Austin, TX<br/>Reno, Nevada, United States<br/>Austin, Texas, United States<br/>+1 more</td>
+<td align="center"><a href="https://corbins.us/careers?gh_jid=4662733008">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

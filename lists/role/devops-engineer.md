@@ -2,7 +2,7 @@
 
 # DevOps Engineer
 
-**195 open roles.** 119 in the United States & Canada · 76 elsewhere in the world.
+**211 open roles.** 126 in the United States & Canada · 85 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,6 +18,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Mthree</strong></td>
+<td><a href="https://trueinterview.io/jobs/b7c80f96-b50b-4937-9907-d6a131e3d83d">DevOps Engineer/ Production Support Analyst</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490488141/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Cloud Source Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/59362afe-15be-420a-ba59-639205303929">Azure Devops Engineer</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490462709/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Entarian</strong></td>
 <td><a href="https://trueinterview.io/jobs/43c87697-738e-46ce-9be5-7dbb50085c82">DevOps Engineer</a></td>
 <td>Norfolk, VA</td>
@@ -29,6 +43,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/7d8f9bc5-8329-4c26-a856-ce3e6a5c0e47">DevOps Engineer (TS/SCI clearance required)</a></td>
 <td>Chantilly, VA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4490106861/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Talent Groups</strong></td>
+<td><a href="https://trueinterview.io/jobs/375628b9-15fc-41d5-b4d1-2cb16c8b7e43">AWS DevOps Engineer</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491586074/">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
@@ -77,7 +98,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>ELEVI Associates</strong></td>
 <td><a href="https://trueinterview.io/jobs/727d515e-6517-4c92-a059-af338643e6e4">DevOps Engineer - Federal</a></td>
 <td>Chantilly, VA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4490178871/">Apply</a></td>
+<td align="center"><a href="https://grnh.se/5t6z2kif3us">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
@@ -95,6 +116,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Infosys</strong></td>
+<td><a href="https://trueinterview.io/jobs/87a3443b-d709-4922-9ce5-e8550ddab4d9">AI DevOps Engineer</a></td>
+<td>Research Triangle Park, NC, North Carolina, USA</td>
+<td align="center"><a href="https://digitalcareers.infosys.com/global-careers/company-job/description/reqid/155891BR">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Hired</strong></td>
 <td><a href="https://trueinterview.io/jobs/684d1964-ff32-4ea4-a5d0-62c6e5b73ded">DevOps Engineer (Remote)</a></td>
 <td>United States</td>
@@ -102,10 +130,17 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">16 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Infosys</strong></td>
-<td><a href="https://trueinterview.io/jobs/87a3443b-d709-4922-9ce5-e8550ddab4d9">AI DevOps Engineer</a></td>
-<td>Research Triangle Park, NC</td>
-<td align="center"><a href="https://digitalcareers.infosys.com/global-careers/company-job/description/reqid/155891BR">Apply</a></td>
+<td><strong>Advanced Systems Design</strong></td>
+<td><a href="https://trueinterview.io/jobs/72051c4a-fb8e-4df9-a433-8e065f8ceb07">DevOps Engineer, Mid</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://jobs.crelate.com/portal/advancedsystemsdesign/job/xwxz9yyzdman1gz7e5riutw48e?r=28">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Wipro</strong></td>
+<td><a href="https://trueinterview.io/jobs/ca7d9e71-4cfa-42ba-bc1b-2a4cab97377a">Devops Engineer (CONTRACT)</a></td>
+<td>Fort Mill, SC</td>
+<td align="center"><a href="https://careers.wipro.com/job/Devops-Engineer-%28CONTRACT%29/219065-en_US">Apply</a></td>
 <td align="center">16 Nov 2026</td>
 </tr>
 <tr>
@@ -850,6 +885,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484982950/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
+<tr>
+<td><strong>MaximaTek</strong></td>
+<td><a href="https://trueinterview.io/jobs/24827715-b1fb-4be2-82eb-67eff5f9fab5">DevOps Engineer</a></td>
+<td>Dallas, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484969338/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Trident Consulting</strong></td>
+<td><a href="https://trueinterview.io/jobs/13959614-15ea-4c67-98f6-78d7474ecc34">.Net/Azure Devops Engineer</a></td>
+<td>Hopkins, MN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484968342/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -1392,6 +1441,69 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/45cd879b-08e3-4ad1-9814-314537187161">Platform / DevOps Engineer Linux &amp; Kubernetes (w/m/d) C-TIPCP</a></td>
 <td>Karlsruhe, Baden-Württemberg, Germany<br/>Karlsruhe, Deutschland</td>
 <td align="center"><a href="https://careers.enbw.com/de/de/job/25599">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Infosys</strong></td>
+<td><a href="https://trueinterview.io/jobs/2c7afb89-b1db-4eb2-9bf9-26702b0cf15d">Azure DevOps Engineer</a></td>
+<td>Bengaluru East, Karnataka, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467138227/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Zürcher Kantonalbank</strong></td>
+<td><a href="https://trueinterview.io/jobs/aab31de1-8139-42f6-bddf-444738d3ea3b">DevOps Engineer Linux &amp; Platform Engineering (m/w/d)</a></td>
+<td>Zurich, Zurich, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4465959913/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Future Secure AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/a97ae4af-c06b-48eb-b30b-2482095c3726">Platform DevOps Engineer</a></td>
+<td>Melbourne, Victoria, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4432089312/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ascendion</strong></td>
+<td><a href="https://trueinterview.io/jobs/206d0647-fd16-402d-9846-2bae8253862d">DevOps Engineer</a></td>
+<td>Hyderabad, Telangana, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484935516/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Brainsuite.ai</strong></td>
+<td><a href="https://trueinterview.io/jobs/a03d0a28-9c05-4123-b668-866af633ff65">Backend &amp; DevOps Developer (m/w/d)</a></td>
+<td>Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484935176/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>IMG</strong></td>
+<td><a href="https://trueinterview.io/jobs/377a2c38-6978-40ea-81b2-8e3758d29a74">DevOps Engineer, Studios</a></td>
+<td>Uxbridge, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4444069183/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Looper Engineering</strong></td>
+<td><a href="https://trueinterview.io/jobs/07b2ffda-7f99-429f-8853-5300c336cb7d">DevOps Engineer</a></td>
+<td>Eindhoven, North Brabant, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484928404/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ACURA SOLUTIONS LTD</strong></td>
+<td><a href="https://trueinterview.io/jobs/c400353d-682b-4015-ac9c-fbcb80126cb1">DevOps Engineer</a></td>
+<td>Malappuram, Kerala, India<br/>Kottayam, Kerala, India<br/>Pathanamthitta, Kerala, India<br/>+5 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484916565/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Flexiple</strong></td>
+<td><a href="https://trueinterview.io/jobs/cb3b187a-9a25-4591-9d11-52c88d3cdbe6">DevOps Engineer</a></td>
+<td>India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484902832/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

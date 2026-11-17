@@ -2,7 +2,7 @@
 
 # 🛢️ Houston, San Antonio & the rest of Texas
 
-**163 open roles.**
+**186 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>GSI Environmental Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/1a07acc9-b0ca-489c-bd24-a8609911dda5">Artificial Intelligence (AI) Engineer</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491180807/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Viridien</strong></td>
+<td><a href="https://trueinterview.io/jobs/d9a6a6b6-e83b-4c2c-9799-35a90c2bcdbf">Graphical Software Developer</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490474363/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>The Lab Consulting</strong></td>
 <td><a href="https://trueinterview.io/jobs/c2ce6251-89b5-426a-b47f-67120f97a4a9">Data Scientist</a></td>
@@ -35,7 +49,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>Marathon Petroleum Corporation</strong></td>
 <td><a href="https://trueinterview.io/jobs/113236a1-b7e5-450c-9348-a86b8d5ed6b4">Audit Data Analyst I</a></td>
 <td>San Antonio, TX<br/>Greater Houston<br/>Findlay, OH</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4491551344/">Apply</a></td>
+<td align="center"><a href="https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/San-Antonio-Texas/Audit-Data-Analyst-I_00025316">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
@@ -53,6 +67,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>ARTIDIS</strong></td>
+<td><a href="https://trueinterview.io/jobs/fa6ae8d9-0dec-4b9e-8627-77fd98e1c1b7">Field Service Software Engineer</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490411428/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>InnoTech</strong></td>
 <td><a href="https://trueinterview.io/jobs/42c006cb-e0d4-4ea6-bc68-6b2d7bc532f1">Data Scientist</a></td>
 <td>Houston, TX</td>
@@ -64,6 +85,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/3e46cdb6-3507-4fed-bf95-cb12dcacc44b">Solution Sales Executive - Business AI Platform (BAIP) - AI Expertise</a></td>
 <td>Houston, TX<br/>Bellevue, WA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4490107419/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Enchanted Rock</strong></td>
+<td><a href="https://trueinterview.io/jobs/894cb6db-6e90-4b7f-9c70-92719abfaa99">Electrical Controls Engineer</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4669082/Enchanted-Rock-Management-LLC/Electrical-Controls-Engineer">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
@@ -85,6 +113,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/637fb024-7bf7-4bc0-866c-a19a5f8492b7">Project Engineer</a></td>
 <td>Houston, TX</td>
 <td align="center"><a href="https://www.amentumcareers.com/jobs/project-engineer-houston-texas-united-states-a74f64f1-4a6a-442c-b187-85ddffe11731">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Fluor Corp.</strong></td>
+<td><a href="https://trueinterview.io/jobs/8d8941d8-3d1b-4a9a-9f90-93913a349e51">Design Engineer I - Control Systems</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://careers.fluor.com/careers/job/1099557081849">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Foxconn Industrial Internet - FII</strong></td>
+<td><a href="https://trueinterview.io/jobs/5dea46c5-2c6f-4756-9e8e-36d0935ee7f8">Quality Assurance Engineer - IB4</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://foxconnassemblyllc.applytojob.com/apply/mcMZf5CzIm/Quality-Assurance-Engineer-IB4?%7E=">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Merrick &amp; Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/7a04b523-ea0c-48e1-81e9-fe2745c8e253">Electrical Facilities Engineer I</a></td>
+<td>San Antonio, TX</td>
+<td align="center"><a href="https://careers.merrick.com/jobs/8631/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Quanta Power Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/cd963707-22df-4578-8f15-c44bb2b376cd">Electrical Engineer I</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://careers2-quanta.icims.com/jobs/20327/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
 <td align="center">16 Nov 2026</td>
 </tr>
 <tr>
@@ -1156,6 +1212,111 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/720bbaee-6bb7-4b59-80d8-992a50fec953">ServiceNow Application Developer</a></td>
 <td>Sugar Land, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484986425/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Eventellect</strong></td>
+<td><a href="https://trueinterview.io/jobs/429ae006-9242-4113-ab11-a1433a4fca38">Data Scientist</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484976273/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Pangea</strong></td>
+<td><a href="https://trueinterview.io/jobs/7fe02955-82df-4f40-b784-084458de9681">Gasoline Trader</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484982132/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Arcadis</strong></td>
+<td><a href="https://trueinterview.io/jobs/5fe2373d-d4ab-447e-98c2-d1dfe13f283f">Entry Level Environmental Engineer</a></td>
+<td>Houston, TX<br/>Tampa, FL<br/>Philadelphia, PA<br/>+1 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474826145/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CSAT Solutions LP</strong></td>
+<td><a href="https://trueinterview.io/jobs/a6d114c2-e573-49e8-aa63-7625a146a876">Quality Engineer 1</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484968505/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Star Pipe Products</strong></td>
+<td><a href="https://trueinterview.io/jobs/5e45a7dd-4a49-49b6-8fd4-cfadb3ec153c">Data Analyst</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482229259/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Mott MacDonald</strong></td>
+<td><a href="https://trueinterview.io/jobs/ffa06a5a-5c3a-425c-988f-0f0caa08cfba">Graduate Electrical Engineer- 2027</a></td>
+<td>The Woodlands, TX<br/>Austin, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476958133/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>VySystems</strong></td>
+<td><a href="https://trueinterview.io/jobs/357c95fa-aa80-4e0a-96f4-ef03a8b7f8d1">Failure Analysis Engineer</a></td>
+<td>Spring, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484094972/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Zachry Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/66e93668-bb43-4a59-a345-e7f3d2abe330">Engineer III Instrumentation &amp; Control</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4411767011/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Panthera Grid Partners</strong></td>
+<td><a href="https://trueinterview.io/jobs/2f7cc569-800f-4a23-9e8f-efca3587191c">Performance Data Engineer</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484950999/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>FUSTIS LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/1a98c8bb-25d5-4da7-a1d2-9cfddfb2b6be">GenAI / LLM Engineer – Voice AI &amp; Agentic AI</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484972172/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Graphic Packaging International</strong></td>
+<td><a href="https://trueinterview.io/jobs/7ab8dea9-27a1-403c-942c-6ef7bd9e951a">Process Engineer</a></td>
+<td>San Antonio, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484947025/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>BakerRipley</strong></td>
+<td><a href="https://trueinterview.io/jobs/1b379c1d-c922-492d-a539-7ba383e2dd4c">Performance Data Analyst (In Office) (2615)</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475705660/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>BioSpace</strong></td>
+<td><a href="https://trueinterview.io/jobs/697e7c14-9a84-496c-8f0c-b746cfbe7019">IT Technician</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484795928/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>University of the Incarnate Word</strong></td>
+<td><a href="https://trueinterview.io/jobs/97d68be2-2995-4707-a29a-5ecfb1e59199">Assistant Professor in Cybersecurity</a></td>
+<td>San Antonio, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484910276/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Tetra Tech</strong></td>
+<td><a href="https://trueinterview.io/jobs/9a19abfa-4645-4664-8ac9-dcf06e5340d7">PI Developer</a></td>
+<td>The Woodlands, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484789672/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # Hardware Engineer
 
-**175 open roles.** 119 in the United States & Canada · 56 elsewhere in the world.
+**224 open roles.** 139 in the United States & Canada · 85 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,6 +18,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/927e4fa6-cdba-4d22-9b0b-0e4ee23e8d07">Quantum Control Systems Engineer (Hardware, FPGA, &amp; Embedded Systems)</a></td>
+<td>Yorktown Heights, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490478176/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Intel</strong></td>
+<td><a href="https://trueinterview.io/jobs/6c7cbfd0-c0cb-4648-900f-590057036350">Silicon Photonics Thin Film Development Engineer</a></td>
+<td>Albuquerque, NM</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491182420/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Muon Space</strong></td>
+<td><a href="https://trueinterview.io/jobs/55d2a404-112c-4571-aa21-f7a1604832b8">Electrical Hardware Engineer (all levels)</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/muonspace/jobs/5298140007">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>AMD</strong></td>
 <td><a href="https://trueinterview.io/jobs/2f8cd82b-a970-4e8b-b1a0-8671d940ff94">Silicon Support Team Engineer for 3rd Party SERDES PHYs</a></td>
 <td>Markham, Ontario, Canada</td>
@@ -26,6 +47,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>InterImage</strong></td>
+<td><a href="https://trueinterview.io/jobs/3beb6256-27bd-4960-b1f8-0f5dc17d7684">Hardware Engineer Level 1</a></td>
+<td>Fort Meade, MD</td>
+<td align="center"><a href="https://apply.workable.com/j/A0309CF05D">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/896dae62-f218-41d2-9d9e-154e2cceba92">Hardware Engineer Level 0</a></td>
+<td>Fort Meade, MD</td>
+<td align="center"><a href="https://apply.workable.com/j/B3EB3DA2FE">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/36115f56-83ae-43f9-b92c-e741f4236922">Hardware Design Engineer L3</a></td>
 <td>Fort Meade, MD</td>
 <td align="center"><a href="https://apply.workable.com/j/784D9C6968">Apply</a></td>
@@ -58,6 +93,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>New York, NY<br/>London Area, United Kingdom</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4417962939/">Apply</a></td>
 <td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Cognizant</strong></td>
+<td><a href="https://trueinterview.io/jobs/9ae6a603-46e8-4396-9bc1-5bdd4e6ddba6">Electrical Hardware Design Engineer</a></td>
+<td>Bartlesville, OK</td>
+<td align="center"><a href="https://careers.cognizant.com/global-en/jobs/00071313001/electrical-hardware-design-engineer/">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ELEVI Associates, LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/41447f4e-6ca6-404b-a72b-299e4eafad90">Hardware Mechanical Power Engineer - Federal</a></td>
+<td>Chantilly, VA</td>
+<td align="center"><a href="https://grnh.se/ossfnju53us">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>GlobalFoundries</strong></td>
+<td><a href="https://trueinterview.io/jobs/f943d034-7b93-43d3-b4e7-85b957cadd72">GaN &amp; Compound Semiconductor Device Technology Engineer (2027 New College Graduate)</a></td>
+<td>Malta, NY</td>
+<td align="center"><a href="https://careers.gf.com/careers/job/563980770506168">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Intel Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/9de5e2c8-3e12-49be-8007-ab55104ac696">NM Silicon Photonic Module Development Engineer - Planar</a></td>
+<td>Albuquerque, NM</td>
+<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-New-Mexico-Albuquerque/NM-Silicon-Photonic-Module-Development-Engineer---Planar_JR0289006">Apply</a></td>
+<td align="center">16 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>CPS, Inc.</strong></td>
@@ -850,6 +913,83 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://jobs.apple.com/en-us/details/200692449">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
+<tr>
+<td><strong>Applicantz</strong></td>
+<td><a href="https://trueinterview.io/jobs/f454092c-0f51-49b3-bbeb-af4fd01b9fca">Equipment Engineering Technician – Semiconductor</a></td>
+<td>Tualatin, OR</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484961756/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/9e9bc333-0b82-4be4-9362-7c02493fdd48">Semiconductor Process Technician</a></td>
+<td>Tualatin, OR</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484471811/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ACCLiiVE</strong></td>
+<td><a href="https://trueinterview.io/jobs/592e7ae3-b9d3-4231-8272-1f10c50b3a13">Avionics Hardware Design Engineer - FL/MN/IA</a></td>
+<td>Melbourne, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484960668/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>MDA Space</strong></td>
+<td><a href="https://trueinterview.io/jobs/4a8b8012-c5e7-437d-a7b8-1391e94ccd7b">Gestionnaire de l'ingénierie Sénior – Ingénierie Numérique - FPGA et DSP</a></td>
+<td>Sainte-Anne-de-Bellevue, Quebec, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467770007/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Paycom</strong></td>
+<td><a href="https://trueinterview.io/jobs/8b323e4f-c9b0-4e33-91ad-d179bdcf76e1">Sales Representative Job in Silicon Valley, CA | $100K Salary &amp; Uncapped Sales Commissions | Paycom Careers</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474472363/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Future Electronics</strong></td>
+<td><a href="https://trueinterview.io/jobs/e8ccdb7b-ee0c-405d-84a1-d9e1b05c7f0a">FPGA/SoC Specialist (East Coast)</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484973011/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Nokia</strong></td>
+<td><a href="https://trueinterview.io/jobs/744a8620-6f99-44d0-869b-cdf33e3a60eb">ASIC Manufacturing Engineer</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40381">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/4fb761a0-5928-4295-95b4-98aed90711db">Hardware Development Engineer I, Relay Fleet &amp; Yard Devices</a></td>
+<td>Bellevue, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484951573/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>HRL Laboratories, LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/70cae44a-7e49-445c-9ff6-ba29a175f497">Semiconductor Device Modeling Engineer</a></td>
+<td>Malibu, CA</td>
+<td align="center"><a href="https://jobs.lever.co/dodmg/c4a2516f-1e3d-4a6e-9712-567913a0078c">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>MatX</strong></td>
+<td><a href="https://trueinterview.io/jobs/4dd032bc-6199-4946-b4e9-9c6f6b556e62">Methodology Engineer (Silicon)</a></td>
+<td>Mountain View, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476794331/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sesame</strong></td>
+<td><a href="https://trueinterview.io/jobs/793276fd-941a-410d-8657-776d93003528">Hardware Test Automation Engineer</a></td>
+<td>Bellevue, WA<br/>San Francisco</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/sesame/fe29b210-c799-4542-b83a-69939def908f">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -862,6 +1002,41 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Bosch</strong></td>
+<td><a href="https://trueinterview.io/jobs/06f00969-ca9f-4ad7-848b-15219926074c">Specialist Hardware Engineer</a></td>
+<td>bengaluru, India</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000162009258-specialist-hardware-engineer">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/ffb9ab5d-d99b-40a9-8f16-d7bcea42d2e7">ASIC Physical Design Engineer</a></td>
+<td>Shanghai, Shanghai, China</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474649321/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/44b77793-ddee-4155-a6ac-5f4dcf6e577c">ASIC Engineer, Networking Chip Design - New College Grad 2027</a></td>
+<td>Shanghai, Shanghai, China</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483288200/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/fcba25b8-84e7-48ad-ac0d-2daa0bfbe8b4">ASIC Physical Design Engineer - New College Grad 2027</a></td>
+<td>Shanghai, Shanghai, China</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483266875/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>NXP Semiconductors</strong></td>
+<td><a href="https://trueinterview.io/jobs/a16cdded-5262-4bf7-9602-a4a23b2e0084">Failure Analysis Hardware Validation Engineer</a></td>
+<td>Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491174899/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Ericsson</strong></td>
 <td><a href="https://trueinterview.io/jobs/02b83dcc-201d-4e9a-8ef5-f538db6ec427">Entry Level: Hardware Developer - Digital Design</a></td>
@@ -881,13 +1056,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/cfaee2a4-3e4e-4cfe-9a94-e48940b72b6e">Ingénieur FPGA - Systèmes Spatiaux (H/F)</a></td>
 <td>Toulouse, Occitanie, France</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Scalian/744000162049082--ingenieur-fpga-systemes-spatiaux-h-f-">Apply</a></td>
-<td align="center">17 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Bosch</strong></td>
-<td><a href="https://trueinterview.io/jobs/06f00969-ca9f-4ad7-848b-15219926074c">Specialist Hardware Engineer</a></td>
-<td>bengaluru, India</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000162009258-specialist-hardware-engineer">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
@@ -1252,6 +1420,181 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/53407ecd-7a73-45a2-b9df-ed7ab2e6db37">Hardware Engineer</a></td>
 <td>Greater Orlando</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484972709/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>RUTRONIK Electronics Worldwide</strong></td>
+<td><a href="https://trueinterview.io/jobs/36ac18a5-234d-412e-bc83-dd7b416e447b">Field Application Engineer FPGA (m/w/d)</a></td>
+<td>Ispringen, Baden-Württemberg, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4470353621/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Moba Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/96f3e17a-2b01-4500-9810-8dab7478a4ac">Hardware PCB Engineer</a></td>
+<td>Barneveld, Gelderland, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4473726996/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Harper Evans Recruitment</strong></td>
+<td><a href="https://trueinterview.io/jobs/cee74030-6fe2-44e1-abd6-7cf199c3f409">Semiconductor Laser Engineer</a></td>
+<td>London Area, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484975537/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Hitachi Energy</strong></td>
+<td><a href="https://trueinterview.io/jobs/92c238cd-a459-41a2-b83a-cac37feb127b">Semiconductor Chip Designer</a></td>
+<td>Chennai, Tamil Nadu, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4459172151/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Infineon Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/e05a8c8e-ea18-4e86-8682-d134227f3507">FPGA System Engineer</a></td>
+<td>Shanghai, Shanghai, China</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4470425775/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/aa57e91c-f426-40d9-ae0b-804e764522d5">Maintenance technician in semiconductor industry (f/m/div)</a></td>
+<td>Dresden, Saxony, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4040676397/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/d7151cb7-b9cc-4a87-a29b-c5388a449dff">Working Student - ASIC Product Marketing and Business Intelligence (f/m/div) - HRC1807752</a></td>
+<td>Munich, Bavaria, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4473262231/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Finis || Eillert - Food Processing Equipment</strong></td>
+<td><a href="https://trueinterview.io/jobs/2c18e5a2-a339-4588-973f-337a81d5bfea">Hardware engineer</a></td>
+<td>Gendringen, Gelderland, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484957554/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Dosign</strong></td>
+<td><a href="https://trueinterview.io/jobs/c915f824-b4f2-45f6-85ba-4c89805775fb">Freelance Hardware Engineer</a></td>
+<td>Veghel, North Brabant, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484953368/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SII Germany</strong></td>
+<td><a href="https://trueinterview.io/jobs/25a6c7a6-823d-41f6-acc4-d7c46c707966">Hardware Engineer (m/w/x) Defence Systems</a></td>
+<td>Ditzingen, Baden-Württemberg, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484955128/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Planqc</strong></td>
+<td><a href="https://trueinterview.io/jobs/20825396-2f3b-453b-a8eb-a59001dd44d5">Quantum Hardware Engineer - Optical Systems</a></td>
+<td>Munich, Bavaria, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475557241/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Qualcomm</strong></td>
+<td><a href="https://trueinterview.io/jobs/73a562bc-3812-479f-a6be-a9d6d71c5cc9">ASIC Design Engineering - Multiple function</a></td>
+<td>Hsinchu City, Taiwan, Taiwan<br/>Taipei, Taipei City, Taiwan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4457478784/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Groupe SII</strong></td>
+<td><a href="https://trueinterview.io/jobs/7192c7ae-d436-4b6c-885a-4aff9755c491">Hardware Engineer (m/w/x) Defence Systems</a></td>
+<td>Ditzingen, Baden-Württemberg, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484955139/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>European Tech Recruit</strong></td>
+<td><a href="https://trueinterview.io/jobs/b68151ac-58a9-4d9c-ab74-f135fddf68ff">Hardware Design Verification Engineer (Security) - Visas Supported</a></td>
+<td>Cork, County Cork, Ireland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484936613/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/7258996b-e7b1-4bd5-8a49-b9957a0bb37f">Security Hardware Design Verification Engineer - UVM</a></td>
+<td>Cork, County Cork, Ireland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484932846/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Infineon Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/c26b5975-2e6a-48c9-a655-580ae17fe90b">Engineer - Post-Silicon Hardware Validation</a></td>
+<td>Ho Chi Minh City, Ho Chi Minh City, Vietnam</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4287776715/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ESMC</strong></td>
+<td><a href="https://trueinterview.io/jobs/5a3bbf60-a1d1-4649-958a-e414e39c918d">Supplier Quality Engineer – Semiconductor Materials (m/f/d)</a></td>
+<td>Dresden, Saxony, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4459111538/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Wijkamp Werkt B.V.</strong></td>
+<td><a href="https://trueinterview.io/jobs/d1f93257-8b1b-4448-87d4-5c5e1328dd82">Projectleider / Hardware Engineer</a></td>
+<td>Duiven, Gelderland, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484926582/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>AME (Applied Micro Electronics)</strong></td>
+<td><a href="https://trueinterview.io/jobs/70af54e1-cff0-4eeb-9124-c3519baeb81c">Hardware Engineer</a></td>
+<td>Eindhoven, North Brabant, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484931392/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>TSMC</strong></td>
+<td><a href="https://trueinterview.io/jobs/57db304a-25a7-4601-9c0d-3836b4639648">Silicon Photonics Engineer</a></td>
+<td>Hsinchu City, Taiwan, Taiwan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4448153640/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Micron Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/83011822-3874-4137-be36-97ca38c18f1d">ASIC Test Engineer</a></td>
+<td>Tainan City, Tainan City, Taiwan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4457472386/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>EU Labour migration &amp; Policy</strong></td>
+<td><a href="https://trueinterview.io/jobs/567d0fcb-9549-4ed0-aae6-17f05e9521b9">FPGA engineer</a></td>
+<td>Greater Enschede Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484935121/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Uptec</strong></td>
+<td><a href="https://trueinterview.io/jobs/cfa3d6ca-8676-49c5-89ef-9351d8b5ff99">Electrical Hardware Engineer</a></td>
+<td>Eindhoven Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484927235/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>hema electronic GmbH</strong></td>
+<td><a href="https://trueinterview.io/jobs/9bb4fd94-7ea4-4ba6-b6ed-7aef688fe43e">Softwareentwickler Embedded Vision &amp; FPGA (m/w/d) in Aalen</a></td>
+<td>Aalen, Baden-Württemberg, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484914754/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Realtek Semiconductor Corp.</strong></td>
+<td><a href="https://trueinterview.io/jobs/33acb834-70a3-4356-a16d-302f6ba8d021">Semiconductor Digital IC Design Engineer (SoC Timing) I Singapore</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484902740/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

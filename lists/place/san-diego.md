@@ -2,7 +2,7 @@
 
 # 🏖️ San Diego
 
-**118 open roles.**
+**130 open roles.** 129 in the United States & Canada · 1 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -39,6 +39,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Illumina</strong></td>
+<td><a href="https://trueinterview.io/jobs/f70f4080-7861-4eff-a188-2eed667a97fa">Software Development Test Engineer 1</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---California---San-Diego/Software-Development-Test-Engineer-1_43752-JOB">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>General Atomics Aeronautical Systems</strong></td>
 <td><a href="https://trueinterview.io/jobs/be6d65b6-dc8b-4baf-bbb2-837cac1ca022">Aerospace Tools &amp; Software Engineer</a></td>
 <td>Poway, CA</td>
@@ -60,10 +67,38 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">16 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Management &amp; Training Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/cb451b33-4325-487f-ae38-a7dc194665fa">IT Technician</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://fa-euud-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/preview/75775">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Quantum Design Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/ee29a6a8-98c7-4540-9a20-a320fad83fc0">Business Intelligence &amp; Data Automation Analyst</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://qdusa.wd108.myworkdayjobs.com/quantumdesigncareers/job/QD---Inc/Business-Intelligence---Data-Automation-Analyst_JR1060">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/1440deec-bd2b-4f10-8614-975b11666689">Product Engineer</a></td>
 <td>San Diego, CA</td>
 <td align="center"><a href="https://qdusa.wd108.myworkdayjobs.com/quantumdesigncareers/job/QD---Inc/Product-Engineer_JR1058">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>San Diego Association of Governments</strong></td>
+<td><a href="https://trueinterview.io/jobs/6992e9b2-119c-428c-9825-fa2f2e959191">Data Scientist I/II</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://www.governmentjobs.com/careers/sandag/jobs/5547223/data-scientist-i-ii">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Shield</strong></td>
+<td><a href="https://trueinterview.io/jobs/a30b56ba-6f24-4130-b5fd-7f475ce4dca1">Engineer I, Software - Autonomy Capabilities - New Grad - 6129</a> 🌐</td>
+<td>Remote — United States<br/>San Diego, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/shield/955d48ad-9380-4621-91f4-51f3f093ac10">Apply</a></td>
 <td align="center">16 Nov 2026</td>
 </tr>
 <tr>
@@ -841,6 +876,67 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/28de7d3f-ad54-48eb-bfc1-469bf90643c0">Mechanical Engineer</a></td>
 <td>Poway, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484990243/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Molex</strong></td>
+<td><a href="https://trueinterview.io/jobs/321927fa-f63c-46f0-b66b-099a7723f3de">Application Engineer - Opto-Electronics</a></td>
+<td>Carlsbad, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474456802/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>BioTalent</strong></td>
+<td><a href="https://trueinterview.io/jobs/9f118f0a-f4ba-496a-a729-977b1469aa94">AFE Test &amp; Integration Engineer</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484723992/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>TrellisWare Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/96a69169-5963-4d73-b46b-5a3f734e3de5">Manufacturing Test Engineer</a></td>
+<td>San Diego, California</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/trelliswaretechnologies/jobs/4376661009">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>DRS IT Solutions Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/812a231c-7604-42bb-8dc6-ffcde732d61f">Network Software Engineer</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484716796/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Versant Media</strong></td>
+<td><a href="https://trueinterview.io/jobs/ab153429-2038-4ff1-a4a8-e51a6d681431">Versant Summer Internships: Technology, Product, Design &amp; Engineering</a></td>
+<td>Carlsbad, CA<br/>Los Angeles, CA<br/>Washington, DC<br/>+1 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475485975/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Actalent</strong></td>
+<td><a href="https://trueinterview.io/jobs/dc4965fd-1585-4c18-9144-fad20361e97e">Manufacturing Engineer</a></td>
+<td>San Diego, CA<br/>Burlington, NC<br/>Brampton, Ontario, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484745408/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+</tbody>
+</table>
+
+## Elsewhere in the world
+
+_Roles outside the United States & Canada, and roles whose country the catalog could not read._
+
+<table>
+<thead>
+<tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/5a1110cb-e11b-4d68-a424-42c793bf5f4c">RFIC Validation and Characterization Engineer</a></td>
+<td>San Diego, CA<br/>Sunnyvale, CA<br/>Shanghai, Shanghai, China</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200691870">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

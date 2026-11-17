@@ -2,7 +2,7 @@
 
 # 🇫🇷 Paris & France
 
-**202 open roles.** 6 in the United States & Canada · 196 elsewhere in the world.
+**209 open roles.** 6 in the United States & Canada · 203 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -90,6 +90,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/cfaee2a4-3e4e-4cfe-9a94-e48940b72b6e">Ingénieur FPGA - Systèmes Spatiaux (H/F)</a></td>
 <td>Toulouse, Occitanie, France</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Scalian/744000162049082--ingenieur-fpga-systemes-spatiaux-h-f-">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Scaleway</strong></td>
+<td><a href="https://trueinterview.io/jobs/c1eed624-d179-4478-905e-bbdafe3110ef">Software Engineer AI Agents</a></td>
+<td>Paris<br/>Toulouse<br/>Lyon<br/>+4 more</td>
+<td align="center"><a href="https://jobs.lever.co/scaleway/b3d95e02-d56d-41d1-a225-a01f264b781f">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
@@ -1192,13 +1199,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">1 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>NXP Semiconductors</strong></td>
-<td><a href="https://trueinterview.io/jobs/3dac4f9f-881f-41e2-8799-286142e7e8d6">Stage ingénieur : mmW IC Designer Conception d'un amplificateur de puissance RF pour radar automobile évolutif (F/H)</a></td>
-<td>Grenoble, Auvergne-Rhône-Alpes, France</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468649101/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>EGIDE</strong></td>
 <td><a href="https://trueinterview.io/jobs/ae057f92-2aa1-4edf-958a-ac552717a438">Software Engineer C2 &amp; Mission Planning</a></td>
 <td>Paris, France</td>
@@ -1441,6 +1441,55 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/e5d42492-a1c1-4316-94ef-f8332de8cb01">Stage | Business Data Analyst H/F - L’Or, Senseo, Tassimo</a></td>
 <td>Paris, Île-de-France, France</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4475471245/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NEXTON</strong></td>
+<td><a href="https://trueinterview.io/jobs/cb82c78c-423d-41ee-94dc-5ee095328674">Data engineer Python/dask/polars H/F</a></td>
+<td>Paris, France<br/>Paris, Île-de-France, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/NEXTON/744000158548113-data-engineer-python-dask-polars-h-f">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Mistral AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/1e067ec1-05ec-426c-8444-ccf0d899be79">Applied Science - Cybersecurity</a></td>
+<td>Paris, France<br/>London</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/mistral.ai/bc1dc526-615f-47f6-a80a-8f1b95bf75ae">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Inetum</strong></td>
+<td><a href="https://trueinterview.io/jobs/5d65a744-5b84-4e37-a4ce-dd4f3582ec12">Data Analyst F/H</a></td>
+<td>Nantes, Pays de la Loire, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Inetum2/744000158526808-data-analyst-f-h">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ubisoft</strong></td>
+<td><a href="https://trueinterview.io/jobs/abe6c218-4791-49f0-bab0-30f76cfcbbd8">Game Data Analyst (H/F/NB) – The Crew Motorfest</a></td>
+<td>Lyon, Auvergne-Rhône-Alpes, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Ubisoft2/744000158522210-game-data-analyst-h-f-nb-the-crew-motorfest-">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Papillon Patrimoine</strong></td>
+<td><a href="https://trueinterview.io/jobs/a41a9fdf-df10-4e67-90cc-09519c25d8cd">Sales/Business Developer en Immobilier neuf H/F indépendant</a></td>
+<td>Rennes, France</td>
+<td align="center"><a href="https://apply.wink-lab.com/apply/106fc399-ea51-44bc-bae9-27ea0b04cbcf">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ubisoft</strong></td>
+<td><a href="https://trueinterview.io/jobs/3e90150f-0a36-4425-847e-b3147de78ae9">Web Tools Programmer - H/F/NB</a></td>
+<td>Paris, Île-de-France, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Ubisoft2/744000158510919-web-tools-programmer-h-f-nb">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>LS Negotium</strong></td>
+<td><a href="https://trueinterview.io/jobs/13fc762f-7cf3-4150-8f58-71c6ccc785b6">Commercial(e) / Business Developer Santé B2B H/F</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://careers.flatchr.io/vacancy/gqayv9lvjwyd6lxe-commerciale-sdr-prospection-telephonique-b2b-h-f?partner=32">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

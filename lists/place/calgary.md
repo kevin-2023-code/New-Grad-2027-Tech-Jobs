@@ -2,7 +2,7 @@
 
 # 🐎 Calgary & the Prairies
 
-**18 open roles.**
+**29 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -142,6 +142,83 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Edmonton, AB, Canada</td>
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98620">Apply</a></td>
 <td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ENMAX</strong></td>
+<td><a href="https://trueinterview.io/jobs/a7a7632f-460c-486f-81ab-a57d394153bf">Advanced Metering Grid Operations Engineer</a></td>
+<td>Calgary, AB<br/>Calgary, Alberta, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475726290/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Viva Tech Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/6010accf-6971-4e4b-93e8-34813af29a33">Cloud Engineer - Cloud Security</a></td>
+<td>Calgary, AB<br/>Calgary, Alberta, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484963808/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ecolab</strong></td>
+<td><a href="https://trueinterview.io/jobs/5629e7f8-f6b1-4feb-8a6e-a3c5f9b2e10e">Thermal Mechanical Engineer</a></td>
+<td>Calgary, AB<br/>Calgary, Alberta, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476940060/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Siemens EDA (Siemens Digital Industries Software)</strong></td>
+<td><a href="https://trueinterview.io/jobs/b171c865-ac8b-40d3-b714-c60bea56d080">Software Developer - Python &amp; C++ *</a></td>
+<td>Saskatoon, Saskatchewan, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4449148037/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CANSEL</strong></td>
+<td><a href="https://trueinterview.io/jobs/a6f9b223-1f2e-4921-8315-42662ab91175">Data &amp; Business Systems Analyst</a></td>
+<td>Winnipeg, Canada</td>
+<td align="center"><a href="https://recruiting.ultipro.ca/CAN5108CGOC/JobBoard/93be3591-28b5-40c9-8368-6b68a2a14b04/OpportunityDetail?opportunityId=f44be52d-61af-4f3b-af91-fa2c53ac8e5c&amp;postingId=9e3c3a9a-643d-413f-a17a-d6f830355b89">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Wood</strong></td>
+<td><a href="https://trueinterview.io/jobs/91534816-07e0-469e-8cf2-75e984f359f5">Intermediate Instrumentation &amp; Controls Engineer</a></td>
+<td>Calgary, AB<br/>Calgary, Alberta, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4468302524/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ISL</strong></td>
+<td><a href="https://trueinterview.io/jobs/307130f6-c5fc-4b19-a3c5-0b93af11d295">Civil Engineer-in-Training, Structural</a></td>
+<td>Saskatoon, Saskatchewan, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476959439/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Gilead Sciences</strong></td>
+<td><a href="https://trueinterview.io/jobs/436448c8-b1a0-43a3-947d-c38038bd2f3e">Specialist I, Quality Assurance (Quality Systems)</a></td>
+<td>Edmonton, Alberta, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476996517/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Accenture</strong></td>
+<td><a href="https://trueinterview.io/jobs/e64352df-3459-4c08-90e8-a976825112ff">AI Native Developer (Agentic / Applied)</a></td>
+<td>Calgary, AB<br/>Calgary, Alberta, Canada<br/>Vancouver, BC<br/>+5 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476996625/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Fluor Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/7a550f79-4764-4cb8-a6b6-93741614508e">Control Systems Engineering EIT - New Graduate</a></td>
+<td>Calgary, AB<br/>Calgary, Alberta, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4470671284/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f707f5b2-d927-4692-a10b-a92a2a200b68">Electrical Engineering EIT - New Graduate</a></td>
+<td>Calgary, AB<br/>Calgary, Alberta, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4470681001/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
 </table>

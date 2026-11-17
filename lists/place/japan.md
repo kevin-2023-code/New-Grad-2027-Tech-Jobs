@@ -2,7 +2,7 @@
 
 # 🇯🇵 Tokyo & Japan
 
-**37 open roles.**
+**42 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>LY Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/e09fd467-b8cb-4f29-8003-565eb7df4c5e">機械学習エンジニア / AI領域（MLプラットフォーム）</a></td>
+<td>Tokyo, Japan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4228317037/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Ericsson</strong></td>
 <td><a href="https://trueinterview.io/jobs/f03ff340-ca1e-40f7-8618-a6c38f93faae">Developer - Filter Design</a></td>
@@ -277,6 +284,34 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>ETAS - Yokohama, Kanagawa, Japan</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000158624230--etas-vehicle-diagnostics-customer-solution-engineer">Apply</a></td>
 <td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Two Sigma</strong></td>
+<td><a href="https://trueinterview.io/jobs/93e6b833-bd9a-45e4-8569-1c56e3e5eb91">Data Operations Analyst - Global Data Operations</a></td>
+<td>Tokyo, Tokyo, Japan<br/>London, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474454133/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Hewlett Packard Enterprise</strong></td>
+<td><a href="https://trueinterview.io/jobs/cfffa7e9-190d-4b46-914d-45e9b8894c6e">FY28 System Engineer</a></td>
+<td>Tokyo, Tokyo, Japan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484955185/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>KLA</strong></td>
+<td><a href="https://trueinterview.io/jobs/be28a99b-6312-4960-a655-14f6171909cc">Field Applications Engineer</a></td>
+<td>Yokohama, Kanagawa, Japan<br/>Kumamoto, Japan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477130685/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>LY Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/27ac9cdb-deb8-4e85-9fa7-5ac275c13693">Androidエンジニア / Yahoo!マップ・Yahoo!カーナビ・Yahoo!乗換案内・Yahoo!知恵袋</a></td>
+<td>Osaka, Osaka, Japan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4472531100/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
 </table>

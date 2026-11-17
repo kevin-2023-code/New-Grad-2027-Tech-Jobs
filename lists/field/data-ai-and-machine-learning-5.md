@@ -2,11 +2,11 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**2,667 open roles.** 1,795 in the United States & Canada · 872 elsewhere in the world.
+**2,982 open roles.** 1,981 in the United States & Canada · 1,001 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
-<sub>[← Page 4](data-ai-and-machine-learning-4.md) · Page 5 of 7 · [Page 6 →](data-ai-and-machine-learning-6.md)</sub>
+<sub>[← Page 4](data-ai-and-machine-learning-4.md) · Page 5 of 8 · [Page 6 →](data-ai-and-machine-learning-6.md)</sub>
 
 ## United States & Canada
 
@@ -15,6 +15,510 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>VetJobs</strong></td>
+<td><a href="https://trueinterview.io/jobs/a6b97fc7-31b1-4f55-87f5-26cff632d110">Research Scientist I</a></td>
+<td>Huntsville, AL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484866526/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Booz Allen Hamilton</strong></td>
+<td><a href="https://trueinterview.io/jobs/bf8c81e0-b75a-480b-b471-0bb49f7a4e60">Data &amp; Detection Engineer</a></td>
+<td>Fort Belvoir, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4459375291/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/49352cd8-4d4e-418b-85f1-da454e8f2f8c">Data Visualization Analyst</a></td>
+<td>Lexington Park, MD</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4450625747/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>PointClickCare</strong></td>
+<td><a href="https://trueinterview.io/jobs/19de8030-9f10-41fb-8bbc-8b5bf3777f69">Marketing Data Analytics Engineer (US)</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476801737/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Booz Allen Hamilton</strong></td>
+<td><a href="https://trueinterview.io/jobs/761b5fb3-5572-4e88-ab18-ececa2a1eaa8">Applied Data Scientist</a></td>
+<td>Arlington, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4432427737/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CHEManager International</strong></td>
+<td><a href="https://trueinterview.io/jobs/28420e22-6e6b-4198-acaf-4cdf5fae1100">Research Scientist - Environments, Data and Post-Training</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484887030/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Eli Lilly and Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/e79c6857-673c-46c4-9ec5-7fbbc9eb15c0">PKPD &amp; PMx Data Scientist – PK Data Delivery</a></td>
+<td>Indianapolis, IN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477464525/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Genentech</strong></td>
+<td><a href="https://trueinterview.io/jobs/3722755e-5d46-4e3c-a2a6-f79870f14046">Real-World Data (RWD) Scientist</a></td>
+<td>South San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476983200/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Largeton Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/8900fd03-256b-4062-af78-667897241368">Data Scientist</a></td>
+<td>Fort Worth, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485398604/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>National Laboratory of the Rockies</strong></td>
+<td><a href="https://trueinterview.io/jobs/ddc01d73-fe2f-466f-b678-365fe4578186">Postdoctoral Researcher – Vision Machine Learning</a></td>
+<td>Golden, CO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476205372/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SLB</strong></td>
+<td><a href="https://trueinterview.io/jobs/43f1b1ea-efa4-4661-9efb-7dc30e16004c">FWI &amp; AI Scientist</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4411970648/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Stealth AI Research Lab</strong></td>
+<td><a href="https://trueinterview.io/jobs/6bd5a518-a5c6-443f-8f07-4ad383c919c3">Research Engineer</a></td>
+<td>Cambridge, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484897933/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>BRG</strong></td>
+<td><a href="https://trueinterview.io/jobs/419d54ae-9abb-4faf-a9cd-30e321631ff6">AI Lab Infrastructure Engineer</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4302560811/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amyx, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/eda2663b-60fe-4ffb-82cf-8a9a407d950a">Business Data Analyst with Security Clearance</a></td>
+<td>Fort Belvoir, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483939267/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>State Farm</strong></td>
+<td><a href="https://trueinterview.io/jobs/03335350-33ba-48c3-a1ad-05c0754e910b">GenAI Engineer (LLM)</a></td>
+<td>Atlanta, GA<br/>Bloomington, IL<br/>Tempe, AZ<br/>+1 more</td>
+<td align="center"><a href="https://jobs.statefarm.com/jobs/46141/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Katalyst CRO</strong></td>
+<td><a href="https://trueinterview.io/jobs/a7c7d015-2769-46b9-a538-cc80f2dff201">Data Analyst / Data Visualization Analyst</a></td>
+<td>New Jersey, United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485679242/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>TEKsystems</strong></td>
+<td><a href="https://trueinterview.io/jobs/dca2688e-e7a1-4feb-b475-30f9e9e4aad3">Analytics Engineer</a></td>
+<td>Scottsdale, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485671961/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Western Michigan University Homer Stryker M.D. School of Medicine</strong></td>
+<td><a href="https://trueinterview.io/jobs/f0ea09cb-4ca7-4f8d-8cd9-57b6fa991519">IT Data Engineer</a></td>
+<td>Kalamazoo, MI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483918937/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Freed</strong></td>
+<td><a href="https://trueinterview.io/jobs/b3a4c8aa-c4a8-4945-ae40-f9506212d189">ML Engineer</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/freed/161d4300-0a97-4263-8aa5-c23a1dd3b92c">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Torentify</strong></td>
+<td><a href="https://trueinterview.io/jobs/9134e3c8-a6fd-49e4-9f94-74453cda3686">Data Scientist: Build XGBoost Infra &amp; APIs - Remote Work</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485682082/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>BioSpace</strong></td>
+<td><a href="https://trueinterview.io/jobs/9dcf3777-d112-424f-97bb-8d8f9eda56d7">Biopharmaceutical R&amp;D Data Analytics &amp; Visualization Scientist</a></td>
+<td>North Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485666878/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cube Hub Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/1d88ef28-7416-456f-96cb-e5ee317ffd27">Full-Stack Generative AI Engineer — React, Python/FastAPI, AWS</a></td>
+<td>Moline, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485147070/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Google DeepMind</strong></td>
+<td><a href="https://trueinterview.io/jobs/0ab601ba-92ff-4ffb-a80f-61ac4653619a">Software Engineer, Applied AI Agents, Professional Intelligence, DeepMind</a></td>
+<td>Mountain View, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484869765/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Stealth AI Research Lab</strong></td>
+<td><a href="https://trueinterview.io/jobs/e435b927-456e-4e25-85bc-c0e213e5db91">AI Software Engineer</a></td>
+<td>Cambridge, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484875941/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/dc85b4b8-5366-4d18-8fb6-4de31773cb68">Research Scientist, World Modelling | Chercheur scientifique, modélisation du monde</a></td>
+<td>Montreal, QC<br/>Montreal, Quebec, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483917793/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Mission Technologies, a division of HII</strong></td>
+<td><a href="https://trueinterview.io/jobs/da4736fb-70cd-43f4-b2e2-4499d8852a62">Joint Wargaming AI Integration (Engineer Software 2) - 29101</a></td>
+<td>Suffolk, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4432893501/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Echelon Services, LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/affd7dbe-e900-4c49-bfcd-7b3f9eb57ed4">AI Engineer</a></td>
+<td>Herndon, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483471970/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Tech Consulting</strong></td>
+<td><a href="https://trueinterview.io/jobs/5d588add-59f1-41ed-b3b1-f165814c0fa6">AI Developer (React Native / Android)</a></td>
+<td>Pennsylvania, United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483456217/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Delta Dental</strong></td>
+<td><a href="https://trueinterview.io/jobs/1ea0b625-318c-47ee-b081-5506d282fcce">Data Analyst</a></td>
+<td>Johnston, IA</td>
+<td align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4630030/Delta-Dental-of-Iowa/Data-Analyst">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>UCSF Health</strong></td>
+<td><a href="https://trueinterview.io/jobs/7438bd24-bc73-493b-87f3-7bb9d036f47f">Business Intelligence Analyst - Strategy</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://iazuqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10852">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Air Force Civilian Service</strong></td>
+<td><a href="https://trueinterview.io/jobs/27409163-b443-477d-8d6c-2350f873f747">Data Engineer</a></td>
+<td>Dayton, OH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485126492/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cognizant</strong></td>
+<td><a href="https://trueinterview.io/jobs/d320a0e3-5f7f-49c3-81f3-9bf7c635d904">AI Engineer - Azure (Onsite)</a></td>
+<td>Washington, DC</td>
+<td align="center"><a href="https://careers.cognizant.com/global-en/jobs/00071005701/ai-engineer-azure-onsite/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>KPG99 INC</strong></td>
+<td><a href="https://trueinterview.io/jobs/1efc0836-7a4e-4227-9c59-a8cc5ebbf719">W2 Only :: Full Stack AI Engineer :: Onsite Interview (MA Hybrid)</a></td>
+<td>Massachusetts, United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485348634/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cobalt</strong></td>
+<td><a href="https://trueinterview.io/jobs/251a12d2-6d4a-4334-8bac-16e1d1b8e74a">Data Scientist, AI &amp; Machine Learning (PhD Student)</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485144282/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Chime</strong></td>
+<td><a href="https://trueinterview.io/jobs/118ac3d3-8e9c-44cb-8af6-acfedaf8f651">Software Engineer, Jade - AI Financial Partner</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483928341/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/f5622e46-9273-421b-9ce7-f29073dc9474">Applied Scientist, Special Projects</a></td>
+<td>Boston, MA<br/>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4459169760/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ServiceTitan</strong></td>
+<td><a href="https://trueinterview.io/jobs/d8fabd90-85a7-4be2-8320-331f3d496f4b">AI Engineer</a></td>
+<td>United States</td>
+<td align="center"><a href="https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/AI-Engineer_JR116391">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Perfict</strong></td>
+<td><a href="https://trueinterview.io/jobs/c4c52932-b429-4306-aad8-5dd7befdb252">AI Engineer (FullStack)</a></td>
+<td>Massachusetts, United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484899214/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Aplos Data</strong></td>
+<td><a href="https://trueinterview.io/jobs/9965ac64-365c-4430-be2d-3c1f8a8ddc0a">Data Engineer</a></td>
+<td>Columbus, OH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485396684/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>E-Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/dd3f8e34-87d3-4791-8766-fef89f3cb907">AWS Data Engineer with PostgreSQL</a></td>
+<td>Basking Ridge, NJ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485381990/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>MUFG</strong></td>
+<td><a href="https://trueinterview.io/jobs/4bae2865-f5ea-425a-af4f-be9ca86cb9d3">Data Quality Analyst - NJ</a></td>
+<td>Jersey City, NJ</td>
+<td align="center"><a href="https://mufgub.wd3.myworkdayjobs.com/en-US/MUFG-Careers/job/Jersey-City-NJ/Data-Quality-Analyst---NJ_10080367-WD">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Johnson &amp; Johnson Innovative Medicine</strong></td>
+<td><a href="https://trueinterview.io/jobs/91a96ad6-705d-47ad-9a3b-f1344b28b78a">Post Doc - AI/ML and Optimization</a></td>
+<td>Cambridge, MA<br/>Titusville, NJ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485368933/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Emonics LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/82561b95-8c2c-4a77-9f97-41bba0e70aca">Entry-Level Data Analyst</a></td>
+<td>Phoenix, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484857130/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>The Aerospace Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/65487e68-8cb8-4c45-88d4-db995d302b88">2026 Data Scientist</a></td>
+<td>Colorado Springs, CO<br/>Boulder, CO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483921594/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Covetus</strong></td>
+<td><a href="https://trueinterview.io/jobs/2ebb48cd-4f89-42ae-bc01-d689651ab917">Machine Learning Engineer</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485374252/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Kensho Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/3ed0e929-ea14-41a0-9238-b289fdcafeea">Machine Learning Engineer</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485640751/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Network Rail Consulting</strong></td>
+<td><a href="https://trueinterview.io/jobs/0f1b653e-0c30-4c61-9139-bed7a03c5258">Data Analyst Rail/Transit</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://isw.changeworknow.co.uk/network_rail_consulting/vms/e/careers/positions/aqlnZOTX1dz7bqnteca6OG">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Mahir.co.id</strong></td>
+<td><a href="https://trueinterview.io/jobs/119b41d6-9935-4962-b8b9-9a3d25e19135">Data Scientist</a></td>
+<td>Ohio, United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483917385/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/96e29f86-3efc-4bb6-befd-bb30d15b08da">Applied Scientist, ITA-Global Hiring Science</a></td>
+<td>Vancouver, BC<br/>Vancouver, British Columbia, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485635863/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/48c2e136-b65c-4995-be74-15cb7b0e8482">Software Development Engineer, Measurement, Ad Tech, and Data Science (MADS), Measurement, Ad Tech, and Data Science (MADS), MADS Data Signals</a></td>
+<td>Toronto, Ontario, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485380896/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Pyramid Consulting, Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/4874a353-9ca2-467b-9d13-17814d9d4488">AI &amp; Automation Software Engineer</a></td>
+<td>Chandler, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485358215/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Federal Express Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/4047322f-b518-4e9f-a588-3379a7346f73">Data Scientist</a></td>
+<td>Memphis, TN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485657099/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Anduril Industries</strong></td>
+<td><a href="https://trueinterview.io/jobs/6c39a194-1eb1-4707-9b35-5508657630ee">Computer Vision Engineer, Space</a></td>
+<td>Costa Mesa, California, United States</td>
+<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5016334007?gh_jid=5016334007">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>TikTok</strong></td>
+<td><a href="https://trueinterview.io/jobs/77852d2d-e969-4e1b-a217-277b1da24274">Data Engineer - Data Platform</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484892343/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Apex Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/c86ad448-65ea-4e46-8d57-2e13f6f5e936">Generative AI Engineer</a></td>
+<td>Dearborn, MI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485633492/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/228963fa-b336-42b0-bdfc-9394f200b2c5">Research Scientist, SCOT First Inbound</a></td>
+<td>Bellevue, WA<br/>New York, United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485639845/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Jobverse.io</strong></td>
+<td><a href="https://trueinterview.io/jobs/7e2167d4-b377-4d0f-8a2f-ab31f186b97d">Agentic AI Engineer (Clinical AI)</a></td>
+<td>Irvine, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485666079/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>The Aerospace Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/1abcca71-ecee-43c1-9b63-1b48e26a5a44">2027 Data Scientist/Machine Learning Engineer</a></td>
+<td>El Segundo, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483903453/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Hitachi Digital Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/dbf02904-f3e0-4f76-b5f8-aed7b4cc27da">Data Analyst</a></td>
+<td>Norman, OK</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485105653/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>MACHINE LEARNING TECHNOLOGIES LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/b6898bdb-8a28-409c-b8c1-f1a5c047cfd9">AI Engineer</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485131571/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Dridam Flight</strong></td>
+<td><a href="https://trueinterview.io/jobs/dd466fc8-8aa9-450f-b470-7728a984b468">Scientific Machine Learning Engineer (UQ)</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485644197/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>MACHINE LEARNING TECHNOLOGIES LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/c191a1f8-b84b-40cd-b37d-3f7c00d76487">Data Scientist</a></td>
+<td>Bentonville, AR</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485134516/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Chime</strong></td>
+<td><a href="https://trueinterview.io/jobs/90b6261c-b967-4ace-a6af-f0164bc0dd36">Software Engineer, Jade Awareness - AI Financial Partner</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://boards.greenhouse.io/chime/jobs/8922481002?gh_jid=8922481002">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/36f5744f-db64-462a-b564-f3d0eea78606">Software Engineer, Jade Foundation - AI Financial Partner</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://boards.greenhouse.io/chime/jobs/8868948002?gh_jid=8868948002">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>PPLIED</strong></td>
+<td><a href="https://trueinterview.io/jobs/d5cec161-2446-4c64-bdd5-1f3791f8c25b">Data Scientist</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485641198/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>UL Research Institutes</strong></td>
+<td><a href="https://trueinterview.io/jobs/8ffe1070-d5fb-48a2-b0b6-cece5f433350">Post-Doctoral Researcher, Energy &amp; AI - Electrochemical Safety Research Institute</a></td>
+<td>Rockville, MD</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4469225029/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>WisdomAI</strong></td>
+<td><a href="https://trueinterview.io/jobs/cf87495f-6e96-42ed-8e57-2a3bf089d605">Machine Learning Engineer</a></td>
+<td>San Mateo, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4395147415/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Bracebridge Capital</strong></td>
+<td><a href="https://trueinterview.io/jobs/8e6f0674-46f2-4b05-a55c-e40d26094b04">Machine Learning Analyst</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4440212635/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>The University of Texas at Austin</strong></td>
+<td><a href="https://trueinterview.io/jobs/af1c958d-3d5c-4b2a-96f7-1b361c7b7706">Research Engineering/Scientist Assistant</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482802973/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>InnovoCommerce</strong></td>
+<td><a href="https://trueinterview.io/jobs/72a23840-efa7-4d10-919d-2e4578e3b432">Agentic AI Engineer (Clinical AI)</a></td>
+<td>Irvine, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485114098/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Vastian</strong></td>
+<td><a href="https://trueinterview.io/jobs/ffcdff94-f5fe-4aae-bb46-5c581f61ad4d">AI &amp; Data Solutions Engineer</a></td>
+<td>Remote</td>
+<td align="center"><a href="https://vastian.isolvedhire.com/jobs/1895504-361937.html">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Karman Industries</strong></td>
+<td><a href="https://trueinterview.io/jobs/15a9507d-f360-44b0-9090-540965f07ff9">Early Career Machine Controls &amp; Instrumentation Engineer</a></td>
+<td>Los Angeles, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/Karman%20Industries/31010492-bf52-4b59-96e6-d7de0c8b3dec">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Lumicity</strong></td>
 <td><a href="https://trueinterview.io/jobs/54df44bd-ef81-415a-9b97-43d439e94b43">AI Researcher</a></td>
@@ -1380,6 +1884,804 @@
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484973603/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
+<tr>
+<td><strong>TIFIN</strong></td>
+<td><a href="https://trueinterview.io/jobs/339cc4cf-7e2f-43f9-93cd-6e9efa4e50d2">Artificial Intelligence Engineer</a></td>
+<td>Boulder, CO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484967859/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Maven Robotics</strong></td>
+<td><a href="https://trueinterview.io/jobs/23ff5d19-72d4-4a32-b4bf-7afadd111232">Robotics AI Research Engineer</a></td>
+<td>Santa Clara, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484982320/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sira Consulting, an Inc 5000 company</strong></td>
+<td><a href="https://trueinterview.io/jobs/c0e8f716-1413-4a1a-870d-79a181f0a3bb">Support Engineer</a></td>
+<td>Holmdel, NJ<br/>Irving, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482546775/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Eventellect</strong></td>
+<td><a href="https://trueinterview.io/jobs/429ae006-9242-4113-ab11-a1433a4fca38">Data Scientist</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484976273/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SCAN</strong></td>
+<td><a href="https://trueinterview.io/jobs/64810ebc-4e18-48d9-8213-75cefe7fa816">Health Plan Data Scientist</a></td>
+<td>Long Beach, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4456953494/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Toyota Tsusho Systems US, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/28fdc11f-d07d-46bd-89cd-de7f21e65e33">AI Engineer - DS&amp;ML</a></td>
+<td>Plano, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482773350/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>JR Automation</strong></td>
+<td><a href="https://trueinterview.io/jobs/214fa539-36de-498e-85cc-cce5fd49c4b3">Chercheur scientifique – Réseau électrique Cybersécurité/Research Scientist – Power Grid Cybersecurity</a></td>
+<td>Saint-Laurent, Quebec, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484961851/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>New York Technology Partners</strong></td>
+<td><a href="https://trueinterview.io/jobs/76f3da2c-ffb2-4a48-913e-847199ab2024">Artificial Intelligence Engineer - SCM</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484980263/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>First 5 Sonoma County</strong></td>
+<td><a href="https://trueinterview.io/jobs/a3d198ba-e204-4854-b5e4-85f643c48020">Data Analyst</a></td>
+<td>Santa Rosa, CA</td>
+<td align="center"><a href="https://jsco.re/htrae">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Capitani Group LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/174ba2da-77ce-4e7b-a0dd-7b121eff6154">AI Engineer</a></td>
+<td>Florida, United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484962770/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Jackson Walker LLP</strong></td>
+<td><a href="https://trueinterview.io/jobs/2dd764a0-3b92-4523-80c0-fe68f3dd6db9">Data Engineer</a></td>
+<td>Dallas, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484961778/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Tecla</strong></td>
+<td><a href="https://trueinterview.io/jobs/fde3b5ab-afb5-4c82-bc9e-f293f4a1299d">Data Governance Engineer (US only)</a></td>
+<td>Glendale, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484983082/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sauce Labs Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/24d2c6de-a2f4-475e-a363-e4deca5e19e4">Data Center Engineer</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/saucelabs/jobs/8334168">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SIDRAM TECHNOLOGIES</strong></td>
+<td><a href="https://trueinterview.io/jobs/e0271881-53d1-4969-8538-91d5d1828e9c">Platform Development and AI Engineering</a></td>
+<td>Alpharetta, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484964792/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Star Pipe Products</strong></td>
+<td><a href="https://trueinterview.io/jobs/5e45a7dd-4a49-49b6-8fd4-cfadb3ec153c">Data Analyst</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482229259/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Largeton Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/42a041e1-0c4a-4be0-a7c8-e78769b10ada">Cyber Risk &amp; Security Data Analyst / Engineer</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484981118/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>True Zero Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/8ed1f12a-9211-444a-8f7d-d90f67586921">AI/ML Security Specialist (R-00247)</a></td>
+<td>Ashburn, VA</td>
+<td align="center"><a href="https://jobs.lever.co/truezerotech/3b26d00d-ab04-4e69-9975-27e2e9730ec2">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>PostEra</strong></td>
+<td><a href="https://trueinterview.io/jobs/0c712ac0-9ebe-408c-8456-8b729a19c4db">Machine Learning Researcher - Agentic Science</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4473666567/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Fairlife</strong></td>
+<td><a href="https://trueinterview.io/jobs/12e6c88c-baef-4123-9e93-7bb94775a8f8">Operations Data Analyst</a></td>
+<td>Webster, NY<br/>Webster, New York, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/fairlife/jobs/5239915007">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Devon Energy</strong></td>
+<td><a href="https://trueinterview.io/jobs/5da8408a-3ccf-4852-ab21-bdae1c07fdbe">Production Engineering Data Analyst</a></td>
+<td>Oklahoma City, OK</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4459089187/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Aavalar Consulting, Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/68a938a6-8d87-45a3-9fee-bb124eceb106">Junior Python Developer (AI/GenAI Focus) - Entry Level/Junior</a></td>
+<td>West Chester, PA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484967569/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Deep Genomics</strong></td>
+<td><a href="https://trueinterview.io/jobs/bf547839-9f84-4037-9111-da9a5cb8c64f">Research Scientist In Vitro Pharmacology</a></td>
+<td>Cambridge, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476942496/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Notion</strong></td>
+<td><a href="https://trueinterview.io/jobs/c9c759c1-a294-4648-bddf-1ea391b8a1e8">Data Scientist, Growth</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4458773276/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Storm3</strong></td>
+<td><a href="https://trueinterview.io/jobs/21eb129e-04ac-48af-8e24-bb7555628a62">Machine Learning Researcher</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484982052/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Charles River Laboratories</strong></td>
+<td><a href="https://trueinterview.io/jobs/ebb73525-a90e-43b1-a82f-ac5fc766cfb7">Research Scientist - Safety Assessment Toxicology</a></td>
+<td>Laval, Quebec, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476791816/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>HOLT Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/9102c871-20ab-41c6-9053-e70e5cc349af">Business Intelligence Developer</a></td>
+<td>Irving, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467917884/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Clayco</strong></td>
+<td><a href="https://trueinterview.io/jobs/576d8b02-27b3-4653-91ed-cc9e315fcdf5">Software Engineer - Full Stack &amp; AI-Enabled Development</a></td>
+<td>Chicago, IL<br/>Greater St. Louis</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476203136/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Tenstorrent</strong></td>
+<td><a href="https://trueinterview.io/jobs/7da78634-2b1c-4baf-b83a-58a64f7688d3">Datacenter &amp; Agentic AI Workload Performance Optimization Engineer</a></td>
+<td>Greater Toronto Area, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475497657/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Qlik</strong></td>
+<td><a href="https://trueinterview.io/jobs/8040edf7-5fbe-45b6-95d0-f9420906aa89">AI Agent Engineer</a></td>
+<td>Ottawa, Ontario, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475787648/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>GE HealthCare</strong></td>
+<td><a href="https://trueinterview.io/jobs/a9c667ce-993f-4dbd-8411-86dcd576ec7e">AI Applications Engineer</a></td>
+<td>Milwaukee, WI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476902742/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Torentify</strong></td>
+<td><a href="https://trueinterview.io/jobs/e75cd5da-4f22-435f-a781-8ed0046e0015">Generative AI Agent Engineer - WFH</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484953927/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Natera</strong></td>
+<td><a href="https://trueinterview.io/jobs/4eda4ef9-f3e0-453f-8abf-b67acd069a2d">Machine Learning Scientist, Multimodal AI</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/natera/jobs/6004385004">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>VySystems</strong></td>
+<td><a href="https://trueinterview.io/jobs/95fcebfe-e833-4fa0-9572-b06e700c3e56">AI Engineer</a></td>
+<td>Mississauga, Ontario, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484977078/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>AlphaX</strong></td>
+<td><a href="https://trueinterview.io/jobs/0e27e8c2-ac39-4637-85e1-917d9bde8301">Research Scientist - Construction Scheduling &amp; Workforce Risk</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://apply.workable.com/j/933A808F5E">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>University of California, San Francisco</strong></td>
+<td><a href="https://trueinterview.io/jobs/6f873856-7d2d-4839-bc9c-877f466a1d19">Oracle Cloud Data Systems Analyst</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4446883168/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>AlphaGov</strong></td>
+<td><a href="https://trueinterview.io/jobs/cbee0daa-1ee2-4b6f-ae11-a959aee2d3e2">Research Scientist - Construction Scheduling &amp; Workforce Risk</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484982016/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Panthera Grid Partners</strong></td>
+<td><a href="https://trueinterview.io/jobs/2f7cc569-800f-4a23-9e8f-efca3587191c">Performance Data Engineer</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484950999/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>FUSTIS LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/1a98c8bb-25d5-4da7-a1d2-9cfddfb2b6be">GenAI / LLM Engineer – Voice AI &amp; Agentic AI</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484972172/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/85d39cfc-a587-4c88-a7c3-99e667835f80">Applied Scientist-LLM, Buy For Me</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476792577/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>BeaconFire Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/b032ec82-6ebb-4735-a691-21193d951ac4">Artificial Intelligence Engineer</a></td>
+<td>New Jersey, United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4437296344/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Character.ai</strong></td>
+<td><a href="https://trueinterview.io/jobs/200e06d8-4adb-4790-8891-b5107be88cbb">Research Engineer, AI Safety &amp; Alignment</a></td>
+<td>Redwood City, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4310498072/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>GTECH LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/0cd8e1d7-30ff-40fe-a674-8cd504d73435">AI Software Engineer | Remote | W2 Only</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484975129/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Lumora Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/05ac95d4-751f-4890-ba19-a757049ca35d">Artificial Intelligence Engineer</a></td>
+<td>Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484966469/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>OpenAI</strong></td>
+<td><a href="https://trueinterview.io/jobs/94a64afd-5337-4169-8b34-63cf75a0bea7">Research Engineer / Research Scientist / AI Systems Engineer, RSI</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/openai/7243bdb7-7f75-4dff-a10f-18bd7296f632">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/1a702bb2-6830-407b-ac5b-df8853fcb65b">Research Engineer / Research Scientist - Personal AGI, Memory</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4448246875/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SYSTOLIC, Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/1d64e186-6105-41da-9ad8-5439f11b791d">Fullstack/Devops/ETL SWEs - TS/SCI with FSP, Bethesda MD</a></td>
+<td>Bethesda, MD</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484955898/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Torentify</strong></td>
+<td><a href="https://trueinterview.io/jobs/d423c02e-679c-4824-9d3b-293f3a92e4e5">Data Analyst I - Work From Home</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484959800/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/98587d13-fd32-4f65-b944-5ac4abdd9f17">Data Engineer I - 100% Remote</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484959809/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/bba080ba-2121-4999-b339-7ecbc29719b4">Data Analyst / HR - Remote Position</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484969206/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Russell Tobin</strong></td>
+<td><a href="https://trueinterview.io/jobs/3a3bb8d1-91d2-435e-bdc5-574490aab379">Technical Instructor – AI &amp; Developer Products</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4468247035/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Edison Smart®</strong></td>
+<td><a href="https://trueinterview.io/jobs/f979aad9-64f1-4743-9abd-ba3351319af2">Applied AI Engineer</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4481552427/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon Web Services (AWS)</strong></td>
+<td><a href="https://trueinterview.io/jobs/821f3ffb-e60f-41a1-8e11-8126e94f9b59">Applied Scientist, Artificial General Intelligence, Frontier AI</a></td>
+<td>Bellevue, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467731422/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Torentify</strong></td>
+<td><a href="https://trueinterview.io/jobs/67f0d166-e165-420d-abfe-de5aade5765d">Data Engineer - Remote Position</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484971059/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CANSEL</strong></td>
+<td><a href="https://trueinterview.io/jobs/a6f9b223-1f2e-4921-8315-42662ab91175">Data &amp; Business Systems Analyst</a></td>
+<td>Winnipeg, Canada</td>
+<td align="center"><a href="https://recruiting.ultipro.ca/CAN5108CGOC/JobBoard/93be3591-28b5-40c9-8368-6b68a2a14b04/OpportunityDetail?opportunityId=f44be52d-61af-4f3b-af91-fa2c53ac8e5c&amp;postingId=9e3c3a9a-643d-413f-a17a-d6f830355b89">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amtex Systems Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/c8a57a81-58ea-409a-aacf-e23a3a8a006e">Sales Data Analyst</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484970046/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Eli Lilly and Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/bd960ea3-9e3e-4497-a34f-6f3ccbf73731">Advisor - Scientific Machine Learning &amp; Agentic Workflows Engineer</a></td>
+<td>Indianapolis, IN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474572658/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Jobverse.io</strong></td>
+<td><a href="https://trueinterview.io/jobs/0ab14023-1bcf-400e-b161-5ee681df9be3">Applied AI Engineer (Machine Learning and LLM)</a></td>
+<td>Los Angeles, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484953707/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Tata Consultancy Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/05b022e3-3285-44e1-b0e4-7c65da3ffc06">GenAI Engineer / Developer</a></td>
+<td>McLean, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4457182688/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Jobverse.io</strong></td>
+<td><a href="https://trueinterview.io/jobs/5a01a5dc-8010-4bd3-9eb4-0b1a8872c088">Research Scientist – World Modeling</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484959608/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/1d5e1ae7-13fc-4202-97a7-c1ba21458e76">Research Scientist, Deep Learning Models</a></td>
+<td>Cambridge, OH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484959613/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Success Slice Singapore</strong></td>
+<td><a href="https://trueinterview.io/jobs/e25cbf53-09eb-4bbc-ad93-e4cf9299e013">AI Engineer</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484954466/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Jobverse.io</strong></td>
+<td><a href="https://trueinterview.io/jobs/f7910d4a-6367-48c5-ad91-6220ffccd185">Machine Learning Researcher</a></td>
+<td>San Mateo, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484968144/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Motional</strong></td>
+<td><a href="https://trueinterview.io/jobs/28928d3b-645d-4d9c-a902-e1b8ecc1cf9f">Machine Learning Engineer, Data Mining</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4428968344/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Casey's</strong></td>
+<td><a href="https://trueinterview.io/jobs/f76ff2a4-6af8-4754-89aa-9c8f1a0dbea9">Pricing &amp; Category Data Analyst</a></td>
+<td>Ankeny, IA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4473183595/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ericsson</strong></td>
+<td><a href="https://trueinterview.io/jobs/fc8b3663-f4cb-4519-ac0f-228130665f3b">AI Researcher</a></td>
+<td>Santa Clara, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475757023/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>KLA</strong></td>
+<td><a href="https://trueinterview.io/jobs/3c475b96-187e-4a6b-92f6-1085790ec2c0">Systems Software Engineer - AI Infrastructure</a></td>
+<td>Milpitas, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4438050514/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Modern Technology Solutions, Inc. (MTSI)</strong></td>
+<td><a href="https://trueinterview.io/jobs/d1c50842-c1bd-41c3-a27f-6257ed292465">Data Scientist [Full Scope Polygraph]</a></td>
+<td>Annapolis, MD</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4368289841/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Horizontal Talent</strong></td>
+<td><a href="https://trueinterview.io/jobs/383b3b1f-9cee-402a-b60c-4341c70c1fd9">Data Center Engineer</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474492052/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Farm Family</strong></td>
+<td><a href="https://trueinterview.io/jobs/7740fd85-0c54-49e7-a882-69ac80d0456a">P&amp;C Data Analyst</a></td>
+<td>Omaha, NE</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476782897/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ektello</strong></td>
+<td><a href="https://trueinterview.io/jobs/d88d2861-413c-4834-9be3-c94636a27622">B2B Product Data Analyst</a></td>
+<td>Plano, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484944659/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Associated Wholesale Grocers</strong></td>
+<td><a href="https://trueinterview.io/jobs/7c285c45-6a51-418f-8dc6-7b72b1022b3f">Data Engineer</a></td>
+<td>Kansas City, KS</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4462335806/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Tessera Labs</strong></td>
+<td><a href="https://trueinterview.io/jobs/0de5c141-04f1-4af5-ac52-9e44c3df685e">AI Engineer</a></td>
+<td>New York, NY<br/>San Jose, CA<br/>San Jose Office (HQ)<br/>+1 more</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/tessera-labs/eb150714-eeb2-44b4-8a23-c893be972bed">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Niantic Spatial, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/f3fc9fe0-df4a-45ef-88af-13d9d7ccd231">AI Automation Engineer, Real-World Test Lab</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/niantic-spatial/1f60cda2-34e1-4b17-a17c-2489bc2c1788">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Percepta</strong></td>
+<td><a href="https://trueinterview.io/jobs/b8eb5300-a8d4-4210-867c-4d78378175aa">Applied AI Engineer</a></td>
+<td>New York, NY<br/>New York City</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/percepta/bbfe8035-2364-419b-bb36-500aaa542fb2">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/084b90c6-b614-4920-865d-3563df7e099b">Research Scientist – World Modeling</a></td>
+<td>New York, NY<br/>Boston, MA<br/>New York City</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/percepta/909e2fcb-98e3-4c6b-9b76-6c5409184567">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Baseten</strong></td>
+<td><a href="https://trueinterview.io/jobs/22c695f7-ef61-4f17-a03b-890a3c1a54d1">Post-Training Research Engineer</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/baseten/68328a94-f785-463b-a3d7-b0dfc11839b5">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>EvenUp</strong></td>
+<td><a href="https://trueinterview.io/jobs/459d7cf1-6f31-422b-8497-0379e3b04e01">Software Engineer, AI Document Generation</a></td>
+<td>Toronto, Ontario, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4350846612/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Quantum Sky</strong></td>
+<td><a href="https://trueinterview.io/jobs/b1e5442c-118d-482b-8a03-3a35b4522f18">Business Intelligence Analyst</a></td>
+<td>Aurora, CO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484942513/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>City of New York</strong></td>
+<td><a href="https://trueinterview.io/jobs/b0c87a82-6ce6-42d1-868f-5dc87843d0f5">Data Analyst, Bureau of Public Health Clinics</a></td>
+<td>Long Island City, New York, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/CityOfNewYork/3743990016488396-data-analyst-bureau-of-public-health-clinics">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Swift Placement and Consulting</strong></td>
+<td><a href="https://trueinterview.io/jobs/1bd6d618-bb10-4159-a88b-c7c80d2b815d">CNC Machine Tool Sales Engineer</a></td>
+<td>Phoenix, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477127107/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon Science</strong></td>
+<td><a href="https://trueinterview.io/jobs/746e7a13-fbe8-469d-9b64-a0c73df6266c">Applied Scientist, Center for Quantum Computing</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484925812/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Georgia Tech Research Institute</strong></td>
+<td><a href="https://trueinterview.io/jobs/5a3ffd59-9f02-4ffe-88d6-abb725053d33">Space Remote Sensing/Data Science/Lightning Physics Graduate Research Assistant - Spring 2027 - SEAL</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476915907/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Goldbelt Professional Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/81d9eb0e-06cb-4f26-846e-84e3bdd3bb39">Data Analyst I (ERIB)</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476927079/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>BakerRipley</strong></td>
+<td><a href="https://trueinterview.io/jobs/1b379c1d-c922-492d-a539-7ba383e2dd4c">Performance Data Analyst (In Office) (2615)</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475705660/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Deloitte</strong></td>
+<td><a href="https://trueinterview.io/jobs/a668b669-a87d-4ddd-9546-2cff2e5ce848">Encore Finance Data, Reporting &amp; Automation Engineer</a></td>
+<td>Arlington, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475756725/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/319cf451-fac5-4edc-8f61-67522106496a">Data and AI Engineer</a></td>
+<td>Washington, DC<br/>Richmond, VA<br/>Arlington, VA<br/>+2 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475757776/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/364a2c6d-2388-416f-b552-6b9eae8ce0e6">Data Scientist - AI and Data Science Engineer I</a></td>
+<td>Huntsville, AL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475747942/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>General Mills</strong></td>
+<td><a href="https://trueinterview.io/jobs/3a461472-447c-44ee-a821-b2fe2f32b83b">Research &amp; Development Food Scientist - Campus Recruiting</a></td>
+<td>Minneapolis, MN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4448943977/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/d774b47d-8912-4269-b1f4-97600bab5839">Research &amp; Development Scientist, Pet Food - Campus Recruiting</a></td>
+<td>Minneapolis, MN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4448939978/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>UST</strong></td>
+<td><a href="https://trueinterview.io/jobs/cf929cf3-b407-4622-9b85-4d3a74bf6727">AI Agent &amp; MCP Integration Engineer</a></td>
+<td>Frisco, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4465941673/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sandia National Laboratories</strong></td>
+<td><a href="https://trueinterview.io/jobs/7bbf0fd5-6e62-4f71-8c6b-3906fc9dcf08">Postdoctoral Appointee: Credible Scientific Machine Learning &amp; Data Driven Analysis, CA Onsite</a></td>
+<td>Livermore, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466831389/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>John Deere</strong></td>
+<td><a href="https://trueinterview.io/jobs/47a4826c-f9cc-4950-8eb1-9e17d761f423">Part-Time Student - Data Science and Analytics - Urbandale, IA or Austin, TX</a></td>
+<td>Urbandale, IA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4439926547/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/a64aa893-ea56-451b-be0b-71a3d9b2d718">Part-Time Student - Data Science and Analytics - Austin, TX or Urbandale, IA</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4430843012/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Autodesk</strong></td>
+<td><a href="https://trueinterview.io/jobs/e8a13120-c58b-4843-a0fc-04d5993e9374">PhD Researcher, AI Research</a></td>
+<td>Toronto, Ontario, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475446680/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>DRW</strong></td>
+<td><a href="https://trueinterview.io/jobs/acb92b0e-78fc-4011-9b33-b33e23e73991">Data Analyst - Business Intelligence</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/drweng/jobs/8256605">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ZS</strong></td>
+<td><a href="https://trueinterview.io/jobs/7ffe4dcc-1073-480e-bf1f-1fae7827a788">Advanced Data Science Consultant</a></td>
+<td>Princeton, NJ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4311475635/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>FTI Defense - Frontier Technology Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/08945acb-4211-40a8-beb6-e87f2f104701">Data/Reporting Analyst</a></td>
+<td>Norfolk, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476787872/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Bristol Myers Squibb</strong></td>
+<td><a href="https://trueinterview.io/jobs/ee8b208f-7aa7-4e96-8cfe-d46efb9395bc">Automation Data Analytics Engineer</a></td>
+<td>Devens, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466548667/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Quantenex</strong></td>
+<td><a href="https://trueinterview.io/jobs/fdadffc3-1431-4a4f-a39e-5a979e399628">Data Analyst</a></td>
+<td>Texas, United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484929132/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Google</strong></td>
+<td><a href="https://trueinterview.io/jobs/87d31e6f-336b-49ce-ad3c-5e571d5d2965">Research Engineer, Gemini Personalization Research, DeepMind</a></td>
+<td>Mountain View, California, United States</td>
+<td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/79768134398943942">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Torentify</strong></td>
+<td><a href="https://trueinterview.io/jobs/43d8c02c-30d9-49cc-a4b4-1349d37dbf5e">Data Scientist - Conversational AI &amp; NLP - WFH</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484920026/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>UNC Health</strong></td>
+<td><a href="https://trueinterview.io/jobs/cd1e4cd2-d94d-4147-8cc4-08251f56aa0b">Supply Chain Data Integrity Analyst</a></td>
+<td>Raleigh-Durham-Chapel Hill Area<br/>Durham, NC<br/>Remote</td>
+<td align="center"><a href="https://jobs.unchealthcare.org/jobs/18415612-supply-chain-data-integrity-analyst?tm_job=9999-INFOR-246157&amp;tm_event=view&amp;tm_company=12726">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>BluePath Labs</strong></td>
+<td><a href="https://trueinterview.io/jobs/a195b461-e49a-4e8c-934b-9667c1394fdd">Business, Data &amp; Automation Analyst (Multiple Openings) - Onsite, Washington, DC</a></td>
+<td>Washington, DC</td>
+<td align="center"><a href="https://bluepathlabs.isolvedhire.com/jobs/1894436-56968.html">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/5eaf456d-f0f6-45c9-8056-15d0b7524ea0">Data Engineer (Multiple Openings) - Onsite, Washington, DC</a></td>
+<td>Washington, DC</td>
+<td align="center"><a href="https://bluepathlabs.isolvedhire.com/jobs/1894506-56968.html">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Castle Biosciences, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/aa444257-84fa-465c-bc45-66aa6d4d9dfe">R&amp;D Data Analyst</a></td>
+<td>Friendswood, TX</td>
+<td align="center"><a href="https://www.applicantpro.com/openings/castlebiosciences/jobs/4260251-463098">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Accenture</strong></td>
+<td><a href="https://trueinterview.io/jobs/e64352df-3459-4c08-90e8-a976825112ff">AI Native Developer (Agentic / Applied)</a></td>
+<td>Vancouver, BC<br/>Ottawa, Ontario, Canada<br/>Calgary, AB<br/>+5 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476996625/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>KI people</strong></td>
+<td><a href="https://trueinterview.io/jobs/783aab8c-db78-4611-9fdd-7ffb40463e3d">AI Software Engineer</a></td>
+<td>San Francisco Bay Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484908545/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>BioSpace</strong></td>
+<td><a href="https://trueinterview.io/jobs/c9b09cef-3826-4dd1-980f-846e80bff6ca">Data Integration Developer</a></td>
+<td>Boca Raton, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484799765/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Torentify</strong></td>
+<td><a href="https://trueinterview.io/jobs/f3af9a04-09ba-478f-9b1a-99b3a583020f">AI/ML Data Annotator - USA | Remote</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484900637/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Alignerr</strong></td>
+<td><a href="https://trueinterview.io/jobs/af1a48cd-f906-417b-9cad-2aa473ed1655">Machine Learning Evaluation Specialist</a></td>
+<td>Toronto, Ontario, Canada<br/>New York, NY<br/>London, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484795255/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Accuity</strong></td>
+<td><a href="https://trueinterview.io/jobs/41a9f7fb-2f87-44fa-9acb-bc8da741ff86">Applied AI Engineer</a></td>
+<td>Remote<br/>Mt. Laurel, NJ</td>
+<td align="center"><a href="https://jobs.dayforcehcm.com/en-US/accuityhc/CANDIDATEPORTAL/jobs/643">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CharterUp</strong></td>
+<td><a href="https://trueinterview.io/jobs/50edc64f-1ecc-483b-8220-0f814dea2fea">Data Analyst</a></td>
+<td>Atlanta, GA<br/>Atlanta, Georgia</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/charterup/jobs/5466377008">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Illinois State University</strong></td>
+<td><a href="https://trueinterview.io/jobs/ec9a87b9-fa46-45db-a6a2-3f34a0ada94a">GA Pre-Professional - Data Analyst - Spring 2027</a></td>
+<td>Normal, IL</td>
+<td align="center"><a href="https://jobsearch.illinoisstate.edu/jobs/ga-pre-professional-data-analyst-spring-2027-normal-illinois-illinois-united-states">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Koniag Government Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/0511c0f1-2515-4d59-a908-ca1bd9296c00">Generative AI Software Engineer</a></td>
+<td>Washington, DC</td>
+<td align="center"><a href="https://jobs.dayforcehcm.com/en-US/kgs/CANDIDATEPORTAL/jobs/15698">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -1392,6 +2694,55 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>ABOUT YOU SE &amp; Co. KG</strong></td>
+<td><a href="https://trueinterview.io/jobs/e7b0c954-e371-4683-9bc1-8b268e8d295e">Data Analyst - Marketing Data Analytics (all genders)</a></td>
+<td>Hamburg, Hamburg, Germany</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000162136297-data-analyst-marketing-data-analytics-all-genders-">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>LY Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/e09fd467-b8cb-4f29-8003-565eb7df4c5e">機械学習エンジニア / AI領域（MLプラットフォーム）</a></td>
+<td>Tokyo, Japan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4228317037/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Qualcomm</strong></td>
+<td><a href="https://trueinterview.io/jobs/76e7a9a4-1041-452f-9250-f9bc506503f5">AI Software Engineer</a></td>
+<td>Guangzhou-Foshan Metropolitan Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491194268/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Talan</strong></td>
+<td><a href="https://trueinterview.io/jobs/e059b405-9cf7-4f8f-84a9-e2790447fc8d">Data Engineer dbt (confirmé/sénior) - H/F - CDI</a></td>
+<td>Aix-en-Provence, Provence-Alpes-Côte d'Azur, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Talan/744000162117724-data-engineer-dbt-confirme-senior-h-f-cdi">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Mirantis</strong></td>
+<td><a href="https://trueinterview.io/jobs/8154c5f2-185c-41fa-8c0f-82504ec3c2ad">Data Analyst (EMEA, Remote)</a></td>
+<td>Kazakhstan, Turkistan Region, Kazakhstan</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Mirantis/744000162118988-data-analyst-emea-remote-">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Strategic Staffing Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/02cefb11-736c-4353-a4fd-7fe9f3c063cb">AI Data Analyst</a></td>
+<td>Detroit Metropolitan Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491581081/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>NXP Semiconductors</strong></td>
+<td><a href="https://trueinterview.io/jobs/a76160fb-c47c-40e2-9c4b-b779f037f838">Working Student (f/m/d) LLM Wiki &amp; Agentic AI Knowledge Systems</a></td>
+<td>Hamburg, Hamburg, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491194008/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>ByteDance</strong></td>
 <td><a href="https://trueinterview.io/jobs/c9193bc4-161a-475e-a9dd-dda506fa7472">Applied Machine Learning Orchestration Graduate (AML) - 2027 Start</a></td>
@@ -1476,1360 +2827,9 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center"><a href="https://jobs.smartrecruiters.com/Inetum2/744000162066776-ai-engineering-and-solutions-development-services">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
-<tr>
-<td><strong>Qualcomm</strong></td>
-<td><a href="https://trueinterview.io/jobs/d36f7e3f-7bb2-4e3b-a639-6b167d334ce0">Software Engineer, LiteRT / On-Device AI</a></td>
-<td>Hsinchu City, Taiwan, Taiwan<br/>Taipei, Taipei City, Taiwan</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4465768661/">Apply</a></td>
-<td align="center">17 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Ericsson</strong></td>
-<td><a href="https://trueinterview.io/jobs/ab0539d6-6e62-413b-b16c-76d1df084230">WAN &amp; Data Center Network Engineer</a></td>
-<td>Bengaluru, Karnataka, India</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4490919071/">Apply</a></td>
-<td align="center">17 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Sony Europe</strong></td>
-<td><a href="https://trueinterview.io/jobs/e3b81e86-831c-4ce8-90d0-f7fb7b3b686b">Data Scientist (Maternity Cover)</a></td>
-<td>Weybridge, England, United Kingdom</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4491524504/">Apply</a></td>
-<td align="center">17 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Citadel Securities</strong></td>
-<td><a href="https://trueinterview.io/jobs/86c2173c-eb9b-4e89-8916-325b340346a3">Machine Learning Researcher</a></td>
-<td>London Area, United Kingdom</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4441013242/">Apply</a></td>
-<td align="center">17 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Ericsson</strong></td>
-<td><a href="https://trueinterview.io/jobs/9e58cc58-8865-4afd-b22f-d954c8ec9fef">AI developer - Radio E2E Integration</a></td>
-<td>Beijing, Beijing, China</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4490910319/">Apply</a></td>
-<td align="center">17 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Siemens</strong></td>
-<td><a href="https://trueinterview.io/jobs/f33567f9-3e72-402e-a828-681da4f5055a">EP R&amp;D 初级AI算法工程师</a></td>
-<td>Changzhou-Wuxi-Suzhou Metropolitan Area</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4465101619/">Apply</a></td>
-<td align="center">16 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>ByteDance</strong></td>
-<td><a href="https://trueinterview.io/jobs/13e781da-a9e6-4294-961e-7843368815be">Big Data Engineer Graduate (Data Management Suite, Data Integration) - 2027 Start</a></td>
-<td>Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4475525225/">Apply</a></td>
-<td align="center">16 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>OCTO Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/1283e8f3-b439-4b7e-9b4e-44576bb35572">Consultant junior AI Engineer - F/H/N</a></td>
-<td>Paris, Île-de-France, France</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/OCTOTechnology/744000161800861-consultant-junior-ai-engineer-f-h-n">Apply</a></td>
-<td align="center">16 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>ByteDance</strong></td>
-<td><a href="https://trueinterview.io/jobs/ec5ad2ed-6f26-42ff-812e-335aa4d10135">Content Understanding LLM Algorithm Engineer Graduate (Global E-Commerce) - 2027 Start (PhD)</a></td>
-<td>Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4475066110/">Apply</a></td>
-<td align="center">15 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/ab03426f-ed03-4038-b002-ac7e35af979a">Machine Learning Algorithm Research Engineer - Soaring Star Talent Program</a></td>
-<td>Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4475056486/">Apply</a></td>
-<td align="center">15 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Sapiens</strong></td>
-<td><a href="https://trueinterview.io/jobs/3d630b43-70e6-4634-a75e-69aa76f99e42">AI Engineer</a></td>
-<td>Vilnius, Vilniaus, Lithuania</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4491204227/">Apply</a></td>
-<td align="center">15 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>IMC Trading</strong></td>
-<td><a href="https://trueinterview.io/jobs/7a1ef313-61e9-42fa-99d6-3beac2851de7">Graduate Deep Learning Researcher - London</a></td>
-<td>London, England, United Kingdom</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4436237642/">Apply</a></td>
-<td align="center">15 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>ByteDance</strong></td>
-<td><a href="https://trueinterview.io/jobs/dff669dd-2626-41c5-afe6-52a3ae3e90ec">Machine Learning System Engineer Graduate (AML) - 2026 Start (PhD)</a></td>
-<td>Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4475048736/">Apply</a></td>
-<td align="center">14 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/71bfaf9c-fafa-42e8-a2ef-38601f51277e">AI Agent Algorithm Engineer Graduate (Global E-Commerce, Conversational AI) - 2027 Start</a></td>
-<td>Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4474552363/">Apply</a></td>
-<td align="center">14 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/7a667462-edd3-406e-9d4a-461b7a3c32f5">AI Solution Architect Graduate (BytePlus) - 2027 Start</a></td>
-<td>London Area, United Kingdom</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4475056540/">Apply</a></td>
-<td align="center">14 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Frasers Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/a1ed6900-5ed1-40eb-8a83-2cd1f5bb21fc">Trainee Data Analyst - Elevation Programme</a></td>
-<td>Shirebrook, England, United Kingdom</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/FrasersGroup/744000161518641-trainee-data-analyst-elevation-programme">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Western Digital</strong></td>
-<td><a href="https://trueinterview.io/jobs/6dc68f2e-02d3-4ac2-a27c-45cd0b891f83">AI Application Engineer, Product Engineering</a></td>
-<td>Shenzhen, Guangdong Province, China</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/WesternDigital/744000161459261-ai-application-engineer-product-engineering">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>TikTok</strong></td>
-<td><a href="https://trueinterview.io/jobs/fddf4e48-1e3e-4436-94a6-fc4ff7340dea">AI Model Reinforcement Graduate (Platform Responsibility) - 2027 Start</a></td>
-<td>Bangkok, Bangkok City, Thailand<br/>Ho Chi Minh City, Ho Chi Minh City, Vietnam<br/>Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4489547046/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/88fdb001-11f5-41e4-bbd1-60086037fe53">AI Model Reinforcement Mandarin Speaking</a></td>
-<td>Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4472518981/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/21492cdd-53a6-413a-8bde-6fed21086146">AI Infra Optimization Engineer Graduate (TikTok Global E-Commerce Recommendation &amp; Search Architecture) - 2027 Start</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4447693216/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>ByteDance</strong></td>
-<td><a href="https://trueinterview.io/jobs/694aae91-946f-4d14-ab66-772ee47047c7">Solutions Architect Graduate (BytePlus, Japan) - 2027 Start</a></td>
-<td>Tokyo, Tokyo, Japan</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4435849659/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>TikTok</strong></td>
-<td><a href="https://trueinterview.io/jobs/012e8ccd-dd0f-4076-bc33-156c016b39f1">AI Model Reinforcement Arabic Speaking Graduate (Platform Responsibility) - 2027 Start</a></td>
-<td>Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4472305725/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/6e308bc7-a05a-43fd-ab25-aa9da13ed53c">Audio Algorithm Researcher Graduate (Immersive Intelligent) - 2027 Start (PhD)</a></td>
-<td>Sydney, New South Wales, Australia</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4437010841/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon Web Services (AWS)</strong></td>
-<td><a href="https://trueinterview.io/jobs/3175e617-ad57-4609-b952-a056e4f28a80">Applied Scientist, OpenSearch Shanghai</a></td>
-<td>Shanghai, Shanghai, China</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4490392945/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Wavestone</strong></td>
-<td><a href="https://trueinterview.io/jobs/4662ba01-d55e-422e-8516-96eadac7c271">Consultant·e Data et AI Engineer – Jeune diplômé·e (H/F) - Nantes</a></td>
-<td>Nantes, Pays de la Loire, France</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Wavestone1/744000161332369-consultant-e-data-et-ai-engineer-jeune-diplome-e-h-f-nantes">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Mthree</strong></td>
-<td><a href="https://trueinterview.io/jobs/61efbf2e-b655-402b-9bd1-a7b4367e3a19">Junior Data Engineer - Budapest, Hungary</a></td>
-<td>Hungary</td>
-<td align="center"><a href="https://mthree.com/careers/job/?gh_jid=4729130006">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>NAVER LABS Europe</strong></td>
-<td><a href="https://trueinterview.io/jobs/a63aa482-1277-4638-ae49-aad4e40d31c4">Research Scientist in AI for Robotics F/M</a></td>
-<td>Meylan, Auvergne-Rhône-Alpes, France</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4419815256/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>TikTok</strong></td>
-<td><a href="https://trueinterview.io/jobs/b92d4115-2733-414c-8510-f77d19d9ec3a">AI Infrastructure Engineer Graduate (TikTok Live Recommendation Architecture) - 2027 Start</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4447687329/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/f8f05079-2da6-43e0-9738-2831d8a65682">Multimodal LLM Algorithm Engineer Graduate (Global E-Commerce, Knowledge Graph) - 2027 Start (PhD)</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4447921048/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/e089519a-ecd4-4764-9645-7bf1489e3254">AI Agent Algorithm Engineer Graduate (Global E-Commerce, Conversational AI) - 2027 Start</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4447695182/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/df959492-5b28-4ba1-955c-65fc0b4625e4">AI Feature/Computing/Storage Engineer Graduate (TikTok Recommendation Ecosystem Architecture) - 2027 Start</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4447674723/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/7a5bd6f0-f4a5-45ab-8ed6-087c81864b8b">AI Engineer (LLM/Multimodal) Graduate (TikTok Search) - 2027 Start (PhD)</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4447696142/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/3c267342-de5a-4821-865e-493a961e791f">Data Engineer Graduate (TikTok Recommendation Ecosystem Architecture) - 2027 Start (PhD)</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4447691192/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/bfcaee7b-9966-4f2b-bc4d-53b1b13b9341">Research Scientist - Search/Recommendation/Ads - Global Frontier Tech Recruitment Program - 2027 Start (PhD)</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4401868415/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/ba90f992-db9f-4980-957b-067538b94aeb">Business Data Analyst Graduate (Account, Search, And Interaction Safety) - 2027 Start</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4481319293/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/474989da-a6f0-45d0-a15e-fcebbc489a91">Content Understanding LLM Algorithm Engineer Graduate (Global E-Commerce) - 2027 Start</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4447690248/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/720504f3-d048-4512-b78e-b4fd985cf77c">Applied Scientist (2026-27 Campus, International Technology Team), Beijing</a></td>
-<td>Beijing, Beijing, China</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4455795075/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>TikTok</strong></td>
-<td><a href="https://trueinterview.io/jobs/f6a45e59-8d1e-4053-8e90-1a1f4a6bf597">AI Machine Learning Engineer Graduate (TikTok Search) - 2026 Start (PhD)</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4323513879/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/21afc765-fdb5-45e7-b015-5fd0fcacb681">Data Scientist Graduate (TikTok Platform Safety) - 2027 Start (PhD)</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4448461661/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/d89d1100-18e2-49ca-b312-6c26a1381433">Research Scientist - Risk Control Vertical LLM Foundation and Agent - Global Frontier Tech Recruitment Program - 2027 Start (PhD)</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4401831826/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/c88af679-a7ee-47df-b578-a0fb3b3e56d5">Machine Learning Engineer Graduate (Trust and Safety Engineering) - 2027 Start (BS/MS)</a></td>
-<td>Sydney, New South Wales, Australia</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4371516477/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Salesforce</strong></td>
-<td><a href="https://trueinterview.io/jobs/209893b5-1c81-432f-8755-346cf6b53e4c">AI Builder, Emerging Talent - English Speaking Market</a></td>
-<td>Madrid, Community of Madrid, Spain</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482061639/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>TikTok</strong></td>
-<td><a href="https://trueinterview.io/jobs/484e4c4d-93f4-46d6-b88b-bd4a2fb5e111">AI Model Reinforcement German Speaking Graduate (Platform Responsibility) - 2027 Start</a></td>
-<td>Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4472520878/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/24d2febf-8647-4cf9-a3f3-47c5816b0ca8">AI Model Reinforcement Indonesian Speaking Graduate (Platform Responsibility) - 2027 Start</a></td>
-<td>Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4472533343/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/18feec0a-ae3b-42d3-b2c6-6e8ade07c6c4">Infrastructure Engineer Graduate (TikTok Recommendation Architecture) - 2027 Start (PhD)</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4447683464/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/5732db8a-8aac-4847-bf72-e86ca20fc53a">Multimodal Algo Researcher Graduate (AI Innovation Center) - 2026 (PhD)</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4286508715/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/0ac5e499-0d54-4c2a-aca6-f13402c50393">AI Model Reinforcement French Speaking Graduate (Platform Responsibility) - 2027 Start</a></td>
-<td>Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4472536193/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/381908eb-c899-4e4d-91ee-f05f9b68db85">AI Model Reinforcement Korean Speaking Graduate (Platform Responsibility) - 2027 Start</a></td>
-<td>Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4472320106/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/43363973-b77e-44bc-a022-bd8cf6f8a9db">AI Model Reinforcement Mandarin Speaking Graduate (Platform Responsibility) - 2027 Start</a></td>
-<td>Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4472321064/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>SAP IT Business Systeme</strong></td>
-<td><a href="https://trueinterview.io/jobs/788a1cb9-adb0-4325-93ef-4e4b0d1fcfc0">Junior AI Developer - SAP Signavio Process.AI (limited contract)</a></td>
-<td>Brno-střed, Jihomoravský kraj, Czechia</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000161239549-junior-ai-developer-sap-signavio-process-ai-limited-contract-">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Coupang</strong></td>
-<td><a href="https://trueinterview.io/jobs/bb7de7ea-f6f0-4a70-853c-34bf584138f6">[쿠팡파이낸셜] Data Scientist (Credit Strategy)</a></td>
-<td>Seoul, South Korea</td>
-<td align="center"><a href="https://www.coupang.jobs/en/jobs/?gh_jid=8381980">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>TikTok</strong></td>
-<td><a href="https://trueinterview.io/jobs/f3de4744-de59-45d7-9df1-c73bd6843735">AI Data Operation Specialist Graduate (TikTok LIVE) - 2027 Start</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4448456995/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/ebdcecca-a60c-4b7b-abd8-ea9124bb49e4">AI/ML Engineer, AB EU</a></td>
-<td>Munich, Bavaria, Germany</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4489992634/">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>TikTok</strong></td>
-<td><a href="https://trueinterview.io/jobs/7a846f38-54ac-45d7-8162-b5c3167b5327">AI Agent Machine Learning Engineer Graduate (Global E-Commerce, Supply Chain and Logistics) - 2027 Start (PhD)</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4447687328/">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/a1fac536-4d81-4d61-b36b-1bfa395e0eb9">Research Scientist - LLM Applications for International E-commerce Scenarios - Global Frontier Tech Recruitment Program - 2027 Start (PhD)</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4401837579/">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/d3e8770d-215d-426c-bead-d2f7ffe1ab30">Content Understanding LLM Algorithm Engineer Graduate (Global E-Commerce) - 2027 Start (PhD)</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4447696143/">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/1cc5a276-0be2-4663-b33e-e79eda58acb0">Multimodal LLM Algorithm Engineer Graduate (Global E-Commerce, Knowledge Graph) - 2027 Start</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4447911220/">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/4b5c9779-9b61-41a2-8651-a5362b822fc4">AI Agent Machine Learning Engineer Graduate (Global E-Commerce, Supply Chain and Logistics) - 2027 Start</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4447675702/">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/0142e43a-4a75-4b67-9088-bb6babb3ec40">LLM &amp; Agent Algorithm Graduate (Search) - 2027 Start (PhD)</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4447985888/">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/80637fe8-dcf2-4552-bd8f-dc1de61f7181">Machine Learning Research Scientist Graduate (Business Integrity) - 2026 Start (PhD)</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4284141412/">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Lenovo</strong></td>
-<td><a href="https://trueinterview.io/jobs/533a4e39-f112-458a-9c6d-5d306000c0a6">AI &amp; Business Insights Analyst | Early Career Opportunity</a></td>
-<td>Bratislava, Bratislava, Slovakia</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4462988003/">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>RTE - Réseau de Transport d'Electricité</strong></td>
-<td><a href="https://trueinterview.io/jobs/431c6ba6-d4dc-4381-ba6a-5aab1a0d9b0e">Stage PFE - Ingénieur IT - Optimisation IA F/H</a></td>
-<td>Lyon, Auvergne-Rhône-Alpes, France</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/RTE1/744000160853549-stage-pfe-ingenieur-it-optimisation-ia-f-h">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Virtua Advanced Solution</strong></td>
-<td><a href="https://trueinterview.io/jobs/57af7cec-e689-4993-92e0-42766d2a1a84">Data Analyst (Arabic fluency is required)</a></td>
-<td>Abu Dhabi, Abu Dhabi, United Arab Emirates</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/VirtuaAdvancedSolution/744000160844989-data-analyst-arabic-fluency-is-required-">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>R1 RCM</strong></td>
-<td><a href="https://trueinterview.io/jobs/1e73cb37-b981-4352-a06b-bd54d1f63b61">US-Data &amp; Information Privacy Analyst I</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://r1rcm.wd1.myworkdayjobs.com/en-US/R1RCM/job/Remote-USA/US-Data---Information-Privacy-Analyst-I_R260000008118">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Siemens Healthineers</strong></td>
-<td><a href="https://trueinterview.io/jobs/56f5eee6-c2fd-4dd1-9db7-a5a9146c1ff4">Working Student (f/m/d) AI Agents and Automation in Problem Management</a></td>
-<td>Forchheim, Bavaria, Germany</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487178374/">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Ericsson</strong></td>
-<td><a href="https://trueinterview.io/jobs/8af17e71-85cd-4601-a71b-6b577bd4f687">Telecom Data Scientist | Early Career Program</a></td>
-<td>Stockholm, Stockholm County, Sweden</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487690992/">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>TikTok</strong></td>
-<td><a href="https://trueinterview.io/jobs/0bf6fb93-817a-489e-83e8-5afcc16e7e52">LLM Agents Platform R&amp;D Graduate (AI Innovation Center) - 2027 Start (PhD)</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4462945338/">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/c05620e8-90c1-4ce5-a452-3201476522cc">AI Evaluation &amp; Enablement Specialist Graduate (TikTok ADSO) - 2027 Start</a></td>
-<td>Ho Chi Minh City, Ho Chi Minh City, Vietnam<br/>Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4479972778/">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Devoteam</strong></td>
-<td><a href="https://trueinterview.io/jobs/65096ada-8a29-4328-935a-6817b2d27fe3">AI Engineer - Tamheer</a></td>
-<td>Riyadh, Saudi Arabia</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Devoteam/744000160545250-ai-engineer-tamheer">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Ericsson</strong></td>
-<td><a href="https://trueinterview.io/jobs/60cdcd80-9c07-4368-8b0d-cd4772919248">LLM Post-Train Eng. Early Career Program</a></td>
-<td>Yokohama, Kanagawa, Japan</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487683117/">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>FDE Times</strong></td>
-<td><a href="https://trueinterview.io/jobs/79e48b89-726a-401d-ab76-83608955b277">Applied AI Engineer</a></td>
-<td>Utica-Rome Area</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486678913/">Apply</a></td>
-<td align="center">8 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Mistral</strong></td>
-<td><a href="https://trueinterview.io/jobs/46bc5ff2-9451-4d5a-8d1d-9c0b55aac56d">Applied Scientist: Optimisation &amp; LLMs — EMEA</a></td>
-<td>Paris, Île-de-France, France</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486692086/">Apply</a></td>
-<td align="center">8 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Tencent</strong></td>
-<td><a href="https://trueinterview.io/jobs/6c26097a-08cd-4c1d-b4fe-d0aeee25e3dd">AI应用开发工程师｜AI Application Development Engineer</a></td>
-<td>Greater Tokyo Area</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4488754496/">Apply</a></td>
-<td align="center">8 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Mistral</strong></td>
-<td><a href="https://trueinterview.io/jobs/301a4f2b-36ef-467d-b8c0-b946ef857580">Tabular AI Research Engineer &amp; Applied Scientist</a></td>
-<td>Paris, Île-de-France, France</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486668042/">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/a94bdf0d-c2e4-4984-a355-0e15ee31089e">Tabular AI Scientist &amp; Research Engineer (LLMs)</a></td>
-<td>Amsterdam, North Holland, Netherlands<br/>Paris, Île-de-France, France</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486622576/">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/6c523945-6c9b-424f-868d-579ceb29b518">Applied Scientist, Tabular AI &amp; Data Systems (EMEA)</a></td>
-<td>Paris, Île-de-France, France</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486667192/">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/3c6c2d77-8bc7-4add-b4eb-98e04d6147fe">AI Optimization Scientist &amp; Research Engineer</a></td>
-<td>Paris, Île-de-France, France</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486662227/">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/06462b71-4d97-4d40-9d21-0a88942cafbb">Data Scientist, AI Program, CNGS NBS (New Business &amp; New Seller) Amazon Business</a></td>
-<td>Shanghai, Shanghai, China</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4462823127/">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Google</strong></td>
-<td><a href="https://trueinterview.io/jobs/c64fd093-6e32-4073-a535-1ac0b157f17a">GenAI Forward Deployed Engineer, Google Cloud (English, Korean)</a></td>
-<td>Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4479373269/">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/0a59a780-8fc4-4a71-8687-e51d0b4dc296">Applied Scientist I, CMT</a></td>
-<td>Chennai, Tamil Nadu, India</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4488488929/">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Mistral</strong></td>
-<td><a href="https://trueinterview.io/jobs/43bd33f6-d29f-4f54-94bd-d6b9d9c58c4c">Applied Scientist &amp; Optimisation Engineer (EMEA)</a></td>
-<td>Paris, Île-de-France, France</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486642038/">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/32544309-2cc4-44fa-845d-cb996ec438ef">ml engineer for tabular data</a></td>
-<td>Paris, Île-de-France, France</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486625607/">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/af41b78e-f268-4f51-8feb-913ddcc5da4c">ML Engineer for Formal Methods &amp; Theorem Proving</a></td>
-<td>Paris, Île-de-France, France</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486622721/">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/5bdfd689-8e6c-4a81-805b-faf0056df0e4">ml engineer for time-series foundation models</a></td>
-<td>Paris, Île-de-France, France</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486618966/">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/52c3d280-e020-4043-a806-b4bd57caebcb">ml engineer for formal methods</a></td>
-<td>Paris, Île-de-France, France</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486628495/">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/a9513345-c8bc-4df9-8ece-d9b8572234f7">ml engineer in robotics</a></td>
-<td>Paris, Île-de-France, France</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486619966/">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/d4915753-5c0d-4467-9801-7ac91b72f6e2">AI Systems Engineer: LLMs, RL &amp; Optimization</a></td>
-<td>Paris, Île-de-France, France</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486627414/">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/ff05ccef-4137-4db3-a8d2-b8caa0034330">ml engineer for operational research</a></td>
-<td>Paris, Île-de-France, France</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486619832/">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/bd69fe72-8ee5-47e0-9ceb-d7a6acbd6842">ML Engineer - Tabular Data &amp; LLM Fine-Tuning</a></td>
-<td>Paris, Île-de-France, France</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486621537/">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Google</strong></td>
-<td><a href="https://trueinterview.io/jobs/64214b45-2b41-40a7-98dc-740a87aced3e">Research Scientist, AI Safety and Security</a></td>
-<td>Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4479354974/">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Mistral</strong></td>
-<td><a href="https://trueinterview.io/jobs/4b9698c6-6be5-433c-8b2f-55b41df8404e">Time-Series Foundation ML Engineer (GPU-Scale)</a></td>
-<td>Paris, Île-de-France, France</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486627552/">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>FDE Times</strong></td>
-<td><a href="https://trueinterview.io/jobs/4dcf0177-8ea0-4f0b-84b8-8fd50d9144e7">Applied AI Engineer, Fullstack</a></td>
-<td>Utica-Rome Area</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486629642/">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/0eaa34b2-7efb-4242-9210-804f69914458">Software Engineer, Applied AI</a></td>
-<td>Utica-Rome Area</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486636242/">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>West 4th Strategy</strong></td>
-<td><a href="https://trueinterview.io/jobs/9ceb8154-f075-4a44-bea5-aea54d6fe458">Financial Data Analyst</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://west4thstrategy.applytojob.com/apply/FHtaKLZmRP/Financial-Data-Analyst?%7E=">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Apple</strong></td>
-<td><a href="https://trueinterview.io/jobs/ff1a2356-49e8-4fa9-867a-578758e52aab">ML Engineer</a></td>
-<td>Cork, County Cork, Ireland</td>
-<td align="center"><a href="https://jobs.apple.com/en-us/details/200693662/ml-engineer">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Insure National</strong></td>
-<td><a href="https://trueinterview.io/jobs/613d3929-25c1-481c-a99f-8c146f53e01f">Claims Data Analyst</a></td>
-<td>San Diego Metropolitan Area</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487349676/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>TikTok</strong></td>
-<td><a href="https://trueinterview.io/jobs/5dac7510-ed24-476e-88a4-2c6040d6d482">Algorithm Engineer - Global Live - LLM Strategy (Singapore)</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487334574/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>ByteDance</strong></td>
-<td><a href="https://trueinterview.io/jobs/bf5cf308-b59d-426c-af8e-f84dd2016aa2">Data Operations Analyst (AI Data &amp; Safety)</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487336544/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>TikTok</strong></td>
-<td><a href="https://trueinterview.io/jobs/085eafee-ee59-43d6-b316-f4fdf9b370aa">AI Agent Engineer - TikTok LIVE (Singapore)</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487347184/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>IMC Trading</strong></td>
-<td><a href="https://trueinterview.io/jobs/dae73c8f-055e-404b-8e4f-77ae46d775cc">Software Engineer - Machine Learning Frameworks</a></td>
-<td>Sydney, New South Wales, Australia</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4442991682/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Mistral</strong></td>
-<td><a href="https://trueinterview.io/jobs/0ad06089-c6ff-4c1c-86aa-fc0269064bf5">Latency &amp; Throughput AI Research Engineer (LLM Inference)</a></td>
-<td>Paris, Île-de-France, France</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486284162/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Cloudflare</strong></td>
-<td><a href="https://trueinterview.io/jobs/40c37563-ec04-4013-b057-5744d43c7294">Customer Engineer AI/ Start Up's</a></td>
-<td>Hybrid</td>
-<td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8350836?gh_jid=8350836">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>TikTok</strong></td>
-<td><a href="https://trueinterview.io/jobs/7a75ee14-ce59-4408-a507-89a2d396c830">AI Application Infra - Technical Specialist/Engineer - TikTok LIVE</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487329209/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>ByteDance</strong></td>
-<td><a href="https://trueinterview.io/jobs/3919b1ee-957d-45f6-a5b3-1b49a588aec5">Software Engineer, AI Infrastructure</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487338041/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Helsing</strong></td>
-<td><a href="https://trueinterview.io/jobs/742bc34b-06a8-4cb9-b8ca-46662cddcf3c">AI Research Engineer - Robotics</a></td>
-<td>Barcelona<br/>London</td>
-<td align="center"><a href="https://helsing.ai/jobs/5028848101?gh_jid=5028848101">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/ce9a97d7-48c5-47c0-9eb7-b6c59950fc49">AI Research Engineer - Reinforcement Learning</a></td>
-<td>Munich - Berlin - London - Paris</td>
-<td align="center"><a href="https://helsing.ai/jobs/5028731101?gh_jid=5028731101">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/d790b289-462b-4d4b-8dd0-b44c616a425a">Applied Scientist, CMT</a></td>
-<td>Chennai, Tamil Nadu, India<br/>Bengaluru, Karnataka, India</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4488414459/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/107c7df8-53a9-476d-969e-44dbcbc9ebaa">Data Analyst Apprentice - 42 month Fixed Term Contract</a></td>
-<td>London, England, United Kingdom</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10598579/data-analyst-apprentice-42-month-fixed-term-contract">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>IPDN-Professional Diversity Network</strong></td>
-<td><a href="https://trueinterview.io/jobs/5795c781-0cec-4df7-a099-0bede07d65cd">AI Engineer</a></td>
-<td>Las Vegas Metropolitan Area</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4488417403/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Jellyfish</strong></td>
-<td><a href="https://trueinterview.io/jobs/5d34602e-6a9d-4850-b896-499e02350de0">AI Developer for Learning Products</a></td>
-<td>London<br/>Cape Town<br/>Johannesburg<br/>+1 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/jellyfishcareers/b4592cb0-e3ee-465f-a68a-12931a453131">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Buspatrol</strong></td>
-<td><a href="https://trueinterview.io/jobs/486c2a26-21c0-4905-b704-d108c6d77708">Embedded AI Engineer</a></td>
-<td>India - Hyderabad</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/buspatrol/26b3f63e-f6a5-42ee-a0fb-e7b1c7e190ae">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>University of Nevada, Reno School of Medicine</strong></td>
-<td><a href="https://trueinterview.io/jobs/c75ab860-5e61-401a-8b1d-8441c73b3274">Patient Safety Data Analyst</a></td>
-<td>Greater Reno Area</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487307475/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Google</strong></td>
-<td><a href="https://trueinterview.io/jobs/b5978392-173b-4e55-bc4c-5da9709f326d">Cloud Engineer, Infrastructure and AI</a></td>
-<td>Warsaw, Poland<br/>Wrocław, Poland</td>
-<td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/92653452898771654-cloud-engineer-infrastructure-and-ai">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Experian</strong></td>
-<td><a href="https://trueinterview.io/jobs/7ae50529-9a4c-45b7-80f5-048d37b045b6">Mid Data &amp; Software Engineer</a></td>
-<td>São Carlos, State of São Paulo, Brazil</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Experian/744000160258782-mid-data-software-engineer">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Qualcomm</strong></td>
-<td><a href="https://trueinterview.io/jobs/60646823-56f4-43c0-80ff-83f8bcdf14bf">Voice AI Systems Engineer</a></td>
-<td>Greater Hyderabad Area</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487318225/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Cohere</strong></td>
-<td><a href="https://trueinterview.io/jobs/02988dc1-37ab-4049-8938-4d8faedcc9ac">Software Engineer, ML Ops</a></td>
-<td>London<br/>Berlin<br/>Europe<br/>+1 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/cohere/2a9a9b65-4f1b-4387-aa7f-d58c78e738c4">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>SIXT</strong></td>
-<td><a href="https://trueinterview.io/jobs/a6ff9273-297b-4e72-897d-6559a3d757bd">Agentic AI Engineer (m/f/d)</a></td>
-<td>Lisbon, Portugal</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/SIXT/744000160234430-agentic-ai-engineer-m-f-d-">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Sopra Steria</strong></td>
-<td><a href="https://trueinterview.io/jobs/fd51a9cb-2488-4e23-8bf1-d7032b9ced71">Stage - Ingénieur(e) Data Scientist / Data Engineer - Industrie - Toulouse</a></td>
-<td>Toulouse, Occitanie, France</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/SopraSteria1/744000160229649-stage-ingenieur-e-data-scientist-data-engineer-industrie-toulouse">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Devoteam</strong></td>
-<td><a href="https://trueinterview.io/jobs/45c356c6-94fc-4f14-b880-ab9a4dcbde1b">Data Engineer Consultant</a></td>
-<td>København, Denmark</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Devoteam/744000160227829-data-engineer-consultant">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>ALTEN</strong></td>
-<td><a href="https://trueinterview.io/jobs/b2db88ef-7221-4ccb-b090-280c5fb09edc">Data engineer AWS Python Apache Iceberg</a></td>
-<td>Boulogne-Billancourt, Île-de-France, France</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/ALTEN/744000160219994-data-engineer-aws-python-apache-iceberg">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Free</strong></td>
-<td><a href="https://trueinterview.io/jobs/3b0f0a94-68b9-4002-ba5c-07f1b920819f">Embedded AI / 5G Engineer, O-RAN - Paris - H/F</a></td>
-<td>Paris, Île-de-France, France</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Iliad-Free/744000160217549-embedded-ai-5g-engineer-o-ran-paris-h-f">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Scale AI</strong></td>
-<td><a href="https://trueinterview.io/jobs/3b23d6cb-da51-46b1-ba3e-839aa5391e5d">Applied AI Engineer</a></td>
-<td>Kuwait City, Kuwait</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/scaleai/jobs/4751059005">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Devoteam</strong></td>
-<td><a href="https://trueinterview.io/jobs/2b863cfc-8082-4e53-b63a-6f82e72e80a0">Analytics engineer H/F</a></td>
-<td>Marcq-en-Barœul, Hauts-de-France, France</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Devoteam/744000160208620-analytics-engineer-h-f">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/38d68f88-d575-49c9-b600-7fd140b4ea39">Analytics engineer F/H</a></td>
-<td>Marcq-en-Barœul, Hauts-de-France, France</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Devoteam/744000160207529-analytics-engineer-f-h">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Flix</strong></td>
-<td><a href="https://trueinterview.io/jobs/98fc0b83-d234-4430-b54c-217ec01fe17e">Data Scientist - Team BusFactor</a></td>
-<td>Warsaw</td>
-<td align="center"><a href="https://flix.careers/job/8905383002?gh_jid=8905383002">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Arx Robotics Gmbh</strong></td>
-<td><a href="https://trueinterview.io/jobs/500b89a4-04a5-4a6c-8799-f3fa4f3502fa">AI Operations Engineer (m/f/d)</a></td>
-<td>Munich</td>
-<td align="center"><a href="https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/5029805101">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Drees &amp; Sommer Digital Services</strong></td>
-<td><a href="https://trueinterview.io/jobs/45d6cc26-486a-4f45-8fa1-a31dc16afa5e">AI Engineer (w/m/d)</a></td>
-<td>Stuttgart, Baden-Württemberg, Germany</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/DreesSommerSE/744000160200490-ai-engineer-w-m-d-">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>ALTEN</strong></td>
-<td><a href="https://trueinterview.io/jobs/d41db958-929d-4ae5-a90b-752ede6d70cf">Data Engineer / Sciences : RAG NLP LLM</a></td>
-<td>Boulogne-Billancourt, Île-de-France, France</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/ALTEN/744000160194492-data-engineer-sciences-rag-nlp-llm">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>SIXT</strong></td>
-<td><a href="https://trueinterview.io/jobs/29b7720c-833a-4290-8d4f-bfb989d67b7f">Praktikum als Applied AI Engineer (m/w/d)</a></td>
-<td>Munich, Bavaria, Germany</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/SIXT/744000160193358-praktikum-als-applied-ai-engineer-m-w-d-">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Mistral</strong></td>
-<td><a href="https://trueinterview.io/jobs/ec343048-f14c-46ac-b4c9-a1cc95ffe460">Applied Scientist / Research Engineer, EMEA — AI Pioneer</a></td>
-<td>Paris, Île-de-France, France</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486223191/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/0d9cc22d-57a3-4033-ba0d-cb7da7467a2b">NEW - Applied AI Engineer, CyberSecurity</a></td>
-<td>Paris, Île-de-France, France</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486202887/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/1981fba6-6df0-4d4f-85a8-19856edfae43">Research Engineer, Machine Learning</a></td>
-<td>Paris, Île-de-France, France</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486215409/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/174735d5-2440-4451-b4a8-67ef58d609a0">Applied AI Cybersecurity Engineer: Client-Facing Orchestration</a></td>
-<td>Paris, Île-de-France, France</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486210603/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/5ddd10ad-f2be-48a7-ba38-9f03f8075d1b">Applied Scientist - State-of-the-Art AI &amp; Formal Methods (EMEA)</a></td>
-<td>Paris, Île-de-France, France</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486217195/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/e43d2c13-2569-4b36-9d0c-1e7cb31d8b26">LLM Scientist for AI-Driven Scientific Discovery</a></td>
-<td>Paris, Île-de-France, France</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486209634/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/703650a8-358f-4b09-b380-6c48cb88a7dd">ML Research Engineer: Large-Scale Systems</a></td>
-<td>Paris, Île-de-France, France</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486200907/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/cb9e8ae8-ac01-414e-af90-12ecd663e719">GPU Performance Research Engineer - Scale LLMs</a></td>
-<td>Paris, Île-de-France, France</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486205842/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/a7835562-a4d8-4a01-8698-0b2b7eaddc60">AI Cloud Platform SRE — Scale, Reliability &amp; Uptime</a></td>
-<td>Paris, Île-de-France, France</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486223178/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/196e5e9c-aa2c-4dfe-a9b6-b2efd147b3ce">ML Research Engineer: Build Scalable DL Pipelines</a></td>
-<td>Paris, Île-de-France, France</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486224035/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/e9049917-281d-4141-b4e5-6cca8c0cc5f5">Multimodal AI Scientist – EMEA with Equity &amp; Visa Support</a></td>
-<td>Marseille, Provence-Alpes-Côte d'Azur, France</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486210626/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/d4797c63-7d05-4f3e-af61-c837db9c509c">Data Infrastructure Engineer — Scalable AI Platform</a></td>
-<td>Paris, Île-de-France, France</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486206795/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Version 1</strong></td>
-<td><a href="https://trueinterview.io/jobs/06cffa03-60e9-460d-9bf7-4db7885df79b">AI CoE Engineer</a></td>
-<td>Bengaluru, Karnataka, India</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Version1/744000160180665-ai-coe-engineer">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Mistral</strong></td>
-<td><a href="https://trueinterview.io/jobs/0e91e32e-7ae9-4cff-ab76-9746760e5328">Frontier AI Evaluation Engineer: Build Next-Gen Benchmarks</a></td>
-<td>Paris, Île-de-France, France</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486217214/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/53072d77-e521-4fd1-baba-1cf270082a35">GPU Performance Research Engineer for Large-Scale LLMs</a></td>
-<td>Paris, Île-de-France, France</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486221083/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/ec29b84e-8c3d-41f9-8b15-6eacfe96d6a8">LLM Inference Research Engineer — Latency &amp; Throughput</a></td>
-<td>Paris, Île-de-France, France</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486217202/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/02d5325a-9501-42cc-b713-776e0fe13f64">Research Engineer, AI Training &amp; Deployment Pipelines</a></td>
-<td>Paris, Île-de-France, France</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486217201/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/c2557f83-61a9-45d7-82f0-7cb62e664e00">Research Engineer: End-to-End ML Training &amp; Deployment</a></td>
-<td>Paris, Île-de-France, France</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486210465/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/b0faa76c-11eb-483b-afe9-9ddcaaf3e673">Applied AI Evaluation Engineer: LLM Benchmarks &amp; Pipelines</a></td>
-<td>Paris, Île-de-France, France</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486219098/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Sea</strong></td>
-<td><a href="https://trueinterview.io/jobs/462a353f-17b3-42e5-8809-f975b1dee6a5">AI &amp; Automation Engineer</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4488152198/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Smiths Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/bd750e3a-6872-47a0-a7dc-645bc2430279">Software Engineer - Computer Vision &amp; Künstliche Intelligenz (m/w/d)</a></td>
-<td>Wiesbaden, Hesse, Germany</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/SmithsGroup2/744000160182128-software-engineer-computer-vision-kunstliche-intelligenz-m-w-d-">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Qualcomm</strong></td>
-<td><a href="https://trueinterview.io/jobs/75ef3f70-d9a7-4f70-9d62-fcb40e3d3e37">Data Compression Research Engineer</a></td>
-<td>Taipei, Taipei City, Taiwan</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4320779657/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Mistral</strong></td>
-<td><a href="https://trueinterview.io/jobs/c375e811-81df-41f7-8616-467dc02e17d3">Robotics AI Research Engineer: Vision-Language Models</a></td>
-<td>Paris, Île-de-France, France</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486220249/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Bosch</strong></td>
-<td><a href="https://trueinterview.io/jobs/760c007a-1a4f-4266-b55a-c54a2b1af2e9">Development Engineer - Machine Learning (f/m/div.)</a></td>
-<td>Cacia, Aveiro, Portugal</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000160171804-development-engineer-machine-learning-f-m-div-">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Inetum</strong></td>
-<td><a href="https://trueinterview.io/jobs/0b7d40a3-8057-4621-98ce-0c95d88bf580">Data Engineer / DataOps (H/F)</a></td>
-<td>LA CHAPELLE SUR ERDRE, France</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Inetum2/744000160169837-data-engineer-dataops-h-f-">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Oracle Law Global</strong></td>
-<td><a href="https://trueinterview.io/jobs/45e1b453-192f-42e7-9366-3482b6c23117">Ai Engineer</a></td>
-<td>Tirana, Albania</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486219755/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Mercari, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/75f98dc9-a97b-4cfc-8d8e-964b0400d3f1">カスタマーサポートデータアナリスト / Customer Support Data Analyst - Mercari</a></td>
-<td>Minato, Tokyo, Japan</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4480198865/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Rakuten</strong></td>
-<td><a href="https://trueinterview.io/jobs/a03796ed-ccf2-4b6b-8a05-abff83d61928">Data Scientist - Data Intelligence Department, System Division, Rakuten Card Co., Ltd. (Secondment)</a></td>
-<td>Fukuoka, Japan</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4479851390/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Mistral</strong></td>
-<td><a href="https://trueinterview.io/jobs/970c1f54-b816-4073-a78f-e1677f4d5bba">AI Compute Engineer</a></td>
-<td>Paris, Île-de-France, France</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486203711/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/84e758a4-54b0-4554-8c04-8ebc04cbeeb4">Data Infrastructure Engineer: Scale AI Training Platform</a></td>
-<td>Paris, Île-de-France, France</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486222095/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/9393b67a-8a21-4781-b1bc-f8eb45e6e52f">Global AI Developer Relations Leader</a></td>
-<td>Paris, Île-de-France, France</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486205691/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/a361818a-1b5a-46b5-b37c-4eaef85b6d69">Robotics AI Research Engineer — VLM/VLA, Perception &amp; Navigation</a></td>
-<td>Paris, Île-de-France, France</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486214398/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/c5aeb65e-4253-4be9-8859-3ecd4b2fa149">Sovereign AI Compute Engineer: Linux, Kubernetes &amp; Cloud Infra</a></td>
-<td>Paris, Île-de-France, France</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486203703/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Capco</strong></td>
-<td><a href="https://trueinterview.io/jobs/7abcde2f-2fd6-4edf-91b5-397bb06ec869">AI &amp; ML Engineer | Banking</a></td>
-<td>China - Hong Kong</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/capco/jobs/8358340">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Apple</strong></td>
-<td><a href="https://trueinterview.io/jobs/d8313bf2-27a5-45be-aa9e-75413e02f512">Applied AI Engineer – Global Siri</a></td>
-<td>Minato, Tokyo-to, Japan</td>
-<td align="center"><a href="https://jobs.apple.com/en-us/details/200693675/applied-ai-engineer-global-siri">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>C.H. Robinson</strong></td>
-<td><a href="https://trueinterview.io/jobs/d6e09b6b-7ad4-4da0-ad2e-d687c51ee964">Principle Data Privacy Analyst</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://chrobinson.wd5.myworkdayjobs.com/ContractorConversionSite/job/Eden-Prairie-MN-United-States-of-America/Principle-Data-Privacy-Analyst_R49820">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Pantherx Specialty Llc</strong></td>
-<td><a href="https://trueinterview.io/jobs/f80c50de-f9c6-42a8-8c50-1562974ba322">Data Quality Assurance Engineer (333013)</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://pantherxrare.hrmdirect.com/employment/view.php?req=3859312&amp;jbsrc=1014&amp;location=4d809a07-98f5-643d-aeef-07e47350ddb6">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Triumph Enterprises</strong></td>
-<td><a href="https://trueinterview.io/jobs/94a0fa64-1c5e-4b81-8ba5-ba5fece17871">Data Engineer - VA OCDAO Data and Analytics (Remote)</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://triumphenterprises.hrmdirect.com/employment/view.php?req=3859204&amp;jbsrc=1014&amp;location=d84697aa-ea1d-883d-8cbd-4811e000cee4">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Western Sydney University</strong></td>
-<td><a href="https://trueinterview.io/jobs/3170fe96-26ec-4b42-b950-ca36e31d7e2e">Curriculum Data Management Analyst</a></td>
-<td>Penrith, New South Wales, Australia</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/WesternSydneyUniversity/6000000001556498-curriculum-data-management-analyst">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Lenovo NetApp 联想凌拓</strong></td>
-<td><a href="https://trueinterview.io/jobs/761eee09-38a9-401e-9758-42d1c49f0a20">AI存储产品经理</a></td>
-<td>Beijing, Beijing, China</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485879680/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/8df90113-7e3b-45c4-abff-af15730f271c">Data Centre Support Engineer Apprentice - London and Surrounding Areas (18-months Fixed Term Contract)</a></td>
-<td>London, England, United Kingdom<br/>Hemel Hempstead, England, United Kingdom</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10598580/data-centre-support-engineer-apprentice-london-and-surrounding-areas-18-months-fixed-term-contract">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>WSP</strong></td>
-<td><a href="https://trueinterview.io/jobs/8bcb0e15-9592-4f19-b356-35d47198f7be">AI Engineer (Advisory)</a></td>
-<td>Cambridge, Cambridgeshire, United Kingdom<br/>London, London, United Kingdom</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98887">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Physicsx</strong></td>
-<td><a href="https://trueinterview.io/jobs/fb71249c-1df6-4cde-b054-cd04d314d8a6">AI Engineer: Post-Training</a></td>
-<td>London</td>
-<td align="center"><a href="https://job-boards.eu.greenhouse.io/physicsx/jobs/5029174101">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Gameloft</strong></td>
-<td><a href="https://trueinterview.io/jobs/5438724d-3278-40dd-bdaf-7aa2882a1a2c">Data Scientist</a></td>
-<td>Barcelona, Catalunya, Spain</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Gameloft/744000159968050-data-scientist">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Cisco</strong></td>
-<td><a href="https://trueinterview.io/jobs/e47c8bbe-0b65-4f0f-b1f5-9312af58ea64">AI Operations Engineer- AI Agent, AI Tool</a></td>
-<td>Greater Hyderabad Area<br/>Pune Division, Maharashtra, India</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4479820004/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Encora</strong></td>
-<td><a href="https://trueinterview.io/jobs/eeae05a8-ad9a-421e-aaea-f60d37253aba">Data Engineer - Snowflake/Databricks</a></td>
-<td>Brazil</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/encora10/jobs/5286552007">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>TikTok</strong></td>
-<td><a href="https://trueinterview.io/jobs/52b8d9a1-06c1-4e0a-95a7-15efaae544d1">Software Test Engineer (AI), TikTok Search</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486799438/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>iSpace, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/4fcfb3c4-c5a1-428e-8b1b-f05fdacd3d80">ETL Developer</a></td>
-<td>Greensboro--Winston-Salem--High Point Area</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486903131/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Bees</strong></td>
-<td><a href="https://trueinterview.io/jobs/4e910e92-710d-47ab-9b99-106a8112467c">Intermediate Data Ops Analyst</a></td>
-<td>Campinas, São Paulo, Brazil</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/bees/jobs/8932317002">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>MediaTek</strong></td>
-<td><a href="https://trueinterview.io/jobs/dc22f4ed-f17e-4f9a-beee-2792f8e46068">AI EDA Engineer</a></td>
-<td>Hsinchu, Taiwan, Taiwan</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4415012660/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Positron AI</strong></td>
-<td><a href="https://trueinterview.io/jobs/539f601b-e540-46e5-b423-c2e8a0d03c0a">Performance &amp; Debug Software Engineer – AI Inference</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://ats.rippling.com/positron/jobs/73a088aa-4112-4d4e-a9fd-be27da73917a?jobSite=Indeed">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Alibaba Cloud</strong></td>
-<td><a href="https://trueinterview.io/jobs/36816cb4-735d-4033-b96a-d094c39d7991">Data Center Infrastructure Operations Engineer (Graduate Program)-Malaysia</a></td>
-<td>Greater Johor Bahru</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4411700012/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/dabea840-654f-41e9-8052-5e22903e4e04">Data Center Infrastructure Operations Engineer (Graduate Program)-Thailand</a></td>
-<td>Bangkok, Bangkok City, Thailand</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4460932335/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>MediaTek</strong></td>
-<td><a href="https://trueinterview.io/jobs/408a5348-53ec-4d00-a542-db51b518ae6f">AI Software Tool Engineer</a></td>
-<td>Hsinchu, Taiwan, Taiwan</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4433676077/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>IntegriChain</strong></td>
-<td><a href="https://trueinterview.io/jobs/582c79b7-e6f7-4515-8481-6b842d35bab5">Data Engineer</a></td>
-<td>Pune, Maharashtra, India</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/IntegriChain1/744000159936677-data-engineer">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>TikTok</strong></td>
-<td><a href="https://trueinterview.io/jobs/fc086f7d-b944-4d41-ab7b-0b3f5751e606">PhD Graduate Machine Learning Engineer Graduate, Trust and Safety Engineering - 2026 Start</a></td>
-<td>Sydney, New South Wales, Australia</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486776605/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/abd12a12-e8ae-4ff6-a3ee-368160b998c8">Applied Scientist, Alexa Sensitive Content Intelligence (ASCI)</a></td>
-<td>Bengaluru, Karnataka, India</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4479576410/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Microsoft</strong></td>
-<td><a href="https://trueinterview.io/jobs/061fb37e-3f48-461c-8f7c-0e65b6b6ef34">AI Business Solution （Agent/Copilot/Power Platform/D365）シニアソリューションスペシャリスト（大手エンタープライズ企業担当）</a></td>
-<td>Tokyo, Tokyo, Japan</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487787102/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Workwave</strong></td>
-<td><a href="https://trueinterview.io/jobs/1256cecf-26f3-4805-a8bf-14faa0cc2124">AI Quality Governance Engineer (QGE) M/F</a></td>
-<td>Verona, Italy</td>
-<td align="center"><a href="https://jobs.lever.co/workwave/cf36f8b4-4b6c-4cf1-8543-f119217e71ce">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Bosch</strong></td>
-<td><a href="https://trueinterview.io/jobs/01d131b0-1dd0-4ee4-a4e8-51d507827323">Data Scientist (f/m/div.)</a></td>
-<td>Braga, Braga, Portugal<br/>Mexicali, Baja California, Mexico</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000159923639-data-scientist-f-m-div-">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>SOCOTEC Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/025ba1ee-c179-4032-83e1-c5a1d42624d0">Data Engineer H/F</a></td>
-<td>Palaiseau, Île-de-France, France</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Socotec/744000159916450-data-engineer-h-f">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Arq</strong></td>
-<td><a href="https://trueinterview.io/jobs/1ef83ddf-6f76-414d-a1d1-ed6854a7a6cc">Finance Analytics Engineer | FP&amp;A</a></td>
-<td>London</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/ARQ/a913e0d4-919b-4008-b7c4-9f964c496547">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Microsoft</strong></td>
-<td><a href="https://trueinterview.io/jobs/d39f146f-cd0c-4a7c-9fde-e64036f34acc">Technical Support Engineer - Azure AI</a></td>
-<td>Lisboa, Lisbon, Portugal</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487767921/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Talan</strong></td>
-<td><a href="https://trueinterview.io/jobs/c776004d-9670-4be9-bf5f-07bb2cce7541">Data Analyst - CDI - H/F</a></td>
-<td>Lyon, Auvergne-Rhône-Alpes, France</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Talan/744000159910427-data-analyst-cdi-h-f">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
 </tbody>
 </table>
 
-<sub>[← Page 4](data-ai-and-machine-learning-4.md) · Page 5 of 7 · [Page 6 →](data-ai-and-machine-learning-6.md)</sub>
+<sub>[← Page 4](data-ai-and-machine-learning-4.md) · Page 5 of 8 · [Page 6 →](data-ai-and-machine-learning-6.md)</sub>
 
 [← Every filter](../README.md) · [Back to the full list](../../README.md)

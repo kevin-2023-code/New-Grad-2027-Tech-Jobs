@@ -2,7 +2,7 @@
 
 # 🌵 Phoenix & Arizona
 
-**132 open roles.**
+**150 open roles.** 148 in the United States & Canada · 2 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Pima County</strong></td>
+<td><a href="https://trueinterview.io/jobs/c9c54832-ba63-4fbe-902e-72db0aec5d0d">ITSD - Software Engineer I</a></td>
+<td>Tucson, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491545004/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Stellar Consulting Solutions, LLC</strong></td>
 <td><a href="https://trueinterview.io/jobs/df9e9e91-0f4e-469b-a5b3-aa1a68584446">DevOps / AI Platform Engineer – GCP</a></td>
@@ -39,11 +46,67 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>TOPSYS IT</strong></td>
+<td><a href="https://trueinterview.io/jobs/e88b549e-df1f-4ac0-b60b-238b0286480d">Platform Engineer</a></td>
+<td>Phoenix, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490456493/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Komatsu</strong></td>
+<td><a href="https://trueinterview.io/jobs/62b4f97e-bd57-4c36-8e39-ea2baa02ee96">QA Engineer I</a></td>
+<td>Tucson, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467275584/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Vidorra Consulting Group</strong></td>
 <td><a href="https://trueinterview.io/jobs/0d891e1c-a7db-4e83-b915-492912f7e109">SRE / Application Resiliency Engineer</a></td>
 <td>Phoenix, AZ</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4490161061/">Apply</a></td>
 <td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Impetus Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/e9e4560b-a95c-4007-907a-fb774da66e9a">Information Security Engineer</a></td>
+<td>Phoenix, AZ</td>
+<td align="center"><a href="https://impetus.openings.co/impetus/jobview/job?id=1210614">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>VANTAGE WEST CREDIT UNION</strong></td>
+<td><a href="https://trueinterview.io/jobs/425b762f-ea73-4e8f-b118-4136c0f4b4c8">Technical Support Specialist</a></td>
+<td>Tucson, AZ</td>
+<td align="center"><a href="https://recruiting.ultipro.com/VAN1006VANWE/JobBoard/b7df6c2b-0d36-4e50-a977-a238206970e7/OpportunityDetail?opportunityId=8a256b83-8c24-410d-b6bf-e0d53aa71cfa&amp;postingId=7022ab4b-9833-4354-97f9-1e828be2093d">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Avenue5 Residential</strong></td>
+<td><a href="https://trueinterview.io/jobs/d48de9bc-c2fe-4672-97b1-ca807cd4ea0e">Desktop Support Technician</a></td>
+<td>Phoenix, AZ</td>
+<td align="center"><a href="http://recruit.hirebridge.com/v3/careercenter/v2/details.aspx?jid=737653&amp;cid=7997&amp;locvalue=3218">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Caterpillar</strong></td>
+<td><a href="https://trueinterview.io/jobs/84e9ccaf-3c70-42c2-b30c-527389e8bca4">Onboard Engineer – Autonomous Mining Systems</a></td>
+<td>Phoenix, AZ</td>
+<td align="center"><a href="https://careers.caterpillar.com/en/jobs/r0000405541/onboard-engineer-autonomous-mining-systems/">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Corning</strong></td>
+<td><a href="https://trueinterview.io/jobs/1d04ea4c-e411-4d9d-916f-c00c0d196f76">Reliability Test Engineer</a></td>
+<td>Phoenix, AZ</td>
+<td align="center"><a href="https://careers.corning.com/us/en/job/79783">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Honeywell Aerospace</strong></td>
+<td><a href="https://trueinterview.io/jobs/a774f161-7a62-489d-a38d-f841d1da5015">Test Engineer I (2nd Shift)</a></td>
+<td>Phoenix, AZ</td>
+<td align="center"><a href="https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/128825">Apply</a></td>
+<td align="center">16 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Raytheon</strong></td>
@@ -211,13 +274,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/aebd8845-1203-41cc-825b-91557ec8a304">VR Programmer/Developer</a></td>
 <td>Tempe, AZ</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487346041/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Sandhills Global</strong></td>
-<td><a href="https://trueinterview.io/jobs/5126e5bc-dffa-4ddf-8633-1985a970b911">.NET Web Developer</a></td>
-<td>Scottsdale, AZ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/3594990494/">Apply</a></td>
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>
@@ -795,13 +851,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>VANTAGE WEST CREDIT UNION</strong></td>
-<td><a href="https://trueinterview.io/jobs/11e89c2c-20fd-4d52-953a-ce04524c56dc">Cybersecurity Analyst</a></td>
-<td>Tucson, AZ</td>
-<td align="center"><a href="https://recruiting.ultipro.com/VAN1006VANWE/JobBoard/b7df6c2b-0d36-4e50-a977-a238206970e7/OpportunityDetail?opportunityId=a49dacca-a73f-4e7b-8072-4f25249198c8&amp;postingId=5fe1a79d-bf34-4c8c-a0c9-cc6cdf47a40d">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>KALCON</strong></td>
 <td><a href="https://trueinterview.io/jobs/14f7f407-03db-447b-92ac-81e04c33be48">Tool Install Electrical CAD Designer - Semiconductor Facilities</a></td>
 <td>Phoenix, AZ</td>
@@ -939,6 +988,95 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/469845fc-523c-4e78-ab0a-d8183110974f">Product Cybersecurity Specialist</a></td>
 <td>Tucson, AZ</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484983418/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Hadrian</strong></td>
+<td><a href="https://trueinterview.io/jobs/523bff64-8db8-4504-a21d-29b8e2502104">Technical Field Engineer</a></td>
+<td>Mesa, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474484405/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Themesoft Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/02f62440-1292-474f-ac06-f6193ec3d2e5">Linux Engineer</a></td>
+<td>Chandler, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484961777/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>U-Haul</strong></td>
+<td><a href="https://trueinterview.io/jobs/89c8a192-4bff-453f-85b7-bb9a250c362f">Software Development Test Engineer (SDET)</a></td>
+<td>Phoenix, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476977253/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Themesoft Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/bd0b2a1c-06c6-4198-a5f9-fab91984c0e3">Validation Engineer</a></td>
+<td>Chandler, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484953970/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Arkhya Tech Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/85e42c47-3b9e-4729-a132-6e4e857d9a72">PostgreSQL Database Engineer</a></td>
+<td>Scottsdale, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484976019/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Robert Half</strong></td>
+<td><a href="https://trueinterview.io/jobs/82c8508a-eded-44ab-b9f8-e4174042fd7d">Help Desk/Desktop Support Analyst</a></td>
+<td>Tucson, AZ<br/>Monrovia, CA<br/>White Plains, NY<br/>+4 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484459864/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Swift Placement and Consulting</strong></td>
+<td><a href="https://trueinterview.io/jobs/1bd6d618-bb10-4159-a88b-c7c80d2b815d">CNC Machine Tool Sales Engineer</a></td>
+<td>Phoenix, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477127107/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Jobot Consulting</strong></td>
+<td><a href="https://trueinterview.io/jobs/06874d5d-2078-41b1-9cd9-b92a4d78db94">Avionics Systems Engineer – Display Systems</a></td>
+<td>Phoenix, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484913855/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Raytheon</strong></td>
+<td><a href="https://trueinterview.io/jobs/d934332c-ebff-4a83-81c5-f0d86579e57a">RF Mechanical Engineer I</a></td>
+<td>Tucson, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484795846/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+</tbody>
+</table>
+
+## Elsewhere in the world
+
+_Roles outside the United States & Canada, and roles whose country the catalog could not read._
+
+<table>
+<thead>
+<tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Cirrus Logic</strong></td>
+<td><a href="https://trueinterview.io/jobs/7ceb4106-c052-45aa-b100-a556553fbb59">Analog Design Engineer (DG)</a></td>
+<td>Chandler, Arizona<br/>Edinburgh, Scotland, United Kingdom<br/>Austin, Texas<br/>+1 more</td>
+<td align="center"><a href="https://jobs.eu.lever.co/cirrus/c2356727-770d-4596-b884-013798c28582">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/d051c1a3-df3d-4eeb-b4d8-324f08e4eb6d">Digital Design Engineer (TR-NWB)</a></td>
+<td>Chandler, Arizona<br/>Austin, TX<br/>Edinburgh, Scotland<br/>+3 more</td>
+<td align="center"><a href="https://jobs.eu.lever.co/cirrus/e392cbc9-0291-4330-b963-5a61defd43f3">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

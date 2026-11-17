@@ -2,7 +2,7 @@
 
 # 🚗 Autonomy, automotive & mobility
 
-**93 open roles.** 83 in the United States & Canada · 10 elsewhere in the world. Self-driving, automotive, drones, eVTOL and transport technology.
+**99 open roles.** 88 in the United States & Canada · 11 elsewhere in the world. Self-driving, automotive, drones, eVTOL and transport technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -53,7 +53,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">15 Nov 2026</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong>Tesla</strong></td>
+<td><a href="https://trueinterview.io/jobs/893862ac-0be4-44cb-9921-eef3ccd0fdb5">Supplier Industrialization Engineer, Switches</a></td>
+<td>Fremont, CA</td>
+<td align="center"><a href="https://www.tesla.com/careers/search/job/290041">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Zoox</strong></td>
 <td><a href="https://trueinterview.io/jobs/569a34d5-55aa-4ec8-a25e-c1c74778ea08">Contract Student Worker - Software Engineer (20/hrs week)</a></td>
 <td>Foster City, CA</td>
 <td align="center"><a href="https://jobs.lever.co/zoox/116fa648-0397-47b5-a7ab-08d7f96594b3">Apply</a></td>
@@ -598,6 +605,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485273426/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
+<tr>
+<td><strong>Magna International</strong></td>
+<td><a href="https://trueinterview.io/jobs/0dc1e7b3-a5d9-4999-bbe2-2572ff8f5e14">SCADA Engineer</a></td>
+<td>Northwood, OH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4468253960/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Aeva</strong></td>
+<td><a href="https://trueinterview.io/jobs/6904571b-9a9b-4d81-962d-3deefc5c15f2">Optical Aligner and Test Engineer - Mountain View, CA</a></td>
+<td>Mountain View, CA</td>
+<td align="center"><a href="https://jobs.lever.co/aeva/a6aa45f4-672b-4d03-bd41-2215ddf2e19e">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Magna International</strong></td>
+<td><a href="https://trueinterview.io/jobs/a0745cfe-805a-436d-b3ac-ca97c50c2c39">Manufacturing Engineer</a></td>
+<td>Milton, Ontario, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4411901167/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Motional</strong></td>
+<td><a href="https://trueinterview.io/jobs/28928d3b-645d-4d9c-a902-e1b8ecc1cf9f">Machine Learning Engineer, Data Mining</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4428968344/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -679,6 +714,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Melbourne, Victoria, Australia<br/>Red Hill, Queensland, Australia</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485277288/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e01aacd5-5b27-499a-b8f4-6f593cf19ee5">Site Reliability Engineer (Windows and VMware)</a></td>
+<td>Pune Division, Maharashtra, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484935083/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
 </table>

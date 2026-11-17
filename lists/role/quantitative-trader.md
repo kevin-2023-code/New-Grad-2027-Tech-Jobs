@@ -2,7 +2,7 @@
 
 # Quantitative Trader
 
-**39 open roles.** 18 in the United States & Canada · 21 elsewhere in the world.
+**47 open roles.** 20 in the United States & Canada · 27 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -22,6 +22,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/94e0173c-5046-4d58-a920-7eddabd32a8c">Floor Trader- SOFR</a></td>
 <td>Chicago, IL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4491538023/">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>KeyBank</strong></td>
+<td><a href="https://trueinterview.io/jobs/5612d408-0cd2-4172-8a3b-c75d65ebddb7">Analyst Trader, Structured Products</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/New-York-NY/Analyst-Trader--Structured-Products_R-43308">Apply</a></td>
 <td align="center">16 Nov 2026</td>
 </tr>
 <tr>
@@ -143,6 +150,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485264966/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
+<tr>
+<td><strong>Pangea</strong></td>
+<td><a href="https://trueinterview.io/jobs/7fe02955-82df-4f40-b784-084458de9681">Gasoline Trader</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484982132/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -160,6 +174,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/87365db3-54b6-406a-b6d0-4817e023678a">Systematic Crypto Trader</a></td>
 <td>Singapore, Singapore<br/>London Area, United Kingdom</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4417961937/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Statkraft</strong></td>
+<td><a href="https://trueinterview.io/jobs/f7cbf520-7396-4895-889c-868f112b48c9">Intraday Shift Trader for Renewable Power (m/f/d)</a></td>
+<td>Düsseldorf, North Rhine-Westphalia, Germany</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Statkraft1/744000162071619-intraday-shift-trader-for-renewable-power-m-f-d-">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
@@ -300,6 +321,41 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/8ee41138-00f6-478c-babe-0ac30f48778d">FX/Execution Trader</a></td>
 <td>Gland, Vaud, Switzerland</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4468669631/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Petroineos Trading Limited</strong></td>
+<td><a href="https://trueinterview.io/jobs/4d0c2fb1-32e7-4485-9c75-da6b848bd686">Metal Trader, Copper Cathodes</a></td>
+<td>London, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4446262582/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>IFC - International Food Connectors</strong></td>
+<td><a href="https://trueinterview.io/jobs/e04fbe6f-0e0a-4492-945e-5eb78a6b0846">Trader Latin America</a></td>
+<td>Rotterdam, South Holland, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484982101/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>OEGE TRADING GMBH &amp; CO.KG</strong></td>
+<td><a href="https://trueinterview.io/jobs/2602a3bb-a6a4-4b04-a2f8-d5fc5effe8ef">International B2B Trader – Purchasing &amp; Sales (m/f/d)</a></td>
+<td>Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484938156/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>OTC FLOW</strong></td>
+<td><a href="https://trueinterview.io/jobs/cc669bea-d901-4de4-be34-ca419db531f4">Sales Trader - Polish</a></td>
+<td>Amsterdam, North Holland, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484930708/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>DRW</strong></td>
+<td><a href="https://trueinterview.io/jobs/2feeffb1-6035-4d62-9dde-57129a012eb4">Equity Dispersion Trader</a></td>
+<td>London, England, United Kingdom</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/drweng/jobs/7912433">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

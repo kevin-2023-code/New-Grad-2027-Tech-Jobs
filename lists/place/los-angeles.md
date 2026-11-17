@@ -2,7 +2,7 @@
 
 # 🌴 Los Angeles & Orange County
 
-**214 open roles.**
+**241 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Boeing</strong></td>
+<td><a href="https://trueinterview.io/jobs/405492a2-ba31-4309-be66-75a5b3aa3769">Entry-level Software Engineer–Developers</a></td>
+<td>El Segundo, CA</td>
+<td align="center"><a href="https://jobs.boeing.com/job/el-segundo/entry-level-software-engineer-developers/185/103399562448">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Operating Engineers Funds Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/63ab23d3-e552-4608-96a5-a470fd6ac5c0">Security Engineer</a></td>
+<td>Pasadena, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490455827/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Anduril Industries</strong></td>
 <td><a href="https://trueinterview.io/jobs/387117fe-5dd6-4876-85e0-504e0a43f9f5">System Security Engineer, Space</a></td>
@@ -53,10 +67,24 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">16 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Capgemini</strong></td>
+<td><a href="https://trueinterview.io/jobs/ad83b48d-cf08-47c0-8625-26c1f109bbca">Salesforce Developer</a></td>
+<td>Los Angeles, CA</td>
+<td align="center"><a href="https://capgemini.talentnet.community/jobs/df085346-a79c-4f69-aaa5-50154f6ca1da">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Masimo</strong></td>
 <td><a href="https://trueinterview.io/jobs/3bc385d7-6f08-424a-a7c3-243117f4ee5f">Product Quality Engineer</a></td>
 <td>Irvine, CA</td>
 <td align="center"><a href="https://jobs.danaher.com/global/en/job/DANAGLOBALR1321148EXTERNALENGLOBAL/Product-Quality-Engineer">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>The Aerospace Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/a35db1b7-5588-463e-ac78-98f1b41c6b7e">Spacecraft Thermal Engineer</a></td>
+<td>El Segundo, CA</td>
+<td align="center"><a href="https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/Spacecraft-Thermal-Engineer_R017244">Apply</a></td>
 <td align="center">16 Nov 2026</td>
 </tr>
 <tr>
@@ -92,6 +120,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/5effc62e-5137-4985-a6ea-2bb71fea8785">Product Designer - New Grad (Summer 2027)</a></td>
 <td>Los Angeles, CA<br/>New York, NY<br/>Austin, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4477032233/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon.com</strong></td>
+<td><a href="https://trueinterview.io/jobs/f8b52b88-539f-441c-bbfc-18029765639a">Software Development Engineer, Live and Linear Catalog</a></td>
+<td>Culver City, CA</td>
+<td align="center"><a href="https://www.amazon.jobs/jobs/10605448/software-development-engineer-live-and-linear-catalog?cmpid=DA_INAD200785B">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
@@ -687,6 +722,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/3750e870-a8b0-4408-999c-bb32599352e9">EMI/C Systems Engineer - Level 3 or 4 (AHT)</a></td>
 <td>Redondo Beach, CA<br/>Gilbert, AZ</td>
 <td align="center"><a href="https://jobs.northropgrumman.com/careers/job/1340075190645?code=JB-17946&amp;domain=ngc.com">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/1c903120-c64f-4591-bea3-cc5b397aaa25">Systems Engineer Level 2 or 3 (MBSE)</a></td>
+<td>Redondo Beach, CA</td>
+<td align="center"><a href="https://jobs.northropgrumman.com/careers/job/1340075191166?code=JB-17946&amp;domain=ngc.com">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
@@ -1513,6 +1555,153 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/28164588-ef47-4049-ba08-6bb5859e984f">Software Development Engineer, Luna SIPS</a></td>
 <td>Irvine, CA<br/>Seattle, WA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4467911987/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Turion Space</strong></td>
+<td><a href="https://trueinterview.io/jobs/3b050f2c-c25a-4a99-86ea-5cbdb085e2c0">GNC Engineer</a></td>
+<td>Irvine, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/turion-space/93a768c0-8a1d-4158-bb9b-3631dbda5c47">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SCAN</strong></td>
+<td><a href="https://trueinterview.io/jobs/64810ebc-4e18-48d9-8213-75cefe7fa816">Health Plan Data Scientist</a></td>
+<td>Long Beach, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4456953494/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Mattel, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/e11d6499-8c8f-4a38-a4a0-93cdc8f6a9e5">Assoc Packaging Engineer</a></td>
+<td>El Segundo, CALIFORNIA, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/MattelInc/744000119712147-assoc-packaging-engineer">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Tecla</strong></td>
+<td><a href="https://trueinterview.io/jobs/fde3b5ab-afb5-4c82-bc9e-f293f4a1299d">Data Governance Engineer (US only)</a></td>
+<td>Glendale, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484983082/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>RPS Recruitment</strong></td>
+<td><a href="https://trueinterview.io/jobs/47132cab-b5b0-4ea8-96b6-a43cefdd3255">Electrical Engineer</a></td>
+<td>Irvine, CA</td>
+<td align="center"><a href="https://100hires.com/j/eATn6YY">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>True Anomaly</strong></td>
+<td><a href="https://trueinterview.io/jobs/73a051cb-4d86-49de-81e2-734e2da02f98">Software Engineer I, Spacecraft Simulation (New Grad)</a></td>
+<td>Long Beach, CA<br/>Denver, CO</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221555007">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Parker Hannifin</strong></td>
+<td><a href="https://trueinterview.io/jobs/527fcf99-639d-478f-b9eb-9e521aba7f0f">Manufacturing Engineer I - Military Flight Controls Division</a></td>
+<td>Irvine, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476980275/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Anduril Industries</strong></td>
+<td><a href="https://trueinterview.io/jobs/55862209-ad9f-496d-98cc-78a28018ca53">Aerodynamics Engineer, Hypersonic Air Vehicles</a></td>
+<td>Costa Mesa, California, United States</td>
+<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5032351007?gh_jid=5032351007">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Tutor Perini Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/1218a1ed-3650-4251-add3-1c6a9209ffd7">Quality Control Engineer</a></td>
+<td>Los Angeles, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4456926757/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Robert Half</strong></td>
+<td><a href="https://trueinterview.io/jobs/82c8508a-eded-44ab-b9f8-e4174042fd7d">Help Desk/Desktop Support Analyst</a></td>
+<td>Torrance, CA<br/>Tucson, AZ<br/>Monrovia, CA<br/>+4 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484459864/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Jobverse.io</strong></td>
+<td><a href="https://trueinterview.io/jobs/0ab14023-1bcf-400e-b161-5ee681df9be3">Applied AI Engineer (Machine Learning and LLM)</a></td>
+<td>Los Angeles, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484953707/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Carollo Engineers</strong></td>
+<td><a href="https://trueinterview.io/jobs/9233d176-8204-443e-9732-d81f16d3436d">Field Engineer</a></td>
+<td>Costa Mesa, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474495358/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Northwood</strong></td>
+<td><a href="https://trueinterview.io/jobs/273b8c02-821c-40bf-946c-6413fb43d7aa">DSP Engineer</a></td>
+<td>Torrance, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4448655029/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Astrolab</strong></td>
+<td><a href="https://trueinterview.io/jobs/b795f5f2-c433-4347-8890-fcb2cc7c3857">Avionics Manufacturing Engineer (All Levels)</a></td>
+<td>Hawthorne, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474469325/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Versant Media</strong></td>
+<td><a href="https://trueinterview.io/jobs/ab153429-2038-4ff1-a4a8-e51a6d681431">Versant Summer Internships: Technology, Product, Design &amp; Engineering</a></td>
+<td>Los Angeles, CA<br/>Washington, DC<br/>Orlando, FL<br/>+1 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475485975/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Google</strong></td>
+<td><a href="https://trueinterview.io/jobs/ce162f3c-a5d4-43e2-aa65-7185f4f2f999">Software Engineer, Infrastructure, PhD, Early Career, 2027 Start</a></td>
+<td>Los Angeles, CA<br/>Atlanta, GA<br/>Kirkland, WA<br/>+2 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4456865625/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Astrolab</strong></td>
+<td><a href="https://trueinterview.io/jobs/c6b6cfe7-e6ff-41e9-8fa9-d9e85db83f4d">Rover Thermal Control Systems Engineer (GNC/ Software)</a></td>
+<td>Hawthorne, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4457704659/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Airgas</strong></td>
+<td><a href="https://trueinterview.io/jobs/e4f43c55-ae89-4681-9180-802e44155217">Plant Engineer</a></td>
+<td>El Segundo, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466564387/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Jobot</strong></td>
+<td><a href="https://trueinterview.io/jobs/3466f8b3-e9c9-4844-978b-bc74bfede0fc">Esprit Programmer – 5-Axis &amp; Mill/Turn</a></td>
+<td>Santa Ana, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484920545/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>AtkinsRéalis</strong></td>
+<td><a href="https://trueinterview.io/jobs/5b615eb1-d3fd-4ac5-83c0-a252fbefc3bc">Rail &amp; Transit Process Improvement Engineer</a></td>
+<td>Los Angeles, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484295907/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Acuity Eye Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/66d02b3d-75e7-4067-9a5d-adcab9ad641e">Business System Administrator</a></td>
+<td>Santa Ana, CA</td>
+<td align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4599972/Acuity-Eye-Group/Business-System-Administrator">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # 🏰 Warsaw, Kraków & Central Europe
 
-**83 open roles.** 1 in the United States & Canada · 82 elsewhere in the world.
+**88 open roles.** 1 in the United States & Canada · 87 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -55,6 +55,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/1ae247cd-9340-4f98-a150-b2b1fd0cf7dd">Starszy Asystent Projektanta w branży konstrukcyjno-budowlanej / Designer – Nuclear Civil Works Detailing</a></td>
 <td>Warsaw, Masovian Voivodeship, Poland</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/EgisGroup/744000162007645-starszy-asystent-projektanta-w-branzy-konstrukcyjno-budowlanej-designer-nuclear-civil-works-detailing-">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Emerson</strong></td>
+<td><a href="https://trueinterview.io/jobs/f6de9e97-2523-49ab-b509-eed39e34e15d">Technical Support Representative with Hungarian</a></td>
+<td>CLUJ NAPOCA, CLUJ, Romania</td>
+<td align="center"><a href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008685">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/76622a6a-9eb4-4df1-8144-76317fb9af9e">Technical Support Representative with Italian</a></td>
+<td>CLUJ NAPOCA, CLUJ, Romania</td>
+<td align="center"><a href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011978">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
@@ -609,6 +623,27 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Warszawa, Poland</td>
 <td align="center"><a href="https://scalo.traffit.com/public/an/70b89c6c991de7caa7619c4272c50d52527539432f773d3d">Apply</a></td>
 <td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Infineon Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/6d5ab89a-88d5-4f23-8268-06038e46ef53">Component Validation Engineer (f/m/div)</a></td>
+<td>Bucharest, Bucharest, Romania</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475329266/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Intel</strong></td>
+<td><a href="https://trueinterview.io/jobs/6761cf50-7172-41e1-b5d2-c6ba7f5bb96a">Security Software Development Engineer</a></td>
+<td>Gdańsk, Pomorskie, Poland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4447994148/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Shipmonk</strong></td>
+<td><a href="https://trueinterview.io/jobs/fd0c480e-6372-4635-84dc-e3ff427ec498">AI &amp; Data Engineer</a></td>
+<td>Prague<br/>Czechia<br/>Poland</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/shipmonk/jobs/5010216101">Apply</a></td>
+<td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # 🇪🇸 Madrid, Barcelona & Iberia
 
-**111 open roles.** 3 in the United States & Canada · 108 elsewhere in the world.
+**119 open roles.** 3 in the United States & Canada · 116 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -804,6 +804,62 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/cea22ee4-9708-4933-80d4-9776f508f5ad">System Engineer, Managed Operations, ESC Managed Operations</a></td>
 <td>Madrid, Community of Madrid, Spain<br/>Dublin, County Dublin, Ireland</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4476903230/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Inetum</strong></td>
+<td><a href="https://trueinterview.io/jobs/41622185-371c-41c6-b3b2-f9d1169904c2">Java Full Stack Developer (French Speaker)</a></td>
+<td>Lisbon, Lisbon, Portugal</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Inetum2/744000158542739-java-full-stack-developer-french-speaker-">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Verifone</strong></td>
+<td><a href="https://trueinterview.io/jobs/ea8ed8b1-4f70-4053-b650-bec51e6cddf7">Level 1 Technical Support, Portugal</a></td>
+<td>Lisbon, Portugal</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/verifone/jobs/7997000003">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Inetum</strong></td>
+<td><a href="https://trueinterview.io/jobs/6a6a0a44-7971-41ee-adfb-46e1ece66893">Data Analyst</a></td>
+<td>Lisbon, Lisbon, Portugal<br/>Lima, Callao Region, Peru</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Inetum2/744000158485339-data-analyst">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Serviguidebpo</strong></td>
+<td><a href="https://trueinterview.io/jobs/b7f3bf20-916c-4076-91dd-df1c279ee9ee">Product Owner E-Commerce</a></td>
+<td>Madrid, Spain</td>
+<td align="center"><a href="https://sgtech.viterbit.site/product-owner-e-commerce-Xpfa2wupMTj5/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sosafe</strong></td>
+<td><a href="https://trueinterview.io/jobs/8839fa4a-4f7d-4b99-a85e-339d41a5c280">AI Full Stack Engineer</a></td>
+<td>Lisbon</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/sosafe/ea7c6c30-fb67-4dea-ae08-a0f12bc400fa">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Feverup</strong></td>
+<td><a href="https://trueinterview.io/jobs/9b08aa22-a74a-4791-8c35-96eb1a4518f2">B2B Designer</a></td>
+<td>Madrid</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/feverup/jobs/5019513101">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sopra Steria</strong></td>
+<td><a href="https://trueinterview.io/jobs/4cd386e6-9b65-466e-8d1f-5d4b4a878d3e">Cloud Platform Engineer</a></td>
+<td>Madrid, Spain<br/>Madrid, Comunidad de Madrid, Spain</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SopraSteria1/744000158463499-cloud-platform-engineer">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Capgemini Engineering</strong></td>
+<td><a href="https://trueinterview.io/jobs/4ed65032-3ad6-4106-8df9-e35695e6544a">STRESS ENGINEER</a></td>
+<td>Madrid, Spain<br/>Bristol, England, United Kingdom</td>
+<td align="center"><a href="https://www.capgemini.com/jobs/587272-es_ES_SAPBTP/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

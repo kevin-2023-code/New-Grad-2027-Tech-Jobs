@@ -2,7 +2,7 @@
 
 # 📐 Engineering & architecture firms
 
-**38 open roles.** 17 in the United States & Canada · 21 elsewhere in the world. Civil, structural and environmental engineering and AEC consultancies.
+**40 open roles.** 18 in the United States & Canada · 22 elsewhere in the world. Civil, structural and environmental engineering and AEC consultancies.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -134,6 +134,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/baeaf3d1-964d-490c-9c29-66d5b96c3fe9">Entry-Level Geotechnical Engineer (EIT)</a></td>
 <td>Denver, CO<br/>Oklahoma City Metropolitan Area<br/>Fayetteville, AR<br/>+6 more</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5466862008">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/86a8ebdf-2911-478c-a3e1-cfbdb4ab8064">Telecom HFC Designer</a></td>
+<td>Denver, CO<br/>North Kansas City, MO<br/>Overland Park, KS<br/>+2 more</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5466827008">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
@@ -294,6 +301,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Gold Coast, Australia</td>
 <td align="center"><a href="https://jobs.egis-group.com/job/cadet-drafter-civil-urban-transport-in-gold-coast-jid-9813">Apply</a></td>
 <td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/0d4cfb85-3837-47b0-affd-8629a51854c4">Civil Engineer Urban Transport</a></td>
+<td>Gold Coast, Queensland, Australia</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/EgisGroup/744000158501260-civil-engineer-urban-transport">Apply</a></td>
+<td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
 </table>

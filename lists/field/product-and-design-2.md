@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**423 open roles.** 242 in the United States & Canada · 181 elsewhere in the world.
+**483 open roles.** 266 in the United States & Canada · 217 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,174 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Picnic Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/19ce4f99-6bbd-4bbc-aa20-c67804545aa5">UX Researcher - Dutch speaking</a></td>
+<td>Amsterdam, North Holland, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4449670199/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Vitens</strong></td>
+<td><a href="https://trueinterview.io/jobs/142223e3-3c18-46f6-a112-059dd2fed77d">UX Designer</a></td>
+<td>Arnhem, Gelderland, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4479970790/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Eswelt</strong></td>
+<td><a href="https://trueinterview.io/jobs/5269a647-8938-46b6-a1ee-3a5ff1d94f90">Product Owner CRM - Microsoft Dynamics CE</a></td>
+<td>Hilversum, North Holland, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484828846/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Keywords Studios</strong></td>
+<td><a href="https://trueinterview.io/jobs/873d9020-ef34-4bbf-89d5-333c1218c720">Technical Designer- Gameplay Engineer</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475535096/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Uniserver</strong></td>
+<td><a href="https://trueinterview.io/jobs/2645096c-3dbf-49de-8feb-31ebe7d23891">Product Owner Managed Services</a></td>
+<td>Alkmaar, North Holland, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485312647/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Tortuga Sense</strong></td>
+<td><a href="https://trueinterview.io/jobs/aca17d63-b7da-43c2-ae77-13b924c85cd9">Health AI Product Owner (m/w/d)</a></td>
+<td>Zug, Zug, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485306811/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Klanik</strong></td>
+<td><a href="https://trueinterview.io/jobs/8103d102-0975-42d2-bf61-9ebffa332d40">Product Owner (H/F)</a></td>
+<td>Lyon, Auvergne-Rhône-Alpes, France</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484828096/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/cc2024ec-9a81-45d0-8d78-5608835c4ee5">Product Owner Data (H/F)</a></td>
+<td>Marseille, Provence-Alpes-Côte d'Azur, France</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484817492/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Fruition Group Ireland</strong></td>
+<td><a href="https://trueinterview.io/jobs/3fc5d2bb-8a37-4bed-930c-97cd71b85649">Product Owner</a></td>
+<td>Dublin, County Dublin, Ireland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484831411/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>REA Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/d0a74c51-f1da-45e0-9bbd-a997cae2065a">Product Designer</a></td>
+<td>Sydney, New South Wales, Australia<br/>Richmond, Victoria, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475777713/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Comarch</strong></td>
+<td><a href="https://trueinterview.io/jobs/fcd456af-f431-49c9-a8f6-4dd35a8dc515">Product Owner (m/w/d) im Bereich Controlling und Anlagenbuchhaltung</a></td>
+<td>Munich, Bavaria, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4412771000/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Zyla Health</strong></td>
+<td><a href="https://trueinterview.io/jobs/332248b6-b181-4ab6-ab9f-868e24d585bc">UI/UX Designer</a></td>
+<td>Gurugram, Haryana, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484833315/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>DYMATRIX</strong></td>
+<td><a href="https://trueinterview.io/jobs/b4c327be-828c-4acd-91a7-710003c6ed6f">Product Owner Loyalty (all genders)</a></td>
+<td>Stuttgart, Baden-Württemberg, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483412929/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>DELTACLASS TECHNOLOGY SOLUTIONS LIMITED</strong></td>
+<td><a href="https://trueinterview.io/jobs/9c6b998e-e06c-4b1e-8ca4-8329507a400e">Product Owner F band</a></td>
+<td>London Area, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483433150/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Wpp Production</strong></td>
+<td><a href="https://trueinterview.io/jobs/505ee57a-32c5-4136-9ec7-f445c8a5e3e8">Hybrid Editor / Motion Graphics Designer</a></td>
+<td>Chennai, India</td>
+<td align="center"><a href="https://www.wppproduction.com/careers/jobs/6239212004?gh_jid=6239212004">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Synechron</strong></td>
+<td><a href="https://trueinterview.io/jobs/17e842a2-0338-4b95-a1e7-623494c7180b">Product Owner - Cards</a></td>
+<td>Sydney, New South Wales, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483404898/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NCS Group Australia</strong></td>
+<td><a href="https://trueinterview.io/jobs/10cb4bc0-15b5-4a42-98e4-418a04e4e9a3">Solution Designer (ESG &amp; Sustainability Data)</a></td>
+<td>Sydney, New South Wales, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484821142/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Allianz</strong></td>
+<td><a href="https://trueinterview.io/jobs/7a93b72d-7685-4679-861d-2972be8c5c0c">(Technical) Product Owner:in P&amp;C Non-Life 80-100%</a></td>
+<td>Zürich, Switzerland</td>
+<td align="center"><a href="https://careers.allianz.com/global/en/job/109183">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>C. Krieger &amp; Co. Nachfolger GmbH &amp; Co. KG</strong></td>
+<td><a href="https://trueinterview.io/jobs/1871257c-5060-4223-9a1f-d1c9bd36c9b4">Produktmanager / Product Owner eCommerce (m/w/d)</a></td>
+<td>Würzburg, Deutschland</td>
+<td align="center"><a href="https://www.krieger-gesundheit.de/karriere/jobs/2581882-produktmanager-product-owner-ecommerce-mwd">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CH&amp;CO</strong></td>
+<td><a href="https://trueinterview.io/jobs/88ce7fac-fa12-4690-af97-6542ffaacc1b">Graphic Designer</a></td>
+<td>London, United Kingdom</td>
+<td align="center"><a href="https://jobs.compass-group.co.uk/job/75853239?in_platform_id=18">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>EDEKA</strong></td>
+<td><a href="https://trueinterview.io/jobs/a263f098-4dc1-48ad-abb3-4171f12a5479">Product Owner Payment (m/w/d) ​</a></td>
+<td>Hamburg, Deutschland</td>
+<td align="center"><a href="https://edekabank.helixjobs.com/_/jobad?prj=100304P55">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Infosys</strong></td>
+<td><a href="https://trueinterview.io/jobs/292a107c-93f2-4739-96e6-776a5daeb1ed">UIUX Designer</a></td>
+<td>Hong Kong</td>
+<td align="center"><a href="https://digitalcareers.infosys.com/global-careers/company-job/description/reqid/155526BR">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Kotak Securities Ltd</strong></td>
+<td><a href="https://trueinterview.io/jobs/12f5110e-f798-4117-8bc3-04e4ca70762e">Product Manager_SME_0237_1459_1006358</a></td>
+<td>India</td>
+<td align="center"><a href="https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/preview/273082">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Mila</strong></td>
+<td><a href="https://trueinterview.io/jobs/0639b01b-5a10-4248-89e9-f310e664e89d">Product Owner / Chef de Projet Technique – Data &amp; Intelligence Artificielle (f/h)</a></td>
+<td>Puteaux, France</td>
+<td align="center"><a href="https://careers.flatchr.io/vacancy/wy3eop2ebby91kmq-product-owner-chef-de-projet-technique-data-intelligence-artificielle?partner=32">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>REWE digital</strong></td>
 <td><a href="https://trueinterview.io/jobs/99f3c012-7f5c-4d3d-a031-40b65a00b384">Product Owner Identity Access Management (m/w/d)</a></td>
@@ -176,6 +344,258 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/67292a96-b1c1-40d1-9fb2-44665de42e80">APM/PM/SPM - ACM/CM/SCM - Civil/Mechanical/Electrical for Industrial at Ahmedabad (Gujarat)</a></td>
 <td>Greater Ahmedabad Area</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4403009004/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Unybrands</strong></td>
+<td><a href="https://trueinterview.io/jobs/28596fb9-b9a4-48fe-9cba-e3411658bf6d">Graphic Designer</a></td>
+<td>Venezuela</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/unybrands/jobs/6238405004">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Super Retail Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/0530dfae-157d-4e2a-b62d-de0860476c73">Digital Product Owner</a></td>
+<td>Greater Brisbane Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477131739/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Zürcher Kantonalbank</strong></td>
+<td><a href="https://trueinterview.io/jobs/6eacd4d1-5d7a-43a9-b65d-0a0e7bae2482">Product Owner Mobile Apps (m/w/d)</a></td>
+<td>Zurich, Zurich, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474826383/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SEI</strong></td>
+<td><a href="https://trueinterview.io/jobs/2e729498-e0ff-4bd0-9d98-22b8f00c7c89">Product Management Analyst (12 month fixed term contract)</a></td>
+<td>London, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476933232/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Hallmark CE</strong></td>
+<td><a href="https://trueinterview.io/jobs/55597302-dd60-4607-b244-c3abb4982729">Stagiair(e) Product Management</a></td>
+<td>Capelle aan den IJssel, South Holland, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4472317623/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Nedap</strong></td>
+<td><a href="https://trueinterview.io/jobs/14d2c8fa-4556-48a2-90df-caf5a7cb4587">UI/UX Designer .</a></td>
+<td>Groenlo, Gelderland, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482163017/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Quilter</strong></td>
+<td><a href="https://trueinterview.io/jobs/835b8d5c-9ff9-4956-ab58-4266991aebc0">Technical Product Owner</a></td>
+<td>London, England, United Kingdom<br/>Southampton, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477148412/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>iO</strong></td>
+<td><a href="https://trueinterview.io/jobs/8a005a84-2056-42b7-bf3e-3de65d294998">UX Strateeg</a></td>
+<td>Eindhoven, North Brabant, Netherlands<br/>Den Bosch, North Brabant, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476783154/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Scale</strong></td>
+<td><a href="https://trueinterview.io/jobs/f27f6fb0-18cf-4761-bbf5-e4d022d50922">Product Designer, Global Public Sector</a></td>
+<td>Dubai, Dubai, United Arab Emirates<br/>Doha, Qatar</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467991532/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Lely</strong></td>
+<td><a href="https://trueinterview.io/jobs/979c1085-4ec3-4580-a0b2-b37a00c7c112">Product Owner Sales</a></td>
+<td>Maassluis, South Holland, Netherlands<br/>Maassluis, Zuid-Holland, Netherlands</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Lely1/744000149851734-product-owner-sales-">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Liander</strong></td>
+<td><a href="https://trueinterview.io/jobs/de21434d-23db-43df-9206-cbef3cf5844d">Product Owner Sourcing Aannemerij</a></td>
+<td>Arnhem, Gelderland, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484955153/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Wilken Software Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/9918827e-a1af-4016-a624-0028308e497d">PRODUCT OWNER (M/W/D)</a></td>
+<td>Greven, North Rhine-Westphalia, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4459354086/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/b86cf27c-db63-4091-9aba-3fdbe60947f4">PRODUCT OWNER (M/W/D) - SCHWERPUNKT FINANZBUCHHALTUNG</a></td>
+<td>Ulm, Baden-Württemberg, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476783805/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Univers</strong></td>
+<td><a href="https://trueinterview.io/jobs/074b2d99-07fe-4a4b-92ad-8690ef0633af">UE/UX Engineer</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484952344/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Otto Group one.O</strong></td>
+<td><a href="https://trueinterview.io/jobs/ff3a7ab8-e67b-4b28-af8d-304e9de3188e">Product Owner SAP FI/CO (S/4HANA) (w/m/d)</a></td>
+<td>Hamburg, Hamburg, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4299012206/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Pxtra</strong></td>
+<td><a href="https://trueinterview.io/jobs/763dd192-c5ee-45b6-a96b-28d87beb0897">Product Owner (m/w/d)</a></td>
+<td>Greater Rostock Region</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4478432712/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Pod</strong></td>
+<td><a href="https://trueinterview.io/jobs/1093197b-37f0-4d83-9903-4e9fc7d692c0">Product Designer</a></td>
+<td>London, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484929926/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>FFB | Fidelity International</strong></td>
+<td><a href="https://trueinterview.io/jobs/f2263ff3-90c3-4ad8-9461-39df763bf36e">Product Owner – Altersvorsorgedepot</a></td>
+<td>Kronberg, Hesse, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484929953/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>MG</strong></td>
+<td><a href="https://trueinterview.io/jobs/1ba13477-a5dc-4358-8a63-a86d340b7eeb">UI/UX DESIGNER - (Figma MUST)</a></td>
+<td>India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484934800/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ToBeIT</strong></td>
+<td><a href="https://trueinterview.io/jobs/a712743b-7dfa-426a-9fb3-76eb9868b6a8">Product Owner Negocio</a></td>
+<td>Pozuelo de Alarcón, Spain</td>
+<td align="center"><a href="https://tobeit.factorial.com/job_posting/product-owner-negocio-331162">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NGS Super</strong></td>
+<td><a href="https://trueinterview.io/jobs/4f83548b-20e4-44e1-84ee-0637e95d752d">Salesforce Product Owner</a></td>
+<td>Sydney, New South Wales, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467765931/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Lentl</strong></td>
+<td><a href="https://trueinterview.io/jobs/1f4fa02c-88cd-4b17-87b8-9780905b5f96">AI-product owner</a></td>
+<td>Oss, North Brabant, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4479345603/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>MAG – Marketplace Amplifier GmbH</strong></td>
+<td><a href="https://trueinterview.io/jobs/24f78ac5-95fb-4ca8-991a-52805a241c9c">Technical Product Owner ERP &amp; Logistics (m/w/d)</a></td>
+<td>Ober-Ramstadt, Hesse, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484927724/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Serviguidebpo</strong></td>
+<td><a href="https://trueinterview.io/jobs/b7f3bf20-916c-4076-91dd-df1c279ee9ee">Product Owner E-Commerce</a></td>
+<td>Madrid, Spain</td>
+<td align="center"><a href="https://sgtech.viterbit.site/product-owner-e-commerce-Xpfa2wupMTj5/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>PULS Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/373753f9-fbb1-4b6f-ab0f-5a7759cc2492">PCB Designer / Layouter*</a></td>
+<td>Greater Munich Metropolitan Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484935476/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>University Hospital Basel</strong></td>
+<td><a href="https://trueinterview.io/jobs/70977162-ee60-47cb-b699-373caeadfbde">Product Owner Netzwerkplattform</a></td>
+<td>Basel, Basel, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4479835807/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Vattenfall</strong></td>
+<td><a href="https://trueinterview.io/jobs/c6ba13ad-c4e9-489f-9b84-3221a25d4263">UX Designer:in</a></td>
+<td>Berlin, Berlin, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475449788/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Norday</strong></td>
+<td><a href="https://trueinterview.io/jobs/98d57ee7-d0a8-4729-b197-79e22b4c1845">UX Designer</a></td>
+<td>Rotterdam, South Holland, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4479022774/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>TSMC</strong></td>
+<td><a href="https://trueinterview.io/jobs/5dd8e4b2-9841-4d0e-a53d-69cc2653af1b">Layout Designer</a></td>
+<td>Hsinchu City, Taiwan, Taiwan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4448146850/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Futurewhiz</strong></td>
+<td><a href="https://trueinterview.io/jobs/bd8442fd-51bb-4bef-9973-b9012692ed1d">Product Designer</a></td>
+<td>Amsterdam, North Holland, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482857710/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Feverup</strong></td>
+<td><a href="https://trueinterview.io/jobs/9b08aa22-a74a-4791-8c35-96eb1a4518f2">B2B Designer</a></td>
+<td>Madrid</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/feverup/jobs/5019513101">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>3st kommunikation</strong></td>
+<td><a href="https://trueinterview.io/jobs/c85548ca-3c10-4638-b3b7-c7f65f805b62">Pflichtpraktikum UX/UI Design - ab März 2027</a></td>
+<td>Mainz, Rhineland-Palatinate, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484921501/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Blaser Group GmbH</strong></td>
+<td><a href="https://trueinterview.io/jobs/831ffa5b-31bf-43ba-a40a-bc2550f5db8b">Product Owner B2B E-Commerce (m/w/d)</a></td>
+<td>Isny im Allgäu, Baden-Württemberg, Germany<br/>Isny im Allgäu, Deutschland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484924310/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ramboll</strong></td>
+<td><a href="https://trueinterview.io/jobs/16d365d6-63cc-4932-89f3-92ba2f7d65d5">Tekla Moduler / Designer- BIM, Structures</a></td>
+<td>Madhapur, India</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Ramboll3/744000158460509-tekla-moduler-designer-bim-structures">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Experis UK</strong></td>
+<td><a href="https://trueinterview.io/jobs/5d797712-2a2f-4992-b81c-bc793d057759">SVP - Product Management</a></td>
+<td>Derbyshire, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484906614/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Intrinseque Health</strong></td>
+<td><a href="https://trueinterview.io/jobs/f13120ec-d01c-4fe0-a291-4cb874ce223d">Web Designer Executive</a></td>
+<td>Delhi, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484919253/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

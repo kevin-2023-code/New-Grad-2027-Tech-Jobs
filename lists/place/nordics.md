@@ -2,7 +2,7 @@
 
 # ❄️ Stockholm & the Nordics
 
-**42 open roles.** 1 in the United States & Canada · 41 elsewhere in the world.
+**43 open roles.** 1 in the United States & Canada · 42 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -321,6 +321,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/6f9eae96-09a5-45e4-8d07-0ed26460a4a7">Cloud Engineer (m/w/d)</a></td>
 <td>Stockholm, Stockholms län, Sweden<br/>Malmö, Skåne län, Sweden<br/>bundesweit, Germany<br/>+1 more</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/SopraSteria1/744000158562559-cloud-engineer-m-w-d-">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sobi</strong></td>
+<td><a href="https://trueinterview.io/jobs/1f004716-06be-409c-8263-f8e31204b0b8">Endpoint Management Engineer</a></td>
+<td>Stockholm, Stockholm County, Sweden</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Sobi/744000158482589-endpoint-management-engineer">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

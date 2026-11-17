@@ -2,7 +2,7 @@
 
 # 🏜️ Salt Lake City & Utah
 
-**28 open roles.**
+**37 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,10 +18,38 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>1-800 Contacts</strong></td>
+<td><a href="https://trueinterview.io/jobs/a5704aea-b14a-428a-b0ef-4eca9da401d3">Frontend Engineer, AI Prototyping</a></td>
+<td>Draper, UT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491593724/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Omega EDI</strong></td>
+<td><a href="https://trueinterview.io/jobs/12f15724-fa0f-4677-b2ef-d33d7e6b6564">Software Engineer</a></td>
+<td>Salt Lake City, UT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490925048/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Intermountain Health</strong></td>
+<td><a href="https://trueinterview.io/jobs/56e80471-e36b-4ca0-a8eb-a93ba4ae7c4b">Portfolio Data and Decision Analyst</a></td>
+<td>Salt Lake City, UT</td>
+<td align="center"><a href="https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Key-Bank-Tower/Portfolio-Data-and-Decision-Analyst_R189663">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Karman Space &amp; Defense</strong></td>
 <td><a href="https://trueinterview.io/jobs/43162dae-d2f3-4a34-9c2f-bc00d995d0f8">Process Engineer</a></td>
 <td>Salt Lake City, UT</td>
 <td align="center"><a href="https://grnh.se/j223pkmp9us">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Mountainland Technical College</strong></td>
+<td><a href="https://trueinterview.io/jobs/30f47aec-738f-4463-a7f3-62bfdc786335">Learning Management System Administrator, Full-Time</a></td>
+<td>Lehi, UT</td>
+<td align="center"><a href="https://secure7.saashr.com/ta/6211708.careers?ShowJob=654790628">Apply</a></td>
 <td align="center">16 Nov 2026</td>
 </tr>
 <tr>
@@ -211,6 +239,41 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/237fcdaf-89e5-409b-9aee-d1fd114a993a">T1 Technical Support Analyst</a></td>
 <td>Provo, UT</td>
 <td align="center"><a href="https://apply.workable.com/j/C6343E325B">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Everpure</strong></td>
+<td><a href="https://trueinterview.io/jobs/8fa916c0-18fa-4119-b061-b15b40138ce0">Platform Services Engineer, Advanced Services (Professional Services)</a></td>
+<td>Lehi, UT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467122839/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Georgia Tech Research Institute</strong></td>
+<td><a href="https://trueinterview.io/jobs/869b50db-a26b-43d2-af88-3198917a7033">Systems Engineer - Ogden, UT - ATAS - Open Rank</a></td>
+<td>Ogden, UT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4459036588/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Texas Instruments</strong></td>
+<td><a href="https://trueinterview.io/jobs/dff7bb3b-f2f9-4acb-8e33-1ef11f118206">Wet Process Development Engineer</a></td>
+<td>Lehi, UT</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25009610">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CUBISCAN</strong></td>
+<td><a href="https://trueinterview.io/jobs/fa12dd98-1db9-4fe1-b4c6-80489f1b6149">Firmware/Embedded Software Engineer</a></td>
+<td>Ogden, UT</td>
+<td align="center"><a href="https://cubiscan.isolvedhire.com/jobs/1894170-576519.html">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/48658768-6b6b-4d40-95d8-306ed732ccb3">IT Help Desk Technician</a></td>
+<td>Ogden, UT</td>
+<td align="center"><a href="https://cubiscan.isolvedhire.com/jobs/1894378-576519.html">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

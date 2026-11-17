@@ -2,11 +2,175 @@
 
 # 🧰 IT & Support
 
-**820 open roles.** 678 in the United States & Canada · 142 elsewhere in the world.
+**1,016 open roles.** 822 in the United States & Canada · 194 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
 <sub>[← Page 2](it-and-support-2.md) · Page 3 of 3</sub>
+
+## United States & Canada
+
+<table>
+<thead>
+<tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Nightwing</strong></td>
+<td><a href="https://trueinterview.io/jobs/544b013a-e005-4503-8221-a371e713ef8e">Network Engineer</a></td>
+<td>Sterling, VA<br/>Arlington, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476345803/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Codan Limited</strong></td>
+<td><a href="https://trueinterview.io/jobs/7fbf14e7-149e-4c83-80f6-1c5857b02e9b">Network Administrator</a></td>
+<td>Ashburn, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484921843/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cambridge Savings Bank</strong></td>
+<td><a href="https://trueinterview.io/jobs/2636742d-3093-43b3-a4f4-bb3a2285c659">Network Engineer - NH</a></td>
+<td>Dover, NH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476904504/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Demant</strong></td>
+<td><a href="https://trueinterview.io/jobs/317eabf1-eadd-4a1a-bf8c-6ae9c317a5ac">IT Support Specialist I</a></td>
+<td>Arlington Heights, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4446023399/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Kforce Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/908b725b-4716-431e-867a-962f790392e5">IT Support Analyst</a></td>
+<td>Orlando, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4473286799/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Mitchell Martin Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/eab30038-4599-4075-9c04-2c9264536ff5">IT Analyst - ITAM</a></td>
+<td>Pensacola, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484933428/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>V-Soft Consulting Group, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/16bd35e9-a588-411b-8ab9-ed62ba4f2b7e">Helpdesk</a></td>
+<td>Louisville, KY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475451738/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Newsmax Media, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/a3730db4-0658-4db6-bd74-81ecc501a6a9">Technical Support Engineer</a></td>
+<td>Washington, DC<br/>Boca Raton, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475486668/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>The Reynolds and Reynolds Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/c04fcae5-85a6-4955-bd01-15c922abf93e">Field IT Support Technician</a></td>
+<td>Brockton, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466521081/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ahold Delhaize USA</strong></td>
+<td><a href="https://trueinterview.io/jobs/79aadb6d-4739-4fe1-9027-12fed6f56836">IT Help Desk Process Improvement Analyst</a></td>
+<td>Salisbury, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475197894/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Pentair</strong></td>
+<td><a href="https://trueinterview.io/jobs/9394175e-b9a0-49ee-858b-e231544a1860">Trainer &amp; Technical Support Representative</a></td>
+<td>Willowbrook, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476988167/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>JT4</strong></td>
+<td><a href="https://trueinterview.io/jobs/9de95b28-519e-40e5-9a84-a69f1bafc256">Network Engineer</a></td>
+<td>Magna, UT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4411297799/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>TEKsystems</strong></td>
+<td><a href="https://trueinterview.io/jobs/c8fb627e-03ae-4f41-98a3-95d3cd1927ad">Desktop Support</a></td>
+<td>Syracuse, NY<br/>Lansing, MI<br/>Ann Arbor, MI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484764603/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/c860eb94-6fe2-4dd4-a55d-1f720ab37e11">Systems Administrator</a></td>
+<td>Raleigh, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484798979/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Torentify</strong></td>
+<td><a href="https://trueinterview.io/jobs/8331c958-20da-47c1-8954-dc5555e0ac06">IT Support Technician - USA | Remote</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484903646/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Beehive Federal Credit Union</strong></td>
+<td><a href="https://trueinterview.io/jobs/afd44cf5-fdb0-4b83-a71f-705a81ee11b4">Systems Administrator - Core &amp; Digital Operations</a></td>
+<td>Rexburg, ID</td>
+<td align="center"><a href="https://www.applicantpro.com/openings/bhive/jobs/4261048-15189">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CUBISCAN</strong></td>
+<td><a href="https://trueinterview.io/jobs/48658768-6b6b-4d40-95d8-306ed732ccb3">IT Help Desk Technician</a></td>
+<td>Ogden, UT</td>
+<td align="center"><a href="https://cubiscan.isolvedhire.com/jobs/1894378-576519.html">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>VAA</strong></td>
+<td><a href="https://trueinterview.io/jobs/246cc628-6252-4fb0-8942-e3b754314104">IT Support Specialist (On-site)</a></td>
+<td>Minneapolis, MN</td>
+<td align="center"><a href="https://www.applicantpro.com/openings/vaaeng/jobs/4260474-993694">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Airtech Vacuum</strong></td>
+<td><a href="https://trueinterview.io/jobs/dbe94b71-7c2a-4859-aa01-cbf8b20bbbd5">Network Administrator</a></td>
+<td>Rutherford, NJ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484911408/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>BioSpace</strong></td>
+<td><a href="https://trueinterview.io/jobs/697e7c14-9a84-496c-8f0c-b746cfbe7019">IT Technician</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484795928/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Woodbury School of Business</strong></td>
+<td><a href="https://trueinterview.io/jobs/37699443-433a-4ab2-b5a1-dff5ea3f1819">Service Desk Technician - ESD</a></td>
+<td>Orem, UT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484798561/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Acuity Eye Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/66d02b3d-75e7-4067-9a5d-adcab9ad641e">Business System Administrator</a></td>
+<td>Santa Ana, CA</td>
+<td align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4599972/Acuity-Eye-Group/Business-System-Administrator">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+</tbody>
+</table>
 
 ## Elsewhere in the world
 
@@ -17,6 +181,895 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>dRofus</strong></td>
+<td><a href="https://trueinterview.io/jobs/f633d55d-8df7-4820-9b22-cf86fe2969ef">Technical Support Specialist – Tier 1</a></td>
+<td>London, England, United Kingdom</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/NemetschekSE2/744000162139209-technical-support-specialist-tier-1-">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Veolia</strong></td>
+<td><a href="https://trueinterview.io/jobs/e6248fa6-53c1-483d-b8d3-cde99b96b1ce">Technical Support Engineer</a></td>
+<td>Lane End, England, United Kingdom</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000162041660-technical-support-engineer">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Emed</strong></td>
+<td><a href="https://trueinterview.io/jobs/0e4f9f62-045d-45b9-8359-e4b7bc5915d9">IT Support Engineer (1st Line)</a></td>
+<td>London, England</td>
+<td align="center"><a href="https://www.emed.com/uk/job?gh_jid=5039911101">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/97550800-a38f-4c2f-af4c-2d0f75685a7d">Data Center Technical Support Operations Engr, AWS Infra-operation DCEO</a></td>
+<td>Zhongwei, People's Republic of China</td>
+<td align="center"><a href="https://www.amazon.jobs/en/jobs/10606895/data-center-technical-support-operations-engr-aws-infra-operation-dceo">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Emerson</strong></td>
+<td><a href="https://trueinterview.io/jobs/f6de9e97-2523-49ab-b509-eed39e34e15d">Technical Support Representative with Hungarian</a></td>
+<td>CLUJ NAPOCA, CLUJ, Romania</td>
+<td align="center"><a href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008685">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/76622a6a-9eb4-4df1-8144-76317fb9af9e">Technical Support Representative with Italian</a></td>
+<td>CLUJ NAPOCA, CLUJ, Romania</td>
+<td align="center"><a href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011978">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Walden Security</strong></td>
+<td><a href="https://trueinterview.io/jobs/01415e9e-1e44-4e04-93f0-8ea80d5bf4a5">Part Time Security Officer - Ridgeville, SC</a></td>
+<td>Charleston</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/waldensecurity/jobs/5296583007">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Spatial Data Logic</strong></td>
+<td><a href="https://trueinterview.io/jobs/aa136274-4c20-46e7-a25d-ff515f929b4e">Technical Support Specialist</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://ats.rippling.com/sdl/jobs/f691c2cb-a11a-487f-8182-12a758573ecd?jobSite=Indeed">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Merative</strong></td>
+<td><a href="https://trueinterview.io/jobs/27a49cd7-c7a2-43f9-9352-d61b2553fd4f">Technical Support Engineer I</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://merative.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Remote--United-States/Technical-Support-Engineer-I_JR01777">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>NV5</strong></td>
+<td><a href="https://trueinterview.io/jobs/46a73a3f-8d17-4fc4-8902-da8712e6c808">Geospatial Systems Administrator</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://uscareers-nv5jobs.icims.com/jobs/26234/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Sapiens</strong></td>
+<td><a href="https://trueinterview.io/jobs/b14ffe8c-6be6-473c-8fdf-dc01a2f8c2f1">L2 Support Engineer (AI)</a></td>
+<td>London, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491227763/">Apply</a></td>
+<td align="center">15 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Foundever</strong></td>
+<td><a href="https://trueinterview.io/jobs/1eb3e2b9-ca86-47f1-b3e9-bb9d7c550449">Work at Home - Seasonal Customer Service/Technical Support 1</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://jobs.foundever.com/job/Remote-Work-at-Home-Seasonal-Customer-ServiceTechnical-Support-1-Any/1450549400/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>FujiFilm</strong></td>
+<td><a href="https://trueinterview.io/jobs/8905bbb6-22e5-485e-afa1-3c2d99e8ae18">Tech Support Engineer, MI - 1</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://uscareers-fujifilm.icims.com/jobs/39231/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Bosch</strong></td>
+<td><a href="https://trueinterview.io/jobs/60800492-9f0c-4106-96d7-170656a88c90">IT Service Desk Associate (Level 1) - Urgent Hiring!</a></td>
+<td>Taguig, Philippines</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000161425919-it-service-desk-associate-level-1-urgent-hiring-">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>SAP IT Business Systeme</strong></td>
+<td><a href="https://trueinterview.io/jobs/45981b3b-5278-44d8-abcf-ccee025af562">Werkstudent (w/m/d) - Technical Support</a></td>
+<td>Dresden, Saxony, Germany</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000160888868-werkstudent-w-m-d-technical-support">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/1d6a0aed-47c5-4e62-846f-d22c03de1e97">Working Student (f/m/d) - Technical Support</a></td>
+<td>Dresden, Saxony, Germany</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000160884830-working-student-f-m-d-technical-support">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Effortless Office</strong></td>
+<td><a href="https://trueinterview.io/jobs/43bdfb2d-b790-40a5-abec-a933912370ed">IT Tech Support - Tier 1 Analyst</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://effortlessoffice.applytojob.com/apply/6WK9QUtSua/IT-Tech-Support-Tier-1-Analyst?%7E=">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>HELPLINE</strong></td>
+<td><a href="https://trueinterview.io/jobs/0b3ebd64-f072-4ff9-9c3d-229673bec51d">IT Support Technician L1 &amp; L2 (m/w/d)</a></td>
+<td>Amsterdam, North Holland, Netherlands</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/EVERIENCE/744000160274449--it-support-technician-l1-l2-m-w-d-">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Posthog</strong></td>
+<td><a href="https://trueinterview.io/jobs/34a31ccc-8237-4f01-8024-90d3a3de89ec">Technical Support Engineer</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/PostHog/db808740-242e-4a40-ad43-d41f26c049d7">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Feverup</strong></td>
+<td><a href="https://trueinterview.io/jobs/3ee17bb7-bb15-4909-b71d-64281a977c04">IT Support Specialist</a></td>
+<td>London<br/>Madrid</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/feverup/jobs/5029823101">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>GR8 Tech</strong></td>
+<td><a href="https://trueinterview.io/jobs/3446c858-376c-47d5-926b-3f312e3f571a">Middle L2 Technical Support Specialist</a></td>
+<td>Europe</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/GR8-TECH/e052863b-fad4-4bfc-8ac3-f2872ce222d8">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Wise</strong></td>
+<td><a href="https://trueinterview.io/jobs/c107a863-c978-4c15-b56f-52efd2dfebb5">Network Engineer - Platform Integrations EMEA</a></td>
+<td>Tallinn, Harjumaa, Estonia<br/>Tallinn, Estonia</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Wise/744000160196549-network-engineer-platform-integrations-emea">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Liberty University</strong></td>
+<td><a href="https://trueinterview.io/jobs/51171b27-2f73-4356-935d-9a56b923aaf8">IT Helpdesk Remote Support - Support Specialist I</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://liberty.wd5.myworkdayjobs.com/en-US/lu_job_board_staff/job/Remote-Location/IT-Helpdesk-Remote-Support---Support-Specialist-I_R0013220-2">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/f1d1658d-0f26-4c43-bb5d-6f862de9946c">Network Engineer Apprentice (24-month fixed term contract)</a></td>
+<td>London, England, United Kingdom</td>
+<td align="center"><a href="https://www.amazon.jobs/en/jobs/10598592/network-engineer-apprentice-24-month-fixed-term-contract">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Nexgen Cloud</strong></td>
+<td><a href="https://trueinterview.io/jobs/4de52ebf-7d20-42e8-a9ec-563e6d00a458">Network Engineer</a></td>
+<td>Australia</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/nexgencloud/jobs/5013634101">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>MSX International</strong></td>
+<td><a href="https://trueinterview.io/jobs/522dda27-3886-4683-86c6-cbe9341005e4">Graduate Automotive Technical Support Engineer I Dutch speaking</a></td>
+<td>Budapest, Hungary</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/MSXInternational/3743990016649166-graduate-automotive-technical-support-engineer-i-dutch-speaking">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>IDT Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/6c95eba6-9eb0-41cc-9a5f-faf1016febf6">Network Engineer (Global Team)</a></td>
+<td>Warsaw<br/>Barcelona<br/>Lisbon<br/>+7 more</td>
+<td align="center"><a href="https://jobs.lever.co/idt/4d060de5-990a-4ff1-aed9-d802a53c18a0">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>acre security</strong></td>
+<td><a href="https://trueinterview.io/jobs/b56732d8-1fc7-4e2f-b332-e14a256866c8">Technical Support Engineer</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://acresecurity.applytojob.com/apply/5vNJMX266S/Technical-Support-Engineer?%7E=">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Miles IT</strong></td>
+<td><a href="https://trueinterview.io/jobs/634a8372-2114-4e04-8368-8c1b15170fb2">On-Location IT Support Consultant</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://www.milesit.com/careers/on-location-it-support-consultant/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Sonar Software</strong></td>
+<td><a href="https://trueinterview.io/jobs/300aee65-697a-483c-9e99-461d5f547f78">Technical Support Specialist</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://ats.rippling.com/sonar-software/jobs/aea2c891-1c8a-4dfd-aab6-2ab611d890a1?jobSite=Indeed">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Spreetail</strong></td>
+<td><a href="https://trueinterview.io/jobs/c7f35e01-a318-49ce-bf89-8cd4db5778a1">IT Support Specialist (US Hours)</a></td>
+<td>Manila</td>
+<td align="center"><a href="https://jobs.lever.co/spreetail/004811ee-44b4-4036-a887-903d09272e6a">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Verifone</strong></td>
+<td><a href="https://trueinterview.io/jobs/2de868fd-3591-444d-bafa-28b8c008b30c">Operations &amp; Field Technical Support Analyst</a></td>
+<td>Bogotá, Bogotá, Colombia</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/verifone/jobs/8044340003">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Nexgen Cloud</strong></td>
+<td><a href="https://trueinterview.io/jobs/761b4664-2f04-4255-9601-a517e4a7a4ef">IT Support Engineer</a></td>
+<td>London, UK</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/nexgencloud/jobs/5024787101">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>LELY</strong></td>
+<td><a href="https://trueinterview.io/jobs/64656430-2064-465c-9398-7449e4f303c5">Servicedesk Medewerker IT</a></td>
+<td>Maassluis, Zuid-Holland, Netherlands</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Lely1/744000159626091-servicedesk-medewerker-it">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>MSX International</strong></td>
+<td><a href="https://trueinterview.io/jobs/a6088979-46ac-4fc0-ad43-bef43f63e77b">Automotive Technical Support Engineer – German Speaking</a></td>
+<td>Budapest, Hungary</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/MSXInternational/3743990016613536-automotive-technical-support-engineer-german-speaking">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/de11fb52-41cc-4d18-a4cb-426447b67ef9">Graduate Automotive Technical Support Engineer (German-Speaking)</a></td>
+<td>Budapest, Hungary</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/MSXInternational/3743990016613246-graduate-automotive-technical-support-engineer-german-speaking-">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Total IT Global</strong></td>
+<td><a href="https://trueinterview.io/jobs/de1d7120-07a3-48ed-ba9c-0b7d4e096d6c">Desktop Support Engineer</a></td>
+<td>Adelaide, Australia</td>
+<td align="center"><a href="https://au.indeed.com/viewjob?jk=56f47c083dda1d21">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>GoodBytz</strong></td>
+<td><a href="https://trueinterview.io/jobs/b0c24b74-e4af-4645-9641-fc6dca5a3be8">Technical Support Engineer | Robotic Kitchens (all genders)</a></td>
+<td>Hamburg, Deutschland</td>
+<td align="center"><a href="https://t.gohiring.com/h/9b13d606772a1d20491d9feef38b8a5b5f1bea19d9870a2bebb8910bb930566d">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>IREN</strong></td>
+<td><a href="https://trueinterview.io/jobs/64172a8b-029e-44b1-bb54-0f1d8255671c">Network Engineer</a></td>
+<td>Sydney, Australia</td>
+<td align="center"><a href="https://iren.careers.hibob.com/jobs/6d1a4adb-b1f7-4b4f-ac39-0410b377fafa">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>NSW Government</strong></td>
+<td><a href="https://trueinterview.io/jobs/8398333a-a58f-427b-9b9b-23e42f14108d">Network Engineer</a></td>
+<td>Parramatta, Australia</td>
+<td align="center"><a href="https://iworkfor.nsw.gov.au/job/network-engineer-608148">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Roche</strong></td>
+<td><a href="https://trueinterview.io/jobs/cc582579-1033-44d9-a910-c79deba749a3">Technical Support Engineer</a></td>
+<td>Sant Cugat del Vallès, Spain</td>
+<td align="center"><a href="https://careers.roche.com/de/de/job/202611-128335">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Microsoft</strong></td>
+<td><a href="https://trueinterview.io/jobs/4d910c1e-5004-465b-a446-ac3f2d0def56">Technical Support Engineer- Security Cyberdefender</a></td>
+<td>Taipei, Taipei City, Taiwan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4469894022/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Coinbase</strong></td>
+<td><a href="https://trueinterview.io/jobs/ba536fec-fe36-4422-b30e-e4c5e8e40d4b">IT Support Engineer</a></td>
+<td>London, UK</td>
+<td align="center"><a href="https://www.coinbase.com/careers/positions/8350017?gh_jid=8350017">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Eurofins</strong></td>
+<td><a href="https://trueinterview.io/jobs/0a23ec0e-e38a-47d2-8a11-fc407df28b5f">IT Support Engineer</a></td>
+<td>Amersfoort, Utrecht, Netherlands</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Eurofins/744000159418310-it-support-engineer">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Hostinger</strong></td>
+<td><a href="https://trueinterview.io/jobs/5fe18b58-f065-4d02-82b7-aa03dec22b4e">AI Technical Support Specialist | Remote</a></td>
+<td>El Salvador<br/>Paraguay<br/>Nicaragua<br/>+6 more</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/hostinger/97cc03d4-e1c2-4287-8d84-73d9a7f2e30b">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Riverty</strong></td>
+<td><a href="https://trueinterview.io/jobs/4a7c2ee2-f39b-4757-9a53-1f711e4d287b">IT Support Engineer</a></td>
+<td>Birmingham, United Kingdom</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000159385260-it-support-engineer">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>MSX International</strong></td>
+<td><a href="https://trueinterview.io/jobs/7f7ce83a-de7a-4e64-ba5b-f2d3c616ad0f">Danish Speaking Technical Helpdesk</a></td>
+<td>Gothenburg, Västra Götaland County, Sweden</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/MSXInternational/3743990016580466-danish-speaking-technical-helpdesk">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>JYSK</strong></td>
+<td><a href="https://trueinterview.io/jobs/b5a3ec5b-f9e4-4ca3-9bd3-20c8446a79c4">IT HELPDESK SUPPORTER</a></td>
+<td>Maltepe, İstanbul, Turkey</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/JYSK/744000159358509-it-helpdesk-supporter">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>CAPITOLE CONSULTING</strong></td>
+<td><a href="https://trueinterview.io/jobs/4e34bcef-c734-48c1-a70d-eb9325537901">L3 Network engineer</a></td>
+<td>Barcelona, Spain</td>
+<td align="center"><a href="https://careers.capitole-consulting.com/l3-network-engineer-S0DbW98JhZdi/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Aberdeenshire Council</strong></td>
+<td><a href="https://trueinterview.io/jobs/03e40cf7-06eb-4fba-815b-810aaf47ef06">IT Analyst</a></td>
+<td>Aberdeen, United Kingdom</td>
+<td align="center"><a href="https://myjobscotland.gov.uk/councils/aberdeenshire-council/jobs/it-analyst-495147">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Corsair</strong></td>
+<td><a href="https://trueinterview.io/jobs/8bc1d044-424f-4aa3-8984-efffda103aea">Technical Support Specialist</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://edix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/8966">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Mastek Limited</strong></td>
+<td><a href="https://trueinterview.io/jobs/78d58db8-96c8-47fd-a5d6-7e2e8fd8308d">IT Support Engineer</a></td>
+<td>UAE</td>
+<td align="center"><a href="https://careers.mastek.com/job/IT-Support-Engineer/61240444/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Zeeco</strong></td>
+<td><a href="https://trueinterview.io/jobs/91445b5a-efa3-4acc-a6e0-4ba7a7240aff">IT Desktop Support Technician</a></td>
+<td>Seoul</td>
+<td align="center"><a href="https://jobs.lever.co/zeeco/5261afd5-2585-49f0-aec9-51870afa9fa9">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Rescale</strong></td>
+<td><a href="https://trueinterview.io/jobs/76631242-2054-4fa0-9462-1448887b9292">Technical Support Engineer (Japan)</a></td>
+<td>Tokyo</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/rescale/ea0503db-b1f2-46e9-bf1b-e48eea97dd38">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>The Exploration Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/e3e36039-e491-4b80-9034-be6ae893e1d6">IT Administrator</a></td>
+<td>Turin, Italy</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/the-exploration-company/02f0201a-2141-47a0-b6cb-461edd1afa1d">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>MSX International</strong></td>
+<td><a href="https://trueinterview.io/jobs/e9d8ca5c-a199-4890-9757-a3f05a8b8fc7">Automotive Technical Helpdesk Agent</a></td>
+<td>Frankfurt, Germany<br/>Dietzenbach, Hesse, Germany</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/MSXInternational/3743990016561026-automotive-technical-helpdesk-agent">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Harmattan Ai</strong></td>
+<td><a href="https://trueinterview.io/jobs/e21343c3-77ae-47cd-b0f8-df39853d4e87">IT Support Apprentice</a></td>
+<td>Paris</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/harmattan-ai/38569510-0814-4563-aa97-3aad57ad6684">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Bosch</strong></td>
+<td><a href="https://trueinterview.io/jobs/ae573adc-818b-45b6-9c85-e6a0766fac43">Working Student IT Support</a></td>
+<td>Cluj, Jucu, Romania</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000159096995-working-student-it-support">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Redis</strong></td>
+<td><a href="https://trueinterview.io/jobs/58da35bf-a4aa-4665-9ee2-6812c94d4c38">Technical Support Engineer III</a></td>
+<td>Israel</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/Redis/fab671aa-78b8-46d6-be7b-196ae7a5ad37">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>CrowdStrike</strong></td>
+<td><a href="https://trueinterview.io/jobs/bcc6c801-d946-4a5b-8a2a-17607827d87c">Technical Support</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Technical-Support_R30773">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>KISTERS</strong></td>
+<td><a href="https://trueinterview.io/jobs/4fd10c17-5880-4b14-a76e-3da10eb641cc">IT Support Engineer (w/m/d) – Softwarelösungen Energie</a></td>
+<td>Aachen, Deutschland</td>
+<td align="center"><a href="https://www.kisters.eu/de/job-vacancy/it-support-engineer-w-m-d-softwareloesungen-energie/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>NESTA</strong></td>
+<td><a href="https://trueinterview.io/jobs/0d04dd12-a2c7-4592-ad10-1550e51da76d">Group IT Service Desk Coordinator</a></td>
+<td>London, United Kingdom</td>
+<td align="center"><a href="https://grnh.se/b646vsy2teu">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Radiology Partners</strong></td>
+<td><a href="https://trueinterview.io/jobs/17366359-17e8-4b0b-a9ab-b799ac9eefd2">IT Support Analyst</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://radpartners.avature.net/careersmarketplace/JobDetail/IT-Support-Analyst/20854">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Resourcing HQ</strong></td>
+<td><a href="https://trueinterview.io/jobs/a40b2104-5798-4af7-b4b6-b857faa326ff">Network Engineer</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://resourcinghq.applytojob.com/apply/QGbcNR7c7h/Network-Engineer?%7E=">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Sos Group Limited</strong></td>
+<td><a href="https://trueinterview.io/jobs/98d8e177-939a-466a-9ab5-ac2afedcd0c7">IT Support Engineer</a></td>
+<td>Hong Kong</td>
+<td align="center"><a href="https://www.recruit.com.hk/job-detail/sos-group-limited/it-support-engineer/L0608731701">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Al-Futtaim</strong></td>
+<td><a href="https://trueinterview.io/jobs/a7e9b455-e66d-4b2f-b68b-1f19c8d84f61">Technical Support Engineer</a> 🌐</td>
+<td>Remote — United Arab Emirates</td>
+<td align="center"><a href="https://www.afuturewithus.com/job/Technical-Support-Engineer-Al-Futtaim-Automotive-Abu-Dhabi/1453196833/">Apply</a></td>
+<td align="center">1 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Cornerstone OnDemand</strong></td>
+<td><a href="https://trueinterview.io/jobs/f6bb47cb-c75c-448d-9899-eafed58e423f">Advanced Technical Support Engineer</a></td>
+<td>India</td>
+<td align="center"><a href="https://cornerstone.csod.com/ux/ats/careersite/2/home/requisition/11746?c=cornerstone">Apply</a></td>
+<td align="center">1 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>The National Film and Sound Archive (NFSA)</strong></td>
+<td><a href="https://trueinterview.io/jobs/0552722c-f098-4075-9768-c4282e565c22">Network Engineer, Core Services</a></td>
+<td>Acton, Australia</td>
+<td align="center"><a href="https://candidate.aurion.cloud/nfsa/production/vacancies/2912147598625399~1/edit">Apply</a></td>
+<td align="center">1 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>QUO</strong></td>
+<td><a href="https://trueinterview.io/jobs/33bb9c76-db50-4ded-b4a1-d46f31e93c87">Technical Support Representative</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/quo/cd27ecb8-4f5b-4244-9d38-66f4a84baffb">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>HERCULES</strong></td>
+<td><a href="https://trueinterview.io/jobs/12ea7933-4adb-4239-b8b5-0612d540857d">Technical Support Engineer, EMEA (Weekend Coverage)</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/hercules/7b659e14-4a74-4049-83e9-d01fba141e52">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Gelber Group LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/133d69ec-ef6a-4394-a5db-f50c6be945fe">Trade Support Operations (IT Support)</a></td>
+<td>Amsterdam, North Holland, Netherlands</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/gelbergroup/jobs/4726050006">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Bosch</strong></td>
+<td><a href="https://trueinterview.io/jobs/28001685-cc06-4434-8b17-c55a6e4ab052">Technical Support Engineer</a></td>
+<td>Birmingham, West Midlands, United Kingdom</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000158757120-technical-support-engineer-">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ubisoft</strong></td>
+<td><a href="https://trueinterview.io/jobs/9c41e4ff-d757-47dd-a5e3-5314e93a7747">Local IT Support – Ubisoft Ivory Tower (F/H/NB)</a></td>
+<td>Lyon, Auvergne-Rhône-Alpes, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Ubisoft2/744000158754939-local-it-support-ubisoft-ivory-tower-f-h-nb-">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>USG Industrial Utilities</strong></td>
+<td><a href="https://trueinterview.io/jobs/8d357ff0-22c6-4301-b16a-8c67ddf6e518">Technical Support Engineer (Maintenance Engineer)</a></td>
+<td>Geleen, Limburg, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483453040/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Kerv</strong></td>
+<td><a href="https://trueinterview.io/jobs/88d17e8d-8a55-47c4-a1e3-ff32af9e010b">1st Line Service Desk Engineer FTC</a></td>
+<td>London</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/kerv/jobs/5022232101">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Lightspeed Commerce</strong></td>
+<td><a href="https://trueinterview.io/jobs/12d3696c-3373-4fde-89b9-b5fb9a4f73b5">IT Support Specialist</a></td>
+<td>Amsterdam, North Holland, Netherlands</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/lightspeedhq/b57ddad2-847d-463e-84d6-39bacb1d6ce4">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Nebius Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/ea8d750e-efb5-4d02-8607-e3f8638c6ed8">Data Center L1 IT Technician (Lappeenranta)</a></td>
+<td>Lappeenranta, Finland</td>
+<td align="center"><a href="https://careers.nebius.com/?gh_jid=5022195101">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Recense - Professionals in recruitment</strong></td>
+<td><a href="https://trueinterview.io/jobs/8c13040f-594c-435a-bb56-0649c07f46ab">Technisch Specialist Helpdesk</a></td>
+<td>Apeldoorn, Gelderland, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485327097/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Royal Agrifirm Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/9a3bdd12-b86f-458e-8ffe-a5a6129df10f">IT Specialist Cloud</a></td>
+<td>Apeldoorn, Gelderland, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466288861/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CBRE Global Workplace Solutions (GWS)</strong></td>
+<td><a href="https://trueinterview.io/jobs/d5cc4d73-bda2-48c2-bb7d-fec7d91a4ad7">Helpdesk Administrator</a></td>
+<td>Aberdeen, Scotland, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485310594/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>RedRock Resourcing</strong></td>
+<td><a href="https://trueinterview.io/jobs/b0f79b8e-a991-4e6b-a72f-5ed30b85c742">Desktop Support Analyst x 2</a></td>
+<td>Birmingham, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484842026/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Exponential-e</strong></td>
+<td><a href="https://trueinterview.io/jobs/03ba6f0d-0ee1-45a9-b96f-3f1054d26c8f">Desktop Support Technician</a></td>
+<td>Southampton, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474043562/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>RedRock Resourcing</strong></td>
+<td><a href="https://trueinterview.io/jobs/68827382-7719-4cd2-a253-ce7bb957a2d8">Network Desktop Support Analyst</a></td>
+<td>Birmingham, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484829603/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Klanik</strong></td>
+<td><a href="https://trueinterview.io/jobs/c4fb7234-fd90-4ce4-b18b-654e828b6669">DBA ORACLE Sénior</a></td>
+<td>Nice, Provence-Alpes-Côte d'Azur, France</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484821407/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>PLATH Systems &amp; Integration</strong></td>
+<td><a href="https://trueinterview.io/jobs/ca635a22-72dd-4302-b4ec-70df6ed70465">Stellenbezeichnung Teamleiter (m/w/d) IT Support &amp; Systemadministration</a></td>
+<td>Hamburg, Hamburg, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484829595/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ALS</strong></td>
+<td><a href="https://trueinterview.io/jobs/bbe232f0-36ba-4c53-9e91-586d664507ff">IT Support Engineer</a></td>
+<td>Malaga, Western Australia, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475793537/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Kinetic IT</strong></td>
+<td><a href="https://trueinterview.io/jobs/f39637fd-d531-4c5b-9c5b-9f8880f5faf6">Service Desk Technician</a></td>
+<td>Fremantle, Western Australia, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475787645/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sherborne Talent Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/c5a7d1ae-cd72-4178-88fe-b832a467e54a">Network Engineer</a></td>
+<td>Birmingham, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4481206798/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>RM plc</strong></td>
+<td><a href="https://trueinterview.io/jobs/d4c5b82f-0193-4275-8fe9-80837075271f">Service Desk Engineer</a></td>
+<td>Bellshill, Scotland, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483423725/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NCS Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/61c0ec43-08cf-4d08-b9b5-7dc91d456e7c">#EG IT Support Engineer</a></td>
+<td>Singapore, Singapore, Singapore</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/NCS3/6000000001538178--eg-it-support-engineer">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>The Sting Companies</strong></td>
+<td><a href="https://trueinterview.io/jobs/166a0f22-5a15-4c23-b923-348e1ac80bc8">IT Support Officer</a></td>
+<td>Breda-Tilburg Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482943704/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Haystack</strong></td>
+<td><a href="https://trueinterview.io/jobs/250bdfbc-13c8-484d-94d0-07621af9cb80">System Administrator</a></td>
+<td>Hannover, Lower Saxony, Germany<br/>Honolulu Metropolitan Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477056752/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CENTOTECH SERVICES PRIVATE LIMITED</strong></td>
+<td><a href="https://trueinterview.io/jobs/797e7f47-d460-46df-b1fa-961fe8823f3a">Cloud Network Engineer</a></td>
+<td>Pune Division, Maharashtra, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484835183/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/149d71e4-8ccc-49b7-9d5d-69d46dcd725b">Network Engineer</a></td>
+<td>Pune Division, Maharashtra, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484832257/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Konverge Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/866a57f7-41ca-40ba-bd79-281e2f081544">Network Engineer</a></td>
+<td>Anand, Gujarat, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484822665/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Techdravin</strong></td>
+<td><a href="https://trueinterview.io/jobs/92943f98-fd53-4771-92d3-2f17f2dbdd1e">Network Specialist Engineer</a></td>
+<td>Hoofddorp, North Holland, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484834074/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Tech Rise</strong></td>
+<td><a href="https://trueinterview.io/jobs/a5e46d57-42d2-4543-9623-a14273a481bf">Technical Support Specialist</a></td>
+<td>Amsterdam, North Holland, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483418548/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Superloop</strong></td>
+<td><a href="https://trueinterview.io/jobs/e6b39cd7-e2df-4a83-94ed-408dab894b22">Network Engineer</a></td>
+<td>Melbourne, Victoria, Australia<br/>Brisbane, Queensland, Australia<br/>Sydney, New South Wales, Australia<br/>+1 more</td>
+<td align="center"><a href="https://superloop-1733718881.teamtailor.com/jobs/8639885-network-engineer">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SHEIN</strong></td>
+<td><a href="https://trueinterview.io/jobs/26e9379b-070f-458c-9a5e-178ceb832fab">IT Support Specialist</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484829064/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SpaceX Super Intelligence</strong></td>
+<td><a href="https://trueinterview.io/jobs/523657e0-0716-4d9f-8d6f-c2ce791a52ca">Network Engineer</a></td>
+<td>Dublin, County Dublin, Ireland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485299587/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Danfoss</strong></td>
+<td><a href="https://trueinterview.io/jobs/0434daa9-4eb0-44fa-9cd7-a9bf56f63b10">Engineer, Technical Support</a></td>
+<td>Melbourne, Victoria, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485283962/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>HirePrime</strong></td>
+<td><a href="https://trueinterview.io/jobs/108a94a2-8c9a-4f76-890e-cabe68128523">IT Support Specialist</a></td>
+<td>Groningen, Groningen, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485283890/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Datacom</strong></td>
+<td><a href="https://trueinterview.io/jobs/4899dd23-00bc-4246-8918-e037a7d26b77">Service Desk Agent - Modbury</a></td>
+<td>Modbury North, South Australia, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485294475/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Leidos</strong></td>
+<td><a href="https://trueinterview.io/jobs/fefb8c25-aab6-42fd-84e6-f6a405623e87">Service Desk Analyst</a></td>
+<td>Canberra, Australian Capital Territory, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483412686/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Axiom Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/11eeaa58-2a59-401c-811a-178bd046fcbb">IT Desktop Support Engineer</a></td>
+<td>Écully, France<br/>Rincon, GA<br/>De Soto, KS<br/>+1 more</td>
+<td align="center"><a href="https://axiomtechnologies.com/jobs/it-desktop-support-engineer-ecully-france-contract-fte/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/777f5332-1d12-4bfd-9058-158ca98675d7">IT Desktop Support Engineer – Pont</a></td>
+<td>Pont-Évêque, France</td>
+<td align="center"><a href="https://axiomtechnologies.com/jobs/it-desktop-support-engineer-pont-eveque-france-contract-fte/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Boehringer Ingelheim</strong></td>
+<td><a href="https://trueinterview.io/jobs/18aa0ac5-9949-4d88-8fed-4cf80683eebf">IT Analyst - IT Operations Site Security</a></td>
+<td>Sant Cugat del Vallès, Spain</td>
+<td align="center"><a href="https://jobs.boehringer-ingelheim.com/job-invite/38975/?locale=en_US">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Inria</strong></td>
+<td><a href="https://trueinterview.io/jobs/b378720b-2434-4ada-b956-74f1e58c5d29">Development / System / Network engineer for CorteXlab</a></td>
+<td>Villeurbanne, France</td>
+<td align="center"><a href="https://jobs.inria.fr/public/classic/fr/offres/2026-10670">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Miele</strong></td>
+<td><a href="https://trueinterview.io/jobs/36359ce3-576c-4af9-8c7c-66a8fbe3b97e">IT Specialist</a></td>
+<td>Poznań, Poland</td>
+<td align="center"><a href="https://miele.wd3.myworkdayjobs.com/en-US/miele-jobs/job/Poznan/IT-Specialist_R5277">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>OTIS</strong></td>
+<td><a href="https://trueinterview.io/jobs/06b42606-fc35-4363-8773-b3037019233f">Technical Support / Local Representative</a></td>
+<td>Milton, Australia</td>
+<td align="center"><a href="https://otis.wd504.myworkdayjobs.com/en-US/REC_Ext_Gateway/job/LOC7060--Level-4-19-Lang-Parade-Milton-QLD-4064/Technical-Support---Local-Representative_20168638">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Siemens Healthineers</strong></td>
+<td><a href="https://trueinterview.io/jobs/3ee04149-11d0-4390-ad03-dbf3a16b82a2">Network Engineer - Cloud Operations **US Remote**</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/CLT-BA/Network-Engineer---Cloud-Operations---US-Remote--_R-31418">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SpaceXSI</strong></td>
+<td><a href="https://trueinterview.io/jobs/29521935-9dd0-4260-87b4-ac8853d15bab">Network Engineer</a></td>
+<td>Dublin, Ireland</td>
+<td align="center"><a href="https://grnh.se/m2p62i0w7us">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SRM Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/b419249a-1a72-416c-9191-f11739e86940">Database Administration</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://careers.srmtech.com/jobs/Careers/664168000025732860/Database-Administration">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Stadler Rail Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/71bde2e1-e549-43e8-b5fe-9e3649a859d3">Network Engineer</a></td>
+<td>Wallisellen, Switzerland</td>
+<td align="center"><a href="https://jobs.stadlerrail.ch/offene-stellen/informatik/network-engineer/1bedb0a8-cb7b-4175-9f68-8fd57e2e6a6c">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Superdrug</strong></td>
+<td><a href="https://trueinterview.io/jobs/7d0dd71b-5cca-40dd-9932-e61b529fed36">IT Service Desk Analyst</a></td>
+<td>Croydon, United Kingdom</td>
+<td align="center"><a href="https://www.superdrug.jobs/en-gb/job/75853248">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>TRICENTIS</strong></td>
+<td><a href="https://trueinterview.io/jobs/43ff5389-ded7-4be9-a707-283ae10435cf">Technical Support Specialist</a> 🌐</td>
+<td>Remote — India</td>
+<td align="center"><a href="https://tricentis.wd1.myworkdayjobs.com/en-US/Tricentis_Careers/job/IN---Pune/Technical-Support-Specialist_JR106020-1">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Txt Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/61ae68e8-211b-42e5-86c7-f356e72836e8">Network Engineer - Middle</a></td>
+<td>Deutschland</td>
+<td align="center"><a href="https://joblink.allibo.com/ats4/job-offer.aspx?DM=1310&amp;ID=107203&amp;LN=EN&amp;SG=3&amp;FT=10&amp;MD=1">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Otis Elevator Co.</strong></td>
+<td><a href="https://trueinterview.io/jobs/0f57e5d3-d407-497b-8f6b-2260e3490d2a">Technical Support / Local Representative</a></td>
+<td>Paddington, Queensland, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484820009/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Nera Telecommunications Ltd</strong></td>
+<td><a href="https://trueinterview.io/jobs/7077ca1f-15ad-4551-9dc7-7c3eea92d8bf">Network Engineer</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484593882/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>TWG Tea Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/bcb6e48b-8444-46c5-9a8c-baed4e6458f3">IT Support Executive</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4397778171/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>George Blake</strong></td>
+<td><a href="https://trueinterview.io/jobs/00efd70d-3a0b-40e4-8a00-68e287a8ce64">Technical Support Engineer</a></td>
+<td>Camberley, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483400917/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Slice</strong></td>
+<td><a href="https://trueinterview.io/jobs/00a5b800-4ffe-464d-9ac7-ec9b5d402aca">IT Support Engineer</a></td>
+<td>Dinnington, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483400914/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Arc</strong></td>
+<td><a href="https://trueinterview.io/jobs/eef7c084-7a7f-42f7-b058-1a7525c3f2fc">2nd Line Helpdesk Engineer</a></td>
+<td>Yateley, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484593863/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>M.C. Dean, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/c35d1be5-bb55-485e-bb0e-1263a5e9e204">System Administrator 1</a></td>
+<td>Hyderabad, Telangana, India<br/>City Of London, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484795137/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NSW Police Force</strong></td>
+<td><a href="https://trueinterview.io/jobs/f5f65d7b-218f-405a-9c71-85d5f41c1f02">Systems Administrator</a></td>
+<td>Parramatta, New South Wales, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484804440/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>RMT Accountants &amp; Business Advisors Ltd</strong></td>
+<td><a href="https://trueinterview.io/jobs/40099ad7-8e4c-4c4e-ad0c-af56288a07a8">IT Service Desk Engineer</a></td>
+<td>Newcastle Upon Tyne, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485273951/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>JET Charge</strong></td>
+<td><a href="https://trueinterview.io/jobs/c3eec2ab-1d2b-457e-8d47-1b8db5f8be75">NetSuite Systems Administrator</a></td>
+<td>Port Melbourne, Victoria, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485283289/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Reserve Bank of Australia</strong></td>
 <td><a href="https://trueinterview.io/jobs/38b33464-5bf1-4124-8212-7f9648610b18">System Administrator - ServiceNow</a></td>
@@ -155,6 +1208,335 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/69803321-f796-4769-9d03-49f5c086fa87">Network Engineer</a></td>
 <td>India</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484989176/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Helvetica Partners</strong></td>
+<td><a href="https://trueinterview.io/jobs/ce82e133-aec5-42c8-95aa-84d39b904882">IT Service Desk Specialist (FR / DE)</a></td>
+<td>Neuchâtel, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4480947537/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/ada28e80-cb22-477f-89e6-8c85072adc74">IT Support Spezialist</a></td>
+<td>Neuchâtel, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476319147/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Omoda &amp; Jaecoo Nederland</strong></td>
+<td><a href="https://trueinterview.io/jobs/c7c32879-2b53-4029-8725-7ac3422a031b">Technical Support Specialist - Netherlands</a></td>
+<td>Amsterdam, North Holland, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4478465295/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Langchain</strong></td>
+<td><a href="https://trueinterview.io/jobs/c714c670-f79d-48a8-8d44-b6fc412cd35c">EMEA Technical Support Engineer</a></td>
+<td>London</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/langchain/46c1a69d-5eff-425f-8f76-da7ddf047dd4">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>DOCO International</strong></td>
+<td><a href="https://trueinterview.io/jobs/c372b307-5e2a-4126-bdab-20e05adb9b84">Technical Support</a></td>
+<td>Sittard, Limburg, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484969451/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Flexiple</strong></td>
+<td><a href="https://trueinterview.io/jobs/e6903ae0-ced3-44b6-864b-c610b6232c91">Database Administrator</a></td>
+<td>India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484968558/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>OpenAI</strong></td>
+<td><a href="https://trueinterview.io/jobs/80944f54-0af0-408b-a704-bab33eb4a47b">IT Support Specialist</a></td>
+<td>London, England, United Kingdom<br/>San Francisco<br/>London, UK</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/openai/49ae54dc-3d33-4107-8112-63fac1ee86ca">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Qualibroker-Swiss Risk &amp; Care AG</strong></td>
+<td><a href="https://trueinterview.io/jobs/cb2c7ab2-1830-4ac0-b6b1-fe1e8bccdf83">IT Service Desk Agent (L1)</a></td>
+<td>Zurich, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484957868/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ATC (part of Arvato)</strong></td>
+<td><a href="https://trueinterview.io/jobs/a6320c17-c68d-4313-8701-282d3393e8b3">IT Helpdesk &amp; Network Administrator</a></td>
+<td>Dublin, County Dublin, Ireland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484961517/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SKIDATA</strong></td>
+<td><a href="https://trueinterview.io/jobs/8dc7c2c7-4103-41ff-84b0-f825744e24f0">IT Support Specialist (mwd) 2nd Level Support Netzwerke</a></td>
+<td>Adliswil, Zurich, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4447329681/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Methodius IT Recruitment</strong></td>
+<td><a href="https://trueinterview.io/jobs/3a53ff02-e4c9-4f4c-8f68-6d69f12cb5b8">IT Support Engineer with German</a></td>
+<td>County Donegal, Ireland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484423789/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ocean Infinity</strong></td>
+<td><a href="https://trueinterview.io/jobs/07c1161b-71f3-4de6-a2b4-e7de066577ff">Finance Systems Administrator</a></td>
+<td>Southampton, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474801952/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>INTUIT ED LTD</strong></td>
+<td><a href="https://trueinterview.io/jobs/1dd5c689-2689-4234-9ae2-554614d3a347">Desktop Support Engineer</a></td>
+<td>County Cork, Ireland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484951134/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>DXC Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/ace509e8-1b3d-4372-83a1-0d99789f8527">Onsite IT Support Technician (m/f/d) Munich/Berlin</a></td>
+<td>Berlin, Berlin, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475462103/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Verifone</strong></td>
+<td><a href="https://trueinterview.io/jobs/ea8ed8b1-4f70-4053-b650-bec51e6cddf7">Level 1 Technical Support, Portugal</a></td>
+<td>Lisbon, Portugal</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/verifone/jobs/7997000003">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Haus der Bäcker</strong></td>
+<td><a href="https://trueinterview.io/jobs/92ee944c-7295-4960-bee7-7d5a2d159707">IT-Systemadministrator / IT Specialist Workplace (m/w/d)</a></td>
+<td>Frankfurt am Main, Hesse, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484959228/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>JLL</strong></td>
+<td><a href="https://trueinterview.io/jobs/095f9e2b-bf1b-411d-80fa-3df86c5c1b21">Helpdesk Executive</a></td>
+<td>Pune/Pimpri-Chinchwad Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484944748/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Kinexus Australia</strong></td>
+<td><a href="https://trueinterview.io/jobs/416ebf6d-64e3-437d-9187-72710d78badf">Citrix Systems Administrator (TSPV)</a></td>
+<td>Canberra, Australian Capital Territory, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484715431/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Flogas Britain</strong></td>
+<td><a href="https://trueinterview.io/jobs/b692ca94-4041-4cc3-b65e-c5bb89bbd695">1st Line Service Desk Analyst</a></td>
+<td>Rothley, England, United Kingdom<br/>Syston, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484946438/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Capita</strong></td>
+<td><a href="https://trueinterview.io/jobs/66f0d6c4-6efd-4e12-872d-fe32ea6214ad">Gas Technical support Officer</a></td>
+<td>United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484954182/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>IMD</strong></td>
+<td><a href="https://trueinterview.io/jobs/364b8087-d975-4a66-8c88-791257f1b924">IT Support Engineer</a></td>
+<td>Lausanne, Vaud, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484925854/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>H-TECH SUPPORTS</strong></td>
+<td><a href="https://trueinterview.io/jobs/4516f7d0-356e-49d6-af74-616c014473fe">Desktop Support Engineer</a></td>
+<td>Berlin, Deutschland</td>
+<td align="center"><a href="https://join.com/companies/htechsupports/16888004-desktop-support-engineer?pid=a13795120131dbe48464">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Scoutit</strong></td>
+<td><a href="https://trueinterview.io/jobs/d9d95ea1-f424-4a7c-b303-03ec21b5c7c4">NOC Engineer</a></td>
+<td>Gurugram, Haryana, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484936583/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Twinkl Ltd.</strong></td>
+<td><a href="https://trueinterview.io/jobs/c75be8e5-932f-4a93-a864-5750272e0694">IT Administrator</a></td>
+<td>Sheffield, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482116143/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>BRIGHT Consulting GmbH</strong></td>
+<td><a href="https://trueinterview.io/jobs/7e86977b-95ac-4912-9795-aaa944b9cf87">Network Engineer (m/w/d)</a></td>
+<td>Backnang, Baden-Württemberg, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484920636/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Haystack</strong></td>
+<td><a href="https://trueinterview.io/jobs/210d9ea9-da7e-4741-8d0e-28556262c732">Network Administrator</a></td>
+<td>Greater Munich Metropolitan Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484920746/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Hypersoft</strong></td>
+<td><a href="https://trueinterview.io/jobs/92bcdaa6-099d-480e-9d61-c9fe22731f6a">IT Administrator (m/w/d)</a></td>
+<td>Hamburg, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484926328/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>TGW Logistics</strong></td>
+<td><a href="https://trueinterview.io/jobs/908a6e19-e99f-4fd0-bc26-162ba6e65c9f">Technical Support Engineer Controls (M/W/D)*</a></td>
+<td>Teunz, Bavaria, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4455889837/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>XPENG</strong></td>
+<td><a href="https://trueinterview.io/jobs/a95c8f51-a0c9-451b-9250-1554cf01af5b">Technical Support Specialist - Germany</a></td>
+<td>Munich, Bavaria, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474326182/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Royal Kaak</strong></td>
+<td><a href="https://trueinterview.io/jobs/61b9686c-5715-4f60-8c64-865ae25f0f22">Technical Support Engineer</a></td>
+<td>Zwolle, Overijssel, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484921663/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Techdravin</strong></td>
+<td><a href="https://trueinterview.io/jobs/3cf21d18-bb47-4244-87aa-7e355f766d06">Freelance Desktop Support Engineer</a></td>
+<td>Amsterdam, North Holland, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484916828/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CDLAN</strong></td>
+<td><a href="https://trueinterview.io/jobs/b03b2b7d-2f78-46b9-b17a-616448d2f919">Network Engineer ICT</a></td>
+<td>Luton, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484438926/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Julia Gabriel Centre Pte. Ltd.</strong></td>
+<td><a href="https://trueinterview.io/jobs/841d9ff5-1421-4656-9acd-526b89812b18">IT &amp; Systems Administrator</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484918669/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Juzz Marketing Pte Ltd</strong></td>
+<td><a href="https://trueinterview.io/jobs/beea725a-2e27-49cc-b9a4-044b565f9460">IT SUPPORT</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484913567/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Tintschl Unternehmensgruppe</strong></td>
+<td><a href="https://trueinterview.io/jobs/0e1c3fea-43b1-4759-b151-250f92df64df">IT System Administrator (m/w/d) – Server &amp; Infrastruktur</a></td>
+<td>Frankfurt Rhine-Main Metropolitan Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484927134/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Haystack</strong></td>
+<td><a href="https://trueinterview.io/jobs/fcebf209-c3b4-445d-9e94-96ec704e766f">IT System Administrator</a></td>
+<td>Greater Munich Metropolitan Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484910886/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Virtuallybymo</strong></td>
+<td><a href="https://trueinterview.io/jobs/49cf95f9-35e5-4475-abaa-ef8ad87dc31f">GHL Technical Support Specialist</a></td>
+<td>United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484925117/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ferguson India</strong></td>
+<td><a href="https://trueinterview.io/jobs/5816b3aa-ad25-4497-8163-2b539f14c482">Network Administrator - Cisco Meraki [T500-30102]</a></td>
+<td>Bengaluru, Karnataka, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484908896/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Teamware Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/82099d0a-5d6a-4fda-a33d-0bb630ab6af1">Technical Support Engineer</a></td>
+<td>Noida, Uttar Pradesh, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484905957/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>FreshtechIT</strong></td>
+<td><a href="https://trueinterview.io/jobs/36756227-1791-4b5b-93a7-a33811d4a2b1">Systems Administrator</a></td>
+<td>Dublin, County Dublin, Ireland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483871167/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Intact</strong></td>
+<td><a href="https://trueinterview.io/jobs/d13e8861-1422-423d-bf57-59061ce9adea">IT Specialist (FDS Finance System)</a></td>
+<td>Gurugram, Haryana, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484906812/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Motadata</strong></td>
+<td><a href="https://trueinterview.io/jobs/566eeb75-171f-477b-ae80-a2c246f9575f">Head - Technical Support &amp; Customer Experience</a></td>
+<td>Ahmedabad, Gujarat, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484450357/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Flexiple</strong></td>
+<td><a href="https://trueinterview.io/jobs/5a498dd2-2ad9-49fc-925b-d8df8bc38166">Systems Administrator</a></td>
+<td>India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484799487/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>mamgo | Talente 🔗 Jobs</strong></td>
+<td><a href="https://trueinterview.io/jobs/9485534e-13f3-47a8-9f01-628ff4da1339">Network Engineer (m/w/d)</a></td>
+<td>Berlin, Berlin, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484903710/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Babcock Australia &amp; New Zealand</strong></td>
+<td><a href="https://trueinterview.io/jobs/ad111f76-ca5b-4050-8672-1d0d7b91518d">Service Desk Technician</a></td>
+<td>Adelaide, South Australia, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484914072/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Rosterfy</strong></td>
+<td><a href="https://trueinterview.io/jobs/7d4b299e-01f7-4bfd-8a07-09cc662afc69">Technical Support Engineer</a></td>
+<td>Melbourne, Victoria, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484799643/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Lightspeed Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/b3fe5f32-1c70-41fb-85ba-52080f212851">Technical Support Specialist UK</a></td>
+<td>United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484794412/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

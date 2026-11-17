@@ -2,7 +2,7 @@
 
 # 🎓 Boston & Cambridge
 
-**172 open roles.**
+**201 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,6 +18,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Amazon Web Services (AWS)</strong></td>
+<td><a href="https://trueinterview.io/jobs/325c6d04-4a73-4476-aebf-3129bfe4914e">Software Development Engineer, AWS Field Experience</a></td>
+<td>Boston, MA<br/>Dallas, TX<br/>Arlington, VA<br/>+1 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483782441/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/abc50eaf-5bff-4e67-bfa2-04c97f78702a">Research Scientist - AI foundations</a></td>
+<td>Cambridge, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4481468447/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Basis Research Institute</strong></td>
+<td><a href="https://trueinterview.io/jobs/0081660f-bbbf-44cd-a107-88d6861891ec">Research Scientist, Compilers and Programming Languages</a></td>
+<td>Cambridge, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491576982/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Bioscope AI</strong></td>
 <td><a href="https://trueinterview.io/jobs/7a53c8c6-73cb-44df-be0b-c998519fe7f1">Data Scientist (Agentic AI)</a></td>
 <td>Boston, MA</td>
@@ -27,8 +48,15 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>RadNet</strong></td>
 <td><a href="https://trueinterview.io/jobs/31b372ef-7619-4c92-97bb-6e7a104eea85">Clinical Research Scientist I</a></td>
-<td>Somerville, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4490934510/">Apply</a></td>
+<td>Somerville, MA<br/>Remote</td>
+<td align="center"><a href="https://careers.radnet.com/jobs/28762/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Terraphase Engineering Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/2f54526d-4093-4cd7-904c-5fd837a8008d">AI Solutions Engineer</a></td>
+<td>Boston, MA<br/>Philadelphia, PA<br/>Conshohocken, PA<br/>+4 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491574431/">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
@@ -39,17 +67,17 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>IBM</strong></td>
-<td><a href="https://trueinterview.io/jobs/abc50eaf-5bff-4e67-bfa2-04c97f78702a">Research Scientist - AI Foundations</a></td>
-<td>Cambridge, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4481468447/">Apply</a></td>
-<td align="center">17 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>ConRes</strong></td>
 <td><a href="https://trueinterview.io/jobs/5f5c6c4f-6dff-4b17-aff5-2c3b15ef0488">AI Security Engineer</a></td>
 <td>Bedford, MA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4490125862/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Boston Dynamics</strong></td>
+<td><a href="https://trueinterview.io/jobs/b05655c7-2e6a-4805-825b-f3829d180ee1">Software Engineer in Automation - Humanoid Robotics</a></td>
+<td>Waltham, MA</td>
+<td align="center"><a href="https://bostondynamics.wd1.myworkdayjobs.com/en-US/Boston_Dynamics/job/Waltham-Office-POST/Senior-Software-Engineer--Test-Infrastructure_R3393">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
@@ -58,6 +86,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Boston, MA</td>
 <td align="center"><a href="https://career-portal-wolfandco.icims.com/jobs/1609/service-desk-technician/job?in_iframe=1">Apply</a></td>
 <td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>FUSS &amp; O'NEILL</strong></td>
+<td><a href="https://trueinterview.io/jobs/f1140383-bee1-429c-8028-a611882225c7">Electrical Engineer</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://trilongroup.pinpointhq.com/postings/78b42923-6154-440b-9441-7287996b06d0">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>DeepMind</strong></td>
+<td><a href="https://trueinterview.io/jobs/02b018d8-f6bc-4be3-8834-744ddb845655">Research Scientist, Human-AI Interaction and Simulation, DeepMind</a></td>
+<td>Cambridge, MA</td>
+<td align="center"><a href="https://careers.google.com/jobs/results/87036934903210694-research-scientist/">Apply</a></td>
+<td align="center">16 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Deloitte</strong></td>
@@ -74,17 +116,45 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">16 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>MassChallenge</strong></td>
-<td><a href="https://trueinterview.io/jobs/6f52a838-6bd3-418e-87a4-9d9862a292cf">UI/UX Designer</a></td>
-<td>Boston, MA</td>
-<td align="center"><a href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=ecf40970-4253-47dd-b9b5-c7ce3ca2c84c&amp;ccId=19000101_000001&amp;jobId=571298&amp;lang=en_US">Apply</a></td>
+<td><strong>Geode Capital Management</strong></td>
+<td><a href="https://trueinterview.io/jobs/f86e792b-5ea5-4f93-8066-ba78cc4ec914">Database Administrator</a> 🌐</td>
+<td>Remote — United States<br/>Boston, MA</td>
+<td align="center"><a href="https://www.geodecapital.com/careers?gnk=job&amp;gni=8a78859fa1ccddd201a1e4add93a5f42&amp;gns=Indeed+Free">Apply</a></td>
 <td align="center">16 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Symbotic</strong></td>
-<td><a href="https://trueinterview.io/jobs/4156d39f-b9de-4051-a398-6e25c884fe55">Software Engineer, Core Systems &amp; Platform Services</a></td>
-<td>Wilmington, MA</td>
-<td align="center"><a href="https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Software-Engineer--Core-Systems---Platform-Services_R8392">Apply</a></td>
+<td><strong>Massachusetts Institute of Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/9031f605-f3f9-4f87-897c-801baf58e43c">Program Engineer - Fabrication and Characterization</a></td>
+<td>Cambridge, MA</td>
+<td align="center"><a href="https://careers.peopleclick.com/careerscp/client_mit/external/jobDetails/jobDetail.html?jobPostId=35189&amp;localeCode=en-us">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Spectrum Control</strong></td>
+<td><a href="https://trueinterview.io/jobs/b256ab18-9ecd-48e2-8aee-2bdd0891a24b">RF Engineer</a> 🌐</td>
+<td>Remote — United States<br/>Marlborough, MA</td>
+<td align="center"><a href="https://spectrumcontrol.wd1.myworkdayjobs.com/SpectrumControl/job/Marlborough-MA/RF-Engineer_JR101551">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Syner-G BioPharma Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/1063d1e5-a459-4961-94f9-2b35aaee477d">Reliability Engineer</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://grnh.se/4ikfugs04us">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Vertex Pharmaceuticals</strong></td>
+<td><a href="https://trueinterview.io/jobs/d24b90f5-8c0f-4d4f-aa92-d7fbff7efac2">DMPK Research Scientist</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://vrtx.wd501.myworkdayjobs.com/en-US/vertex_careers/job/Boston-MA/DMPK-Research-Scientist_REQ-30600">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>VHB</strong></td>
+<td><a href="https://trueinterview.io/jobs/df075a00-ed71-4a03-84b6-3b699f8842ff">Entry Level Transit and Rail Signal Design Engineer</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://careers-vhb.icims.com/jobs/6507/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
 <td align="center">16 Nov 2026</td>
 </tr>
 <tr>
@@ -100,6 +170,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Boston, MA<br/>Atlanta, GA<br/>New York, NY<br/>+11 more</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4491032010/">Apply</a></td>
 <td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Smithsonian Astrophysical Observatory</strong></td>
+<td><a href="https://trueinterview.io/jobs/8a0e9453-52fb-4e12-85bc-fbcbd4abf646">IT Specialist (System Administration), IS-2210-11/12</a></td>
+<td>Cambridge, MA</td>
+<td align="center"><a href="https://trustcareers.si.edu/postings/961fac2f-40da-43b9-b66a-edca29e57452">Apply</a></td>
+<td align="center">13 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Collins Aerospace</strong></td>
@@ -316,13 +393,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/2f244090-99f5-4860-9b64-ab4e5aa4cf89">Business Intelligence Engineer</a></td>
 <td>Boston, MA<br/>New York, NY<br/>Chicago, IL<br/>+2 more</td>
 <td align="center"><a href="https://jobs.lever.co/crosscountry-consulting/2a061834-a20d-4095-9709-b8b24522905a">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Massachusetts Institute of Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/0eaf24ab-ed9a-417e-91d7-984ede2c7e5f">Research Scientist, Case Lab</a></td>
-<td>Cambridge, MA</td>
-<td align="center"><a href="https://careers.peopleclick.com/careerscp/client_mit/external/jobDetails/jobDetail.html?jobPostId=35155&amp;localeCode=en-us">Apply</a></td>
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>
@@ -1219,6 +1289,139 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/cb458d46-6d01-4fdf-b789-3659960fb3ea">Mechanical Engineer (On-site)</a></td>
 <td>Boston, MA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/StandardBots/35bc9140-1548-4780-bc69-8c90591ee070">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Procter &amp; Gamble</strong></td>
+<td><a href="https://trueinterview.io/jobs/25cd5bde-c450-499b-9d91-0cc284399c33">Digital Product Owner</a></td>
+<td>Boston, MA<br/>Cincinnati, OH<br/>Fayetteville, AR</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4465911704/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Trident Consulting</strong></td>
+<td><a href="https://trueinterview.io/jobs/39f15584-5888-4817-9d84-be6bdd762336">Electrical Engineer</a></td>
+<td>Burlington, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484961683/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>MORSE Corp</strong></td>
+<td><a href="https://trueinterview.io/jobs/0dc219e3-a028-4341-9fd3-16f90eef8acc">Human Computer Interaction Engineer</a></td>
+<td>Cambridge, MA<br/>Arlington, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474803116/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Tenstorrent</strong></td>
+<td><a href="https://trueinterview.io/jobs/a7886820-4a06-4884-a724-3132996f4d22">Signal Integrity Engineer</a></td>
+<td>Boston, Massachusetts, United States<br/>Austin, TX<br/>Toronto, Ontario, Canada<br/>+3 more</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/tenstorrent/jobs/5091260007">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Brooks Automation</strong></td>
+<td><a href="https://trueinterview.io/jobs/611bdec5-ca2a-4fc8-9f79-f9a50c187dc3">Controls Engineer</a></td>
+<td>Chelmsford, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474470493/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Liberty Personnel Services, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/d2d5faa0-9b1f-4ec8-a879-6e1ba00aead3">Electrical Design Engineer</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4470318844/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>MORSE Corp</strong></td>
+<td><a href="https://trueinterview.io/jobs/75a75c46-f007-4018-8f9c-0186986ee7da">Autonomy Software Engineer</a></td>
+<td>Cambridge, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4446249378/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Solomon Page</strong></td>
+<td><a href="https://trueinterview.io/jobs/68d0f7f3-39bd-4ab8-91b7-95c016a5e27d">Mechanical Engineer</a></td>
+<td>Needham, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474461361/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Deep Genomics</strong></td>
+<td><a href="https://trueinterview.io/jobs/bf547839-9f84-4037-9111-da9a5cb8c64f">Research Scientist In Vitro Pharmacology</a></td>
+<td>Cambridge, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476942496/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Raytheon</strong></td>
+<td><a href="https://trueinterview.io/jobs/d2b64af1-4f70-404a-b618-36aa2a7b98a1">Systems Engineer I- Onsite</a></td>
+<td>Marlborough, MA<br/>Tewksbury, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467293399/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Trident Consulting</strong></td>
+<td><a href="https://trueinterview.io/jobs/9c09f78c-9b0f-422c-9cfd-8a088db50dd8">PCB Electrical Engineer</a></td>
+<td>Burlington, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484977057/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Motion Recruitment</strong></td>
+<td><a href="https://trueinterview.io/jobs/d9d6a805-38e6-431d-b4ef-8390089201ad">Full Stack Developer - TypeScript, React, Node</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476774563/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>TPA technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/d8e9da0e-9e1c-4fb2-b43d-1ffbe4382571">Application Support Engineer</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484953850/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/de63da54-33a3-415f-a21c-1de2078e7a9b">ServiceNow Engineer</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484967354/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Tata Consultancy Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/e97a6b76-359e-4b1e-8140-a6538f69b0ea">Lab Support Engineer</a></td>
+<td>Bedford, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466803032/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Motional</strong></td>
+<td><a href="https://trueinterview.io/jobs/28928d3b-645d-4d9c-a902-e1b8ecc1cf9f">Machine Learning Engineer, Data Mining</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4428968344/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>GW&amp;K Investment Management</strong></td>
+<td><a href="https://trueinterview.io/jobs/761abfc5-ad24-4c0b-aa61-82704cd23de7">Application Developer</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4456406794/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Percepta</strong></td>
+<td><a href="https://trueinterview.io/jobs/084b90c6-b614-4920-865d-3563df7e099b">Research Scientist – World Modeling</a></td>
+<td>Boston, MA<br/>New York, NY<br/>New York City</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/percepta/909e2fcb-98e3-4c6b-9b76-6c5409184567">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Lila Sciences</strong></td>
+<td><a href="https://trueinterview.io/jobs/d41c40b3-a1d4-4344-a4b8-df33149e4e5a">Forward Deployed Engineer, Physical Sciences (Level Flexible)</a></td>
+<td>Cambridge, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4312078643/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
