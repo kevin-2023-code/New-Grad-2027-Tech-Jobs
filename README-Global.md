@@ -32,7 +32,7 @@
 > **Looking for something else?**
 >
 > 🏠 For roles in the United States & Canada, see the [main list](./README.md)  
-> 🎓 For internships, see [Internship-Opportunities](https://github.com/kevin-2023-code/Internship-Opportunities)  
+> 🎓 For internships, see [Summer-2027-Tech-Internships](https://github.com/kevin-2023-code/Summer-2027-Tech-Internships)  
 > 📝 For what these companies ask in interviews, see [Tech-Interview-Questions](https://github.com/kevin-2023-code/Tech-Interview-Questions)  
 > 🎯 For online-assessment questions, see [Tech-OA-Questions](https://github.com/kevin-2023-code/Tech-OA-Questions)  
 > 📦 For every row as JSON, see [listings.json](./.github/scripts/listings.json)  
