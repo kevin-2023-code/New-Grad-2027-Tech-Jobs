@@ -2,7 +2,7 @@
 
 # 💳 Fintech, payments & crypto
 
-**33 open roles.** 17 in the United States & Canada · 16 elsewhere in the world. Payments, neobanks, lending, trading apps, crypto and financial infrastructure.
+**32 open roles.** 17 in the United States & Canada · 15 elsewhere in the world. Payments, neobanks, lending, trading apps, crypto and financial infrastructure.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -252,13 +252,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Singapore<br/>Australia</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484834054/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Getnet</strong></td>
-<td><a href="https://trueinterview.io/jobs/9ea9aa44-121d-42cf-8740-576291d392eb">Specialist Software Engineer | (Node &amp; Java) Payments</a></td>
-<td>Brazil - Porto Alegre/RS</td>
-<td align="center"><a href="https://job-boards.eu.greenhouse.io/getnet/jobs/5015257101">Apply</a></td>
-<td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
 </table>

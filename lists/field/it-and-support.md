@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**953 open roles.** 798 in the United States & Canada · 155 elsewhere in the world.
+**825 open roles.** 703 in the United States & Canada · 122 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -20,10 +20,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>PalAmerican Security</strong></td>
-<td><a href="https://trueinterview.io/jobs/e19da21b-5471-418e-8259-0ee5a0e313fb">IT Technician</a></td>
-<td>Oak Brook, IL</td>
-<td align="center"><a href="https://www.workstream.us/j/268ad2ae/palamerican-security/oak-brook-93502/it-technician-147f238c?referer_source=Indeed">Apply</a></td>
+<td><strong>University of Notre Dame</strong></td>
+<td><a href="https://trueinterview.io/jobs/5449edce-4982-4f19-9998-09bf0028014c">On-call Security Monitor | NDPD</a></td>
+<td>Notre Dame, Indiana, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/UniversityOfNotreDame/3743990016919627-on-call-security-monitor-ndpd">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
