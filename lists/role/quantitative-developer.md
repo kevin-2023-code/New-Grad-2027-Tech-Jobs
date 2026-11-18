@@ -2,7 +2,7 @@
 
 # Quantitative Developer
 
-**108 open roles.** 71 in the United States & Canada · 37 elsewhere in the world.
+**99 open roles.** 69 in the United States & Canada · 30 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -500,20 +500,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://careers.freddiemac.com/us/en/job/FRMAUSJR17753EXTERNAL/Quantitative-Analytics-Professional">Apply</a></td>
 <td align="center">27 Oct 2026</td>
 </tr>
-<tr>
-<td><strong>Millennium Management</strong></td>
-<td><a href="https://trueinterview.io/jobs/792838c2-820b-44c2-a1cb-8df6b2ded708">Quantitative Analyst – Quant Analyst Program</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://mlp.eightfold.ai/careers/job/755959471860?domain=mlp.com">Apply</a></td>
-<td align="center">19 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Base Power</strong></td>
-<td><a href="https://trueinterview.io/jobs/6fe2ce14-0cdb-4987-80e3-0f472919f68b">Quantitative Analyst</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/base-power/d8f62c73-d754-411e-b30f-99f856659906">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -735,55 +721,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://jobs.standardchartered.com/job/Quantitative-Developer-%28Singapore%2C-Hong-Kong%29/64619-en_GB">Apply</a></td>
 <td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>HSBC</strong></td>
-<td><a href="https://trueinterview.io/jobs/9df87a2d-b530-46c0-b923-0decf0663401">Quant Developer - Front Office</a></td>
-<td>India</td>
-<td align="center"><a href="https://apply.careers.hsbc.com/job/Bangalore-Quant-Developer-Front-Office-KA-560076/1373208257/?feedId=417557">Apply</a></td>
-<td align="center">25 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Qube Research &amp; Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/b9049600-358c-4be9-88c3-6c06e70a9025">Quantitative Developer - Front End, React/C#</a></td>
-<td>London</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8883229002">Apply</a></td>
-<td align="center">13 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Encord</strong></td>
-<td><a href="https://trueinterview.io/jobs/f8473c46-c0de-4411-b4f3-2a1cdd36f1cf">Quant Developer in AI</a></td>
-<td>London</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/encord/39a4dc33-d4a9-4191-9daa-7712e1fb9bc4">Apply</a></td>
-<td align="center">1 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Engineers Gate</strong></td>
-<td><a href="https://trueinterview.io/jobs/5a85038f-ec0a-416d-ae34-7e82f495239f">Quantitative Developer</a></td>
-<td>London</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/engineersgate/jobs/8233715">Apply</a></td>
-<td align="center">25 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Winton Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/c857c70b-61c6-4ad3-a286-4c02afe8a895">Quantitative Developer/Researcher, Graduate</a></td>
-<td>London, United Kingdom</td>
-<td align="center"><a href="https://job-boards.eu.greenhouse.io/winton/jobs/4986765101">Apply</a></td>
-<td align="center">25 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Talan</strong></td>
-<td><a href="https://trueinterview.io/jobs/a0755ec9-b27b-46dd-809f-9e972a98f637">Front Office Quant Analyst</a></td>
-<td>London, England, United Kingdom</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Talan/744000151083244-front-office-quant-analyst">Apply</a></td>
-<td align="center">22 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Qube Research &amp; Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/12fa05d7-f493-4a08-aeb0-af9618f05532">Quantitative Developer - Pre/Post-Trade Analytics</a></td>
-<td>Hong Kong</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8826810002">Apply</a></td>
-<td align="center">21 Sep 2026</td>
 </tr>
 </tbody>
 </table>

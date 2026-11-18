@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,204 open roles.** 998 in the United States & Canada · 206 elsewhere in the world. Everything the employers put up this week.
+**1,201 open roles.** 996 in the United States & Canada · 205 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -1385,20 +1385,6 @@
 <td><a href="https://trueinterview.io/jobs/e64e1fd3-7671-482e-acda-7c67839a73ee">Java Developer</a></td>
 <td>New Jersey, United States</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487804226/">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Commonwealth Associates, Inc</strong></td>
-<td><a href="https://trueinterview.io/jobs/27031838-6952-42d0-9022-ed9d8768d8c2">Protective Relay Settings Engineer – Entry Level</a></td>
-<td>Jackson, MI</td>
-<td align="center"><a href="https://recruiting.ultipro.com/COM1097COMW/JobBoard/392f94a8-95dd-4b03-968f-68b25076deb2/OpportunityDetail?opportunityId=02e908dd-5112-487d-af05-8cb73189d8dc&amp;postingId=cec45882-f94d-4a32-8184-390204566da5">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Nextech Hypergroup Solution</strong></td>
-<td><a href="https://trueinterview.io/jobs/c603385c-4f17-454e-91c4-5626e3c724b3">Junior Cybersecurity Analyst F-1 OPT / STEM OPT Candidates</a></td>
-<td>Atlanta, GA<br/>Atlanta, IN</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487160862/">Apply</a></td>
 <td align="center">10 Nov 2026</td>
 </tr>
 </tbody>
@@ -2825,6 +2811,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/8b1090da-4b73-4cb5-9295-27d85b98660a">Software Test Engineer</a> 🌐</td>
 <td>Remote — India</td>
 <td align="center"><a href="https://job-boards.eu.greenhouse.io/valtech/jobs/5025604101">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Aumovio</strong></td>
+<td><a href="https://trueinterview.io/jobs/422eb9b2-2c3b-4b52-ab2d-d3515c2e2db0">IE - UX Test Development Engineer</a></td>
+<td>Bommasandra, Karnataka, India</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Aumovio/744000161053819-ie-ux-test-development-engineer">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Tesla</strong></td>
+<td><a href="https://trueinterview.io/jobs/89aad745-3625-4176-8c81-dd35bbe25edb">Associate Software Engineer (m/f/d) - Gigafactory Berlin-Brandenburg</a></td>
+<td>Grünheide, Brandenburg, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489667728/">Apply</a></td>
 <td align="center">11 Nov 2026</td>
 </tr>
 </tbody>

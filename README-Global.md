@@ -18,23 +18,23 @@ matching role worldwide rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-11-18 15:19 UTC_
+_Last updated: 2026-11-18 16:18 UTC_
 
-**8,016 open new-grad roles** from **3,674 employers** · **206 posted in the last 7 days** · refreshed hourly
+**6,559 open new-grad roles** from **3,317 employers** · **205 posted in the last 7 days** · refreshed hourly
 
-### Browse 8,016 new-grad roles by field
+### Browse 6,559 new-grad roles by field
 
-💻 **[Software Engineering](#-software-engineering)** (4,713)
+💻 **[Software Engineering](#-software-engineering)** (3,856)
 
-🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (1,709)
+🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (1,413)
 
-🔧 **[Hardware & Engineering](#-hardware--engineering)** (718)
+🔧 **[Hardware & Engineering](#-hardware--engineering)** (606)
 
-📱 **[Product & Design](#-product--design)** (447)
+📱 **[Product & Design](#-product--design)** (329)
 
-📈 **[Quantitative Finance](#-quantitative-finance)** (89)
+📈 **[Quantitative Finance](#-quantitative-finance)** (70)
 
-🧰 **[IT & Support](#-it--support)** (340)
+🧰 **[IT & Support](#-it--support)** (285)
 
 ---
 
@@ -50,13 +50,13 @@ _Last updated: 2026-11-18 15:19 UTC_
 
 _Counts are new-grad roles in the rest of the world. Each page carries every region, under its own heading._
 
-🏷️ **By company type** — [🏛️ Big Tech (536)](lists/company/big-tech.md) · [🔬 Semiconductors & chips (250)](lists/company/semiconductors.md) · [🧾 IT services & consulting (244)](lists/company/it-consulting.md) · [🖥️ Hardware, devices & networking (127)](lists/company/hardware-devices.md) · [🏗️ Large tech (1,000–9,999) (121)](lists/company/large-tech.md) · [🏤 Mid-sized tech (200–999) (81)](lists/company/mid-size-tech.md) · [🏢 Enterprise & business software (77)](lists/company/enterprise-saas.md) · [📱 Consumer internet & media (72)](lists/company/consumer-internet.md) · [🛒 E-commerce & marketplaces (69)](lists/company/ecommerce-marketplace.md) · [🏦 Banks, insurers & asset managers (64)](lists/company/banking-finance.md) · [+14 more →](lists/README.md)
+🏷️ **By company type** — [🏛️ Big Tech (479)](lists/company/big-tech.md) · [🔬 Semiconductors & chips (221)](lists/company/semiconductors.md) · [🧾 IT services & consulting (168)](lists/company/it-consulting.md) · [🖥️ Hardware, devices & networking (84)](lists/company/hardware-devices.md) · [📱 Consumer internet & media (71)](lists/company/consumer-internet.md) · [🏗️ Large tech (1,000–9,999) (69)](lists/company/large-tech.md) · [🛒 E-commerce & marketplaces (65)](lists/company/ecommerce-marketplace.md) · [🏢 Enterprise & business software (62)](lists/company/enterprise-saas.md) · [🏦 Banks, insurers & asset managers (38)](lists/company/banking-finance.md) · [🚀 Aerospace & defence (28)](lists/company/aerospace-defense.md) · [+13 more →](lists/README.md)
 
-🧑‍💻 **By role** — [Software Engineer (1,078)](lists/role/software-engineer.md) · [AI Engineer (555)](lists/role/ai-engineer.md) · [Data Engineer (445)](lists/role/data-engineer.md) · [Data Analyst (261)](lists/role/data-analyst.md) · [Product Manager (230)](lists/role/product-manager.md) · [Security Engineer (199)](lists/role/security-engineer.md) · [Machine Learning Engineer (195)](lists/role/machine-learning-engineer.md) · [Data Scientist (194)](lists/role/data-scientist.md) · [Full-Stack Engineer (177)](lists/role/full-stack-engineer.md) · [DevOps Engineer (160)](lists/role/devops-engineer.md) · [+12 more →](lists/README.md)
+🧑‍💻 **By role** — [Software Engineer (881)](lists/role/software-engineer.md) · [AI Engineer (453)](lists/role/ai-engineer.md) · [Data Engineer (382)](lists/role/data-engineer.md) · [Data Analyst (219)](lists/role/data-analyst.md) · [Product Manager (193)](lists/role/product-manager.md) · [Security Engineer (163)](lists/role/security-engineer.md) · [Data Scientist (161)](lists/role/data-scientist.md) · [Machine Learning Engineer (156)](lists/role/machine-learning-engineer.md) · [Full-Stack Engineer (145)](lists/role/full-stack-engineer.md) · [QA Engineer (137)](lists/role/qa-engineer.md) · [+12 more →](lists/README.md)
 
-📍 **By location** — [🇬🇧 London & the UK (779)](lists/place/uk.md) · [🇸🇬 Singapore (539)](lists/place/singapore.md) · [🇮🇳 Bengaluru & India (425)](lists/place/india.md) · [🇩🇪 Berlin, Munich & Germany (401)](lists/place/germany.md) · [🇫🇷 Paris & France (386)](lists/place/france.md) · [🇳🇱 Amsterdam & the Benelux (302)](lists/place/benelux.md) · [🇦🇺 Sydney, Melbourne & Aotearoa (292)](lists/place/anz.md) · [🇪🇸 Madrid, Barcelona & Iberia (230)](lists/place/iberia.md) · [🏮 Beijing, Shanghai, Taipei & Hong Kong (208)](lists/place/greater-china.md) · [🇨🇭 Zürich & Switzerland (188)](lists/place/switzerland.md) · [+14 more →](lists/README.md)
+📍 **By location** — [🇬🇧 London & the UK (641)](lists/place/uk.md) · [🇸🇬 Singapore (454)](lists/place/singapore.md) · [🇮🇳 Bengaluru & India (361)](lists/place/india.md) · [🇩🇪 Berlin, Munich & Germany (330)](lists/place/germany.md) · [🇳🇱 Amsterdam & the Benelux (279)](lists/place/benelux.md) · [🇫🇷 Paris & France (274)](lists/place/france.md) · [🇦🇺 Sydney, Melbourne & Aotearoa (262)](lists/place/anz.md) · [🇨🇭 Zürich & Switzerland (176)](lists/place/switzerland.md) · [🏮 Beijing, Shanghai, Taipei & Hong Kong (166)](lists/place/greater-china.md) · [🇪🇸 Madrid, Barcelona & Iberia (158)](lists/place/iberia.md) · [+14 more →](lists/README.md)
 
-⚡ **Quick filters** — [🌐 Remote (248)](lists/remote.md) · [🆕 Posted in the last 7 days (206)](lists/new-this-week.md)
+⚡ **Quick filters** — [🆕 Posted in the last 7 days (205)](lists/new-this-week.md) · [🌐 Remote (167)](lists/remote.md)
 
 [**Every filter, with counts and what each one selects →**](lists/README.md)
 
@@ -84,21 +84,21 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/c9193bc4-161a-475e-a9dd-dda506fa7472">Applied Machine Learning Orchestration Graduate (AML) - 2027 Start</a> 🆕</td>
 <td>Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4457318639/">Apply</a></td>
-<td align="center">0d</td>
+<td align="center">1d</td>
 </tr>
 <tr>
 <td><strong>SAP</strong></td>
 <td><a href="https://trueinterview.io/jobs/ed53d0cf-cb01-4457-9a5e-a6f8e3aeb9f9">Working Student SAP Engagement Cloud (f/m/d) – AI Product Builder for Product Brain</a> 🆕</td>
 <td>Walldorf, Baden-Württemberg, Germany</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4490106197/">Apply</a></td>
-<td align="center">0d</td>
+<td align="center">1d</td>
 </tr>
 <tr>
 <td><strong>Siemens</strong></td>
 <td><a href="https://trueinterview.io/jobs/a6fe131d-3704-48cb-8aa1-dd45097870b8">Werkstudent:in Smart Grids und Cybersecurity (f/m/d)</a> 🆕</td>
 <td>Vienna, Vienna, Austria</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4490695965/">Apply</a></td>
-<td align="center">0d</td>
+<td align="center">1d</td>
 </tr>
 <tr>
 <td><strong>Stripe</strong></td>
@@ -238,7 +238,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/394454b8-7f66-4774-b241-43d0924419f1">Werkstudent (w/m/d) - Cloud Developer for SAP Document AI</a> 🆕</td>
 <td>Walldorf, Baden-Württemberg, Germany</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000161761748-werkstudent-w-m-d-cloud-developer-for-sap-document-ai">Apply</a></td>
-<td align="center">1d</td>
+<td align="center">2d</td>
 </tr>
 <tr>
 <td><strong>Hewlett Packard Enterprise</strong></td>
@@ -265,6 +265,76 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Age</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Bosch</strong></td>
+<td><a href="https://trueinterview.io/jobs/189fab60-3389-4d16-b17c-42a549a9e81f">Application Engineer Graduate</a></td>
+<td>Nuneaton, England, United Kingdom</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000159435464-application-engineer-graduate">Apply</a></td>
+<td align="center">15d</td>
+</tr>
+<tr>
+<td><strong>Lockheed Martin</strong></td>
+<td><a href="https://trueinterview.io/jobs/ee4afcf8-bb4d-4f36-82fa-c5ffb2bcaa18">Ground Systems &amp; Infrastructure Engineer</a></td>
+<td>Mawson Lakes, South Australia, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484685700/">Apply</a></td>
+<td align="center">15d</td>
+</tr>
+<tr>
+<td><strong>N Ix</strong></td>
+<td><a href="https://trueinterview.io/jobs/b9f20e87-639f-47fd-a2e5-59f09fd5e8f1">Senor Scala Engineer</a></td>
+<td>Ukraine</td>
+<td align="center"><a href="https://careers.n-ix.com/jobs/5025683101?gh_jid=5025683101">Apply</a></td>
+<td align="center">15d</td>
+</tr>
+<tr>
+<td><strong>Tenth Revolution Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/ac7cd21f-7a5c-45ae-a41b-857c965c0909">.NET Developer</a></td>
+<td>Spain</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484657697/">Apply</a></td>
+<td align="center">15d</td>
+</tr>
+<tr>
+<td><strong>Dun &amp; Bradstreet</strong></td>
+<td><a href="https://trueinterview.io/jobs/0d500264-d94a-4c3e-a2ff-84d7f6b7fa6a">Software Engineer (R-20124)</a></td>
+<td>Dublin - Ireland</td>
+<td align="center"><a href="https://jobs.lever.co/dnb/095c459e-4451-46c6-b51b-ca0e4f0c39d0">Apply</a></td>
+<td align="center">15d</td>
+</tr>
+<tr>
+<td><strong>N Ix</strong></td>
+<td><a href="https://trueinterview.io/jobs/0d570607-758c-4e6a-8110-3990e2d9dfea">Middle AQA Engineer (C#, JS)</a></td>
+<td>Ukraine</td>
+<td align="center"><a href="https://careers.n-ix.com/jobs/5019194101?gh_jid=5019194101">Apply</a></td>
+<td align="center">15d</td>
+</tr>
+<tr>
+<td><strong>CHAPTERS Group AG</strong></td>
+<td><a href="https://trueinterview.io/jobs/7e1c84d5-4362-407e-ab22-74ce69f42dbc">AI Platform Engineer (m/w/d) | AI Hub für 10+ Unternehmen</a></td>
+<td>Berlin, Deutschland</td>
+<td align="center"><a href="https://join.com/companies/chaptersgroupcom/16909058-ai-platform-engineer-m-w-d-oder-ai-hub-fuer-10-unternehmen?pid=a13795120131dbe48464">Apply</a></td>
+<td align="center">15d</td>
+</tr>
+<tr>
+<td><strong>Amazon Web Services (AWS)</strong></td>
+<td><a href="https://trueinterview.io/jobs/86a04421-2123-49e5-b3b4-c0ebb496d567">Fire Protection Design Engineer, Data Center Engineering</a></td>
+<td>Dublin, County Dublin, Ireland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4478567583/">Apply</a></td>
+<td align="center">15d</td>
+</tr>
+<tr>
+<td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/72452f3f-7ec2-41f4-bafe-b774272f4dac">IBM Maximo Developer</a></td>
+<td>Quezon City, National Capital Region, Philippines<br/>Cebu, Central Visayas, Philippines</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476027435/">Apply</a></td>
+<td align="center">15d</td>
+</tr>
+<tr>
+<td><strong>Pariveda</strong></td>
+<td><a href="https://trueinterview.io/jobs/8c65ad58-43bc-4b6a-9019-e26d8a886e3b">Software Engineer</a></td>
+<td>Bogota</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/pariveda/a588c9fa-0137-46d6-bc9b-6ae142f9345b">Apply</a></td>
+<td align="center">15d</td>
+</tr>
 <tr>
 <td><strong>Infosys</strong></td>
 <td><a href="https://trueinterview.io/jobs/c45afd42-15ee-4c6e-b0c3-f6dcc44820f7">Java AWS Developer</a></td>
@@ -545,82 +615,12 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484667223/">Apply</a></td>
 <td align="center">15d</td>
 </tr>
-<tr>
-<td><strong>Eurofins</strong></td>
-<td><a href="https://trueinterview.io/jobs/c942fc95-7b6c-42ff-8ac8-6069cba2db8c">Facility Engineer</a></td>
-<td>Oegstgeest, Zuid-Holland, Netherlands</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Eurofins/744000159357324-facility-engineer-">Apply</a></td>
-<td align="center">15d</td>
-</tr>
-<tr>
-<td><strong>Sopra Steria</strong></td>
-<td><a href="https://trueinterview.io/jobs/aa6033c5-7c69-4cf1-9f55-1cef5d9abc24">DevOps Test engineer</a></td>
-<td>Nieuwegein, Utrecht, Netherlands</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/SopraSteria1/744000159356709-devops-test-engineer">Apply</a></td>
-<td align="center">15d</td>
-</tr>
-<tr>
-<td><strong>One Big Circle</strong></td>
-<td><a href="https://trueinterview.io/jobs/c4bd191b-3a98-40d9-b7ee-1c67711a3845">Product Security Engineer</a></td>
-<td>Bristol, United Kingdom</td>
-<td align="center"><a href="https://uk.indeed.com/viewjob?jk=af44b10e518dc6e7">Apply</a></td>
-<td align="center">15d</td>
-</tr>
-<tr>
-<td><strong>Inetum</strong></td>
-<td><a href="https://trueinterview.io/jobs/d955322e-6b77-4e6e-b20a-fa3f4f10b0ce">Developer Java</a></td>
-<td>Aveiro, Aveiro District, Portugal</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Inetum2/744000159353010-developer-java-">Apply</a></td>
-<td align="center">15d</td>
-</tr>
-<tr>
-<td><strong>Amini</strong></td>
-<td><a href="https://trueinterview.io/jobs/8298b946-2ad9-4d72-b2e0-72c8a54093e7">Forward Deployed Engineer | 60 - 100%</a></td>
-<td>Zürich, Switzerland</td>
-<td align="center"><a href="https://join.com/companies/unscripted/16906843-forward-deployed-engineer-oder-60-100?pid=a13795120131dbe48464">Apply</a></td>
-<td align="center">15d</td>
-</tr>
-<tr>
-<td><strong>NielsenIQ</strong></td>
-<td><a href="https://trueinterview.io/jobs/6d87fea1-5f41-4ebb-b903-d8f07f6eef77">Software Engineer - Développeur Front-End JavaScript - C# - F/H</a></td>
-<td>Cholet, 49, France</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/NielsenIQ/744000159349609-software-engineer-developpeur-front-end-javascript-c-f-h">Apply</a></td>
-<td align="center">15d</td>
-</tr>
-<tr>
-<td><strong>Bosch</strong></td>
-<td><a href="https://trueinterview.io/jobs/59367343-8e39-432c-9244-b7aa7801182d">Cybersecurity development</a></td>
-<td>bangalore, India</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000159347028-cybersecurity-development">Apply</a></td>
-<td align="center">15d</td>
-</tr>
-<tr>
-<td><strong>Tenth Revolution Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/ee438aee-e575-4d07-bd89-210609a55d6c">Azure DevOps Engineer</a></td>
-<td>United Kingdom</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484659321/">Apply</a></td>
-<td align="center">15d</td>
-</tr>
-<tr>
-<td><strong>Physicsx</strong></td>
-<td><a href="https://trueinterview.io/jobs/a5dc0b46-293d-4b22-afb6-4ed27d4b99ef">Platform Engineer - Self Hosting LLMs</a></td>
-<td>London</td>
-<td align="center"><a href="https://job-boards.eu.greenhouse.io/physicsx/jobs/5025659101">Apply</a></td>
-<td align="center">15d</td>
-</tr>
-<tr>
-<td><strong>XYZ Reality</strong></td>
-<td><a href="https://trueinterview.io/jobs/cb37b24f-5142-4965-995e-9e713267b2ad">Site Engineer - Fyresdal,Norway</a></td>
-<td>Fyresdal, Norway</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/xyz-reality/a76893ae-bbd9-4de2-9b20-4ddc80178ba1">Apply</a></td>
-<td align="center">15d</td>
-</tr>
 </tbody>
 </table>
 
 </details>
 
-**Showing 75 of 4,713.** [Every Software Engineering role, newest first →](lists/field/software-engineering.md)
+**Showing 75 of 3,856.** [Every Software Engineering role, newest first →](lists/field/software-engineering.md)
 
 ## 🤖 Data, AI & Machine Learning
 
@@ -643,21 +643,21 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/380c391f-2a3f-4d0d-831d-c6aece595946">Junior Agentic AI Software Engineer</a> 🆕</td>
 <td>Sophia Antipolis, Provence-Alpes-Côte d'Azur, France</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4491169695/">Apply</a></td>
-<td align="center">0d</td>
+<td align="center">1d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/5575fa58-f2c0-448d-a817-50d0dd3d9bf0">These CIFRE: Multi-sensor Fusion on Embedded Devices</a> 🆕</td>
 <td>Sophia Antipolis, Provence-Alpes-Côte d'Azur, France</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4491182103/">Apply</a></td>
-<td align="center">0d</td>
+<td align="center">1d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/a76160fb-c47c-40e2-9c4b-b779f037f838">Working Student (f/m/d) LLM Wiki &amp; Agentic AI Knowledge Systems</a> 🆕</td>
 <td>Hamburg, Hamburg, Germany</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4491194008/">Apply</a></td>
-<td align="center">0d</td>
+<td align="center">1d</td>
 </tr>
 <tr>
 <td><strong>Rws Trainai</strong></td>
@@ -790,7 +790,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/a1ed6900-5ed1-40eb-8a83-2cd1f5bb21fc">Trainee Data Analyst - Elevation Programme</a></td>
 <td>Shirebrook, England, United Kingdom</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/FrasersGroup/744000161518641-trainee-data-analyst-elevation-programme">Apply</a></td>
-<td align="center">4d</td>
+<td align="center">5d</td>
 </tr>
 <tr>
 <td><strong>Western Digital</strong></td>
@@ -817,6 +817,48 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Age</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/07bc9b86-baa7-41d2-ba1f-124c0d7c3470">AI Research Engineer - Chip Design</a></td>
+<td>Haifa, Haifa District, Israel<br/>Herzliya, Tel-Aviv District, Israel</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200693100">Apply</a></td>
+<td align="center">15d</td>
+</tr>
+<tr>
+<td><strong>Happy Scribe</strong></td>
+<td><a href="https://trueinterview.io/jobs/705adc71-acb2-4659-953c-2cef76f31ec6">AI Engineer</a></td>
+<td>Barcelona, Spain</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/happyscribe.com/047e1542-06d3-451a-b8ed-0e42e13b9c87">Apply</a></td>
+<td align="center">15d</td>
+</tr>
+<tr>
+<td><strong>Inetum</strong></td>
+<td><a href="https://trueinterview.io/jobs/5ef878dc-5cfd-4329-acab-f7d64bf4fa06">Data Engineer H/F</a></td>
+<td>Nantes, Pays de la Loire, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Inetum2/744000159428429-data-engineer-h-f-">Apply</a></td>
+<td align="center">15d</td>
+</tr>
+<tr>
+<td><strong>Dun &amp; Bradstreet</strong></td>
+<td><a href="https://trueinterview.io/jobs/ff1028ec-ef7f-4cc1-bc91-39502f8245c8">AI Engineer (R-20123)</a></td>
+<td>Dublin - Ireland</td>
+<td align="center"><a href="https://jobs.lever.co/dnb/d73918ce-0bc9-4a6f-bb0a-668a90bd72dd">Apply</a></td>
+<td align="center">15d</td>
+</tr>
+<tr>
+<td><strong>Susquehanna International Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/9c00d2f5-d353-4008-804d-3179ad0d2867">Data Operations Engineer - Python</a></td>
+<td>Dublin, County Dublin, Ireland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4439222298/">Apply</a></td>
+<td align="center">15d</td>
+</tr>
+<tr>
+<td><strong>Riverty</strong></td>
+<td><a href="https://trueinterview.io/jobs/d988d6c6-fee7-432b-b9db-0293991ace3f">Data Engineer</a></td>
+<td>London, United Kingdom</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000159418186-data-engineer">Apply</a></td>
+<td align="center">15d</td>
+</tr>
 <tr>
 <td><strong>Keshav enterprises</strong></td>
 <td><a href="https://trueinterview.io/jobs/3169e05a-8bf7-4abb-a0e4-98b7a2370b8f">AI Engineer</a></td>
@@ -1125,54 +1167,12 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center"><a href="https://recrute1-carrefour.icims.com/jobs/147708/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
 <td align="center">15d</td>
 </tr>
-<tr>
-<td><strong>Catholic Diocese of Maitland-Newcastle</strong></td>
-<td><a href="https://trueinterview.io/jobs/3bc1bff3-8408-4863-b29a-d0ad0dbbd855">Business Intelligence Specialist - Data &amp; Analytics</a></td>
-<td>Newcastle West, Australia</td>
-<td align="center"><a href="https://cdmn.elmotalent.com.au/careers/dio/job/view/6900">Apply</a></td>
-<td align="center">15d</td>
-</tr>
-<tr>
-<td><strong>Chevron</strong></td>
-<td><a href="https://trueinterview.io/jobs/2ba07d0f-5582-4b13-a81f-bad2991a6bcd">Data Engineer</a></td>
-<td>India</td>
-<td align="center"><a href="https://chevron.wd5.myworkdayjobs.com/en-US/jobs/job/Bengaluru-Karnataka-India/Data-Engineer_R000074872">Apply</a></td>
-<td align="center">15d</td>
-</tr>
-<tr>
-<td><strong>Compare The Market</strong></td>
-<td><a href="https://trueinterview.io/jobs/f4575c26-0cc8-4838-9d88-ccffe00d676c">Data Engineer</a></td>
-<td>Brisbane, Australia</td>
-<td align="center"><a href="https://www.livehire.com/job/comparethemarket/EE8TB">Apply</a></td>
-<td align="center">15d</td>
-</tr>
-<tr>
-<td><strong>Dassault Systèmes</strong></td>
-<td><a href="https://trueinterview.io/jobs/f5c52eb3-e774-4d26-ac52-c7d10b81c2d5">Ingénieur R&amp;D C++ / Deep Learning – Algorithmes de maillage 3D (F/H)</a></td>
-<td>Vélizy-Villacoublay, France</td>
-<td align="center"><a href="https://www.3ds.com/careers/jobs/ingenieur-r-d-c-deep-learning-algorithmes-de-maillage-3d-f-h-550732">Apply</a></td>
-<td align="center">15d</td>
-</tr>
-<tr>
-<td><strong>Deuba GmbH &amp; Co. KG</strong></td>
-<td><a href="https://trueinterview.io/jobs/8f0f0190-b080-482f-8950-bdf2cc4e26a4">Data Engineer (m/w/d)</a></td>
-<td>Merzig, Deutschland</td>
-<td align="center"><a href="https://karriere.deuba.info/de?id=bc1900">Apply</a></td>
-<td align="center">15d</td>
-</tr>
-<tr>
-<td><strong>DLR - Deutsches Zentrum für Luft- und Raumfahrt</strong></td>
-<td><a href="https://trueinterview.io/jobs/fcec2512-ec03-4df8-be15-0456c308b4e2">Wissenschaftliche/r Mitarbeiter/in (w/m/d) im Forschungsdatenmanagement: Data Engineer</a></td>
-<td>Köln, Deutschland</td>
-<td align="center"><a href="https://jobs.dlr.de/default/job/Wissenschaftlicher-Mitarbeiterin-%28wmd%29-im-Forschungsdatenmanagement-Data-Engineer/6586-de_DE">Apply</a></td>
-<td align="center">15d</td>
-</tr>
 </tbody>
 </table>
 
 </details>
 
-**Showing 75 of 1,709.** [Every Data, AI & Machine Learning role, newest first →](lists/field/data-ai-and-machine-learning.md)
+**Showing 75 of 1,413.** [Every Data, AI & Machine Learning role, newest first →](lists/field/data-ai-and-machine-learning.md)
 
 ## 🔧 Hardware & Engineering
 
@@ -1216,28 +1216,28 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/819dfe9b-fd96-4e76-be67-e955f89f82b1">Design Verification Engineer</a> 🆕</td>
 <td>Pune Division, Maharashtra, India</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4491179179/">Apply</a></td>
-<td align="center">0d</td>
+<td align="center">1d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/7e8826a8-4a6e-4602-a6a3-606d950ca38e">Software Embedded Engineer (m/f/d)</a> 🆕</td>
 <td>Brno, South Moravia, Czechia</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4491178725/">Apply</a></td>
-<td align="center">0d</td>
+<td align="center">1d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/4e30a271-0da6-4678-9d92-4efdb748a8a3">2027Y Campus - Software Engineer - Linux BSP &amp; Driver Development</a> 🆕</td>
 <td>Pudong, Shanghai, China</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4491179459/">Apply</a></td>
-<td align="center">0d</td>
+<td align="center">1d</td>
 </tr>
 <tr>
 <td><strong>Cisco</strong></td>
 <td><a href="https://trueinterview.io/jobs/33fbe51d-7b73-4b8e-8165-cc892f4c3f23">Junior Software QA Engineer- ETR- Serbia</a> 🆕</td>
 <td>Belgrade, Serbia</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4491540606/">Apply</a></td>
-<td align="center">0d</td>
+<td align="center">1d</td>
 </tr>
 <tr>
 <td><strong>TSMC</strong></td>
@@ -1349,7 +1349,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/e648f6f8-21d5-48d9-8d5d-d7d3d1f76af1">CPU Silicon Validation Software Engineer</a> 🆕</td>
 <td>Hsinchu, Taiwan, Taiwan</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4456036843/">Apply</a></td>
-<td align="center">2d</td>
+<td align="center">3d</td>
 </tr>
 <tr>
 <td>↳</td>
@@ -1675,7 +1675,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/7d0b6e59-e59f-4128-97c1-fc548d449af1">Critical Infrastructure Electrical Engineer, Field Engineering, Field Engineering</a></td>
 <td>London, England, United Kingdom<br/>Newcastle, England, United Kingdom</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4468677641/">Apply</a></td>
-<td align="center">17d</td>
+<td align="center">18d</td>
 </tr>
 <tr>
 <td><strong>Ericsson</strong></td>
@@ -1724,7 +1724,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 
 </details>
 
-**Showing 75 of 718.** [Every Hardware & Engineering role, newest first →](lists/field/hardware-and-engineering.md)
+**Showing 75 of 606.** [Every Hardware & Engineering role, newest first →](lists/field/hardware-and-engineering.md)
 
 ## 📱 Product & Design
 
@@ -1817,7 +1817,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/66641372-d980-4106-bec3-633984f6a20c">Unreal Engine Motion Designer - Mob Control</a></td>
 <td>Paris</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/voodoo/efa492d2-1133-4fbf-b8b7-dc2dc4df0cad">Apply</a></td>
-<td align="center">11d</td>
+<td align="center">12d</td>
 </tr>
 <tr>
 <td><strong>Sopra Steria</strong></td>
@@ -1921,6 +1921,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Age</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Bet365</strong></td>
+<td><a href="https://trueinterview.io/jobs/af908b95-971d-4f4d-ab0f-777703c2a892">UI-UX Designer - Gaming</a></td>
+<td>Stoke-on-Trent, England, United Kingdom</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Bet3651/744000159427479-ui-ux-designer-gaming">Apply</a></td>
+<td align="center">15d</td>
+</tr>
+<tr>
+<td><strong>Scalian</strong></td>
+<td><a href="https://trueinterview.io/jobs/460b2ee2-07ac-4979-b64c-9eb53a7b1915">V&amp;V Designer</a></td>
+<td>Charleroi, Belgium</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Scalian/744000159418989-v-v-designer">Apply</a></td>
+<td align="center">15d</td>
+</tr>
 <tr>
 <td><strong>Shopee</strong></td>
 <td><a href="https://trueinterview.io/jobs/aeea68a9-1af3-4476-b512-6cbc309ab988">Product Management Analyst - AI Implementation</a></td>
@@ -2031,14 +2045,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/5b68b541-2fb2-46cb-8ca2-ad6ebf6c5e4c">Product Owner / Business Analyst / AMOA (H/F)</a></td>
 <td>Nantes, France</td>
 <td align="center"><a href="https://apply.workable.com/j/2268E47B1D">Apply</a></td>
-<td align="center">15d</td>
+<td align="center">16d</td>
 </tr>
 <tr>
 <td><strong>Bet365</strong></td>
 <td><a href="https://trueinterview.io/jobs/a62c9b0a-6fdd-4c52-8f54-4a8a1ba785d3">Creative Designer</a></td>
 <td>Stoke-on-Trent, England, United Kingdom</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Bet3651/744000159173285-creative-designer">Apply</a></td>
-<td align="center">15d</td>
+<td align="center">16d</td>
 </tr>
 <tr>
 <td><strong>Groupe Covéa</strong></td>
@@ -2257,26 +2271,12 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center"><a href="https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/38029">Apply</a></td>
 <td align="center">16d</td>
 </tr>
-<tr>
-<td><strong>Shopee</strong></td>
-<td><a href="https://trueinterview.io/jobs/7dc46d88-6f52-471f-a99c-d1cae891edb1">UI/UX Designer - Product</a></td>
-<td>Jakarta, Indonesia</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4479962465/">Apply</a></td>
-<td align="center">16d</td>
-</tr>
-<tr>
-<td><strong>Safran</strong></td>
-<td><a href="https://trueinterview.io/jobs/573dc00a-153c-4732-9e82-4e261adaa531">STAGE - PRODUCT OWNER - NAVCHARTS &amp; ANALYSE DE VOL F-H</a></td>
-<td>Massy, France</td>
-<td align="center"><a href="https://www.safran-group.com/jobs/france/massy/stage-product-owner-navcharts-analyse-vol-fh-fh-191009">Apply</a></td>
-<td align="center">17d</td>
-</tr>
 </tbody>
 </table>
 
 </details>
 
-**Showing 75 of 447.** [Every Product & Design role, newest first →](lists/field/product-and-design.md)
+**Showing 75 of 329.** [Every Product & Design role, newest first →](lists/field/product-and-design.md)
 
 ## 📈 Quantitative Finance
 
@@ -2362,7 +2362,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/dcaf4bd0-e97f-432b-9b24-4a235c8940f4">Quantitative Researcher - ML</a></td>
 <td>Shanghai</td>
 <td align="center"><a href="https://job-boards.eu.greenhouse.io/mangroup/jobs/4882440101">Apply</a></td>
-<td align="center">13d</td>
+<td align="center">14d</td>
 </tr>
 <tr>
 <td><strong>Optiver</strong></td>
@@ -2385,13 +2385,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center"><a href="https://juliusbaer.wd3.myworkdayjobs.com/de-DE/External/job/Zurich/Quantitative-Analyst--Risk-and-Product-Control-Interface-100---f-m-d-_r-20175-2">Apply</a></td>
 <td align="center">14d</td>
 </tr>
-<tr>
-<td><strong>Vertex Point Capital</strong></td>
-<td><a href="https://trueinterview.io/jobs/13669cb5-fc1f-4840-a4bb-2674f45cd7ca">Quantitative Engineer ( Prediction Markets)</a></td>
-<td>Charlotte Metro</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484680685/">Apply</a></td>
-<td align="center">14d</td>
-</tr>
 </tbody>
 </table>
 
@@ -2403,6 +2396,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Age</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Vertex Point Capital</strong></td>
+<td><a href="https://trueinterview.io/jobs/13669cb5-fc1f-4840-a4bb-2674f45cd7ca">Quantitative Engineer ( Prediction Markets)</a></td>
+<td>Charlotte Metro</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484680685/">Apply</a></td>
+<td align="center">15d</td>
+</tr>
 <tr>
 <td><strong>Susquehanna International Group</strong></td>
 <td><a href="https://trueinterview.io/jobs/712c8996-47a7-4709-9e26-377011e0335e">Sales Trader</a></td>
@@ -2625,7 +2625,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/4d0c2fb1-32e7-4485-9c75-da6b848bd686">Metal Trader, Copper Cathodes</a></td>
 <td>London, England, United Kingdom</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4446262582/">Apply</a></td>
-<td align="center">19d</td>
+<td align="center">20d</td>
 </tr>
 <tr>
 <td><strong>IFC - International Food Connectors</strong></td>
@@ -2746,19 +2746,12 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4483874417/">Apply</a></td>
 <td align="center">21d</td>
 </tr>
-<tr>
-<td><strong>Bet365</strong></td>
-<td><a href="https://trueinterview.io/jobs/c3d32c95-2d60-4669-b808-0d48f1ee68cb">Quantitative Analyst, Sports</a></td>
-<td>Stoke-On-Trent, England, United Kingdom</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Bet3651/744000158268769-quantitative-analyst-sports">Apply</a></td>
-<td align="center">21d</td>
-</tr>
 </tbody>
 </table>
 
 </details>
 
-**Showing 65 of 89.** [Every Quantitative Finance role, newest first →](lists/field/quantitative-finance.md)
+**Showing 64 of 70.** [Every Quantitative Finance role, newest first →](lists/field/quantitative-finance.md)
 
 ## 🧰 IT & Support
 
@@ -2893,7 +2886,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/34a31ccc-8237-4f01-8024-90d3a3de89ec">Technical Support Engineer</a> 🌐</td>
 <td>Remote</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/PostHog/db808740-242e-4a40-ad43-d41f26c049d7">Apply</a></td>
-<td align="center">11d</td>
+<td align="center">12d</td>
 </tr>
 <tr>
 <td><strong>Feverup</strong></td>
@@ -2955,6 +2948,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Age</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Eurofins</strong></td>
+<td><a href="https://trueinterview.io/jobs/0a23ec0e-e38a-47d2-8a11-fc407df28b5f">IT Support Engineer</a></td>
+<td>Amersfoort, Utrecht, Netherlands</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Eurofins/744000159418310-it-support-engineer">Apply</a></td>
+<td align="center">15d</td>
+</tr>
 <tr>
 <td><strong>Hostinger</strong></td>
 <td><a href="https://trueinterview.io/jobs/5fe18b58-f065-4d02-82b7-aa03dec22b4e">AI Technical Support Specialist | Remote</a></td>
@@ -3298,19 +3298,12 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484835183/">Apply</a></td>
 <td align="center">19d</td>
 </tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/149d71e4-8ccc-49b7-9d5d-69d46dcd725b">Network Engineer</a></td>
-<td>Pune Division, Maharashtra, India</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484832257/">Apply</a></td>
-<td align="center">19d</td>
-</tr>
 </tbody>
 </table>
 
 </details>
 
-**Showing 75 of 340.** [Every IT & Support role, newest first →](lists/field/it-and-support.md)
+**Showing 75 of 285.** [Every IT & Support role, newest first →](lists/field/it-and-support.md)
 
 <!-- LISTINGS:END -->
 

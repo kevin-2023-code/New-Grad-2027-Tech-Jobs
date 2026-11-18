@@ -2,7 +2,7 @@
 
 # 🇸🇬 Singapore
 
-**550 open roles.** 11 in the United States & Canada · 539 elsewhere in the world.
+**463 open roles.** 9 in the United States & Canada · 454 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -81,20 +81,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Singapore<br/>Palo Alto, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/menlo/336d58cc-6ade-4db7-bae0-f1a0169a6740">Apply</a></td>
 <td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Hud</strong></td>
-<td><a href="https://trueinterview.io/jobs/01fbd25d-8c03-4bec-946d-357f184e1f14">Design Engineer</a> 🌐</td>
-<td>Remote — United States, Singapore<br/>Singapore</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/hud/8dc43ee3-21ad-42ba-8cf9-34fdeecfcf58">Apply</a></td>
-<td align="center">24 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/d4313508-446e-4607-9126-47eb32e15fb7">Product Engineer, Frontend &amp; Design</a> 🌐</td>
-<td>Remote — United States, Singapore<br/>Singapore</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/hud/0b162d2d-1390-41b5-8202-40cbc1771f3d">Apply</a></td>
-<td align="center">26 Sep 2026</td>
 </tr>
 </tbody>
 </table>
@@ -2829,6 +2815,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/dba03982-1b79-4c2c-a370-24f1a2f37bd0">Research Engineer (contract till 30 Aug 2027), SCIS</a></td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484440934/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>STMicroelectronics</strong></td>
+<td><a href="https://trueinterview.io/jobs/a03aee6d-6159-408b-a02b-41aea330f123">Equipment Engineer, Metrology</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4458206246/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Micron Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/a00053cb-bb92-4ada-ae4a-6bf0b69e4fb7">SSD Customer Validation Engineer</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4410845191/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

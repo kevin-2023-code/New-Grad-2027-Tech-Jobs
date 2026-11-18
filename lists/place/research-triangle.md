@@ -2,7 +2,7 @@
 
 # 🔺 Research Triangle & the Carolinas
 
-**256 open roles.**
+**254 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1794,20 +1794,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Charlotte, North Carolina, United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/rvohealth/jobs/4745013005">Apply</a></td>
 <td align="center">26 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Bandwidth</strong></td>
-<td><a href="https://trueinterview.io/jobs/6f3ed206-fd2e-470f-89ca-525245f7af10">Applied AI Engineer</a></td>
-<td>Raleigh, NC</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/bandwidth/jobs/8285488">Apply</a></td>
-<td align="center">21 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Egis Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/f6811cc1-4ee7-45a4-baac-02478d94c7c0">Roadway Project Engineer</a></td>
-<td>Raleigh, North Carolina, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/EgisGroup/744000155361849-roadway-project-engineer">Apply</a></td>
-<td align="center">13 Oct 2026</td>
 </tr>
 </tbody>
 </table>

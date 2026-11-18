@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,204 open roles.** 998 in the United States & Canada · 206 elsewhere in the world. Everything the employers put up this week.
+**1,201 open roles.** 996 in the United States & Canada · 205 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -18,31 +18,10 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
-<td><strong>Aumovio</strong></td>
-<td><a href="https://trueinterview.io/jobs/422eb9b2-2c3b-4b52-ab2d-d3515c2e2db0">IE - UX Test Development Engineer</a></td>
-<td>Bommasandra, Karnataka, India</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Aumovio/744000161053819-ie-ux-test-development-engineer">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Tesla</strong></td>
-<td><a href="https://trueinterview.io/jobs/89aad745-3625-4176-8c81-dd35bbe25edb">Associate Software Engineer (m/f/d) - Gigafactory Berlin-Brandenburg</a></td>
-<td>Grünheide, Brandenburg, Germany</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4489667728/">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Lenovo</strong></td>
 <td><a href="https://trueinterview.io/jobs/533a4e39-f112-458a-9c6d-5d306000c0a6">AI &amp; Business Insights Analyst | Early Career Opportunity</a></td>
 <td>Bratislava, Bratislava, Slovakia</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4462988003/">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Microsoft</strong></td>
-<td><a href="https://trueinterview.io/jobs/03798209-5bb4-4a63-bc46-daa668d1e2ab">Cloud Solution Architect - Entry Level</a></td>
-<td>Bucharest, Bucharest, Romania</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4489485657/">Apply</a></td>
 <td align="center">10 Nov 2026</td>
 </tr>
 </tbody>

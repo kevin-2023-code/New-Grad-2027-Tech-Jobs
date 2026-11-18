@@ -2,15 +2,13 @@
 
 # 🤠 Dallas–Fort Worth
 
-**409 open roles.**
+**384 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
 > A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in TX: Dallas, Fort Worth, Plano, Irving, Richardson, Frisco, Arlington, Mckinney, Addison.
 
 _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-authorisation restriction._
-
-<sub>Page 1 of 2 · [Page 2 →](dallas-fort-worth-2.md)</sub>
 
 ## United States & Canada
 
@@ -2707,121 +2705,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://jobs.ashbyhq.com/perryweather/ed672016-bd96-444e-9dbc-62f58e9b00e0">Apply</a></td>
 <td align="center">26 Oct 2026</td>
 </tr>
-<tr>
-<td><strong>Infineon</strong></td>
-<td><a href="https://trueinterview.io/jobs/96d17dcb-0ef5-443d-97ad-09a31602c452">Graduate - Regional Account Manager Space and Defense</a></td>
-<td>Dallas, TX, US<br/>Andover, MA, US</td>
-<td align="center"><a href="https://jobs.infineon.com/careers/job/563808972163821">Apply</a></td>
-<td align="center">26 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Ziosk</strong></td>
-<td><a href="https://trueinterview.io/jobs/e1a8ea53-314a-4b8d-902d-80cb1cb06dba">DevOps Engineer (on-site)</a></td>
-<td>Plano, TX</td>
-<td align="center"><a href="https://www.ziosk.com/careers?gh_jid=4465558009">Apply</a></td>
-<td align="center">23 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Waabi</strong></td>
-<td><a href="https://trueinterview.io/jobs/919ecf9f-9704-4bf6-9767-9c429a781d47">Systems Engineer - Behavior Verification</a> 🌐</td>
-<td>Remote — United States, Canada<br/>Dallas, TX</td>
-<td align="center"><a href="https://jobs.lever.co/waabi/5964c6a7-8232-4ee5-b20d-3309ccd67d6f">Apply</a></td>
-<td align="center">23 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Olsson</strong></td>
-<td><a href="https://trueinterview.io/jobs/c1935055-9a92-4fe4-af38-57d0c4c93568">Project Engineer - Rail Traffic</a></td>
-<td>Dallas, TX<br/>Fort Worth, TX<br/>North Kansas City, MO<br/>+1 more</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5462229008">Apply</a></td>
-<td align="center">23 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>E-Space</strong></td>
-<td><a href="https://trueinterview.io/jobs/386fbb16-b898-4bac-a057-4377346dc1f1">Mechanical Test Engineer, Deployable Antenna Structures</a></td>
-<td>Arlington, TX</td>
-<td align="center"><a href="https://jobs.lever.co/espace/862b8754-0edf-4908-96d8-9ad625007f2d">Apply</a></td>
-<td align="center">22 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/5109593f-1726-4ff5-9b83-0b7813002ed0">Electrical Test Engineer, EGSE &amp; Instrumentation</a></td>
-<td>Arlington, TX</td>
-<td align="center"><a href="https://jobs.lever.co/espace/3c5917b0-999a-4ca3-b8af-5eb7a045b8fb">Apply</a></td>
-<td align="center">22 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Lockheed Martin</strong></td>
-<td><a href="https://trueinterview.io/jobs/5b394165-fc2d-462e-a447-9e0cfb01a059">Control Law Engineer - Early Career</a></td>
-<td>Fort Worth, TX</td>
-<td align="center"><a href="https://lockheedmartin.eightfold.ai/careers/job/996477479386?domain=lockheedmartin.com">Apply</a></td>
-<td align="center">21 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Intelligent Technical Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/4b0df28c-c600-4308-ab95-584758e1a6f2">Network Admin Onsite (Dallas, TX)</a></td>
-<td>Dallas, Texas</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/its/jobs/8036215003">Apply</a></td>
-<td align="center">20 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon.com</strong></td>
-<td><a href="https://trueinterview.io/jobs/76aac5e7-2e2c-4a59-938e-88abea69ee4e">Business Intelligence Engineer, NA RME Strategy</a></td>
-<td>Irving, TX<br/>Pittsburgh, PA</td>
-<td align="center"><a href="https://www.amazon.jobs/jobs/10587819/business-intelligence-engineer-na-rme-strategy?cmpid=DA_INAD200785B">Apply</a></td>
-<td align="center">17 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>WSP</strong></td>
-<td><a href="https://trueinterview.io/jobs/7d719e25-a921-47a3-99eb-b7f912dd74dd">Data Center Electrical Engineer, Assistant Consultant</a></td>
-<td>Dallas, TX, United States<br/>Houston, TX, United States<br/>Herndon, VA, United States<br/>+1 more</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97601">Apply</a></td>
-<td align="center">16 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Lockheed Martin</strong></td>
-<td><a href="https://trueinterview.io/jobs/dd481234-22e9-413e-96c8-0e26aff6a915">Data Processing Engineer - Early Career</a></td>
-<td>Fort Worth, TX</td>
-<td align="center"><a href="https://lockheedmartin.eightfold.ai/careers/job/996477404366?domain=lockheedmartin.com">Apply</a></td>
-<td align="center">15 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Public Storage</strong></td>
-<td><a href="https://trueinterview.io/jobs/a7196daa-b156-4b57-94d2-7c3bc9929ddb">Cybersecurity Administrator</a></td>
-<td>Frisco, Texas, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/PublicStorage/744000154511889-cybersecurity-administrator">Apply</a></td>
-<td align="center">8 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Atwell</strong></td>
-<td><a href="https://trueinterview.io/jobs/e3bf6d2c-24b3-4f50-9ab2-5d0c80b88765">Electrical Project Engineer - Oil and Gas - Pipelines and Facilities</a></td>
-<td>Dallas, Texas, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/atwellgroup/jobs/5261375007">Apply</a></td>
-<td align="center">8 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Olsson</strong></td>
-<td><a href="https://trueinterview.io/jobs/c35139de-698c-498c-9b17-307e3925a9b2">Entry-Level Transportation Engineer - Traffic &amp; ITS</a></td>
-<td>Dallas, TX</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5446368008">Apply</a></td>
-<td align="center">7 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Texas Instruments</strong></td>
-<td><a href="https://trueinterview.io/jobs/a64375a2-738f-4eaf-93bd-f24e13167b09">Web Marketing Program - Digital Experience Data Analyst</a></td>
-<td>Dallas, TX, United States</td>
-<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017806">Apply</a></td>
-<td align="center">2 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Cisco</strong></td>
-<td><a href="https://trueinterview.io/jobs/9309d68b-e065-43c8-939b-3a2d47aac56f">Software Consulting Engineer I (Full Time) United States</a></td>
-<td>Richardson, Texas, US<br/>RTP, North Carolina, US, United States of America</td>
-<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Software-Consulting-Engineer-I--Full-Time--United-States_2025887">Apply</a></td>
-<td align="center">1 Oct 2026</td>
-</tr>
 </tbody>
 </table>
-
-<sub>Page 1 of 2 · [Page 2 →](dallas-fort-worth-2.md)</sub>
 
 [← Every filter](../README.md) · [Back to the full list](../../README.md)

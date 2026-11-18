@@ -2,7 +2,7 @@
 
 # 🏖️ San Diego
 
-**191 open roles.** 189 in the United States & Canada · 2 elsewhere in the world.
+**169 open roles.** 168 in the United States & Canada · 1 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1193,153 +1193,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://jobs.smartrecruiters.com/ServiceNow/744000157919529-experience-team-ux-research-internships-summer-2027">Apply</a></td>
 <td align="center">26 Oct 2026</td>
 </tr>
-<tr>
-<td><strong>Apple</strong></td>
-<td><a href="https://trueinterview.io/jobs/c596833e-9013-49e7-94cb-55270c3af77a">Low Power Design Engineer</a></td>
-<td>San Diego, CA<br/>Sunnyvale, CA<br/>Irvine, CA</td>
-<td align="center"><a href="https://jobs.apple.com/en-us/details/200690907-3956/low-power-design-engineer?board_id=JB001&amp;team=HRDWR">Apply</a></td>
-<td align="center">26 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/db5fef24-8656-43e9-97c7-8be632f8e20b">RFIC Layout Engineer</a></td>
-<td>San Diego, CA<br/>Austin, TX<br/>Sunnyvale, CA<br/>+2 more</td>
-<td align="center"><a href="https://jobs.apple.com/en-us/details/200691821-1697/rfic-layout-engineer?board_id=JB001&amp;team=HRDWR">Apply</a></td>
-<td align="center">26 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>BIOVIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/5e530541-92dd-4efd-beed-bc75b2418a2f">User Interaction &amp; User Experience Designer</a></td>
-<td>San Diego, CA</td>
-<td align="center"><a href="https://www.3ds.com/careers/jobs/user-interaction-user-experience-designer-550020">Apply</a></td>
-<td align="center">26 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Teradata</strong></td>
-<td><a href="https://trueinterview.io/jobs/e0ba2685-3bf7-4ca7-b3f5-e743f53377ac">AI Engineer</a></td>
-<td>San Diego, CA</td>
-<td align="center"><a href="https://careers.teradata.com/jobs/220782/ai-engineer?sid=602">Apply</a></td>
-<td align="center">26 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>KLA</strong></td>
-<td><a href="https://trueinterview.io/jobs/189f5eb4-d048-4ce1-8f0d-10761695a7a0">Materials Planner</a></td>
-<td>San Diego, CA, United States of America</td>
-<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/San-Diego-CA/Materials-Planner_2641882">Apply</a></td>
-<td align="center">26 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Apple</strong></td>
-<td><a href="https://trueinterview.io/jobs/580f1c1d-319f-4ee1-aff9-110c47c83699">SRAM Circuit Design Engineer</a></td>
-<td>San Diego, CA<br/>Austin, TX<br/>Beaverton, OR<br/>+1 more</td>
-<td align="center"><a href="https://jobs.apple.com/en-us/details/200691686-0157/sram-circuit-design-engineer?board_id=JB001&amp;team=HRDWR">Apply</a></td>
-<td align="center">25 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Northrop Grumman</strong></td>
-<td><a href="https://trueinterview.io/jobs/bcc658aa-af3c-4411-b051-a8bbb4846554">Guidance Navigation Control (GNC) Engineer</a></td>
-<td>San Diego, CA</td>
-<td align="center"><a href="https://jobs.northropgrumman.com/careers/job/1340074961416?code=JB-17946&amp;domain=ngc.com">Apply</a></td>
-<td align="center">25 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Apple</strong></td>
-<td><a href="https://trueinterview.io/jobs/ffca5532-90d4-4487-b01f-f22f99d94a05">WiFi Software Systems Analysis Engineer, Wireless Technologies &amp; Ecosystems</a></td>
-<td>San Diego, CA</td>
-<td align="center"><a href="https://jobs.apple.com/en-us/details/200690299-3543?board_id=JB001">Apply</a></td>
-<td align="center">19 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Lilt- Lega Italiana per la Lotta contro i Tumori</strong></td>
-<td><a href="https://trueinterview.io/jobs/c36c4cc1-49c9-4e7d-8508-91c8cb407d3f">Customer Support Engineer</a></td>
-<td>San Diego, CA<br/>Seattle, WA<br/>Denver, CO<br/>+2 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/lilt-corporate/d4401b79-ddc8-4e03-906f-f83a028f17dd">Apply</a></td>
-<td align="center">15 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Apple</strong></td>
-<td><a href="https://trueinterview.io/jobs/e9c50342-ce04-42e2-b1a3-7951ffe811d4">Cellular Power Systems Engineer</a></td>
-<td>San Diego, CA<br/>Sunnyvale, CA</td>
-<td align="center"><a href="https://jobs.apple.com/en-us/details/200688522-3543?board_id=JB001">Apply</a></td>
-<td align="center">15 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Humanoid</strong></td>
-<td><a href="https://trueinterview.io/jobs/62fdce7a-4f3f-4411-901b-70aa6c2ae23c">Autonomy Engineer - VLA Pre-training</a></td>
-<td>US, San Diego, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/humanoid/42ece2fe-54fa-4786-8ecb-95e066be7c32">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Apple</strong></td>
-<td><a href="https://trueinterview.io/jobs/f8a2decb-f914-452d-a00c-b859b45fb846">Backend Engineer, QoS Apple Services Engineering</a></td>
-<td>San Diego, CA</td>
-<td align="center"><a href="https://jobs.apple.com/en-us/details/200689191-3543?board_id=JB001">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/6b091ad9-67cf-477e-a4f8-099a6d1f6b67">Touch HW EE Validation Engineer</a></td>
-<td>San Diego, CA</td>
-<td align="center"><a href="https://jobs.apple.com/en-us/details/200658959-3543?board_id=JB001">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/fa09dd9b-4620-49bc-b2b0-1e255cb9bd19">Software Engineer - Systems Performance, CoreOS</a></td>
-<td>San Diego, CA</td>
-<td align="center"><a href="https://jobs.apple.com/en-us/details/200687817-3543?board_id=JB001">Apply</a></td>
-<td align="center">13 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/5575b534-f56a-4e61-abc5-54f85e46c9a1">Embedded Firmware Verification Engineer</a></td>
-<td>San Diego, CA</td>
-<td align="center"><a href="https://jobs.apple.com/en-us/details/200685902-3543?board_id=JB001">Apply</a></td>
-<td align="center">7 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>CRB</strong></td>
-<td><a href="https://trueinterview.io/jobs/857d7b7e-8608-4836-b881-d47018e6d206">Process Engineer I</a></td>
-<td>San Diego, California, United States<br/>Atlanta, GA<br/>Conshohocken, Pennsylvania, United States<br/>+4 more</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/CRB/744000153760685-process-engineer-i">Apply</a></td>
-<td align="center">6 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Apple</strong></td>
-<td><a href="https://trueinterview.io/jobs/807589a0-340b-47d9-b3b7-e5af5ddd885d">Product Design Engineer - Watch</a></td>
-<td>San Diego, CA<br/>Cupertino, CA</td>
-<td align="center"><a href="https://jobs.apple.com/en-us/details/200583201-0836?board_id=JB001">Apply</a></td>
-<td align="center">5 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/30bb4772-e08c-40e6-92fa-0af345d59565">Software Engineer: Linux Driver and Kernel Developer</a></td>
-<td>San Diego, CA<br/>Austin, TX<br/>Beaverton, OR<br/>+1 more</td>
-<td align="center"><a href="https://jobs.apple.com/en-us/details/200687064-0157?board_id=JB001">Apply</a></td>
-<td align="center">1 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/f87b2372-b1fa-4033-b847-3c4c262d1e80">Full Stack Software Engineer, Developer Publications</a></td>
-<td>San Diego, CA</td>
-<td align="center"><a href="https://jobs.apple.com/en-us/details/200678186-3543?board_id=JB001">Apply</a></td>
-<td align="center">28 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon.com</strong></td>
-<td><a href="https://trueinterview.io/jobs/eccf01d6-49ca-4b61-a82f-656073fe0bb4">Software Development Engineer - Embedded, UMAC</a></td>
-<td>San Diego, CA</td>
-<td align="center"><a href="https://www.amazon.jobs/jobs/10565727/software-development-engineer--embedded-umac?cmpid=DA_INAD200785B">Apply</a></td>
-<td align="center">24 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>CRB</strong></td>
-<td><a href="https://trueinterview.io/jobs/b0196832-65de-497b-94a5-52a6da492c6c">Electrical Engineer I</a></td>
-<td>San Diego, California, United States<br/>Denver, Colorado, United States<br/>Kansas City, Missouri, United States<br/>+2 more</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/CRB/744000151448959-electrical-engineer-i">Apply</a></td>
-<td align="center">23 Sep 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -1358,13 +1211,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>San Diego, CA<br/>Sunnyvale, CA<br/>Shanghai, Shanghai, China</td>
 <td align="center"><a href="https://jobs.apple.com/en-us/details/200691870">Apply</a></td>
 <td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/8158e61e-382d-4f30-9683-841d10cccd7a">Site Reliability Engineer</a></td>
-<td>San Diego, CA<br/>London, England, United Kingdom</td>
-<td align="center"><a href="https://jobs.apple.com/en-us/details/200681759">Apply</a></td>
-<td align="center">21 Oct 2026</td>
 </tr>
 </tbody>
 </table>
