@@ -2,7 +2,7 @@
 
 # 🗽 New York City
 
-**593 open roles.**
+**768 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 

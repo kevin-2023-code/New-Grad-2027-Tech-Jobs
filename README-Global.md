@@ -18,23 +18,23 @@ matching role worldwide rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-11-18 21:15 UTC_
+_Last updated: 2026-11-18 22:18 UTC_
 
-**5,304 open new-grad roles** from **2,740 employers** · **249 posted in the last 7 days** · refreshed hourly
+**8,051 open new-grad roles** from **3,678 employers** · **249 posted in the last 7 days** · refreshed hourly
 
-### Browse 5,304 new-grad roles by field
+### Browse 8,051 new-grad roles by field
 
-💻 **[Software Engineering](#-software-engineering)** (3,104)
+💻 **[Software Engineering](#-software-engineering)** (4,735)
 
-🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (1,152)
+🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (1,716)
 
-🔧 **[Hardware & Engineering](#-hardware--engineering)** (505)
+🔧 **[Hardware & Engineering](#-hardware--engineering)** (721)
 
-📱 **[Product & Design](#-product--design)** (244)
+📱 **[Product & Design](#-product--design)** (448)
 
-📈 **[Quantitative Finance](#-quantitative-finance)** (61)
+📈 **[Quantitative Finance](#-quantitative-finance)** (92)
 
-🧰 **[IT & Support](#-it--support)** (238)
+🧰 **[IT & Support](#-it--support)** (339)
 
 ---
 
@@ -50,13 +50,13 @@ _Last updated: 2026-11-18 21:15 UTC_
 
 _Counts are new-grad roles in the rest of the world. Each page carries every region, under its own heading._
 
-🏷️ **By company type** — [🏛️ Big Tech (423)](lists/company/big-tech.md) · [🔬 Semiconductors & chips (180)](lists/company/semiconductors.md) · [🧾 IT services & consulting (136)](lists/company/it-consulting.md) · [🖥️ Hardware, devices & networking (78)](lists/company/hardware-devices.md) · [🛒 E-commerce & marketplaces (64)](lists/company/ecommerce-marketplace.md) · [📱 Consumer internet & media (61)](lists/company/consumer-internet.md) · [🏢 Enterprise & business software (61)](lists/company/enterprise-saas.md) · [🏗️ Large tech (1,000–9,999) (53)](lists/company/large-tech.md) · [🏦 Banks, insurers & asset managers (37)](lists/company/banking-finance.md) · [🧠 AI labs & AI infrastructure (27)](lists/company/ai.md) · [+13 more →](lists/README.md)
+🏷️ **By company type** — [🏛️ Big Tech (547)](lists/company/big-tech.md) · [🔬 Semiconductors & chips (252)](lists/company/semiconductors.md) · [🧾 IT services & consulting (244)](lists/company/it-consulting.md) · [🖥️ Hardware, devices & networking (128)](lists/company/hardware-devices.md) · [🏗️ Large tech (1,000–9,999) (121)](lists/company/large-tech.md) · [🏢 Enterprise & business software (81)](lists/company/enterprise-saas.md) · [🏤 Mid-sized tech (200–999) (81)](lists/company/mid-size-tech.md) · [🛒 E-commerce & marketplaces (74)](lists/company/ecommerce-marketplace.md) · [📱 Consumer internet & media (72)](lists/company/consumer-internet.md) · [🏦 Banks, insurers & asset managers (66)](lists/company/banking-finance.md) · [+14 more →](lists/README.md)
 
-🧑‍💻 **By role** — [Software Engineer (729)](lists/role/software-engineer.md) · [AI Engineer (369)](lists/role/ai-engineer.md) · [Data Engineer (312)](lists/role/data-engineer.md) · [Data Analyst (179)](lists/role/data-analyst.md) · [Security Engineer (140)](lists/role/security-engineer.md) · [Product Manager (130)](lists/role/product-manager.md) · [Machine Learning Engineer (129)](lists/role/machine-learning-engineer.md) · [Data Scientist (125)](lists/role/data-scientist.md) · [Full-Stack Engineer (114)](lists/role/full-stack-engineer.md) · [QA Engineer (113)](lists/role/qa-engineer.md) · [+12 more →](lists/README.md)
+🧑‍💻 **By role** — [Software Engineer (1,089)](lists/role/software-engineer.md) · [AI Engineer (556)](lists/role/ai-engineer.md) · [Data Engineer (447)](lists/role/data-engineer.md) · [Data Analyst (261)](lists/role/data-analyst.md) · [Product Manager (229)](lists/role/product-manager.md) · [Security Engineer (202)](lists/role/security-engineer.md) · [Machine Learning Engineer (197)](lists/role/machine-learning-engineer.md) · [Data Scientist (195)](lists/role/data-scientist.md) · [Full-Stack Engineer (178)](lists/role/full-stack-engineer.md) · [QA Engineer (161)](lists/role/qa-engineer.md) · [+12 more →](lists/README.md)
 
-📍 **By location** — [🇬🇧 London & the UK (544)](lists/place/uk.md) · [🇸🇬 Singapore (374)](lists/place/singapore.md) · [🇮🇳 Bengaluru & India (310)](lists/place/india.md) · [🇩🇪 Berlin, Munich & Germany (269)](lists/place/germany.md) · [🇫🇷 Paris & France (219)](lists/place/france.md) · [🇳🇱 Amsterdam & the Benelux (218)](lists/place/benelux.md) · [🇦🇺 Sydney, Melbourne & Aotearoa (216)](lists/place/anz.md) · [🏮 Beijing, Shanghai, Taipei & Hong Kong (154)](lists/place/greater-china.md) · [🇪🇸 Madrid, Barcelona & Iberia (121)](lists/place/iberia.md) · [🇮🇪 Dublin & Ireland (116)](lists/place/ireland.md) · [+13 more →](lists/README.md)
+📍 **By location** — [🇬🇧 London & the UK (784)](lists/place/uk.md) · [🇸🇬 Singapore (542)](lists/place/singapore.md) · [🇮🇳 Bengaluru & India (432)](lists/place/india.md) · [🇩🇪 Berlin, Munich & Germany (403)](lists/place/germany.md) · [🇫🇷 Paris & France (383)](lists/place/france.md) · [🇳🇱 Amsterdam & the Benelux (302)](lists/place/benelux.md) · [🇦🇺 Sydney, Melbourne & Aotearoa (292)](lists/place/anz.md) · [🇪🇸 Madrid, Barcelona & Iberia (230)](lists/place/iberia.md) · [🏮 Beijing, Shanghai, Taipei & Hong Kong (210)](lists/place/greater-china.md) · [🇨🇭 Zürich & Switzerland (189)](lists/place/switzerland.md) · [+14 more →](lists/README.md)
 
-⚡ **Quick filters** — [🆕 Posted in the last 7 days (249)](lists/new-this-week.md) · [🌐 Remote (148)](lists/remote.md)
+⚡ **Quick filters** — [🌐 Remote (251)](lists/remote.md) · [🆕 Posted in the last 7 days (249)](lists/new-this-week.md)
 
 [**Every filter, with counts and what each one selects →**](lists/README.md)
 
@@ -238,7 +238,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/309a5319-b878-4495-ae81-80cd97977375">Advisory Software Engineer (NodeJS)</a> 🆕</td>
 <td>Bucharest, Bucharest, Romania</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4428066472/">Apply</a></td>
-<td align="center">0d</td>
+<td align="center">1d</td>
 </tr>
 <tr>
 <td><strong>MediaTek</strong></td>
@@ -265,6 +265,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Age</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Ericsson</strong></td>
+<td><a href="https://trueinterview.io/jobs/fdb5526d-87af-4f87-a5bf-46c5fd0b0663">Entry Level: Radio SW 5G Developer</a></td>
+<td>Stockholm, Stockholm County, Sweden</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486061998/">Apply</a></td>
+<td align="center">15d</td>
+</tr>
+<tr>
+<td><strong>Olix</strong></td>
+<td><a href="https://trueinterview.io/jobs/f86ef2b4-e54b-4ca4-94e4-5cbc3f7427ad">Security Engineer</a></td>
+<td>London, UK</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/olix/1dfe5f74-f411-49fd-94c9-672daad0952d">Apply</a></td>
+<td align="center">15d</td>
+</tr>
 <tr>
 <td><strong>IBM</strong></td>
 <td><a href="https://trueinterview.io/jobs/2713044f-cba6-4055-8eaa-eabbee08cdcd">Java Developer | National Security - eSC/eDV Required</a></td>
@@ -601,26 +615,12 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center"><a href="https://jobs.ashbyhq.com/snowflake/eb7a8f73-6b3d-4020-a9dd-c565109f5342">Apply</a></td>
 <td align="center">15d</td>
 </tr>
-<tr>
-<td><strong>Gameloft</strong></td>
-<td><a href="https://trueinterview.io/jobs/5884ba4d-af43-411b-b4d3-07ad7157f88e">Java Developer - BI</a></td>
-<td>Bucharest, Bucharest, Romania</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Gameloft/744000159399443-java-developer-bi">Apply</a></td>
-<td align="center">15d</td>
-</tr>
-<tr>
-<td><strong>Snowflake</strong></td>
-<td><a href="https://trueinterview.io/jobs/d5f02c99-d9cd-4a77-bca5-5603d1c4e1cc">Commercial Solutions Engineer - Expansion</a></td>
-<td>GB-London</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/snowflake/3d9f787e-d37f-44e6-8a0b-e7350ad7e323">Apply</a></td>
-<td align="center">15d</td>
-</tr>
 </tbody>
 </table>
 
 </details>
 
-**Showing 75 of 3,104.** [Every Software Engineering role, newest first →](lists/field/software-engineering.md)
+**Showing 75 of 4,735.** [Every Software Engineering role, newest first →](lists/field/software-engineering.md)
 
 ## 🤖 Data, AI & Machine Learning
 
@@ -1172,7 +1172,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 
 </details>
 
-**Showing 75 of 1,152.** [Every Data, AI & Machine Learning role, newest first →](lists/field/data-ai-and-machine-learning.md)
+**Showing 75 of 1,716.** [Every Data, AI & Machine Learning role, newest first →](lists/field/data-ai-and-machine-learning.md)
 
 ## 🔧 Hardware & Engineering
 
@@ -1724,7 +1724,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 
 </details>
 
-**Showing 75 of 505.** [Every Hardware & Engineering role, newest first →](lists/field/hardware-and-engineering.md)
+**Showing 75 of 721.** [Every Hardware & Engineering role, newest first →](lists/field/hardware-and-engineering.md)
 
 ## 📱 Product & Design
 
@@ -1908,7 +1908,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/6c381b57-fdd6-461f-903a-400f70ebfef2">Product Owner</a></td>
 <td>Miami-Fort Lauderdale Area</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4488039843/">Apply</a></td>
-<td align="center">12d</td>
+<td align="center">13d</td>
 </tr>
 </tbody>
 </table>
@@ -2276,7 +2276,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 
 </details>
 
-**Showing 75 of 244.** [Every Product & Design role, newest first →](lists/field/product-and-design.md)
+**Showing 75 of 448.** [Every Product & Design role, newest first →](lists/field/product-and-design.md)
 
 ## 📈 Quantitative Finance
 
@@ -2410,7 +2410,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </table>
 
 <details>
-<summary>Show 44 more Quantitative Finance roles posted earlier</summary>
+<summary>Show 50 more Quantitative Finance roles posted earlier</summary>
 
 <table>
 <thead>
@@ -2725,12 +2725,54 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4482547076/">Apply</a></td>
 <td align="center">21d</td>
 </tr>
+<tr>
+<td><strong>Paradigm</strong></td>
+<td><a href="https://trueinterview.io/jobs/c9a32e77-4b52-4a26-a225-70018b4847f7">Quantitative Developer - Options Markets</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4406268743/">Apply</a></td>
+<td align="center">21d</td>
+</tr>
+<tr>
+<td><strong>eXalt Fi</strong></td>
+<td><a href="https://trueinterview.io/jobs/65b79c5b-afe3-42ef-8e10-c020bd5756a5">Quant Analyst, Exotic Rates</a></td>
+<td>London Area, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4481932002/">Apply</a></td>
+<td align="center">21d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/4636f5aa-9e68-4ea5-8657-84542ad6774c">Quant Analyst, Linear Rates</a></td>
+<td>London Area, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4481905632/">Apply</a></td>
+<td align="center">21d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e546f20e-b5f9-4237-9a98-79094cafdc60">Quant Analyst, Commodities</a></td>
+<td>London Area, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4481672658/">Apply</a></td>
+<td align="center">21d</td>
+</tr>
+<tr>
+<td><strong>Crédit Agricole Personal Finance &amp; Mobility</strong></td>
+<td><a href="https://trueinterview.io/jobs/f63194f8-ad6c-4209-b46b-88d390ef10c7">Stage 2027 Gestion Quantitative du Risque – Validation des Modèles H/F</a></td>
+<td>Massy, France</td>
+<td align="center"><a href="https://cacf.talentview.io/jobs/bp6ty0">Apply</a></td>
+<td align="center">21d</td>
+</tr>
+<tr>
+<td><strong>BNP Paribas</strong></td>
+<td><a href="https://trueinterview.io/jobs/11a815a6-55c1-4695-aa03-a75416e05660">G10 FX Forwards Trader</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483874417/">Apply</a></td>
+<td align="center">21d</td>
+</tr>
 </tbody>
 </table>
 
 </details>
 
-[Every Quantitative Finance role, both regions →](lists/field/quantitative-finance.md)
+**Showing 67 of 92.** [Every Quantitative Finance role, newest first →](lists/field/quantitative-finance.md)
 
 ## 🧰 IT & Support
 
@@ -3121,7 +3163,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/33bb9c76-db50-4ded-b4a1-d46f31e93c87">Technical Support Representative</a> 🌐</td>
 <td>Remote</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/quo/cd27ecb8-4f5b-4244-9d38-66f4a84baffb">Apply</a></td>
-<td align="center">18d</td>
+<td align="center">19d</td>
 </tr>
 <tr>
 <td><strong>HERCULES</strong></td>
@@ -3282,7 +3324,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 
 </details>
 
-**Showing 75 of 238.** [Every IT & Support role, newest first →](lists/field/it-and-support.md)
+**Showing 75 of 339.** [Every IT & Support role, newest first →](lists/field/it-and-support.md)
 
 <!-- LISTINGS:END -->
 

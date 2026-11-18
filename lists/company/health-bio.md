@@ -2,7 +2,7 @@
 
 # 🧬 Health, biotech & medical devices
 
-**26 open roles.** 23 in the United States & Canada · 3 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
+**46 open roles.** 34 in the United States & Canada · 12 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -178,6 +178,83 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4476370565/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
+<tr>
+<td><strong>Neuralink</strong></td>
+<td><a href="https://trueinterview.io/jobs/b1e6b8fe-d83c-4c54-9abb-a0c9866a910c">Software Engineer, Medical Imaging</a></td>
+<td>Austin, TX<br/>Austin, Texas, United States</td>
+<td align="center"><a href="https://boards.greenhouse.io/neuralink/jobs/8014659003?gh_jid=8014659003">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Solventum</strong></td>
+<td><a href="https://trueinterview.io/jobs/9f977c63-1eca-43b9-9e41-519a6bd0265e">Advanced Research Scientist</a></td>
+<td>Eagan, MN</td>
+<td align="center"><a href="https://healthcare.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Eagan/Advanced-Research-Scientist_R01134833">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Rvo Health</strong></td>
+<td><a href="https://trueinterview.io/jobs/7c4f8179-294c-4436-8f46-6c966ebba19d">Data Analyst</a></td>
+<td>Charlotte, North Carolina, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/rvohealth/jobs/4745013005">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Neuralink</strong></td>
+<td><a href="https://trueinterview.io/jobs/c8c6b36d-a665-450c-bf16-20f763e46c3e">Infrastructure Engineer, Mechanical Tooling</a></td>
+<td>Austin, TX<br/>Austin, Texas, United States<br/>South San Francisco, California, United States</td>
+<td align="center"><a href="https://boards.greenhouse.io/neuralink/jobs/8044955003?gh_jid=8044955003">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Oscar Health</strong></td>
+<td><a href="https://trueinterview.io/jobs/fb68a79c-e5fa-415a-8261-e02f1db00f87">Operations Engineer I</a></td>
+<td>New York, NY<br/>New York, New York, United States</td>
+<td align="center"><a href="https://oscarhealth.com/careers/jobs?gh_jid=8301410">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Intuitive Surgical</strong></td>
+<td><a href="https://trueinterview.io/jobs/21056bfa-2925-4ca9-a3c5-35f6d267ad2d">Manufacturing Engineer - Systems</a></td>
+<td>Sunnyvale, California, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Intuitive/744000157230097-manufacturing-engineer-systems">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Xaira Therapeutics</strong></td>
+<td><a href="https://trueinterview.io/jobs/831c119f-e171-4254-a2cd-3a5f1e6c19c0">Robotics Systems &amp; Simulation Engineer</a></td>
+<td>South San Francisco, California, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/xairatherapeutics/jobs/5255784007">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Genscript/probio</strong></td>
+<td><a href="https://trueinterview.io/jobs/ebe47342-ef54-4474-9b20-b828d15433ca">Equipment Engineer</a></td>
+<td>Piscataway, New Jersey, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/genscript/jobs/5267511007">Apply</a></td>
+<td align="center">16 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Simonmed</strong></td>
+<td><a href="https://trueinterview.io/jobs/6713ee28-7c92-4204-a4d8-c1e060e9164e">Field Engineer Apprentice</a></td>
+<td>8921 W Thomas Rd, Phoenix, AZ 85037</td>
+<td align="center"><a href="https://jobs.lever.co/simonmed/35262ca1-e991-4bbe-985a-b7c13e833556">Apply</a></td>
+<td align="center">16 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/1b184b0b-5bf7-4bd9-83d3-255c9a571562">Technologist Assistant Advanced</a></td>
+<td>208 W Oak St. Kissimmee, FL 34741</td>
+<td align="center"><a href="https://www.1point3acres.com/jobs/01m4hk53xn035003q725q7wbqr">Apply</a></td>
+<td align="center">10 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Intuitive Surgical</strong></td>
+<td><a href="https://trueinterview.io/jobs/2b99fdc9-4fa5-436d-aeff-492cba8db571">Optical Engineer</a></td>
+<td>Blacksburg, Virginia, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Intuitive/744000154466769-optical-engineer">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -210,6 +287,69 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Remote — United Kingdom, Ireland, Poland</td>
 <td align="center"><a href="https://jobs.lever.co/alimentiv-2/5f31963e-d799-49e4-9c48-483b73852afe">Apply</a></td>
 <td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>AbbVie</strong></td>
+<td><a href="https://trueinterview.io/jobs/d9ef3638-0a8f-4f83-a8cf-268f7e5355eb">Engineer, QA II</a></td>
+<td>Heredia, Heredia Province, Costa Rica</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990016463286-engineer-qa-ii">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Solventum</strong></td>
+<td><a href="https://trueinterview.io/jobs/2c362a1a-fb9b-4e2b-aabb-c10290d62c9e">Raw Substance Data Analyst (Solventum)</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://healthcare.wd1.myworkdayjobs.com/en-US/Search/job/Remote-United-States/Raw-Substance-Data-Analyst--Solventum-_R01134626">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Schrödinger</strong></td>
+<td><a href="https://trueinterview.io/jobs/43fa85be-62b7-4671-9e0a-0568fa483b6e">QA Scientist - Hyderabad</a></td>
+<td>Hyderabad</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/schrdinger/jobs/8042547003">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Genscript/probio</strong></td>
+<td><a href="https://trueinterview.io/jobs/00bc03d0-3655-4db9-ac52-671ca22390a9">Technical Support Specialist, Biology</a></td>
+<td>Netherlands</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/genscript/jobs/5270985007">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Intuitive Surgical</strong></td>
+<td><a href="https://trueinterview.io/jobs/bcd3be60-e860-45a6-a671-91593872d05a">Pflichtpraktikum Manufacturing Engineering (m/w/d)</a></td>
+<td>Freiburg im Breisgau, Baden-Württemberg, Germany</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Intuitive/744000155064069-pflichtpraktikum-manufacturing-engineering-m-w-d-">Apply</a></td>
+<td align="center">12 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>AbbVie</strong></td>
+<td><a href="https://trueinterview.io/jobs/fabbb985-9bb9-4a94-a4d1-cc8e55344795">Drug Product Operations Engineer</a></td>
+<td>Sligo, County Sligo, Ireland</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990015861092-drug-product-operations-engineer">Apply</a></td>
+<td align="center">2 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Neko Health</strong></td>
+<td><a href="https://trueinterview.io/jobs/94502327-50ec-47f7-b183-440852c44477">Design Engineer, Member Experience</a></td>
+<td>Stockholm<br/>London</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/neko-health/bc21b16d-34d1-4b25-9ab3-7d4317d2d9db">Apply</a></td>
+<td align="center">2 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Intuitive Surgical</strong></td>
+<td><a href="https://trueinterview.io/jobs/06262add-a70f-457e-9f45-6b17a3e24215">Network Security Operations Center Analyst - Nights</a></td>
+<td>Mexicali, MEXICO, Mexico</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Intuitive/744000151938459-network-security-operations-center-analyst-nights?oga=true">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Neko Health</strong></td>
+<td><a href="https://trueinterview.io/jobs/59104759-0fba-4db8-ac90-4f755f524e03">NPI Engineer, Electronics</a></td>
+<td>Stockholm</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/neko-health/094f94c9-65f3-435a-9419-11266b745afb">Apply</a></td>
+<td align="center">21 Sep 2026</td>
 </tr>
 </tbody>
 </table>
