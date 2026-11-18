@@ -2,7 +2,7 @@
 
 # 🌬️ Chicago
 
-**115 open roles.** 114 in the United States & Canada · 1 elsewhere in the world.
+**150 open roles.** 149 in the United States & Canada · 1 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,20 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Randstad Digital Americas</strong></td>
-<td><a href="https://trueinterview.io/jobs/be3bfe05-5c1a-4c53-94a6-c2b347996ada">Custom Software Engineer</a></td>
-<td>Chicago, IL<br/>Minneapolis, MN</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4491591466/">Apply</a></td>
-<td align="center">17 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>OP Recruiting</strong></td>
-<td><a href="https://trueinterview.io/jobs/ede95c74-5c2e-4586-ab07-424e66fae7ec">Software Engineer - C++</a></td>
-<td>Chicago, IL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4455541108/">Apply</a></td>
-<td align="center">17 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>PalAmerican Security</strong></td>
 <td><a href="https://trueinterview.io/jobs/e19da21b-5471-418e-8259-0ee5a0e313fb">IT Technician</a></td>
@@ -814,6 +800,265 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Chicago, IL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4481454183/">Apply</a></td>
 <td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/01f555f0-7aec-40c4-b40f-eebae7c7b5bc">Research Scientist</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4430278245/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Saragossa</strong></td>
+<td><a href="https://trueinterview.io/jobs/6c5c898f-638f-453f-8518-78bce3ae8181">DevOps Engineer- Sports Trading firm</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4473685563/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Chicago Housing Authority</strong></td>
+<td><a href="https://trueinterview.io/jobs/4fc82f7d-9c1f-48ee-a83a-3d7c5c191f22">Data Analyst</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484318679/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Family Focus</strong></td>
+<td><a href="https://trueinterview.io/jobs/5b36c2f6-b34f-46a2-9a5a-edf4db95a566">Program Evaluation and Data Analyst</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.family-focus.org/careers?gnk=job&amp;gni=8a78839ea150ae2901a15a9e6b3972e4&amp;gns=Indeed+Free">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Tempus</strong></td>
+<td><a href="https://trueinterview.io/jobs/da84e510-e22d-4e50-bb3a-9bd339e917de">Business Intelligence Engineer</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://tempus.wd5.myworkdayjobs.com/en-US/Tempus_Careers/job/Chicago/Business-Intelligence-Engineer_JR202601176-1">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Wolverine Trading</strong></td>
+<td><a href="https://trueinterview.io/jobs/7652898b-a1b2-4d90-8a5c-b96aece78763">Software Engineer</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4468014353/">Apply</a></td>
+<td align="center">1 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>TreeHouse Foods</strong></td>
+<td><a href="https://trueinterview.io/jobs/0ef3010a-bd5e-4c00-aafc-130e5a957245">Application Developer, Business Applications &amp; Process Automation</a></td>
+<td>Oak Brook, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467826442/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Belvedere Trading, LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/38d6e46f-328f-4c00-8e5f-11104bd46ec8">Quantitative Trader - Entry Level 2027</a></td>
+<td>Chicago, Illinois</td>
+<td align="center"><a href="https://jobs.lever.co/belvederetrading/34369a5c-55c0-4e9f-9d2e-4f21b9418bee">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/b9104368-77b3-4550-8e91-a1ca745355ef">Engineer- Data Visualization Platform</a></td>
+<td>Chicago, Illinois</td>
+<td align="center"><a href="https://jobs.lever.co/belvederetrading/3d118f1b-08e1-4b81-8d4d-bac869d166a7">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Optiver</strong></td>
+<td><a href="https://trueinterview.io/jobs/90179f52-6b9f-460e-8caa-858f8ac2bfd8">Software Engineer - Trading Strategies</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475236106/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cantor Fitzgerald</strong></td>
+<td><a href="https://trueinterview.io/jobs/77741796-16ef-4d33-bd51-ce3d0617c7ff">Data Management Analyst</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/requisitions/preview/250402">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Optiver</strong></td>
+<td><a href="https://trueinterview.io/jobs/6d7690ec-ebdd-4bff-943c-25d33b84e2bd">Software Engineer - Research Platform</a></td>
+<td>Chicago, IL<br/>Austin, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475223656/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Tiger Analytics</strong></td>
+<td><a href="https://trueinterview.io/jobs/d0e57ddb-3840-4677-a489-a61d6b8cfc9b">Azure Data Engineer</a> 🌐</td>
+<td>Remote — United States<br/>Chicago, IL</td>
+<td align="center"><a href="https://apply.workable.com/j/7B49FC7B02">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>IMC</strong></td>
+<td><a href="https://trueinterview.io/jobs/e78487dd-7be0-4039-b4c4-5cd295dde88a">Quantitative Researcher</a></td>
+<td>Chicago, IL<br/>New York, NY<br/>Mumbai, India</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/imc/jobs/4987748101">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Intercom</strong></td>
+<td><a href="https://trueinterview.io/jobs/d54de082-4904-45b1-993a-e21eb31359e3">Forward Deployed Engineer</a> 🌐</td>
+<td>Remote — United States<br/>Chicago, Illinois</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/intercom/jobs/8333679">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>JPMorganChase</strong></td>
+<td><a href="https://trueinterview.io/jobs/57627cb8-9e1c-4b66-807f-d3a6deceb429">2027 Software Engineer Program - Full-Time - United States - February Start</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4448304463/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>HDR</strong></td>
+<td><a href="https://trueinterview.io/jobs/dbbce8e5-b4ac-4d09-b1df-bf3e73304d05">Transmission Line Project Engineer</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4439944837/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Alignerr</strong></td>
+<td><a href="https://trueinterview.io/jobs/dbb4bb75-f054-4c6f-87a2-f9d4b6283783">Computer Engineering</a></td>
+<td>Chicago, IL<br/>Atlanta, GA<br/>Denver, CO<br/>+16 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485294121/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/d8a23cc6-f398-4fa3-a1dc-55a97c2ac696">Mechanical Engineering</a></td>
+<td>Chicago, IL<br/>Seattle, WA<br/>Miami, FL<br/>+12 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485281804/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Comcast</strong></td>
+<td><a href="https://trueinterview.io/jobs/c8a5ad0c-daf4-401e-b3c8-18a0f25e9334">Support Engineer 1</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://jobs.comcast.com/job/-/-/45483/102640153792">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>GE Vernova</strong></td>
+<td><a href="https://trueinterview.io/jobs/6fa4d6e2-eabc-41fc-80e4-d34056d71d0d">Electrical Substation Project Engineer - 2</a></td>
+<td>Oak Brook, IL</td>
+<td align="center"><a href="https://careers.gevernova.com/electrical-substation-project-engineer-2/job/R5049715">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Alignerr</strong></td>
+<td><a href="https://trueinterview.io/jobs/d2c9ff99-ffcf-4cf4-9c31-5d4b0bc1ef96">Audio Engineer - Pro Tools</a></td>
+<td>Chicago, IL<br/>Boston, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485297140/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Chubb</strong></td>
+<td><a href="https://trueinterview.io/jobs/af57770e-e186-488f-b3ea-a944ec9da9ca">Business Intelligence Analyst</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483091826/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>U.S. Bank</strong></td>
+<td><a href="https://trueinterview.io/jobs/85be9d39-624e-43a0-a1b3-1456f959996f">nCino/Moody's Product Designer</a></td>
+<td>Chicago, IL<br/>Atlanta, GA<br/>Denver, CO<br/>+7 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4479254166/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>viaPhoton</strong></td>
+<td><a href="https://trueinterview.io/jobs/929a4636-8aaf-426e-8def-a2977feb40d2">Mechanical Design Engineer</a></td>
+<td>Naperville, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4469915639/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>DV Trading</strong></td>
+<td><a href="https://trueinterview.io/jobs/78175ba3-35f7-417b-9355-9dc9b08e7ce2">Back Office Developer</a></td>
+<td>Chicago, IL<br/>New York, NY</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/dvtrading/jobs/4749008005">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ALOIS Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/fac1da21-391d-4ca6-a9bd-63cbe57f1152">Electrical Engineer</a></td>
+<td>Schaumburg, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484999802/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>The Fountain Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/55932eb5-985a-495d-8b19-d494cb5a58ae">Network Administrator - Video Systems</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484973480/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Optiv</strong></td>
+<td><a href="https://trueinterview.io/jobs/9be422bc-70ed-4abf-a8a6-decd133228ee">Cybersecurity Advisor - Identity | Remote, MN, WISC, IL</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4448809568/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>En Engineering Llc</strong></td>
+<td><a href="https://trueinterview.io/jobs/28ec06de-6947-4722-9215-c9aee8a1ebb8">Design Engineer - Electric Distribution</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://recruiting2.ultipro.com/ENE1003ENENG/JobBoard/020a913b-6f29-4cb0-a3b2-8b9d82d26c72/OpportunityDetail?opportunityId=12f06beb-0405-4643-9dd3-3aa1516d84f8&amp;postingId=e2d3a1a6-dceb-4c6d-b7f4-ec90dc18f8d5">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Federal Home Loan Bank of Chicago</strong></td>
+<td><a href="https://trueinterview.io/jobs/a3d12c4c-7f4a-46ca-87b5-28997b9011dc">Quantitative Rotational Analyst</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467148061/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>WEC Energy Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/d5127af6-f9bc-46dc-83c4-4e82008eb655">Enterprise Applications Developer</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4480410378/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CNH</strong></td>
+<td><a href="https://trueinterview.io/jobs/3dde041d-3506-4238-88c4-f539e6f7605b">Engine Installation Engineer</a></td>
+<td>Oak Brook, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484974689/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Global Connect Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/dbd1fc1d-bcc9-4358-8766-2919c519f7f3">Embedded Automation Engineer - Automotive</a></td>
+<td>Oak Brook, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484980132/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sargent &amp; Lundy</strong></td>
+<td><a href="https://trueinterview.io/jobs/007e56a1-2a0a-47b7-8ebf-5190914f8fba">Entry Level Civil Engineer (January 2027)</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475473447/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Exponent</strong></td>
+<td><a href="https://trueinterview.io/jobs/bec82904-4e2c-4fde-8a3e-71d28e5aa12d">Mechanical Engineer (Ph.D.)</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475701981/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Rang Technologies Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/acc62eae-9a66-4c03-86c8-2fe4fdf1d157">Electrical Engineer</a></td>
+<td>Schaumburg, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484966618/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
 </table>

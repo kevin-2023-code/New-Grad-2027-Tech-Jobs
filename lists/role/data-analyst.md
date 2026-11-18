@@ -2,13 +2,15 @@
 
 # Data Analyst
 
-**318 open roles.** 246 in the United States & Canada · 72 elsewhere in the world.
+**480 open roles.** 342 in the United States & Canada · 138 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
 > Every posting the catalog classified as Data Analyst. Roles it could not place are filed as *Other* and appear on no role page — they are in the README and every other cut.
 
 _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-authorisation restriction._
+
+<sub>Page 1 of 2 · [Page 2 →](data-analyst-2.md)</sub>
 
 ## United States & Canada
 
@@ -17,34 +19,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Guidehouse</strong></td>
-<td><a href="https://trueinterview.io/jobs/d794d99f-359e-4508-956d-4628bdced336">Data Analyst/FM Product Consultant</a></td>
-<td>Indianapolis, IN</td>
-<td align="center"><a href="https://guidehouse.wd1.myworkdayjobs.com/External/job/US---IN-Indianapolis/Data-Analyst-FM-Product-Consultant_36597">Apply</a></td>
-<td align="center">17 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>ConsultNet Technology Services and Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/c0505611-8c43-452f-a0bb-8094c7007b40">Data Warehouse Analyst</a></td>
-<td>Uncasville, CT</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4491574245/">Apply</a></td>
-<td align="center">17 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Partner Forces</strong></td>
-<td><a href="https://trueinterview.io/jobs/570d710d-029f-4941-8030-9ffbd51c39a3">Data Analytics &amp; Visualization Analyst - Clearance Required</a></td>
-<td>Arlington, VA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4490475338/">Apply</a></td>
-<td align="center">17 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Public Consulting Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/32aed307-f8a0-47a7-af64-86f5602f30c6">Data Analyst 1</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4491181415/">Apply</a></td>
-<td align="center">17 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>University of South Florida</strong></td>
 <td><a href="https://trueinterview.io/jobs/1d3573cf-06fa-47ac-bb4e-20643933cd7b">Statistical Data Analyst</a></td>
@@ -169,6 +143,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/85787200-62ce-486a-94bf-822c4822261d">Data Analyst I</a></td>
 <td>Highland, CA</td>
 <td align="center"><a href="https://www.sanmanuelcareers.com/job/SAMAUSR0018085/Data-Analyst-I">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Sherwin-Williams</strong></td>
+<td><a href="https://trueinterview.io/jobs/d3c99304-640f-4727-9ba8-c3dbbfac3df4">Data Security Analyst</a></td>
+<td>Cleveland, OH, United States</td>
+<td align="center"><a href="https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2628537">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
@@ -956,6 +937,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Dale WorkForce Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/710267ec-cc3e-406e-9e05-9f6724190e06">Data Operations &amp; Production Support Analyst</a></td>
+<td>Parsippany, NJ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487725004/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Atmos Energy</strong></td>
+<td><a href="https://trueinterview.io/jobs/fca2f785-d262-4c61-98ed-eaafab16bb97">Data Analyst</a></td>
+<td>Dallas, TX</td>
+<td align="center"><a href="https://atmosenergy.wd108.myworkdayjobs.com/en-US/External_Career_Site/job/Texas---Dallas/Data-Analyst_JR14359">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>AMB Sports + Entertainment</strong></td>
 <td><a href="https://trueinterview.io/jobs/11e51faf-38c2-42c2-9228-99520b21d09a">Data Activation &amp; Insights Analyst</a></td>
 <td>Atlanta, GA</td>
@@ -1019,10 +1014,24 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>State of Illinois</strong></td>
+<td><a href="https://trueinterview.io/jobs/81b40690-ab64-4150-97c4-1fc2b75f3cac">DATA ANALYST</a></td>
+<td>Springfield, IL</td>
+<td align="center"><a href="https://illinois.jobs2web.com/job/Springfield-DATA-ANALYST-IL-62701/1447939700/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>State of Wisconsin</strong></td>
 <td><a href="https://trueinterview.io/jobs/469c482a-8444-4661-9454-13de080aa229">Member Demographic Data Analyst</a></td>
 <td>Madison, WI</td>
 <td align="center"><a href="https://wj.wi.gov/psc/wisjobs/CAREERS/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&amp;Action=U&amp;FOCUS=Applicant&amp;SiteId=1&amp;JobOpeningId=22550&amp;PostingSeq=1">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>The University of Michigan</strong></td>
+<td><a href="https://trueinterview.io/jobs/2503e2e0-648c-4e70-917d-a395880ba043">Data Analyst (TERM LIMITED)</a></td>
+<td>Ann Arbor, MI</td>
+<td align="center"><a href="https://careers.umich.edu/job_detail/285327/data-analyst-term-limited">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
@@ -1173,6 +1182,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Resource Management Concepts, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/18ed3f73-4bca-4847-9e13-0d8c30b14045">Program/Data Analyst</a></td>
+<td>Indian Head, MD</td>
+<td align="center"><a href="https://apply.workable.com/j/51EB81E873">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Nexora Group Tech</strong></td>
 <td><a href="https://trueinterview.io/jobs/6915ed63-539f-4fbe-96a1-cff2d11306be">Financial Data Analyst - May 2026 to December 2026 | F-1 OPT / STEM OPT</a></td>
 <td>Chicago, IL</td>
@@ -1233,6 +1249,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/b00a739b-10ab-46f8-a24a-d1ecf8bbc5ed">Data and Reporting Analyst</a></td>
 <td>United States</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4486361424/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Torentify</strong></td>
+<td><a href="https://trueinterview.io/jobs/acf0d8fa-9a4a-4ff9-862c-e8ae720a126a">Data Analyst - USA | Remote</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487223267/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Vetted Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/c1cc4f42-81d9-4e61-97fb-9e972051eedd">Respiratory Therapist Data Analyst</a></td>
+<td>Allen, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487235119/">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
@@ -1739,6 +1769,650 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4486188140/">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
+<tr>
+<td><strong>Kern Technology Group, LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/2ca1d29f-fa41-4c8c-b580-1cabb31fd93b">Data Analyst</a></td>
+<td>Norfolk, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485741100/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Hearst</strong></td>
+<td><a href="https://trueinterview.io/jobs/59177e81-3e79-475f-a8a9-40aa0e2971c2">Product Data Analyst - Digital Analytics</a></td>
+<td>Washington, DC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485734403/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Torentify</strong></td>
+<td><a href="https://trueinterview.io/jobs/5d9f1932-bfc8-462c-94f4-41f73eb6b885">Data Analyst - Enterprise Analytics</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486185308/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Sperry Rail</strong></td>
+<td><a href="https://trueinterview.io/jobs/b1b7642b-baf0-4352-bd5c-a8035ff1fb5f">Data Analyst I</a></td>
+<td>Olathe, KS</td>
+<td align="center"><a href="https://ats.rippling.com/sperry-rail-inc/jobs/7fc77434-4211-480b-82f8-41c6ebc82fd8?jobSite=Indeed">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>RVO Health</strong></td>
+<td><a href="https://trueinterview.io/jobs/4fe78b85-10b6-4d3f-8e26-aa36b74f220a">People Data Analyst</a></td>
+<td>Charlotte, NC<br/>Charlotte, North Carolina, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/rvohealth/jobs/4721689005">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Westhafen Consulting</strong></td>
+<td><a href="https://trueinterview.io/jobs/f74c7cb1-b11d-4d28-82b0-df82439bb03e">Data Analyst</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485490118/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Fluidstack</strong></td>
+<td><a href="https://trueinterview.io/jobs/b6307dd2-0611-402d-b2bb-860c8ac68cf8">Data Center Capacity Analyst</a></td>
+<td>New York, NY<br/>San Francisco, CA<br/>Seattle, WA<br/>+1 more</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/8e61d2ac-9257-4870-813c-7c6ac1e6a621">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Food Safety and Inspection Service</strong></td>
+<td><a href="https://trueinterview.io/jobs/566cff35-f225-4299-95ed-8bd6af418986">Investigative Data Analyst.</a></td>
+<td>Lombard, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486154300/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Talemexa</strong></td>
+<td><a href="https://trueinterview.io/jobs/7451e8be-cf3b-4eb7-a930-73997ac426c8">Data Analyst</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485457866/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Chicago Housing Authority</strong></td>
+<td><a href="https://trueinterview.io/jobs/4fc82f7d-9c1f-48ee-a83a-3d7c5c191f22">Data Analyst</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484318679/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Healthcare Network</strong></td>
+<td><a href="https://trueinterview.io/jobs/75fb6c1a-685f-458b-9fbe-65fbcc942054">Population Health Data Analyst</a></td>
+<td>Naples, FL</td>
+<td align="center"><a href="https://www.applicantpro.com/openings/healthcareswfl/jobs/4263429-47470">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>2020 Companies</strong></td>
+<td><a href="https://trueinterview.io/jobs/e834799f-0964-416f-8884-a40c2d0e2e24">Data Analyst, Repair Quality / Samsung Electronics America - Plano, TX 75023</a></td>
+<td>Plano, TX</td>
+<td align="center"><a href="https://2020companies.wd1.myworkdayjobs.com/External_Careers/job/Plano-TX/Data-Analyst--Repair-Quality---Samsung-Electronics-America---Plano--TX-75023_REQ_113953">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>CBIZ</strong></td>
+<td><a href="https://trueinterview.io/jobs/6bcb0ee3-31f2-4e10-bcf1-18a1cf79438d">Data Analyst | Network Solutions</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://ebez.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/6677">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Family Focus</strong></td>
+<td><a href="https://trueinterview.io/jobs/5b36c2f6-b34f-46a2-9a5a-edf4db95a566">Program Evaluation and Data Analyst</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.family-focus.org/careers?gnk=job&amp;gni=8a78839ea150ae2901a15a9e6b3972e4&amp;gns=Indeed+Free">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>GESTAL</strong></td>
+<td><a href="https://trueinterview.io/jobs/45d3661a-be71-44e8-a3c7-6ba7ddeed80b">Training Data &amp; Digital Tools Analyst</a></td>
+<td>Mirabel, Canada</td>
+<td align="center"><a href="https://gestal.zohorecruit.ca/jobs/Careers/1766000002802124/Training-Data-Digital-Tools-Analyst">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>New Jersey Courts</strong></td>
+<td><a href="https://trueinterview.io/jobs/07e0ac35-4bbc-418f-b471-a53de7caaa32">Data Production Analyst (QA) (Information Technology Analyst 3)</a></td>
+<td>Trenton, NJ</td>
+<td align="center"><a href="https://www.governmentjobs.com/careers/njjudiciary/jobs/5530263/data-production-analyst-qa-information-technology-analyst-3">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Oregon Community Credit Union</strong></td>
+<td><a href="https://trueinterview.io/jobs/ff7356a6-7433-4df9-86c6-f1e988d3e540">Marketing Data Analyst | Remote from OR, WA, or ID</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://myoccu.hrmdirect.com/employment/view.php?req=3853180&amp;jbsrc=1014&amp;location=e597486b-3986-01d9-8644-455ff4b7d7ff">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>State of Georgia</strong></td>
+<td><a href="https://trueinterview.io/jobs/24b431ae-2437-4f79-aa37-ab28e4b79c2c">Data Analyst - Rural Health Transformation Workforce Programs</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://georgia.wd5.myworkdayjobs.com/en-US/TGC/job/Atlanta/Data-Analyst---Rural-Health-Transformation-Workforce-Programs_JR0000007436">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>State of North Dakota</strong></td>
+<td><a href="https://trueinterview.io/jobs/70598cb4-53d6-433d-9f34-8f910bf12408">Enterprise Data Integration Analyst</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://www.cnd.nd.gov/psc/recruit/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&amp;Action=U&amp;SiteId=11000&amp;FOCUS=Applicant&amp;JobOpeningId=3034035&amp;PostingSeq=1">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>University of Maryland University College</strong></td>
+<td><a href="https://trueinterview.io/jobs/7592f952-beb1-4c22-aa0f-5c7dfdf5ef45">Data Support Analyst (VPUR)</a></td>
+<td>College Park, MD</td>
+<td align="center"><a href="https://umd.wd1.myworkdayjobs.com/en-US/UMCP/job/University-of-Maryland-College-Park/Data-Support-Analyst--VPUR-_JR105305">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Washington County Mental Health Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/7ce1e959-9d32-4c27-8672-91acc4804693">Data Analyst I</a></td>
+<td>Barre, VT</td>
+<td align="center"><a href="https://www.paycomonline.net/v4/ats/web.php/portal/6AF8B54F188DB5129A19C38363CD4979/jobs/225405">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Crossing Hurdles</strong></td>
+<td><a href="https://trueinterview.io/jobs/b968c08c-d821-4afa-b73b-258f84466446">Health Care Data Analyst (Coding) | $70/hr Remote</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485437469/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>R. J. Watkins &amp; Company, Ltd.</strong></td>
+<td><a href="https://trueinterview.io/jobs/523a021e-caea-41d3-b467-2bbe8d37d08e">Data Analyst</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485942695/">Apply</a></td>
+<td align="center">1 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Torentify</strong></td>
+<td><a href="https://trueinterview.io/jobs/9af49dbc-8956-4993-a9a4-656c3de4fa39">Data Analyst I - WFH</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485942592/">Apply</a></td>
+<td align="center">1 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>CFS</strong></td>
+<td><a href="https://trueinterview.io/jobs/139775b1-6304-4aec-b111-9a609c0396ff">Business Data Analyst</a></td>
+<td>Elkhart, IN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483964694/">Apply</a></td>
+<td align="center">1 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Vivint</strong></td>
+<td><a href="https://trueinterview.io/jobs/d4b4fcc5-2856-45f7-acc7-f7b245e6b5cd">Data Analyst</a></td>
+<td>Provo, UT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475274034/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>The Poole and Kent Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/4b693b96-5c03-42ea-b238-547982f78c99">Business Data Analyst, Construction (Entry Level)</a></td>
+<td>Baltimore, MD</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4391754730/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Knights of Columbus</strong></td>
+<td><a href="https://trueinterview.io/jobs/42151b98-b36d-4185-8d15-19b4423f7d91">Data Analyst (Contractor)</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466608903/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Torentify</strong></td>
+<td><a href="https://trueinterview.io/jobs/d6f68b31-e28f-4e23-8da8-781983bcb4a0">Data Analyst - Cybersecurity Assessment - WFH</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485917089/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Delta Dental of Iowa</strong></td>
+<td><a href="https://trueinterview.io/jobs/70a708c1-b2fd-4c04-9cea-490a2a9e0411">Data Analyst</a></td>
+<td>Johnston, IA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485905368/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>VTG</strong></td>
+<td><a href="https://trueinterview.io/jobs/6f396dfa-4047-4624-82fb-4acd63a5576e">Data Analyst with Security Clearance</a></td>
+<td>Washington, DC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483946269/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>DaVita Kidney Care</strong></td>
+<td><a href="https://trueinterview.io/jobs/72c7aa2f-a921-46ed-8ed8-cf52c9b420ee">Data Analyst, Clinical Analytics and Reporting</a></td>
+<td>Denver, CO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4459334989/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Solution One Industries Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/97179597-1285-44c5-aa94-ab21d34a25bb">AMCOM - Program Data Analyst with Security Clearance</a></td>
+<td>Huntsville, AL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483944326/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NRG Energy</strong></td>
+<td><a href="https://trueinterview.io/jobs/89c29101-7560-4b1e-9ebe-bffcf58409ce">Data Analyst</a></td>
+<td>Provo, UT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475262903/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Kastech Software Solutions Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/60588c95-11ec-4fd4-b121-0e53cb1a9cd0">Market Risk Data Analyst</a></td>
+<td>Tampa, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484873952/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cantor Fitzgerald</strong></td>
+<td><a href="https://trueinterview.io/jobs/77741796-16ef-4d33-bd51-ce3d0617c7ff">Data Management Analyst</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/requisitions/preview/250402">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Deloitte</strong></td>
+<td><a href="https://trueinterview.io/jobs/de49d40e-b44c-45d4-b968-77f4a758a87d">Data Analyst</a></td>
+<td>Washington, DC<br/>Arlington, VA<br/>Richmond, VA<br/>+1 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477888953/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>JPMorganChase</strong></td>
+<td><a href="https://trueinterview.io/jobs/d42b5fa5-229a-4b37-9757-100f2bca1391">2027 Data &amp; AI Program - Full Time - Analyst - United States</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4458042829/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Air Force Civilian Service</strong></td>
+<td><a href="https://trueinterview.io/jobs/e5458412-2c5b-4442-af4d-4ac020a2c701">Financial Data Analyst</a></td>
+<td>Arlington, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476848692/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Booz Allen Hamilton</strong></td>
+<td><a href="https://trueinterview.io/jobs/49352cd8-4d4e-418b-85f1-da454e8f2f8c">Data Visualization Analyst</a></td>
+<td>Lexington Park, MD</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4450625747/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amyx, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/eda2663b-60fe-4ffb-82cf-8a9a407d950a">Business Data Analyst with Security Clearance</a></td>
+<td>Fort Belvoir, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483939267/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Katalyst CRO</strong></td>
+<td><a href="https://trueinterview.io/jobs/a7c7d015-2769-46b9-a538-cc80f2dff201">Data Analyst / Data Visualization Analyst</a></td>
+<td>New Jersey, United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485679242/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Delta Dental</strong></td>
+<td><a href="https://trueinterview.io/jobs/1ea0b625-318c-47ee-b081-5506d282fcce">Data Analyst</a></td>
+<td>Johnston, IA</td>
+<td align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4630030/Delta-Dental-of-Iowa/Data-Analyst">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>MUFG</strong></td>
+<td><a href="https://trueinterview.io/jobs/4bae2865-f5ea-425a-af4f-be9ca86cb9d3">Data Quality Analyst - NJ</a></td>
+<td>Jersey City, NJ</td>
+<td align="center"><a href="https://mufgub.wd3.myworkdayjobs.com/en-US/MUFG-Careers/job/Jersey-City-NJ/Data-Quality-Analyst---NJ_10080367-WD">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Emonics LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/82561b95-8c2c-4a77-9f97-41bba0e70aca">Entry-Level Data Analyst</a></td>
+<td>Phoenix, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484857130/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Network Rail Consulting</strong></td>
+<td><a href="https://trueinterview.io/jobs/0f1b653e-0c30-4c61-9139-bed7a03c5258">Data Analyst Rail/Transit</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://isw.changeworknow.co.uk/network_rail_consulting/vms/e/careers/positions/aqlnZOTX1dz7bqnteca6OG">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Hitachi Digital Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/dbf02904-f3e0-4f76-b5f8-aed7b4cc27da">Data Analyst</a></td>
+<td>Norman, OK</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485105653/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>University of Redlands</strong></td>
+<td><a href="https://trueinterview.io/jobs/b68a334f-6546-4385-ac81-f54ae024892c">Data Analyst - Inland Empire Mental Health Training &amp; Integration Center</a></td>
+<td>Redlands, CA</td>
+<td align="center"><a href="https://recruiting2.ultipro.com/UNI1089UOR/JobBoard/6af23b67-9dd3-4a6a-bda1-676b92a4fcb4/OpportunityDetail?opportunityId=d07f31ad-1d7f-4bcf-a763-786f2238a42c&amp;postingId=272d595f-e3ca-432e-8a81-9fffc0b14374">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>DatabaseUSA</strong></td>
+<td><a href="https://trueinterview.io/jobs/b41bb344-230b-4b38-a952-bd425b530603">Data Product Analyst</a></td>
+<td>Omaha, NE</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485329387/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Hitachi Vantara</strong></td>
+<td><a href="https://trueinterview.io/jobs/0e07bc11-5b80-4934-8d78-331c02d1ce60">Data Analyst</a></td>
+<td>Norman, OK</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485318911/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>City of New York</strong></td>
+<td><a href="https://trueinterview.io/jobs/9acdc3ff-df8c-4f7f-a008-c47b4f1948fc">Data Visualization Analyst Level I</a></td>
+<td>New York City, New York, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/CityOfNewYork/3743990016518416-data-visualization-analyst-level-i">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>BMA</strong></td>
+<td><a href="https://trueinterview.io/jobs/134f9786-47a2-44cd-ba96-f2cbd989fc88">Business Data Analyst (61703)</a></td>
+<td>Virginia, United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4456792682/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Premise Health</strong></td>
+<td><a href="https://trueinterview.io/jobs/d40b52f8-cba5-4d03-97cc-b2c3e675c6d4">Data Management and Governance Analyst</a></td>
+<td>Brentwood, TN</td>
+<td align="center"><a href="https://premisehealth2.avature.net/externalcareers/Folderdetail?folderId=42926">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>B2spin</strong></td>
+<td><a href="https://trueinterview.io/jobs/c2972bb6-8955-4e1c-9b50-22769fc3ecc4">Payments &amp; Fraud Data Analyst</a></td>
+<td>France<br/>Malta Office<br/>Georgia<br/>+3 more</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/b2spin/2efe9fa2-7b41-477f-b4ed-1ca2acdc5a60">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Jobgether</strong></td>
+<td><a href="https://trueinterview.io/jobs/1fccb19f-8c5d-42dd-ae16-49645e8c09ae">Business Data Analyst 1</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484822614/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Kforce Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/528cb62f-61eb-43e1-b5c8-47bf91995921">AI Data Analyst / Analytics Engineer</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485258833/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Lockton</strong></td>
+<td><a href="https://trueinterview.io/jobs/a03cc24e-7027-421b-84b4-563d25abfe0d">Health Actuarial, Data Analyst</a></td>
+<td>Plano, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485302320/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Northrop Grumman</strong></td>
+<td><a href="https://trueinterview.io/jobs/af953e8d-1bb7-4b35-9d00-e4c901070348">Data Management Analyst</a></td>
+<td>Orlando, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485293765/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Department Of State Police</strong></td>
+<td><a href="https://trueinterview.io/jobs/5d4a632d-c1ae-470d-bfe0-9b185ccf3e9f">CMV Data Analyst</a></td>
+<td>Richmond, VA</td>
+<td align="center"><a href="https://www.jobs.virginia.gov/jobs/cmv-data-analyst-richmond-virginia-united-states-9353593c-510e-4ddf-8afb-79bf43d7e0ed">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Formosa Plastics</strong></td>
+<td><a href="https://trueinterview.io/jobs/ef110201-4bbe-4c53-84a5-d239a10c8148">DATA ANALYST I</a></td>
+<td>Livingston, NJ</td>
+<td align="center"><a href="https://jobs.dayforcehcm.com/en-US/fpcusa/CANDIDATEPORTAL/jobs/10726">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Knoxville Utilities Board</strong></td>
+<td><a href="https://trueinterview.io/jobs/3383aa28-f98b-4338-948a-920b793f9f1c">Business Systems &amp; Data Analyst</a></td>
+<td>Knoxville, TN</td>
+<td align="center"><a href="https://www.governmentjobs.com/careers/kub/jobs/5534428/business-systems-data-analyst">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Penn State University</strong></td>
+<td><a href="https://trueinterview.io/jobs/c2fafac0-384a-452b-b28e-01473c64d775">Part Time Data Analyst</a></td>
+<td>University Park, PA</td>
+<td align="center"><a href="https://psu.wd1.myworkdayjobs.com/en-US/PSU_Staff/job/Penn-State-University-Park/Part-Time-Data-Analyst_REQ_0000083907-1">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Perficient</strong></td>
+<td><a href="https://trueinterview.io/jobs/2ab63807-5553-4e0d-8b5e-e66ecd91e031">Data Readiness Analyst - SA</a></td>
+<td>United States</td>
+<td align="center"><a href="https://fa-etqd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/PF2026000037">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>South Texas Health System</strong></td>
+<td><a href="https://trueinterview.io/jobs/e372e96c-dcd3-4f77-86ba-faca31bbcfae">GME Data and Research Analyst - FT **ONSITE McAllen, TX** - South Texas Health System</a></td>
+<td>McAllen, TX</td>
+<td align="center"><a href="https://uhs.jibeapply.com/careers/jobs/379908/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>University of Wisconsin–Madison</strong></td>
+<td><a href="https://trueinterview.io/jobs/34d97529-6c85-47aa-8d00-fc219b79c1ba">Data Analyst</a></td>
+<td>Madison, WI</td>
+<td align="center"><a href="https://jobs.wisc.edu/jobs/data-analyst-madison-wisconsin-united-states-23bea92e-6297-48bb-a1d7-c1ace021b066">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Oregon Department of Transportation</strong></td>
+<td><a href="https://trueinterview.io/jobs/66ae65da-6189-4df2-afce-d74a58dbb0d0">Data Analyst</a></td>
+<td>Salem, OR</td>
+<td align="center"><a href="https://oregon.wd5.myworkdayjobs.com/en-US/SOR_External_Career_Site/job/Salem--ODOT--Building-K---MOB-HQ/Data-Analyst_REQ-209105">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Case Western Reserve University</strong></td>
+<td><a href="https://trueinterview.io/jobs/8db24923-f399-4665-8206-01e165911837">Education Abroad Systems and Data Analyst</a></td>
+<td>Cleveland, OH</td>
+<td align="center"><a href="https://employment.case.edu/psp/ERECRUIT/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&amp;Action=U&amp;FOCUS=Applicant&amp;SiteId=1&amp;JobOpeningId=14962&amp;PostingSeq=1">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>TJX Canada – Winners, Marshalls, HomeSense</strong></td>
+<td><a href="https://trueinterview.io/jobs/8e105f2c-8fb2-4c57-aca5-c5c2430457b9">Business intelligence &amp; Data Analyst</a></td>
+<td>Mississauga, Ontario, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485266579/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Marshall University</strong></td>
+<td><a href="https://trueinterview.io/jobs/55148229-01c5-4c38-98b2-b00483ec1102">Data Analyst (2 positions available)</a></td>
+<td>Huntington, WV</td>
+<td align="center"><a href="https://marshall.peopleadmin.com/postings/33357">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Insight Global</strong></td>
+<td><a href="https://trueinterview.io/jobs/023e1fc4-82a1-4fda-92e6-bf4305f1caf0">Field Data Analyst</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484801291/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Hunter Bond</strong></td>
+<td><a href="https://trueinterview.io/jobs/df9177fc-c8be-4d44-84eb-b9cdf899666a">Data Analyst - Up to $200k USD + Bonus! - New York (Hybrid) - Trading Firm</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483093846/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cenovus Energy</strong></td>
+<td><a href="https://trueinterview.io/jobs/0c0ac0d9-7feb-4b71-adfd-1d6093bc8ef3">Marketing Operations Data Analyst</a></td>
+<td>Columbus, OH</td>
+<td align="center"><a href="https://cenovus.wd3.myworkdayjobs.com/en-US/careers/job/US-OH-Columbus/Marketing-Operations-Data-Analyst_R-411267">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Regions Bank</strong></td>
+<td><a href="https://trueinterview.io/jobs/4ca191c1-fda5-44fd-8a2e-a47b601f42f2">Data &amp; Analytics Analyst - CRM &amp; Sales Reporting</a></td>
+<td>Salt Lake City, UT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485258703/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e6e76041-6570-472a-9bdb-5028f6cdc8c3">Data and Analytics Analyst</a></td>
+<td>Birmingham, AL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485254852/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Alpha School</strong></td>
+<td><a href="https://trueinterview.io/jobs/86ea6f3f-92e4-4086-9a6f-2be00137f8cf">Data Analyst - Part-Time, Alpha - $30,000/year USD</a></td>
+<td>Dripping Springs, TX<br/>Texas, United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483810354/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>State of Oregon</strong></td>
+<td><a href="https://trueinterview.io/jobs/2c3ea78e-a004-4d09-a0ed-b6be59a5cbba">Data Analyst</a></td>
+<td>Salem, OR</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485255657/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>U.S. Bank</strong></td>
+<td><a href="https://trueinterview.io/jobs/ae2c2ba5-d6a9-468b-bf27-9d6082238011">Data Science Analyst</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4480312036/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Flourish Research</strong></td>
+<td><a href="https://trueinterview.io/jobs/7d04d4a1-9995-4433-adae-d33f831f0b3a">QC &amp; Data Analyst</a></td>
+<td>Northridge, CA</td>
+<td align="center"><a href="https://apply.workable.com/j/582A0A7898">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Fanatics Collectibles</strong></td>
+<td><a href="https://trueinterview.io/jobs/d8591b54-ed94-488e-8960-3f6e579b7923">Data Analyst, Autograph Operations &amp; Governance</a></td>
+<td>Sunnyvale, CA<br/>Sunnyvale, TX, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4467168009">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Grand Circle Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/62127eed-2564-4339-915c-4fbe1b10d5ce">Data Analyst - Air Travel Analytics</a></td>
+<td>Florida, United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466874953/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>M9 Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/520849f1-4237-4a20-a8fa-782dbc4cd7b2">Data Pipeline Analyst</a></td>
+<td>Washington, DC - Secret clearance required</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/m9solutions/jobs/5279114007">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ozark Center</strong></td>
+<td><a href="https://trueinterview.io/jobs/ab202362-d37f-41e7-bc08-9dfd7b90ba55">CRU Data Analyst</a></td>
+<td>Joplin, MO</td>
+<td align="center"><a href="https://freemanhealth.wd1.myworkdayjobs.com/ozarkcenterscareers/job/OC-Urgent-Behavioral-Solutions/CRU-Data-Analyst_JR112673">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Apex Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/67a7c44a-274d-42cb-9ecb-a0bb2abc48e7">Supply Chain Data Analyst w/ Databricks</a></td>
+<td>Stanford, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484989982/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Centene Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/6897de87-5cc3-4de2-893b-af8b7fd83ebb">Data Analyst II Healthcare Analytics, Medical Economics</a></td>
+<td>Missouri, United States<br/>Remote</td>
+<td align="center"><a href="https://jobs.centene.com/us/en/jobs/1672428/data-analyst-ii-healthcare-analytics-medical-economics/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Siri InfoSolutions, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/a075042b-d914-4b68-98ec-eaa152c5647c">Business Data Analyst / ETLTester</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484998717/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>626</strong></td>
+<td><a href="https://trueinterview.io/jobs/937005ca-6f25-4914-bd06-d7fef03de3f1">Data Analyst</a></td>
+<td>Boca Raton, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485204256/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Centene Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/cae83512-920c-4013-afcd-488137ad9cab">Data Analyst I</a></td>
+<td>Washington DC-Baltimore Area<br/>Arkansas, United States<br/>Connecticut, United States<br/>+1 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485202216/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Diamondback Energy</strong></td>
+<td><a href="https://trueinterview.io/jobs/10a77077-80a5-42f7-b9fc-c1efbbca55fa">Cloud Data Platform Analyst</a></td>
+<td>Oklahoma City, OK</td>
+<td align="center"><a href="https://diamondbackenergy.wd12.myworkdayjobs.com/en-US/DBE/job/Oklahoma-City-OK/Cloud-Data-Platform-Analyst_R100964">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Diversified Energy Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/5917bf36-c23d-44a5-9361-8d24a4b5d4ea">Production Data Analyst</a></td>
+<td>Birmingham, AL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4448543235/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>First 5 Sonoma County</strong></td>
+<td><a href="https://trueinterview.io/jobs/a3d198ba-e204-4854-b5e4-85f643c48020">Data Analyst</a></td>
+<td>Santa Rosa, CA</td>
+<td align="center"><a href="https://jsco.re/htrae">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Star Pipe Products</strong></td>
+<td><a href="https://trueinterview.io/jobs/5e45a7dd-4a49-49b6-8fd4-cfadb3ec153c">Data Analyst</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482229259/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Largeton Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/42a041e1-0c4a-4be0-a7c8-e78769b10ada">Cyber Risk &amp; Security Data Analyst / Engineer</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484981118/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -1751,13 +2425,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>ABOUT YOU SE &amp; Co. KG</strong></td>
-<td><a href="https://trueinterview.io/jobs/e7b0c954-e371-4683-9bc1-8b268e8d295e">Data Analyst - Marketing Data Analytics (all genders)</a></td>
-<td>Hamburg, Hamburg, Germany</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000162136297-data-analyst-marketing-data-analytics-all-genders-">Apply</a></td>
-<td align="center">17 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>Mirantis</strong></td>
 <td><a href="https://trueinterview.io/jobs/8154c5f2-185c-41fa-8c0f-82504ec3c2ad">Data Analyst (EMEA, Remote)</a></td>
@@ -1934,6 +2601,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Tencent</strong></td>
+<td><a href="https://trueinterview.io/jobs/b4bc21e6-d228-44b5-b8e8-4d2eb133c29c">PC/Console 项目数据分析师（Publishing Data Analyst）</a></td>
+<td>Shenzhen, Guangdong, China</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4455276123/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Ubisoft</strong></td>
 <td><a href="https://trueinterview.io/jobs/ea2ba88b-c3d3-4f6f-b3d0-f51f38451396">Mobile Data Analyst Assistant – Stage (6 mois) Janvier 2027 (F/H/NB)</a></td>
 <td>Paris, Île-de-France, France</td>
@@ -1966,6 +2640,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/f51eeff9-b9c3-4c4b-b59e-64a7e08e7772">Data Governance Analyst H/F</a></td>
 <td>LA CHAPELLE SUR ERDRE, France</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Inetum2/744000159608919-data-governance-analyst-h-f">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Avery Dennison</strong></td>
+<td><a href="https://trueinterview.io/jobs/ebbf85b7-5f5b-4de9-a1fa-b62f612e2edb">Demand/ Material Planning - Data Analyst</a></td>
+<td>Hiệp Phước, Hồ Chí Minh, Vietnam</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/AveryDennison/744000159560419-demand-material-planning-data-analyst">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
@@ -2150,112 +2831,9 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center"><a href="https://france.edf-powersolutions.com/carrieres/toutes-nos-offres/?NoLangue=1&amp;NoSociete=70&amp;NoOffre=2899807&amp;NoSource=16015">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
-<tr>
-<td><strong>Groupe SEB</strong></td>
-<td><a href="https://trueinterview.io/jobs/9a334b6d-e6fe-4cb6-b19e-17aba956cb50">STAGE IT &amp; DATA ANALYST – S&amp;OP</a></td>
-<td>Rumilly, France</td>
-<td align="center"><a href="https://groupeseb.referrals.selectminds.com/jobs/stage-it-data-analyst-%E2%80%93-s-op-7876">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>JPMorganChase</strong></td>
-<td><a href="https://trueinterview.io/jobs/532b30d5-f08d-4e04-a5ce-abe96f5834c5">Liquidity Data and Reporting Analyst</a></td>
-<td>Warszawa, Poland</td>
-<td align="center"><a href="https://jpmorganchase.contacthr.com/154097095">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Metaline</strong></td>
-<td><a href="https://trueinterview.io/jobs/f379bc4a-d00c-4b4a-a207-bfa2e98ccb48">Consultant.e Développeur.se Strategy &amp; Data Analyst (H/F/X)</a></td>
-<td>Châtillon, France</td>
-<td align="center"><a href="https://metaline.teamtailor.com/jobs/8659546-consultant-e-developpeur-se-strategy-data-analyst-h-f-x">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Open</strong></td>
-<td><a href="https://trueinterview.io/jobs/ba23118a-f970-4f0d-8afb-4419d1a7327b">Data Analyst Confirmé F/H</a></td>
-<td>Villeneuve-d'Ascq, France</td>
-<td align="center"><a href="https://open.wd103.myworkdayjobs.com/OPEN/job/Lille/Data-Analyst-Confirm-H-F_R13778">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Pacific Smiles Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/56dc1987-fd52-416e-86b2-6c1326102922">Data Analyst</a></td>
-<td>Newcastle, Australia</td>
-<td align="center"><a href="https://pacificsmiles.wd105.myworkdayjobs.com/en-US/External_PSG/job/Newcastle-and-Maitland-NSW/Data-Analyst_R-01592">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>RSM</strong></td>
-<td><a href="https://trueinterview.io/jobs/71ae16bb-ead5-4453-953b-24d546db7c15">Intégrateur Pennylane &amp; Data Analyst H/F</a></td>
-<td>Pérols, France</td>
-<td align="center"><a href="https://recrutement.rsmfrance.fr/fr/annonce/4675803-integrateur-pennylane-data-analyst-hf-perols?s_o=indeed&amp;s_b=DigitalRecruiters">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Schneider Electric</strong></td>
-<td><a href="https://trueinterview.io/jobs/704c5381-dbd3-4269-ac96-2d2b40556aee">Supply Chain Digitalization &amp; Data Analyst Trainee STP27</a></td>
-<td>Spain</td>
-<td align="center"><a href="https://careers.se.com/jobs/140107/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Société Générale</strong></td>
-<td><a href="https://trueinterview.io/jobs/2f4f7d90-54d1-48d1-83ce-96f1a3276354">Data Analyst Pilotage des Notations</a></td>
-<td>La Défense, France</td>
-<td align="center"><a href="https://careers.societegenerale.com/offres-d-emploi/data-analyst-pilotage-des-notations-26000MWT-fr">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Synanto</strong></td>
-<td><a href="https://trueinterview.io/jobs/28476502-8022-470f-890e-48f758f18049">Data analyst tracking Sénior_ Mtp</a></td>
-<td>Montpellier, France</td>
-<td align="center"><a href="https://www.jobposting.pro/emploi-2741157-109">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>JPMorgan Chase</strong></td>
-<td><a href="https://trueinterview.io/jobs/67c1045a-df2c-4abf-84c5-ce96d3a34de7">Digital Document Services: Reference Data Analyst</a></td>
-<td>Ciudad Autónoma de Buenos Aires, Argentina</td>
-<td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210804024">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>P\s\l Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/3ca574bb-277c-4e55-8604-83fce168d822">Data Quality Analyst</a></td>
-<td>Mexico</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/pslgroup/jobs/6238918004">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Siemens</strong></td>
-<td><a href="https://trueinterview.io/jobs/964d07d4-edb5-4027-a8bf-65d63dc2375e">Data Analyst Trainee (m/f/d)</a></td>
-<td>Alfragide, Lisbon, Portugal</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485750509/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Applied Materials South East Asia</strong></td>
-<td><a href="https://trueinterview.io/jobs/d7212e24-e57a-4cd1-81d4-bf6edbb1fd2f">Data Analyst, Global Forward Network</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484386372/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Booking.com</strong></td>
-<td><a href="https://trueinterview.io/jobs/f5bb5300-0d6d-46a2-9d7f-978facc4ea8e">Data &amp; AI Governance Operations Analyst</a></td>
-<td>Amsterdam, North Holland, Netherlands<br/>Amsterdam Centrum, Netherlands</td>
-<td align="center"><a href="https://jobs.booking.com/booking/jobs/30637/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Kaischool</strong></td>
-<td><a href="https://trueinterview.io/jobs/508dc4b9-421a-4837-9bcf-159edb8e1473">Alternant(e) Data Analyst H/F</a></td>
-<td>Fontenay-sous-Bois, France</td>
-<td align="center"><a href="https://join.com/companies/kaischoolfr/16905011-alternant-e-data-analyst-h-f?pid=a13795120131dbe48464">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
 </tbody>
 </table>
+
+<sub>Page 1 of 2 · [Page 2 →](data-analyst-2.md)</sub>
 
 [← Every filter](../README.md) · [Back to the full list](../../README.md)

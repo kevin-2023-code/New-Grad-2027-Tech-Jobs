@@ -2,7 +2,7 @@
 
 # 🏮 Beijing, Shanghai, Taipei & Hong Kong
 
-**68 open roles.** 2 in the United States & Canada · 66 elsewhere in the world.
+**123 open roles.** 2 in the United States & Canada · 121 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -45,13 +45,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tbody>
 <tr>
 <td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/ffb9ab5d-d99b-40a9-8f16-d7bcea42d2e7">ASIC Physical Design Engineer</a></td>
-<td>Shanghai, Shanghai, China</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4474649321/">Apply</a></td>
-<td align="center">17 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/44b77793-ddee-4155-a6ac-5f4dcf6e577c">ASIC Engineer, Networking Chip Design - New College Grad 2027</a></td>
 <td>Shanghai, Shanghai, China</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4483288200/">Apply</a></td>
@@ -66,13 +59,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td><strong>NXP Semiconductors</strong></td>
-<td><a href="https://trueinterview.io/jobs/10ab3027-4022-44fc-a4f8-1fc589fd9076">2027Y Campus- Linux Software Test Engineer</a></td>
-<td>Pudong, Shanghai, China</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4491190211/">Apply</a></td>
-<td align="center">17 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/4e30a271-0da6-4678-9d92-4efdb748a8a3">2027Y Campus - Software Engineer - Linux BSP &amp; Driver Development</a></td>
 <td>Pudong, Shanghai, China</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4491179459/">Apply</a></td>
@@ -380,6 +366,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Lenovo</strong></td>
+<td><a href="https://trueinterview.io/jobs/d0ee3271-04e8-44da-a3b1-0f395f75d043">Server Hardware Validation Engineer: Campus Hire 2026</a></td>
+<td>Taipei, Taipei City, Taiwan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4460007295/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Tencent</strong></td>
+<td><a href="https://trueinterview.io/jobs/b4bc21e6-d228-44b5-b8e8-4d2eb133c29c">PC/Console 项目数据分析师（Publishing Data Analyst）</a></td>
+<td>Shenzhen, Guangdong, China</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4455276123/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Analog Devices</strong></td>
 <td><a href="https://trueinterview.io/jobs/e015637a-003a-4f54-be15-c346af682871">Software Development Engineer</a></td>
 <td>Pudong, Shanghai, China</td>
@@ -398,6 +398,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/c8b8fdbb-8d23-4acc-81ac-82b1023a9145">Hardware Integration Engineer_EM</a></td>
 <td>Suzhou, Jiangsu, China</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000159587361-hardware-integration-engineer-em">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f5e6af2e-7213-47d7-bef0-6668de07e00a">Hardware Engineer (OBC&amp;DCDC）_EM</a></td>
+<td>Suzhou, Jiangsu, China</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000159553026-hardware-engineer-obc-dcdc-em">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
@@ -504,6 +511,384 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Chengdu, Sichuan, China</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485741553/">Apply</a></td>
 <td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/e18f9788-ac8f-403d-8bd3-9b15a80ecc26">Software Engineer, AI and DL Kernel Libraries</a></td>
+<td>Shanghai, Shanghai, China</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4432120574/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Data Intellect</strong></td>
+<td><a href="https://trueinterview.io/jobs/5d085138-1d8a-48f5-b971-7a443740b7d1">Graduate STEM Developer</a></td>
+<td>Hong Kong, Hong Kong<br/>Belfast, Northern Ireland, United Kingdom</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/DataIntellect/744000159140388-graduate-stem-developer">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>MediaTek</strong></td>
+<td><a href="https://trueinterview.io/jobs/98bb0310-811f-46eb-b574-78ff31ffd012">GPU Design Verification Engineer</a></td>
+<td>Hsinchu, Taiwan, Taiwan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485475297/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/186ce5aa-1512-4c38-9049-ca489a795da4">GPU hardware design engineer</a></td>
+<td>Hsinchu, Taiwan, Taiwan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485465940/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Gravitas Recruitment Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/936f2f83-2147-448b-8f3c-f982492b136a">C# Front Office Developer</a></td>
+<td>Hong Kong</td>
+<td align="center"><a href="https://www.efinancialcareers.hk/jobs-Hong_Kong-Hong_Kong-C_Front_Office_Developer.id24963847">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/90044a19-6963-4fc8-b073-811153c8cd8e">Quant Developer</a></td>
+<td>Hong Kong</td>
+<td align="center"><a href="https://www.efinancialcareers.hk/jobs-Hong_Kong-Hong_Kong-Quant_Developer.id24963830">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Informa Markets Asia Limited</strong></td>
+<td><a href="https://trueinterview.io/jobs/ae7f1ccf-7344-4fd3-ba2e-a103ed83ae9d">Tech Services Engineer, Regional Data &amp; Technology Team</a></td>
+<td>Hong Kong</td>
+<td align="center"><a href="https://www.recruit.com.hk/job-detail/informa-markets-asia-limited/tech-services-engineer-regional-data-technology-team/L059656858">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Lingnan University 嶺南大學</strong></td>
+<td><a href="https://trueinterview.io/jobs/da9ace3d-6348-4c07-a19b-0abd3c7730c1">Assistant Professor, Division of Industrial Data Science</a></td>
+<td>Hong Kong</td>
+<td align="center"><a href="https://lingnan.csod.com/ux/ats/careersite/4/home/requisition/3125?c=lingnan">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>PeopleLink Services Limited</strong></td>
+<td><a href="https://trueinterview.io/jobs/3af102d5-b9e7-436b-852e-454af57b867f">System Engineer (Data Centre - Shift Duty Required)</a></td>
+<td>Hong Kong</td>
+<td align="center"><a href="https://www.recruit.com.hk/job-detail/peoplelink-services-limited/system-engineer-data-centre-shift-duty-required/L0608731689">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Sos Group Limited</strong></td>
+<td><a href="https://trueinterview.io/jobs/98d8e177-939a-466a-9ab5-ac2afedcd0c7">IT Support Engineer</a></td>
+<td>Hong Kong</td>
+<td align="center"><a href="https://www.recruit.com.hk/job-detail/sos-group-limited/it-support-engineer/L0608731701">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>TCL Corporate Research (Hong Kong) Co., Limited</strong></td>
+<td><a href="https://trueinterview.io/jobs/44db40ad-0bd8-4177-9771-04b1791bf09c">Research Scientist / Engineer – Artificial Intelligence</a></td>
+<td>Hong Kong</td>
+<td align="center"><a href="https://www.ctgoodjobs.hk/jbt/10311538/indeed/9887/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Lalamove</strong></td>
+<td><a href="https://trueinterview.io/jobs/076147da-901a-4490-b7e7-f1757324874b">Data Analyst, Marketing</a></td>
+<td>Hong Kong SAR</td>
+<td align="center"><a href="https://jobs.lever.co/lalamove/a3d25575-3974-44cc-8e91-0a9508e02fc2">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>MediaTek</strong></td>
+<td><a href="https://trueinterview.io/jobs/a75d792e-212f-490b-9383-4fd04a8e5675">5G/6G Modem Digital IC Designer</a></td>
+<td>Hsinchu, Taiwan, Taiwan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4415023508/">Apply</a></td>
+<td align="center">1 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon Web Services (AWS)</strong></td>
+<td><a href="https://trueinterview.io/jobs/2c5f0b62-ccb3-4f4b-a8e5-acda5eb09186">Data Center Operation Technician (IT Engineer), TPE - DCO</a></td>
+<td>Taipei, Taipei City, Taiwan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4469144395/">Apply</a></td>
+<td align="center">1 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Siemens</strong></td>
+<td><a href="https://trueinterview.io/jobs/b215c21d-3490-47a5-a43f-1f3615ffdb4b">AI基础设施/数据中心 全国大客户经理</a></td>
+<td>Beijing, Beijing, China</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477220515/">Apply</a></td>
+<td align="center">1 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/08326485-7318-4540-9c08-9627a446b8ca">Advanced Manufacturing Engineer - iPhone</a></td>
+<td>Suzhou, Jiangsu, China</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200690935">Apply</a></td>
+<td align="center">1 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Career Works</strong></td>
+<td><a href="https://trueinterview.io/jobs/868cd86b-9504-437f-8f66-15c5a23dac56">Field Engineer</a></td>
+<td>Hong Kong</td>
+<td align="center"><a href="https://www.ctgoodjobs.hk/jbt/10309955/indeed/9885/">Apply</a></td>
+<td align="center">1 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Excel Technology International (Hong Kong) Limited</strong></td>
+<td><a href="https://trueinterview.io/jobs/9c14e53f-e9c8-4520-aff4-d5cafce28ba4">Programmer / Analyst Programmer – Banking Projects</a></td>
+<td>Hong Kong</td>
+<td align="center"><a href="https://www.ctgoodjobs.hk/jbt/10309697/indeed/9885/">Apply</a></td>
+<td align="center">1 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>MJ Consultants Limited</strong></td>
+<td><a href="https://trueinterview.io/jobs/612b3dd3-8673-44b1-98a5-326c1c3646ee">Planning Engineer/ Project Planning Specialist</a></td>
+<td>Hong Kong</td>
+<td align="center"><a href="https://www.ctgoodjobs.hk/jbt/10309975/indeed/9885/">Apply</a></td>
+<td align="center">1 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>MediaTek</strong></td>
+<td><a href="https://trueinterview.io/jobs/ac3af0b7-46ec-4e0a-8e82-f895d6cfd0bd">Camera AI Algorithm Engineer</a></td>
+<td>Hsinchu, Taiwan, Taiwan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4412576060/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/1241855f-8e20-4e4d-beae-36986f144db9">TOP Designer &amp; FE Integrator</a></td>
+<td>Hsinchu, Taiwan, Taiwan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4430856587/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Qube Research &amp; Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/aa904c50-ba3d-4a62-b244-f40bf7421c86">Quantitative Developer - Production</a></td>
+<td>Hong Kong</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8908075002">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>賓尼斯工程顧問有限公司 Binnies</strong></td>
+<td><a href="https://trueinterview.io/jobs/070613c4-36ad-4a95-89b9-e3586b2e1664"># 駐地盤高級工程師 (岩土) (Ref: DHSR/SRE(G)/359/2026)</a></td>
+<td>Hong Kong</td>
+<td align="center"><a href="https://www.recruit.com.hk/job-detail/%E8%B3%93%E5%B0%BC%E6%96%AF%E5%B7%A5%E7%A8%8B%E9%A1%A7%E5%95%8F%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8-binnies/%E9%A7%90%E5%9C%B0%E7%9B%A4%E9%AB%98%E7%B4%9A%E5%B7%A5%E7%A8%8B%E5%B8%AB-%E5%B2%A9%E5%9C%9F-ref-dhsr-sre-g-359-2026/L0608831">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>MediaTek</strong></td>
+<td><a href="https://trueinterview.io/jobs/9a2bc626-6b68-409d-87d8-590ced7a4784">Acoustic and voice AI algorithm developer</a></td>
+<td>Hsinchu, Taiwan, Taiwan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4448750726/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f95dc8c4-8445-4f4d-a84e-7bf7e5e25704">Digital IC Designer and integrator</a></td>
+<td>Hsinchu, Taiwan, Taiwan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4414477218/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/fca2ae68-8a4a-42d3-b925-79c9bf6cc330">Manufacturing Design Engineer</a></td>
+<td>Shenzhen, Guangdong, China<br/>Suzhou, Jiangsu, China<br/>Chengdu, Sichuan, China</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200692142">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>MediaTek</strong></td>
+<td><a href="https://trueinterview.io/jobs/63789392-5489-45c9-9cc2-94403e433377">Engineering Data Analysis Engineer</a></td>
+<td>Hsinchu, Taiwan, Taiwan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4424345610/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ubisoft</strong></td>
+<td><a href="https://trueinterview.io/jobs/2d81c959-a8ab-405f-a5e8-cb0bd9c9aa5d">Technical Animator</a></td>
+<td>Chengdu, Sichuan, China</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Ubisoft2/744000158745355-technical-animator">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Qualcomm</strong></td>
+<td><a href="https://trueinterview.io/jobs/d258400b-5e2f-4fc8-bd84-2962e59ea336">Linux Platform Performance &amp; Power Software Application Engineer</a></td>
+<td>Taipei, Taipei City, Taiwan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475956621/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>AMD</strong></td>
+<td><a href="https://trueinterview.io/jobs/74e44202-c357-4840-b3df-30acacf29970">GPU Kernel Development Software Engineer</a></td>
+<td>Shanghai, Shanghai, China</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483433644/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Siemens Energy</strong></td>
+<td><a href="https://trueinterview.io/jobs/1afa7606-27de-4982-8775-4eb08de8194f">TI Supplier Quality &amp; Development Engineer - Heavy Machining</a></td>
+<td>Shijingshan District, Beijing, China<br/>Shanghai, Shanghai, China</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467198852/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>AMD</strong></td>
+<td><a href="https://trueinterview.io/jobs/17a9c566-91d3-4481-bd4d-4b87d46c69e1">Sensor Platform Engineer</a></td>
+<td>Shanghai, Shanghai, China</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466669396/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Hanink Innovation Limited</strong></td>
+<td><a href="https://trueinterview.io/jobs/4a1d6381-6f0f-4eb9-a314-57c70d8d6af4">LLM Researcher</a></td>
+<td>Hong Kong Science Park, Hong Kong</td>
+<td align="center"><a href="https://hk.indeed.com/viewjob?jk=75fa5a2e81cf6a40">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Arup</strong></td>
+<td><a href="https://trueinterview.io/jobs/e0f54479-03f8-426f-b5c1-397827e7907e">Resident Engineer (E&amp;M)</a></td>
+<td>Hong Kong</td>
+<td align="center"><a href="https://jobs.arup.com/jobs/resident-engineer-e-m-35981">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ashford-Benjamin</strong></td>
+<td><a href="https://trueinterview.io/jobs/221765c5-5a8e-49d4-a3b0-11c628270c60">Quantitative Risk and Portfolio Construction Management – Global Trading Platform</a></td>
+<td>Hong Kong</td>
+<td align="center"><a href="https://www.efinancialcareers.hk/jobs-Hong_Kong-Hong_Kong-Quantitative_Risk_and_Portfolio_Construction_Management_%E2%80%93_Global_Trading_Platform.id24954367">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>HSBC</strong></td>
+<td><a href="https://trueinterview.io/jobs/60e4dbd2-0d05-4ea5-844f-741ea0520b5e">Algorithmic Trading Engineer</a></td>
+<td>Central, Hong Kong</td>
+<td align="center"><a href="https://apply.careers.hsbc.com/job/Central-Algorithmic-Trading-Engineer-Hong/1376305557/?feedId=417557">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Infosys</strong></td>
+<td><a href="https://trueinterview.io/jobs/292a107c-93f2-4739-96e6-776a5daeb1ed">UIUX Designer</a></td>
+<td>Hong Kong</td>
+<td align="center"><a href="https://digitalcareers.infosys.com/global-careers/company-job/description/reqid/155526BR">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>REC Engineering Co Ltd</strong></td>
+<td><a href="https://trueinterview.io/jobs/c4f18bca-846c-48dc-bd11-d667ed2c38f6">Engineer's Assistant (Contract) (Ref.: EA/28/1183)</a></td>
+<td>Hong Kong</td>
+<td align="center"><a href="https://www.recruit.com.hk/job-detail/rec-engineering-co-ltd/engineer-s-assistant-contract-ref-ea-28-1183/L060352685">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Senko Advanced Components (HK) Ltd</strong></td>
+<td><a href="https://trueinterview.io/jobs/ffeffdb3-201e-442e-b237-97889e09684d">Product Engineer (Precision Mechanical Products)</a></td>
+<td>Hong Kong</td>
+<td align="center"><a href="https://www.ctgoodjobs.hk/jbt/10306833/indeed/9883/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/d9a22740-0766-4097-9c6f-29b1626f7385">Mac Product Design Engineer</a></td>
+<td>Shenzhen, Guangdong, China<br/>Shanghai, Shanghai, China</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200692402">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>WD</strong></td>
+<td><a href="https://trueinterview.io/jobs/6002c814-8294-4041-a950-1eb6a32296b0">Electrical Engineer, Photonics Optical Engine Development</a></td>
+<td>Shenzhen, Guangdong, China</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483409538/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/7c80ad13-7d3b-4a70-9490-f1bfb9171e6f">Equipment Development Engineer, Laser Alignment &amp; Photonic Packaging</a></td>
+<td>Shenzhen, Guangdong, China</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483405698/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Western Digital</strong></td>
+<td><a href="https://trueinterview.io/jobs/81a182e6-3dc4-4829-a5de-690884af2c3d">Equipment Development Engineer, Laser Alignment &amp; Photonic Packaging</a></td>
+<td>Shenzhen, Guangdong Province, China</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/WesternDigital/744000158658319-equipment-development-engineer-laser-alignment-photonic-packaging">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/4bffcc53-9244-48e3-bf6c-cab039344d5c">Compute System Arch Engineer, AI Infra - New College Grad 2027</a></td>
+<td>Shanghai, Shanghai, China</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484591663/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e5dee815-ce54-4695-bc43-bb4d362c8626">Custom SOC ASIC Engineer - New College Grad 2027</a></td>
+<td>Shanghai, Shanghai, China</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484596489/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/42655798-6992-4e06-a4dd-79d8d26c79d4">Power Methodology and Analysis Engineer</a></td>
+<td>Shanghai, Shanghai, China</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484804226/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Dell Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/16d0329d-0f4b-40d0-a57d-ed263af8cd33">CNC Machining Process Engineer</a></td>
+<td>Shanghai, Shanghai, China<br/>Taipei City, Taiwan</td>
+<td align="center"><a href="https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/R281447">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/af3a8fb5-6b3e-4c6f-bf3e-d7b5da659860">Software Development Engineer, Ring Taipei Software team</a></td>
+<td>Taipei, Taipei City, Taiwan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485231135/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Applied Materials</strong></td>
+<td><a href="https://trueinterview.io/jobs/f01c4101-3674-4227-9f2e-e9dc57255ef8">Customer Engineer</a></td>
+<td>Shanghai, Shanghai, China</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474825815/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>MediaTek</strong></td>
+<td><a href="https://trueinterview.io/jobs/ea3481e6-36f7-4265-b1f2-8bc0d303f0d4">ASIC SOC Integrator</a></td>
+<td>Hsinchu, Taiwan, Taiwan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4430865545/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ASML</strong></td>
+<td><a href="https://trueinterview.io/jobs/d5bc2afc-dc8d-4706-9019-d8af1bd90033">Field Applications Engineer</a></td>
+<td>Wuhan, Hubei, China</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4458734878/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>MediaTek</strong></td>
+<td><a href="https://trueinterview.io/jobs/2e4169dc-9c9e-4095-88e3-3599e4d449f7">Android Multimedia System Framework Engineer</a></td>
+<td>Hsinchu, Taiwan, Taiwan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4423439406/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/ed7ef1a5-edb0-419e-a1d5-8e9ef5fb40ea">TV Software - System Engineer</a></td>
+<td>Hsinchu, Taiwan, Taiwan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4423428599/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Infineon Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/b473d743-3474-4820-acd5-474c1fec5d1a">System Verification Engineer Automotive Ethernet</a></td>
+<td>Shanghai, Shanghai, China</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4441480382/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
 </table>

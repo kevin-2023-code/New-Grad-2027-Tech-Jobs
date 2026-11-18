@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**559 open roles.** 398 in the United States & Canada · 161 elsewhere in the world.
+**824 open roles.** 528 in the United States & Canada · 296 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -10,7 +10,7 @@
 
 _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-authorisation restriction._
 
-<sub>Page 1 of 2 · [Page 2 →](ai-engineer-2.md)</sub>
+<sub>Page 1 of 3 · [Page 2 →](ai-engineer-2.md)</sub>
 
 ## United States & Canada
 
@@ -19,69 +19,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Ramp</strong></td>
-<td><a href="https://trueinterview.io/jobs/422e017d-160a-4551-8338-dfeb13dc9cde">Software Engineer, Backend, AI Ventures</a></td>
-<td>New York, NY (HQ)</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/ramp/3cfbf693-58e3-423f-87a8-a93dbd0839b0">Apply</a></td>
-<td align="center">17 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Guidewire Software</strong></td>
-<td><a href="https://trueinterview.io/jobs/15638f91-ac9e-4092-b51e-b975757b46bb">AI Engineer- Applied AI</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4491704362/">Apply</a></td>
-<td align="center">17 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>InfiCare Staffing</strong></td>
-<td><a href="https://trueinterview.io/jobs/73e2fbe7-f3bd-4e4b-a3ee-60337c53ee4b">Cloud AI Engineer</a></td>
-<td>Milford, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4491198456/">Apply</a></td>
-<td align="center">17 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Synechron</strong></td>
-<td><a href="https://trueinterview.io/jobs/143d0266-dcb9-4241-9dec-bbc3e7ba00df">Gen AI Developer</a></td>
-<td>Menlo Park, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4490464096/">Apply</a></td>
-<td align="center">17 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>GSI Environmental Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/1a07acc9-b0ca-489c-bd24-a8609911dda5">Artificial Intelligence (AI) Engineer</a></td>
-<td>Houston, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4491180807/">Apply</a></td>
-<td align="center">17 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon Web Services (AWS)</strong></td>
-<td><a href="https://trueinterview.io/jobs/9f418127-97ea-4b9c-860e-bd328e62c85e">Applied Scientist, Agentic AI, AWS Governance</a></td>
-<td>Seattle, WA<br/>Arlington, VA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483781311/">Apply</a></td>
-<td align="center">17 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/1ef47ff1-e791-45d5-a320-1276a5695872">Software Development Engineer - Gen AI, Amazon Connect</a></td>
-<td>Seattle, WA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483779521/">Apply</a></td>
-<td align="center">17 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Seneca Resources</strong></td>
-<td><a href="https://trueinterview.io/jobs/58b4d1a5-df25-4e19-88fc-1ef2a108ef15">AI Agent Developer</a></td>
-<td>New York City Metropolitan Area</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4491578254/">Apply</a></td>
-<td align="center">17 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>BeaconFire Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/d5376d37-4862-409e-80ca-5963aa8c0fec">Agentic AI Python Developer</a></td>
-<td>New Jersey, United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4439239124/">Apply</a></td>
-<td align="center">17 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>Netflix</strong></td>
 <td><a href="https://trueinterview.io/jobs/a90170d0-6a0c-494d-8d90-35931e9a30d9">Software Engineer – Data and Feature Infrastructure, AI Platform</a></td>
@@ -248,6 +185,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/3e46cdb6-3507-4fed-bf95-cb12dcacc44b">Solution Sales Executive - Business AI Platform (BAIP) - AI Expertise</a></td>
 <td>Bellevue, WA<br/>Houston, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4490107419/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ATOMS</strong></td>
+<td><a href="https://trueinterview.io/jobs/d3bdbbbd-c69a-4b72-af5f-b77686152a9d">AI Researcher - New Grad (BS/MS)</a></td>
+<td>Mountain View, CA</td>
+<td align="center"><a href="https://grnh.se/jouoxi9u2us">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
@@ -1651,6 +1595,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>EPAM Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/0f33998f-7308-4a7c-94c1-3ae45e10c5f2">Python AI Engineer</a> 🌐</td>
+<td>Remote — Canada</td>
+<td align="center"><a href="https://careers.epam.com/en/vacancy/bltc0n28xcft79j2cx1_en?city=New+York&amp;state=NY&amp;country=USA">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>FiberFirst</strong></td>
 <td><a href="https://trueinterview.io/jobs/a2db1a4b-b789-40c3-bac6-4d90ab4c2eea">Automation and AI Enablement Engineer</a></td>
 <td>Southlake, TX<br/>Fort Worth, TX</td>
@@ -1847,6 +1798,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>System Soft Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/6a06a09f-fc27-4472-add1-7814a53a590c">AI Applications Developer</a></td>
+<td>Phoenix, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486508378/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Qube Research &amp; Technologies</strong></td>
 <td><a href="https://trueinterview.io/jobs/dd17ea7e-7f11-470d-92ce-a283773e60ac">Production Support Engineer - LLM Platform</a></td>
 <td>New York, NY<br/>Singapore<br/>New York, Chicago<br/>+1 more</td>
@@ -2005,6 +1963,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/e8745f89-aa1e-4511-852e-24f7765b1da3">AI Agentic Developer-Autonomous Sales CRM1 with python Development experience</a></td>
 <td>Irving, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485073206/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Jobgether</strong></td>
+<td><a href="https://trueinterview.io/jobs/343a0853-49fd-40e4-b8a7-4bc6124ebae5">AI Research Engineer (Agentic Reinforcement Learning)</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486348549/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Rise Data Labs</strong></td>
+<td><a href="https://trueinterview.io/jobs/83198307-6ddc-4031-a665-03f1c8d507f7">AI Training Specialist - Electrical Engineering Focus</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485058844/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Bounteous</strong></td>
+<td><a href="https://trueinterview.io/jobs/b1cd8d71-a629-47f5-8630-3f9f57a2f401">AWS Cloud and AI Engineer (Local to Bethesda, Mar</a></td>
+<td>Maryland, United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487224684/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>TEKsystems</strong></td>
+<td><a href="https://trueinterview.io/jobs/274b4099-1a30-4309-9363-4be339e2b6c6">Ai Engineer</a></td>
+<td>Palo Alto, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487222514/">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
@@ -2805,35 +2791,37 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4486190545/">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
+<tr>
+<td><strong>Altimetrik</strong></td>
+<td><a href="https://trueinterview.io/jobs/eafedd27-cb67-4c4b-b526-6fc2780a4b82">AI Software Engineer – Vulnerability Remediation</a></td>
+<td>Princeton, NJ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486195257/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Meta Black</strong></td>
+<td><a href="https://trueinterview.io/jobs/59421c4a-66e2-4ad1-a8b7-c5ea79ef171f">Python Agent Developer / Python AI Developer</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484369480/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Tolmo</strong></td>
+<td><a href="https://trueinterview.io/jobs/4d140876-6f65-4459-a94c-435e664964d3">Research Engineer, AI Security</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/tolmo/f08cb48e-4950-416b-9f75-1eb624a2d9aa">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Thurn Partners</strong></td>
+<td><a href="https://trueinterview.io/jobs/87585314-caa8-4ed5-a3dc-98ae7b661b6c">Frontier AI Lab - Researcher</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4480697298/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
 </tbody>
 </table>
 
-## Elsewhere in the world
-
-_Roles outside the United States & Canada, and roles whose country the catalog could not read._
-
-<table>
-<thead>
-<tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>Qualcomm</strong></td>
-<td><a href="https://trueinterview.io/jobs/76e7a9a4-1041-452f-9250-f9bc506503f5">AI Software Engineer</a></td>
-<td>Guangzhou-Foshan Metropolitan Area</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4491194268/">Apply</a></td>
-<td align="center">17 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>NXP Semiconductors</strong></td>
-<td><a href="https://trueinterview.io/jobs/a76160fb-c47c-40e2-9c4b-b779f037f838">Working Student (f/m/d) LLM Wiki &amp; Agentic AI Knowledge Systems</a></td>
-<td>Hamburg, Hamburg, Germany</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4491194008/">Apply</a></td>
-<td align="center">17 Nov 2026</td>
-</tr>
-</tbody>
-</table>
-
-<sub>Page 1 of 2 · [Page 2 →](ai-engineer-2.md)</sub>
+<sub>Page 1 of 3 · [Page 2 →](ai-engineer-2.md)</sub>
 
 [← Every filter](../README.md) · [Back to the full list](../../README.md)

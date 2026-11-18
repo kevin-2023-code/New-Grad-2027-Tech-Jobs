@@ -2,7 +2,7 @@
 
 # 🏜️ Salt Lake City & Utah
 
-**19 open roles.**
+**32 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>1-800 Contacts</strong></td>
-<td><a href="https://trueinterview.io/jobs/a5704aea-b14a-428a-b0ef-4eca9da401d3">Frontend Engineer, AI Prototyping</a></td>
-<td>Draper, UT</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4491593724/">Apply</a></td>
-<td align="center">17 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>Omega EDI</strong></td>
 <td><a href="https://trueinterview.io/jobs/12f15724-fa0f-4677-b2ef-d33d7e6b6564">Software Engineer</a></td>
@@ -123,6 +116,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Utah First Credit Union</strong></td>
+<td><a href="https://trueinterview.io/jobs/62bae72c-255d-4685-85cf-8cc14fd662dd">Technical Product Owner</a></td>
+<td>Salt Lake City, UT</td>
+<td align="center"><a href="https://www.applicantpro.com/openings/utahfirst/jobs/4267649-69675">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Valen Solutions</strong></td>
 <td><a href="https://trueinterview.io/jobs/cdcd982c-a8ab-49f8-9620-7ea8136995ed">Wireless Survey Engineer — Ekahau / Passive &amp; Active Site Surveys — Lehi, UT</a></td>
 <td>Lehi, UT</td>
@@ -149,6 +149,97 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Salt Lake City, UT</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485757712/">Apply</a></td>
 <td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>DigiCert</strong></td>
+<td><a href="https://trueinterview.io/jobs/46454551-4dad-4f42-a755-fd4c34f6c1a5">NetOps SRE</a></td>
+<td>Lehi, UT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4404431381/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>University of Utah</strong></td>
+<td><a href="https://trueinterview.io/jobs/6bcd779b-8850-4277-a020-1c768d389006">Desktop Support Engineer</a></td>
+<td>Salt Lake City, UT</td>
+<td align="center"><a href="https://employment.utah.edu/F32E48B798C24C2C97C2B3FDEAA3F249/job/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Gravity Networks</strong></td>
+<td><a href="https://trueinterview.io/jobs/7d2b79a2-edf7-4e12-a442-809a2ea58c85">IT Support Engineer (Remote + Onsite) — Weber County, Utah</a></td>
+<td>Ogden, UT</td>
+<td align="center"><a href="https://gravity-networks.breezy.hr/p/8e0d4fab7ccc-it-support-engineer-remote-onsite-weber-county-utah">Apply</a></td>
+<td align="center">1 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Vivint</strong></td>
+<td><a href="https://trueinterview.io/jobs/d4b4fcc5-2856-45f7-acc7-f7b245e6b5cd">Data Analyst</a></td>
+<td>Provo, UT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475274034/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NRG Energy</strong></td>
+<td><a href="https://trueinterview.io/jobs/89c29101-7560-4b1e-9ebe-bffcf58409ce">Data Analyst</a></td>
+<td>Provo, UT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475262903/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Anrok</strong></td>
+<td><a href="https://trueinterview.io/jobs/8295d3e2-38a3-41ad-8d71-907e9db3c5e2">Partner Solutions Engineer</a></td>
+<td>Salt Lake City, UT<br/>New York, NY<br/>San Francisco, CA<br/>+1 more</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/anrok/a7b9b79d-c91b-436a-94f6-2c5d7a908aca">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>J-U-B ENGINEERS, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/4b15f38c-e85a-4390-98c1-29bb2036ec58">Engineer-in-Training (EIT) - Project Designer</a></td>
+<td>Salt Lake City, UT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485263283/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Medical Review Institute of America</strong></td>
+<td><a href="https://trueinterview.io/jobs/653ad1bd-88e3-41df-9e98-efbf067bcd71">Database Administrator (Fully Remote)</a></td>
+<td>Salt Lake City, UT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485271439/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Regions Bank</strong></td>
+<td><a href="https://trueinterview.io/jobs/4ca191c1-fda5-44fd-8a2e-a47b601f42f2">Data &amp; Analytics Analyst - CRM &amp; Sales Reporting</a></td>
+<td>Salt Lake City, UT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485258703/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Barr Engineering Co.</strong></td>
+<td><a href="https://trueinterview.io/jobs/6b18c6f7-0c63-4547-9e8a-560825d89235">Environmental Engineer – Entry Level (Hybrid)</a></td>
+<td>Salt Lake City, UT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4457789551/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>HEICO</strong></td>
+<td><a href="https://trueinterview.io/jobs/0126514d-4558-477f-a1e2-b37bf0bce2b2">Engineer</a></td>
+<td>Provo, UT<br/>Peachtree City, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484751641/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ClickLease</strong></td>
+<td><a href="https://trueinterview.io/jobs/848d21e0-2ddc-4ae6-b30a-23bf6c2f0924">Database Reliability Engineer</a></td>
+<td>Draper, UT</td>
+<td align="center"><a href="https://ats.rippling.com/clicklease/jobs/a6a988a1-1433-44ec-973e-9f7dfa2319cd?jobSite=Indeed">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Quilt Software</strong></td>
+<td><a href="https://trueinterview.io/jobs/237fcdaf-89e5-409b-9aee-d1fd114a993a">T1 Technical Support Analyst</a></td>
+<td>Provo, UT</td>
+<td align="center"><a href="https://apply.workable.com/j/C6343E325B">Apply</a></td>
+<td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
 </table>

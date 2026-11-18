@@ -2,7 +2,7 @@
 
 # Backend Engineer
 
-**87 open roles.** 53 in the United States & Canada · 34 elsewhere in the world.
+**125 open roles.** 71 in the United States & Canada · 54 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -388,6 +388,132 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://jobs.ashbyhq.com/zed/a7ef7d02-306a-4108-aad8-4f267686e4eb">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
+<tr>
+<td><strong>Spatial Front, Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/e51e7824-159b-44cf-82ef-88619ba44941">Backend Developer</a></td>
+<td>Arlington, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4383236702/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Crossing Hurdles</strong></td>
+<td><a href="https://trueinterview.io/jobs/dd2a16f4-3cd0-413a-ac43-f5252fdc7b87">Backend Engineer | Remote</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485707348/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>EVONA</strong></td>
+<td><a href="https://trueinterview.io/jobs/17ec398b-3a4d-48be-8317-d86c1901f021">Back-end Engineer</a></td>
+<td>Denver, CO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4454644770/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ActAI</strong></td>
+<td><a href="https://trueinterview.io/jobs/6357de24-2b60-46b0-bf8e-64b448966a17">Backend Engineer, AI (Agent Systems)</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484031177/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Tricon Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/309d0786-653d-4fe4-b8d0-de718caed14c">Java / Spring Boot Software Engineer - W2 (Entry Level/Early Career)</a></td>
+<td>Englewood Cliffs, NJ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486111213/">Apply</a></td>
+<td align="center">1 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Torentify</strong></td>
+<td><a href="https://trueinterview.io/jobs/11cfe2fa-7878-484e-a5d0-8e03987da469">Backend Engineer - AI</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485926999/">Apply</a></td>
+<td align="center">1 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>CoinRoutes</strong></td>
+<td><a href="https://trueinterview.io/jobs/f76431b7-7de2-4d88-a068-ea3a86d9c552">BackEnd Developer - Miami, FL</a></td>
+<td>Miami, FL</td>
+<td align="center"><a href="https://coinroutes-inc.breezy.hr/p/4809389618cd-backend-developer-miami-fl">Apply</a></td>
+<td align="center">1 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Inherent Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/983a8155-a3b6-4af2-a3ff-e8f3d151ed89">Java Developer</a></td>
+<td>Miami, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485901988/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/966f5e7a-70f1-4fb3-b9ea-834cc5e4dd37">Entry Level Back End Developer - Poughkeepsie, NY - 2027</a></td>
+<td>Poughkeepsie, AR</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4458020556/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Great Value Hiring</strong></td>
+<td><a href="https://trueinterview.io/jobs/bbaad549-ae1b-4f91-834e-78858f22e281">Backend Software Engineer</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474689042/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Jobgether</strong></td>
+<td><a href="https://trueinterview.io/jobs/72d46101-aa34-4428-955a-8426614589d4">Backend Engineer, Source Code: Repository Services (Ruby)</a></td>
+<td>Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484808860/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>The City University of New York</strong></td>
+<td><a href="https://trueinterview.io/jobs/f5bdb761-edab-4abc-950e-535a889b5b71">Backend Developer</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485287840/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>City University of New York</strong></td>
+<td><a href="https://trueinterview.io/jobs/dc48d229-94b9-4ecf-80e9-87cf6cfde62c">Backend Developer</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://cuny.jobs/CD71F89BB779446AA9F7EA1FAE82B45C/job/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>GitLab Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/55b89144-466d-45e4-8804-33ea66535748">Backend Engineer, Source Code: Repository Services (Ruby)</a> 🌐</td>
+<td>Remote — United Kingdom, Canada</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/gitlab/jobs/8922427002">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Loft Orbital</strong></td>
+<td><a href="https://trueinterview.io/jobs/b2434ff4-ab03-4b99-b8db-01b1e945baab">Backend Engineer - Oort</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483413065/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Bitovi</strong></td>
+<td><a href="https://trueinterview.io/jobs/c6d27fd6-8011-4833-95c2-70a0c97ef96b">Backend Developer Consultant (GraphQL &amp; Kafka)</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4479134586/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Trinity Cyber</strong></td>
+<td><a href="https://trueinterview.io/jobs/02cb9f91-848f-4e10-8101-cd8a5496c18c">Back End Developer</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4458860916/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Anything</strong></td>
+<td><a href="https://trueinterview.io/jobs/c7924048-5474-40e2-b96d-2aefe2e72395">Backend Engineer - AI</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4332205894/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -590,6 +716,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>LeoVegas</strong></td>
+<td><a href="https://trueinterview.io/jobs/e7461efe-7a5e-43f1-9ae9-c13482e0927b">Backend Engineer - Gaming</a></td>
+<td>Málaga, Spain</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/leovegasgroup/bf4724f8-dab6-4438-bab9-76a97a998c9c">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Bet365</strong></td>
 <td><a href="https://trueinterview.io/jobs/840e4288-67d1-4111-8221-b1da82ce409c">Backend Developer, Followscores</a></td>
 <td>Stoke-on-Trent, England, United Kingdom</td>
@@ -637,6 +770,139 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Madrid, Spain</td>
 <td align="center"><a href="https://job.tecdata.es/jobs/8660661-backend-engineer-linux">Apply</a></td>
 <td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>YOTI</strong></td>
+<td><a href="https://trueinterview.io/jobs/353ac21c-20bb-4124-b439-7d89d2abbcfb">Backend Engineer (Mid)</a></td>
+<td>London, United Kingdom</td>
+<td align="center"><a href="https://app.screenloop.com/careers/yoti/job_posts/9115?tab=overview">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>JFrog</strong></td>
+<td><a href="https://trueinterview.io/jobs/46952fe8-468b-4d97-8577-fc8f4b96a55c">Back End Engineer - JFrog Security</a></td>
+<td>—</td>
+<td align="center"><a href="https://grnh.se/zjjl7teb1us">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Shopee</strong></td>
+<td><a href="https://trueinterview.io/jobs/2fbd66d4-9674-4e7d-9bad-e0f97fda8292">Backend Engineer, Engineering Infra - DBaas (2027 Graduate)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4444114182/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/90406e25-2709-400c-8567-223018a48171">Backend Engineer, Engineering Infra - NDRE (2027 Graduate)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4446008671/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/104c1561-5a56-4dc3-a2f9-5fad8f39d4f4">Backend Engineer, SRA - Promotion (2027 Graduate)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4444524851/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Prima</strong></td>
+<td><a href="https://trueinterview.io/jobs/632cb7e7-f619-4eff-bfed-34d6468b95ff">Back End Engineer</a> 🌐</td>
+<td>Remote — United Kingdom, Spain</td>
+<td align="center"><a href="https://jobs.eu.lever.co/prima/59727725-ee2c-40dc-955a-70811f4a37c1">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Shopee</strong></td>
+<td><a href="https://trueinterview.io/jobs/24f1521a-f6ed-4917-b2ad-a63b64cd3649">Backend Engineer - Marketplace, Promotion</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4432247036/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Blockchain.com</strong></td>
+<td><a href="https://trueinterview.io/jobs/398ede9e-3ff4-4ce8-86ef-7e155e059163">Back-End Engineer, Trading</a></td>
+<td>London Area, United Kingdom</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/blockchain/jobs/8066832">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Rakuten Asia Pte Ltd</strong></td>
+<td><a href="https://trueinterview.io/jobs/77a5f628-d196-4fec-ad5f-0282e2e07de4">Backend Engineer, Agent Development (EC AI)</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4452405074/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Wise</strong></td>
+<td><a href="https://trueinterview.io/jobs/a2613320-a666-434c-b150-b1bcecaab690">Backend Engineer - Send Experience</a></td>
+<td>London, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4458312206/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Client Server</strong></td>
+<td><a href="https://trueinterview.io/jobs/e47ecfef-22f3-4379-baf8-ac1612f38708">Backend Software Engineer C++ Python - Trading</a></td>
+<td>London, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484209936/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Codefield</strong></td>
+<td><a href="https://trueinterview.io/jobs/2f3e0134-84cf-4da8-994a-cc2b048ed345">Backend Developer Drupal PHP</a></td>
+<td>Utrecht, Utrecht, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485310743/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Schotstek GmbH</strong></td>
+<td><a href="https://trueinterview.io/jobs/ecac5683-056c-48c8-81c2-463a816632fc">Backend developer- Python (m/f/d)</a></td>
+<td>Frankfurt Rhine-Main Metropolitan Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483431630/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CowManager</strong></td>
+<td><a href="https://trueinterview.io/jobs/820143c8-c898-40a3-8438-f05e6b7da1ba">.NET Backend Developer</a></td>
+<td>Harmelen, Utrecht, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484828484/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Xoriant</strong></td>
+<td><a href="https://trueinterview.io/jobs/cbc42b57-502a-4534-b2e8-f14f5199041c">Java Backend Developer</a></td>
+<td>Dublin, County Dublin, Ireland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474126648/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Boltin</strong></td>
+<td><a href="https://trueinterview.io/jobs/5fd76c15-efe2-4094-89ae-e1a9a167ce3e">Java Backend Developer</a></td>
+<td>Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484820015/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Career Connect Society</strong></td>
+<td><a href="https://trueinterview.io/jobs/dc4f3145-21e5-4dcb-8eee-93b6a6373acb">Backend Developer / Frontend Developer / Full Stack Developer</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484593848/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Michael Page</strong></td>
+<td><a href="https://trueinterview.io/jobs/8f75f0a3-b790-4a5a-9a85-dc0692e9d86b">Backend Engineer (wdm) - Go, Data and Event-Driven Systems</a></td>
+<td>Berlin, Berlin, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467295048/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>TekWissen India</strong></td>
+<td><a href="https://trueinterview.io/jobs/b75b1dbd-003a-47d0-ba1b-757c3f4e5628">Java Backend Developer</a></td>
+<td>Bengaluru, Karnataka, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484939893/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
 </table>

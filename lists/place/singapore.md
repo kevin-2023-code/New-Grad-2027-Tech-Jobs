@@ -2,7 +2,7 @@
 
 # 🇸🇬 Singapore
 
-**106 open roles.** 9 in the United States & Canada · 97 elsewhere in the world.
+**263 open roles.** 9 in the United States & Canada · 254 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -92,13 +92,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Clera</strong></td>
-<td><a href="https://trueinterview.io/jobs/61db1de8-0971-46ca-9473-074725fe0e64">Forward Deployed Research Engineer</a></td>
-<td>Singapore</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/Clera/6631e00e-2147-4862-bf98-2f9d4f7fb840">Apply</a></td>
-<td align="center">17 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>ByteDance</strong></td>
 <td><a href="https://trueinterview.io/jobs/c9193bc4-161a-475e-a9dd-dda506fa7472">Applied Machine Learning Orchestration Graduate (AML) - 2027 Start</a></td>
@@ -770,6 +763,1112 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484386372/">Apply</a></td>
 <td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Systemonex Pvt Ltd</strong></td>
+<td><a href="https://trueinterview.io/jobs/d07ca66d-17cf-4fd8-93b8-b15a4107e31f">Java Developer</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://sg.indeed.com/viewjob?jk=e56f1f445c520bc0">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Shopee</strong></td>
+<td><a href="https://trueinterview.io/jobs/763ee205-1e66-4447-a1a8-f430325d237e">Site Reliability Engineer, Data Infrastructure (2027 Graduate)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://careers.shopee.sg/job-detail/137770">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>DRW</strong></td>
+<td><a href="https://trueinterview.io/jobs/f1824345-4ba7-4f06-a9ec-2b694a62e7e4">Options Trading Systems Engineer</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/drweng/jobs/7182464">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>SAP</strong></td>
+<td><a href="https://trueinterview.io/jobs/698431f2-fc7f-4162-907a-2b655c8fe772">AI Scientist (Document AI) – SAP Labs East Asia Singapore</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484347516/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>SAP IT Business Systeme</strong></td>
+<td><a href="https://trueinterview.io/jobs/6310f52f-c9ee-4493-9e62-cbdc4ddca273">AI Scientist (Document AI) – SAP Labs East Asia Singapore</a></td>
+<td>Singapore, Singapore<br/>Queenstown, Singapore</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000159053969-ai-scientist-document-ai-sap-labs-east-asia-singapore">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>AIMO ENTERTAINMENT PTE. LTD.</strong></td>
+<td><a href="https://trueinterview.io/jobs/850d9eb1-644d-4ed3-95d0-2fa81cebb665">Lighting Designer &amp; Programmer</a></td>
+<td>Toa Payoh, Singapore</td>
+<td align="center"><a href="https://www.mycareersfuture.gov.sg/job/b676c0d8143ac054d4334a97e62d398b">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>BITMAIN DEVELOPMENT PTE. LTD.</strong></td>
+<td><a href="https://trueinterview.io/jobs/7fd0b443-e7d4-4f9f-9630-72f7cd14a9de">Embedded Software Engineer</a></td>
+<td>Outram, Singapore</td>
+<td align="center"><a href="https://www.mycareersfuture.gov.sg/job/a2ec9fcee835b5a0375805f855af1cc2">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>CTR Asia Pte. Ltd.</strong></td>
+<td><a href="https://trueinterview.io/jobs/f1146de1-02ee-4e5c-8220-7c2f8a3eee0e">Data Quality Assurance Analyst (Fintech / Document Processing)</a></td>
+<td>Bugis, Singapore</td>
+<td align="center"><a href="https://www.mycareersfuture.gov.sg/job/ce665fd1293423453cc50c4ccb814ede">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>GOODWILL ENTERTAINMENT HOLDING LIMITED</strong></td>
+<td><a href="https://trueinterview.io/jobs/81444f78-bfc4-4464-814e-3a5ab00a5f29">Lighting Designer &amp; Programmer</a></td>
+<td>Toa Payoh, Singapore</td>
+<td align="center"><a href="https://www.mycareersfuture.gov.sg/job/d7468eb164c8a8715d718245b1ac0d0f">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Gravitas Recruitment Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/6933c1d6-9067-482f-9576-11e0fd574a94">Electronic Trading Support Engineer</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.efinancialcareers.sg/jobs-Singapore-Singapore-Electronic_Trading_Support_Engineer.id24963827">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>HAPPY HOUR GAMES PTE. LTD.</strong></td>
+<td><a href="https://trueinterview.io/jobs/41a21dda-7e24-4014-80fa-0932f1a0e780">Creative Content Designer</a></td>
+<td>Outram, Singapore</td>
+<td align="center"><a href="https://www.mycareersfuture.gov.sg/job/8df02b4ef7bc82cbf2abfca475e4805d">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>HIVVE SG PTE. LTD.</strong></td>
+<td><a href="https://trueinterview.io/jobs/a0e57263-1a28-48a7-b866-7d05dcd8b24b">AI Prompt Engineer</a> 🌐</td>
+<td>Remote — Singapore<br/>River Valley, Singapore</td>
+<td align="center"><a href="https://www.mycareersfuture.gov.sg/job/e75188f6feed635f75b2443226f505f1">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>HTC Software Singapore Pte Ltd</strong></td>
+<td><a href="https://trueinterview.io/jobs/71d64daa-b1ca-4049-8986-68fdf27bba7c">Java Full-stack developer</a></td>
+<td>Outram, Singapore</td>
+<td align="center"><a href="https://www.mycareersfuture.gov.sg/job/679f801d5bddfda13cd3749f65807712">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>KRIS INFOTECH PTE. LTD.</strong></td>
+<td><a href="https://trueinterview.io/jobs/bb2aef13-ff06-4428-84cf-23cf7de02c62">Outsystems Developer</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.mycareersfuture.gov.sg/job/da797fbc2228a5b1d3105d6aa6e9b87a">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>LTM LIMITED Singapore Branch</strong></td>
+<td><a href="https://trueinterview.io/jobs/a900cf3a-65f8-4354-a545-95ba7499920b">Software Engineer</a></td>
+<td>Bedok, Singapore</td>
+<td align="center"><a href="https://www.mycareersfuture.gov.sg/job/832ddd4eb503f3a7d0f8a07c0d4fc5df">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Neo Garden Catering Pte. Ltd.</strong></td>
+<td><a href="https://trueinterview.io/jobs/982ef58e-e498-473d-8818-3029353e13eb">AI Application Developer</a></td>
+<td>Jurong Island, Singapore</td>
+<td align="center"><a href="https://www.mycareersfuture.gov.sg/job/d20a85671e09c5ab229a1ceb0b8fe28d">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>PATEC PTE. LTD.</strong></td>
+<td><a href="https://trueinterview.io/jobs/0e34b0de-150a-468c-bfe9-3181426be0ed">Software Engineer</a></td>
+<td>Serangoon, Singapore</td>
+<td align="center"><a href="https://www.mycareersfuture.gov.sg/job/1c74301686a06397671fde0aa7db7eb1">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>PhotoPress</strong></td>
+<td><a href="https://trueinterview.io/jobs/de2dee56-d0c1-45a8-94e5-8b1e642941b4">FULL STACK DEVELOPER</a></td>
+<td>Jurong Island, Singapore</td>
+<td align="center"><a href="https://www.mycareersfuture.gov.sg/job/71a9d59ec81d5dc35cbbfc158f0279a1">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>R Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/67bea718-dad5-432a-ae39-c9e4f472cc6f">Developer</a></td>
+<td>Bukit Merah, Singapore</td>
+<td align="center"><a href="https://www.mycareersfuture.gov.sg/job/c2be4374c754ed3c886cd4ebb8baae80">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>RISKDATA CONSULTING PTE. LTD.</strong></td>
+<td><a href="https://trueinterview.io/jobs/1a6441f3-bb60-4fd3-b9a8-86c6de58c8e1">Software Engineer</a></td>
+<td>Bedok, Singapore</td>
+<td align="center"><a href="https://www.mycareersfuture.gov.sg/job/41da8fb527ff699c7b09d364feb8e067">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>RMA Contracts Pte Ltd</strong></td>
+<td><a href="https://trueinterview.io/jobs/35d8dedf-2944-4bc0-a50d-89def28cee84">Software Engineer – AI &amp; Automation/Contract/West</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.mycareersfuture.gov.sg/job/5ae50b239679f81b4dfddb3b51090433">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>SGX</strong></td>
+<td><a href="https://trueinterview.io/jobs/4167018e-fd3b-45af-8868-4e603f122f57">AVP, Software Engineer (Data)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://careers.sgx.com/job/Singapore-AVP%2C-Software-Engineer-%28Data%29/1369767166/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>TALENTSIS PTE. LTD.</strong></td>
+<td><a href="https://trueinterview.io/jobs/465dcf43-e01c-4e5d-b2ca-aa1e84312cb0">UI/UX Engineer</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.mycareersfuture.gov.sg/job/b0595295ed685b70eea27937f5b73e74">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Visa</strong></td>
+<td><a href="https://trueinterview.io/jobs/597bab0b-4334-48b0-8a44-e2e12b4e8548">Associate Product Manager Program</a></td>
+<td>Singapore, Singapore<br/>Downtown Core, Singapore</td>
+<td align="center"><a href="https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/SG---Singapore/Associate-Product-Manager-Program_REF089093W">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Activate Interactive Pte Ltd</strong></td>
+<td><a href="https://trueinterview.io/jobs/aa696b41-ead9-44ae-a71e-1c1bf5777f08">Software Engineer (Typescript) - A26262</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://apply.workable.com/j/4A5D44CA9B">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Shopee</strong></td>
+<td><a href="https://trueinterview.io/jobs/e6fd97e6-c10f-4e91-8895-de74322a65fa">Agentic Commerce AI Agent Algorithm Engineer</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4458934788/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/2fbd66d4-9674-4e7d-9bad-e0f97fda8292">Backend Engineer, Engineering Infra - DBaas (2027 Graduate)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4444114182/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/90406e25-2709-400c-8567-223018a48171">Backend Engineer, Engineering Infra - NDRE (2027 Graduate)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4446008671/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/104c1561-5a56-4dc3-a2f9-5fad8f39d4f4">Backend Engineer, SRA - Promotion (2027 Graduate)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4444524851/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/a83e0eac-d979-4c5c-b3d1-1c02733654f5">Cybersecurity Engineer (Web Security) - Information Security (2027 Graduate)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4446762748/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/b0fa8526-f6cf-4be8-94cd-f97fd642b0c4">Site Reliability Engineer, Engineering Infra - AZ SRE (2027 Graduate)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4444115149/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/ed6550b2-d1f7-4ab9-a89d-621821b9bf50">Site Reliability Engineer, Engineering Infra - NDRE (2027 Graduate)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4446029755/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/11b5fbc4-c04c-47df-ba6b-5f2ca4737e95">Data Analyst - Brand Analytics, Regional Brand Partnership</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4459764791/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Govtech</strong></td>
+<td><a href="https://trueinterview.io/jobs/23eefff5-86c7-4361-8c8d-6e5805f721da">Network Infrastructure Engineer, DNS &amp; Proxy</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://jobs.careers.gov.sg/jobs/greenhouse/4008747201?gh_jid=4008747201">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>JPMorgan Chase</strong></td>
+<td><a href="https://trueinterview.io/jobs/07050dd0-c929-49ac-a79e-7b485c824429">Quantitative Trading &amp; Research - Commodities Quantitative Trading – Analyst</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210738947">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Shopee</strong></td>
+<td><a href="https://trueinterview.io/jobs/24f1521a-f6ed-4917-b2ad-a63b64cd3649">Backend Engineer - Marketplace, Promotion</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4432247036/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Applied Materials</strong></td>
+<td><a href="https://trueinterview.io/jobs/6e051f07-7769-4089-915d-25de65e05f3f">Process Support Engineer (Thin Film)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790319118220">Apply</a></td>
+<td align="center">1 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>FONTES SINGAPORE PRIVATE LIMITED</strong></td>
+<td><a href="https://trueinterview.io/jobs/30d0dd1c-ce64-41b7-93aa-13a22b978f0b">Embedded AI Engineer</a></td>
+<td>Jurong Island, Singapore</td>
+<td align="center"><a href="https://www.mycareersfuture.gov.sg/job/507cf41586d8f63087c298d6eb554858">Apply</a></td>
+<td align="center">1 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>HALIMAH &amp; SONS PTE. LTD.</strong></td>
+<td><a href="https://trueinterview.io/jobs/61ce565e-1055-432e-961e-050ef7639a03">computer programmer</a></td>
+<td>Bugis, Singapore</td>
+<td align="center"><a href="https://www.mycareersfuture.gov.sg/job/35b488e99a6ff3a74edbc2da3b603ecc">Apply</a></td>
+<td align="center">1 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon Web Services (AWS)</strong></td>
+<td><a href="https://trueinterview.io/jobs/dae4ec38-a980-4123-bb78-0793c374b81b">AWS Enterprise Technologist, Cloud AI &amp; Innovation</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4478043625/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ByteDance</strong></td>
+<td><a href="https://trueinterview.io/jobs/1aead2cc-125f-41fb-830f-05c337466b77">Red Team Engineer Graduate (Security Assurance) - 2027 Start</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477824953/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>RMR INTERNATIONAL PRIVATE LIMITED</strong></td>
+<td><a href="https://trueinterview.io/jobs/3e82f0ee-da66-48b3-8f80-81cbd48b35ed">AI ENGINEER</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.mycareersfuture.gov.sg/job/5c539df007f888e365b2d633329edbdd">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>WILMAR DISTRIBUTION PTE. LTD.</strong></td>
+<td><a href="https://trueinterview.io/jobs/dee1ef49-948d-4515-bced-668fcf3260e6">Solutions Engineer (AI &amp; Automation)</a></td>
+<td>Clementi, Singapore</td>
+<td align="center"><a href="https://www.mycareersfuture.gov.sg/job/eaececa4d531479e09e097a7bb29ebac">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Rakuten Asia Pte Ltd</strong></td>
+<td><a href="https://trueinterview.io/jobs/77a5f628-d196-4fec-ad5f-0282e2e07de4">Backend Engineer, Agent Development (EC AI)</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4452405074/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>TikTok</strong></td>
+<td><a href="https://trueinterview.io/jobs/f2c54349-497f-4551-9717-70a485758eec">Site Reliability Engineer, Monetization Technology</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484886322/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ByteDance</strong></td>
+<td><a href="https://trueinterview.io/jobs/18bf5c01-b048-4057-b07d-201a84d06888">Network Implementation Engineer, Physical Network Infrastructure</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484888745/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Google</strong></td>
+<td><a href="https://trueinterview.io/jobs/df3e7ab0-2d9c-4a97-8db0-52d8f7381d3f">Software Engineer, Google Pay, Server</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475987141/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Fullerton Health Singapore</strong></td>
+<td><a href="https://trueinterview.io/jobs/3b22381c-8b3e-4660-803e-9be4ac29d13a">Human Resources Payroll (ML cover)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484824761/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Housing &amp; Development Board</strong></td>
+<td><a href="https://trueinterview.io/jobs/0de651a0-154d-4e4a-905c-97ead119f66d">Engineer (LRD)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483431896/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>HSC Pipeline Engineering</strong></td>
+<td><a href="https://trueinterview.io/jobs/7cc90806-a36e-46b1-88a2-8db214b9cd03">Project Engineer</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484841145/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>REC</strong></td>
+<td><a href="https://trueinterview.io/jobs/1f08b1bd-c1aa-45b9-a8de-d120b115fb98">Engineer, Planning</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483442394/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Civil Aviation Authority of Singapore</strong></td>
+<td><a href="https://trueinterview.io/jobs/a4e902d6-02fe-411e-9bbc-7c7312225daa">Engineer (Integrated Digital Tower System)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483435644/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>DRW</strong></td>
+<td><a href="https://trueinterview.io/jobs/af9d9009-427c-4851-9b89-87d8bc6d065f">Trade Support Engineer</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/drweng/jobs/8168988">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Singtel</strong></td>
+<td><a href="https://trueinterview.io/jobs/779d2f18-68bf-4acc-a0a5-4b06054537d4">Engineer (Tier 2)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4459166731/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>National University of Singapore</strong></td>
+<td><a href="https://trueinterview.io/jobs/5d3b55a1-e244-44fd-a7bb-e9a99d2c4864">Software Engineer (GAI)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485329293/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Crédit Agricole CIB</strong></td>
+<td><a href="https://trueinterview.io/jobs/c681ea18-17cc-49cb-a21a-2dde0c1b58ff">Java Software Engineer</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4445706342/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ByteDance</strong></td>
+<td><a href="https://trueinterview.io/jobs/7739d6ae-06f5-43d9-bc26-1e9cd2e47567">Data Engineer Graduate(TikTok Recommendation Ecosystem Architecture, Singapore) - 2027 Start (PhD)</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477158594/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Reolink</strong></td>
+<td><a href="https://trueinterview.io/jobs/fecf3f82-7714-4003-84dd-a5e4340922d6">Machine Learning Engineer | Audio, Speech, Acoustics &amp; Sound</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/reolink/jobs/4473705009">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Assurity Trusted Solutions Pte Ltd</strong></td>
+<td><a href="https://trueinterview.io/jobs/e866d79a-b54d-4291-a1de-49d2afe94e8e">Cybersecurity Operations Engineer (CIO Office)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485312788/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ByteDance</strong></td>
+<td><a href="https://trueinterview.io/jobs/12b87b12-d378-4bcf-bea5-b84634ca2250">Infrastructure Engineer Graduate (TikTok Recommendation Architecture, Singapore) - 2027 Start (PhD)</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477174022/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Keywords Studios</strong></td>
+<td><a href="https://trueinterview.io/jobs/7a73471e-1f02-4615-9e25-9514564173e9">Software Engineer</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474584722/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/873d9020-ef34-4bbf-89d5-333c1218c720">Technical Designer- Gameplay Engineer</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475535096/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ramboll</strong></td>
+<td><a href="https://trueinterview.io/jobs/0cfd0e54-c4ab-4e37-9d6d-e3f16d4f9663">Graduate Structural Engineer - “High-Rise &amp; Complex Buildings”</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Ramboll3/744000158715219-graduate-structural-engineer-high-rise-complex-buildings-">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Bosch Building Technologies Europe</strong></td>
+<td><a href="https://trueinterview.io/jobs/00e32a3a-ea32-41d2-91e7-fc79ce888ba0">Research Scientist</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483867083/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/8619c974-1e81-465c-aee8-33d3b7051fb4">Research Scientist, AI</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483866154/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Reolink</strong></td>
+<td><a href="https://trueinterview.io/jobs/d5402cef-1ff4-445f-91f2-f265258a059a">Audio Algorithm Engineer (AI) | Master / PhD Holder</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/reolink/jobs/4473704009">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Hunter Bond</strong></td>
+<td><a href="https://trueinterview.io/jobs/62c848ed-6b2e-488a-b974-bb73882ecf12">Python Developer – Up to 200,000 SGD + Bonus + Package | Elite FinTech Firm | Singapore</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483431773/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Concentrix</strong></td>
+<td><a href="https://trueinterview.io/jobs/09e814b5-3141-4aca-97fc-f87d1d14be41">Power Platform Developer</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485310653/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ByteDance</strong></td>
+<td><a href="https://trueinterview.io/jobs/66558c18-0903-4df7-932b-77cdeeb8a954">AI Engineer (LLM/Multimodal) Graduate (TikTok Search) - 2027 Start (PhD)</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477162380/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>StarHub</strong></td>
+<td><a href="https://trueinterview.io/jobs/72b9a484-6b90-451a-8dec-b75ed8cba4f0">AI Transmission &amp; Automation Engineer</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4448847577/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SGX Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/2ba5d4c3-65a0-45cf-82e4-c8fb70741828">ED, Site Reliability Engineer</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484824649/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/614bd9b0-0874-4074-9d08-4f74c4ff23bb">SVP, Site Reliability Engineer</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484833370/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Red Hat</strong></td>
+<td><a href="https://trueinterview.io/jobs/c3be2b2b-b12f-441c-aa3a-15c1a45057dd">AI/ML Engineer</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4449199674/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Micron Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/bf6a487b-121d-49ed-86a0-20cb7d49ed49">Engineer, Product Development Engineering Key Equipment Group (PDE KEG)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467540414/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/c5744d3b-0fa1-439c-ba40-c53fb0f62356">Test Solutions Engineer</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467552217/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/9b44bcaa-49cc-44dd-a50c-7f03cfd494f8">Engineer, Process Control System</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467545318/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/26f20cbb-3836-499e-927f-af26e8281ab8">Engineer, Process Integration PDE (Package Development Engineering)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467543335/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/af7c528f-f88f-4f89-8925-699685a157ec">Engineer - QEM QDM</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467558137/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f94b772d-a33d-47d3-afd2-85742498f338">ENGINEER, High Bandwidth Memory (HBM) &amp; New Product Introduction (NPI)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467540412/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/a4fa4e3d-d385-4fbc-9df6-f34e7b66fddb">Engineer, Material</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467561109/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/a4f0778d-6f30-41a7-95fa-d2bb9fd8b91b">Engineer, Metro Real-time Defect Analysis (RDA) Process &amp; Equipment</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467557151/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/cd300fb3-cdad-412b-aa97-56729514f02d">Shift Engineer, Metro Real-time Defect Analysis</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467557150/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SGX Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/e66373fa-93a6-4824-b4c9-7a00b0ca1d90">SVP, Software Engineer</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484838182/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ACExcellent Consulting</strong></td>
+<td><a href="https://trueinterview.io/jobs/abc3c2a0-682d-4c15-973c-002eb155f1e1">Treasury Sales Trader/ Dealer (Foreign Bank)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484840087/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NCS Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/61c0ec43-08cf-4d08-b9b5-7dc91d456e7c">#EG IT Support Engineer</a></td>
+<td>Singapore, Singapore, Singapore</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/NCS3/6000000001538178--eg-it-support-engineer">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SGX Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/eb425671-4a3d-4664-9974-c3d4f19117e9">ED, Software Engineer</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484838148/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ceEntek Pte Ltd</strong></td>
+<td><a href="https://trueinterview.io/jobs/c34c562b-d75b-4b84-aedc-e419b97685e7">Assistant Engineer</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484832388/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ACExcellent Consulting</strong></td>
+<td><a href="https://trueinterview.io/jobs/361cbb2a-3d8c-4dbf-99b8-866fbd9fbfb8">IT Application Engineer (HPC for R&amp;D)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484835290/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Manpower Singapore</strong></td>
+<td><a href="https://trueinterview.io/jobs/56eaaef3-70ec-496f-a780-f5f45258cd5c">Data Engineer (AI/ML) Contract</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485303875/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Tardis Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/14cc8f61-7a54-44d9-aab8-37c31a5c9499">Execution Quantitative Researcher, Singapore</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485322025/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Unison Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/388ddb86-070d-4c79-92ab-6f5c2fb097e3">Cloud Engineer ( Google Cloud Engineer)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485320108/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Seatrium</strong></td>
+<td><a href="https://trueinterview.io/jobs/f8a696ce-c0bc-447a-8867-88d749d55491">Electrical Engineer</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485302773/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>PERSOL APAC</strong></td>
+<td><a href="https://trueinterview.io/jobs/c5728718-fc1a-4cc6-9d62-94c56c498bdc">Audio Software Engineer</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484835048/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Binance</strong></td>
+<td><a href="https://trueinterview.io/jobs/c97aacb4-cecd-4a0a-b0c3-5dba26154bdb">Binance Accelerator Program - Data Scientist, LLM Agents &amp; Fraud Detection (P2P)</a></td>
+<td>Singapore<br/>Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484834054/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>STMicroelectronics</strong></td>
+<td><a href="https://trueinterview.io/jobs/c6dd4787-20ea-46d7-a129-75bd38703b31">Engineer, Product &amp; Test Engineering</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485300837/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Smart IMS Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/4e291c42-2567-4b5e-8b98-56728bc893ab">Data Center Engineer | Network Infrastructure Engineer</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484815755/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>HTX (Home Team Science &amp; Technology Agency)</strong></td>
+<td><a href="https://trueinterview.io/jobs/262201a7-0083-4e34-bcef-0652cb8061f7">Blast Engineer (Structural Engineer), PSS CoE (PED)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483427122/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Siemens Energy</strong></td>
+<td><a href="https://trueinterview.io/jobs/d18a25e8-adcf-4486-9fdd-00e7579836fb">Automation - Service &amp; Commissioning engineer</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484816596/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SHEIN</strong></td>
+<td><a href="https://trueinterview.io/jobs/26e9379b-070f-458c-9a5e-178ceb832fab">IT Support Specialist</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484829064/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>GOLDTECH RESOURCES PTE LTD</strong></td>
+<td><a href="https://trueinterview.io/jobs/3ace9c6e-1382-4a2c-9928-21e040b75e22">Application Support Engineer (Banking / Payments)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485297738/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Career International 科锐国际</strong></td>
+<td><a href="https://trueinterview.io/jobs/59d40281-566d-43cb-ba46-220ce039d650">Electronic Engineer</a></td>
+<td>Paya Lebar, East Region, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477511578/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>OCBC</strong></td>
+<td><a href="https://trueinterview.io/jobs/92990e22-87bf-4c11-ab78-92c5405d1710">Software Engineer - AVP</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485306104/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>GlobalFoundries</strong></td>
+<td><a href="https://trueinterview.io/jobs/a630e96c-7113-4d3f-8456-c90f7daf119f">Environmental Engineer, APAC</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484814405/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Activate Interactive</strong></td>
+<td><a href="https://trueinterview.io/jobs/35228f76-3f4a-493f-b730-f2e82616c7fa">Data Scientist - A26422</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485294081/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Frencken</strong></td>
+<td><a href="https://trueinterview.io/jobs/37666251-e29c-4194-8f66-f30ee4992c6b">Manufacturing Engineer</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485297480/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>A-IT INVESTMENT PTE. LTD.</strong></td>
+<td><a href="https://trueinterview.io/jobs/45c1a02a-99ff-4661-850a-b87c7f2543c5">Developer : AML / KYC systems</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.mycareersfuture.gov.sg/job/635224c123e4703987f9c6bfa6b04e04">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>AIGLE SECURITY PTE. LTD.</strong></td>
+<td><a href="https://trueinterview.io/jobs/1e86c1df-bdeb-43b5-b039-21d6b8685494">AI Software Developer</a></td>
+<td>Bukit Merah, Singapore</td>
+<td align="center"><a href="https://www.mycareersfuture.gov.sg/job/71ce035cdfa16d74319bec7153503732">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>AJENTIK AI PTE. LTD.</strong></td>
+<td><a href="https://trueinterview.io/jobs/f9a1477b-aab5-4f97-83de-382e9a4ba2b4">AI Engineer</a></td>
+<td>River Valley, Singapore</td>
+<td align="center"><a href="https://www.mycareersfuture.gov.sg/job/540cfdaeb8ce572b5feea4d4a9454e81">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ALMR BUSINESS CONSULTING GROUP PTE. LTD.</strong></td>
+<td><a href="https://trueinterview.io/jobs/bf2fbd19-2d47-41b7-a655-7250be0c7f05">DevOps System Engineer</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.mycareersfuture.gov.sg/job/9b8740ccf5a9a7ffee7c7da5a7f533d4">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Citi</strong></td>
+<td><a href="https://trueinterview.io/jobs/6a2a6655-e977-4779-b2c1-194d40090d73">AI Engineer – Global Rates, APAC Local Markets Sales &amp; Trading</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://jobs.citi.com/job/singapore/ai-engineer-global-rates-apac-local-markets-sales-and-trading/287/102627659968">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>DNA AI TECHNOLOGIES PTE. LTD.</strong></td>
+<td><a href="https://trueinterview.io/jobs/5bb08171-40b0-4b84-bd85-cb8f50ae69e7">Devops Automation Engineer</a></td>
+<td>Outram, Singapore</td>
+<td align="center"><a href="https://www.mycareersfuture.gov.sg/job/83157b1aac1f1f1902bab29b8521e80d">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>JOBSTER PRIVATE LTD.</strong></td>
+<td><a href="https://trueinterview.io/jobs/f184873e-271c-43a5-ad50-bd470a7b5db2">Full Stack Engineer - #1750</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.mycareersfuture.gov.sg/job/397d88cc7f09e27ce74b919d4cce40e3">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>MARQUESS SERVICES PTE. LTD.</strong></td>
+<td><a href="https://trueinterview.io/jobs/a63cd747-3283-4168-880b-675fae32c9ab">Python Developer – AML/KYC Systems</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.mycareersfuture.gov.sg/job/bbadd4d4f808067e6cbc444f248c73af">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Meiban Micro Pte Ltd</strong></td>
+<td><a href="https://trueinterview.io/jobs/b89164c1-7fdc-4bc1-8c84-9c30c30661dd">SAP Developer</a></td>
+<td>Ang Mo Kio, Singapore</td>
+<td align="center"><a href="https://www.mycareersfuture.gov.sg/job/5c146d4d40e03f61eae43dfb942e0727">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>R Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/e7d85c09-4eca-47c7-80d9-d11de13a1fa9">Data Engineer (Platform)</a></td>
+<td>Bukit Merah, Singapore</td>
+<td align="center"><a href="https://www.mycareersfuture.gov.sg/job/2f5bcdf99a228dfb15e30747dcf1cefe">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SCHONFELD STRATEGIC ADVISORS (SINGAPORE) PTE. LTD.</strong></td>
+<td><a href="https://trueinterview.io/jobs/b55e536a-d497-4e4f-a488-5faa64deab59">AI Platform Engineer</a></td>
+<td>Outram, Singapore</td>
+<td align="center"><a href="https://www.mycareersfuture.gov.sg/job/2585094fdfe11a3e3ff1b91fa5dec1e1">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Seven 365</strong></td>
+<td><a href="https://trueinterview.io/jobs/4bb3a7fe-be46-4af8-959b-ecc332a8c82b">AI Software Developer</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.mycareersfuture.gov.sg/job/b18190331847340f186c4ade90556034">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SIMPLYGO PTE. LTD.</strong></td>
+<td><a href="https://trueinterview.io/jobs/37ad7c76-cb3a-4682-9eb0-2d8ada890998">Cloud Engineer</a></td>
+<td>Outram, Singapore</td>
+<td align="center"><a href="https://www.mycareersfuture.gov.sg/job/8b93a3093d8b1927c9528c32b813e1fa">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SPH MEDIA LIMITED</strong></td>
+<td><a href="https://trueinterview.io/jobs/c6a1d5c4-c047-4237-86b2-ead0f6416fab">Executive Digital Graphics Designer / Developer, The Business Times</a></td>
+<td>Toa Payoh, Singapore</td>
+<td align="center"><a href="https://www.mycareersfuture.gov.sg/job/c4468a68d6949f03eafe68a6b49b53c0">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>TALENTSIS PTE. LTD.</strong></td>
+<td><a href="https://trueinterview.io/jobs/5ff8343b-bf58-461c-a484-c7c1fb8a3e9f">Data Engineer</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.mycareersfuture.gov.sg/job/2bb90c9e8fb0213ee214a78904d59eac">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cognizant</strong></td>
+<td><a href="https://trueinterview.io/jobs/1509b9d3-54cb-4022-8605-06c12234f474">Low Code Engineer (Outsystems Platform)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475456045/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Save The Pulse Initiative - Africa</strong></td>
+<td><a href="https://trueinterview.io/jobs/367f96e3-77a7-4a3f-89f8-8dd8ac047807">QA Engineer / Software Test Engineer / Test Automation Engineer</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485285391/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Maltem Asia-Pacific</strong></td>
+<td><a href="https://trueinterview.io/jobs/4d577280-649c-43e2-af32-c494e17f5332">IT Hardware Refresh &amp; Deployment Engineer</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484821020/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Vantive</strong></td>
+<td><a href="https://trueinterview.io/jobs/b6942e76-f8b7-4d38-bb2e-1cbfcab61f7b">Process Engineer (1 year contract) Fresh Graduate Welcome to Apply!</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483402890/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Career Connect Society</strong></td>
+<td><a href="https://trueinterview.io/jobs/dc4f3145-21e5-4dcb-8eee-93b6a6373acb">Backend Developer / Frontend Developer / Full Stack Developer</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484593848/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Nera Telecommunications Ltd</strong></td>
+<td><a href="https://trueinterview.io/jobs/7077ca1f-15ad-4551-9dc7-7c3eea92d8bf">Network Engineer</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484593882/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>TWG Tea Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/bcb6e48b-8444-46c5-9a8c-baed4e6458f3">IT Support Executive</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4397778171/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>HCLTech</strong></td>
+<td><a href="https://trueinterview.io/jobs/ef47ba4c-56cf-4f5c-af22-748f85f1efc0">Hybrid Cloud Engineer</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4448971979/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Yield Engineering Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/b5f338c4-64bb-4557-b576-d2d744c486a4">Application Engineer</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485276933/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NEXadept</strong></td>
+<td><a href="https://trueinterview.io/jobs/37bbd1dc-b4e7-41cf-b3c3-3906d909b6b9">Full Stack Engineer - AI Coding</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484598639/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>VANGUARD FT SDN. BHD.</strong></td>
+<td><a href="https://trueinterview.io/jobs/c1d7438e-7bf8-4ef8-be47-1362b1bc6992">Quantitative Researcher / Quantitative Developer / Quantitative Strategist</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484594771/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>eTeam</strong></td>
+<td><a href="https://trueinterview.io/jobs/50b43c05-95b6-4fbb-912a-fd0fd1f25102">C++ Software Engineer</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485275891/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Brock Sport &amp; Business Association</strong></td>
+<td><a href="https://trueinterview.io/jobs/f0f88209-b23e-4960-aa74-8de6d4eb881f">Cloud FinOps Analyst / Cloud Cost Analyst / FinOps Engineer</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483091975/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>HCLTech</strong></td>
+<td><a href="https://trueinterview.io/jobs/08c736c3-a4e0-4f4e-8c78-f43dee92898f">Unix Support Engineer (Linux, Solaris &amp; AIX) - L2 &amp; L3</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4448979741/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Evolution Singapore</strong></td>
+<td><a href="https://trueinterview.io/jobs/ab97b2b9-9915-47aa-af6e-6905791995f7">AI Engineer (Banking) - 1-year renewable contract</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4480414937/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Nityo Infotech</strong></td>
+<td><a href="https://trueinterview.io/jobs/179c2695-5519-44c5-81a4-0cfbf70bf8f9">Service Desk Engineer</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484801405/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SiLith</strong></td>
+<td><a href="https://trueinterview.io/jobs/0059bbbb-fa02-4730-aeaf-ff67422a6819">Layout Design Engineer</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484809192/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Mason &amp; Co</strong></td>
+<td><a href="https://trueinterview.io/jobs/dbbeed97-1aab-419e-b528-abae55dc341e">Mechanical Design Engineer</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484594651/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Marlink B.V.</strong></td>
+<td><a href="https://trueinterview.io/jobs/231ca50c-b8e9-4cc4-8a83-a81545340ca9">Field Engineer - Singapore</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485263210/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>OMNIVISION</strong></td>
+<td><a href="https://trueinterview.io/jobs/a209e448-f682-43c0-b830-af6c34955378">ISP RTL Design Engineer</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/3918401838/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>MediaTek</strong></td>
+<td><a href="https://trueinterview.io/jobs/d3539363-4f41-41e8-8518-81812c77d0b0">[2027 Campus Hire] CPU Design Engineer</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4457632944/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>OCBC</strong></td>
+<td><a href="https://trueinterview.io/jobs/9c667e50-8b3f-448f-bdc8-099e13f534f4">Project / QA Support Analyst in Trade Finance Operations</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4404073004/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>MediaTek</strong></td>
+<td><a href="https://trueinterview.io/jobs/bc24177a-9a31-440c-b095-0bcd94a9d168">[2027 Campus Hire] AI Algorithm Engineer</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4457628970/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>OCBC</strong></td>
+<td><a href="https://trueinterview.io/jobs/787ca0ce-c853-4a62-864a-36819e47b528">Product Owner - Digital Transformation (Regional Loan Origination)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4440509880/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Applied Materials South East Asia</strong></td>
+<td><a href="https://trueinterview.io/jobs/12499caf-b313-43cb-8c8b-de438ad9ad1c">Process Support Engineer (Metrology)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4473681988/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>MediaTek</strong></td>
+<td><a href="https://trueinterview.io/jobs/d5badd20-ccee-4ef5-ba73-11190c440c80">[2027 Campus Hire] CPU Design &amp; Test Engineer</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4457626996/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>TEKsystems</strong></td>
+<td><a href="https://trueinterview.io/jobs/ad8f08bc-c402-4542-acef-e726094f98b0">MacOS Developer</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475769908/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>GlobalFoundries</strong></td>
+<td><a href="https://trueinterview.io/jobs/e92cdaa8-ff5f-4b88-a187-0f8d69d2b868">Engineer Packaging Test Engineering</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4480799366/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Bitdeer (NASDAQ: BTDR)</strong></td>
+<td><a href="https://trueinterview.io/jobs/d1c0fd65-c7d1-4f66-8360-ab8995215f9d">Network Security Engineer</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4438069267/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Unity</strong></td>
+<td><a href="https://trueinterview.io/jobs/98f2ec9b-acd7-46aa-9ca3-1b9b1bed4ab7">Software Engineer, 2D</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477523034/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>MediaTek</strong></td>
+<td><a href="https://trueinterview.io/jobs/88d6ad16-f1f1-4751-8079-131c4917a84c">[2027 Campus Hire] CPU Design Implementation Engineer</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4457629975/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>AvePoint</strong></td>
+<td><a href="https://trueinterview.io/jobs/63a7dd2a-f733-40c6-805b-4a4dac3b651e">Software Quality Engineer (Managed Service)</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://www.avepoint.com/careers/job-detail?gh_jid=6250265">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Microsoft</strong></td>
+<td><a href="https://trueinterview.io/jobs/32833141-f897-454d-b3fa-9b42ed81ecba">CE Mechanical Engineering</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484969748/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>PhysicsX</strong></td>
+<td><a href="https://trueinterview.io/jobs/87e67df4-7e22-40e2-aa95-9da42b6a4e66">Simulation Engineer - Thermal Process</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484984348/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Roche</strong></td>
+<td><a href="https://trueinterview.io/jobs/25fec1d0-1731-472c-afe2-5498ab4a2f14">Reliability Engineer Trainee - Attach &amp; Train program</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4404067524/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/40267c19-7ef6-4be6-839b-0ddf36cf7221">Facilities Engineer Trainee - Attach &amp; Train Program</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4404064540/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ROBOSPEC</strong></td>
+<td><a href="https://trueinterview.io/jobs/6a67a67f-763f-4313-a055-b5325e0db6e7">AI Robotics Engineer</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483856602/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Singapore Aero Engine Services Private Limited (SAESL)</strong></td>
+<td><a href="https://trueinterview.io/jobs/95050ddb-cc18-41ea-bc23-db3963d866a0">Manufacturing Engineer</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4422355035/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # 🥐 Montréal & Québec
 
-**14 open roles.**
+**37 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -114,6 +114,167 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Montreal, QC<br/>Montreal, Quebec, Canada<br/>Montreal, Canada</td>
 <td align="center"><a href="https://app.careerpuck.com/job-board/lyft/job/8743515002?gh_jid=8743515002">Apply</a></td>
 <td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Dominion Dynamics</strong></td>
+<td><a href="https://trueinterview.io/jobs/87eafa06-592a-4e54-b0c3-31795a8fc934">Landing Gear Engineer</a></td>
+<td>Montreal, QC<br/>Ottawa HQ</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/Dominion%20Dynamics/0bbd106d-bcf3-46da-8db3-ad0df9ddc669">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/43ad9be8-acf1-4562-9184-d83f45cc3d1f">Mission Systems Engineer</a></td>
+<td>Montreal, QC<br/>Ottawa HQ</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/Dominion%20Dynamics/f957310e-48f5-4042-8f1e-154cf6b61917">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Go Rh</strong></td>
+<td><a href="https://trueinterview.io/jobs/723f27a9-5bab-4946-a891-bc7a3cf74061">Concepteur.trice FPGA</a></td>
+<td>Montréal, Qc</td>
+<td align="center"><a href="https://jobs.lever.co/gorh/9526b116-9e22-4785-b8ba-a0d8242021db">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Dominion Dynamics</strong></td>
+<td><a href="https://trueinterview.io/jobs/45d0499c-d500-4972-980c-d9f8fae1a574">Flight Controls Engineer</a></td>
+<td>Montreal, QC<br/>Ottawa HQ</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/Dominion%20Dynamics/bd7ddb97-5fd9-4067-98a7-249e47f59b1e">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>CCM Hockey</strong></td>
+<td><a href="https://trueinterview.io/jobs/26f3894d-b371-4a33-98a5-d3ad096ad839">Product Developer – Skates</a></td>
+<td>Montréal, Canada</td>
+<td align="center"><a href="https://jobs.dayforcehcm.com/en-US/ccmhockey/CANDIDATEPORTAL/jobs/5025">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Unity Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/f7bef6bb-4ae6-4426-85b2-6f3d1d183fc6">U-Accelerate : Développeur(euse) de logiciels, nouveau(elle) diplômé(e) // U-Accelerate: Software Developer, New Grad</a></td>
+<td>Montreal, QC<br/>Montreal, Quebec, Canada<br/>Montréal, Canada</td>
+<td align="center"><a href="https://unitytech.wd1.myworkdayjobs.com/Unity/job/Montreal-Canada/U-Accelerate---Dveloppeur-euse--de-logiciels--nouveau-elle--diplm-e-----U-Accelerate--Software-Developer--New-Grad_JOBREQ-2616768">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Lyft</strong></td>
+<td><a href="https://trueinterview.io/jobs/03e5cbb8-a1ca-4819-9f2d-b585af949f41">Android Software Engineer, Lyft Urban Solutions</a></td>
+<td>Montreal, QC<br/>Montreal, Quebec, Canada<br/>Montreal, Canada</td>
+<td align="center"><a href="https://app.careerpuck.com/job-board/lyft/job/8743513002?gh_jid=8743513002">Apply</a></td>
+<td align="center">1 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Cisco</strong></td>
+<td><a href="https://trueinterview.io/jobs/eaddf6f7-ab0a-46e0-b7fa-e6523579b0d1">Software Developer Embedded Systems I (Full Time) - Canada</a></td>
+<td>Montreal, Quebec, Canada<br/>Calgary, AB<br/>Vancouver, BC<br/>+4 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4468290895/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/dc85b4b8-5366-4d18-8fb6-4de31773cb68">Research Scientist, World Modelling | Chercheur scientifique, modélisation du monde</a></td>
+<td>Montreal, QC<br/>Montreal, Quebec, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483917793/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Bruneau Électrique Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/97a501fe-1e92-45b1-b6d5-838c6a62bd6f">Foreman - Civil Engineering</a></td>
+<td>Montreal, QC<br/>Montreal, Quebec, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485329379/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Autodesk</strong></td>
+<td><a href="https://trueinterview.io/jobs/f2f2f162-fc0b-481f-a91d-c58db1da2ae7">Machine Learning Developer</a></td>
+<td>Montreal, Quebec, Canada<br/>Vancouver, BC<br/>Vancouver, British Columbia, Canada<br/>+2 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476247579/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>N2P Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/120a9fd3-2780-4120-a1d5-f796c5ec3817">Network &amp; Infrastructure Integration Engineer</a></td>
+<td>Montreal, QC<br/>Montreal, Quebec, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484815901/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>École de technologie supérieure (ETS)</strong></td>
+<td><a href="https://trueinterview.io/jobs/e45d5448-7faf-49a5-93dc-036d6e89e436">Cybersecurity - Professor</a></td>
+<td>Quebec City, Canada</td>
+<td align="center"><a href="https://universityaffairs.ca/search-jobs/?job_id=72500">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Baseten</strong></td>
+<td><a href="https://trueinterview.io/jobs/47cfbb46-521b-48a9-9204-321206e297d7">Software Engineer - Model Performance Systems</a></td>
+<td>Montreal, QC<br/>Montreal, Quebec, Canada<br/>Toronto, Ontario, Canada<br/>+3 more</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/baseten/75d7beac-0298-40fa-b206-2e0c0c08a64f">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f9bdc058-eaec-4d50-a940-d11273c1a4fa">Software Engineer - Dedicated Inference</a></td>
+<td>Montreal, QC<br/>Montreal, Quebec, Canada<br/>Toronto, Ontario, Canada<br/>+3 more</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/baseten/fc6e5f2e-eb2d-4a6c-8a51-8422e8662bde">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/42a040f7-2440-40e2-96c5-409f93c155c2">Software Engineer - Voice AI (Inference Runtime)</a></td>
+<td>Montreal, QC<br/>Montreal, Quebec, Canada<br/>Toronto, Ontario, Canada<br/>+3 more</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/baseten/6e396eb7-acb3-436a-89ec-05e755c477f2">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sunlife Québec</strong></td>
+<td><a href="https://trueinterview.io/jobs/ee273de4-0e9f-4d99-a50f-f3c0d2ec6375">Analyst, Technical Support Services</a></td>
+<td>Montreal, QC<br/>Montreal, Quebec, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484595555/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CS GROUP</strong></td>
+<td><a href="https://trueinterview.io/jobs/06f57ae1-be2d-4692-b751-7247c17c1eb8">Hardware Engineer – Aerospace</a></td>
+<td>Montreal, QC<br/>Montreal, Quebec, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485245554/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CS GROUP - Canada</strong></td>
+<td><a href="https://trueinterview.io/jobs/aec558d2-7c93-4a76-89eb-ba3d76eb1226">Hardware Engineer – Aerospace</a></td>
+<td>Montreal, QC<br/>Montreal, Quebec, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485240205/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Genpact</strong></td>
+<td><a href="https://trueinterview.io/jobs/1d42afa7-d4a4-40ca-8851-b1df9c09fe3f">Java Software Engineer</a></td>
+<td>Montreal, QC<br/>Montreal, Quebec, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4472980453/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sopra Steria</strong></td>
+<td><a href="https://trueinterview.io/jobs/ecb9e0b5-cf59-4150-809a-bdbba8aeac09">Hardware Engineer – Aerospace</a></td>
+<td>Montréal, Québec, Canada</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SopraSteria1/744000158600759-hardware-engineer-aerospace">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Plusgrade</strong></td>
+<td><a href="https://trueinterview.io/jobs/dc9f8efd-eed8-4c38-a08b-9a66fd8ad577">Software Developer</a></td>
+<td>Montreal, QC<br/>Montreal, Quebec, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4480715765/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>PSP Investments | Investissements PSP</strong></td>
+<td><a href="https://trueinterview.io/jobs/5f7070bf-da90-4c34-b912-82d205bebf51">Solution Designer (Endpoints), Cloud Technologies</a></td>
+<td>Montreal, QC<br/>Montreal, Quebec, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467954437/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
 </table>

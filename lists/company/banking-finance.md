@@ -2,7 +2,7 @@
 
 # 🏦 Banks, insurers & asset managers
 
-**23 open roles.** 7 in the United States & Canada · 16 elsewhere in the world. Banks, card networks, exchanges, insurers and asset managers.
+**34 open roles.** 9 in the United States & Canada · 25 elsewhere in the world. Banks, card networks, exchanges, insurers and asset managers.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -65,6 +65,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Richmond, VA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4486430978/">Apply</a></td>
 <td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/6a87c20b-a22c-4105-988b-a83ffef9500c">Associate, Software Engineer, New Grad Card Expansion</a></td>
+<td>Toronto, Ontario, Canada</td>
+<td align="center"><a href="https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247320">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Compeer Financial</strong></td>
+<td><a href="https://trueinterview.io/jobs/82ffec1e-2bf0-4c5e-a10f-8c76f8a169c0">Software Engineer</a></td>
+<td>Mankato, MN<br/>Sun Prairie, WI<br/>IL-Bloomington, WI-Sun Prairie<br/>+1 more</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/compeerfinancial/jobs/5467096008">Apply</a></td>
+<td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
 </table>
@@ -189,6 +203,69 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Ciudad Autónoma de Buenos Aires, Argentina</td>
 <td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210804024">Apply</a></td>
 <td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Visa</strong></td>
+<td><a href="https://trueinterview.io/jobs/597bab0b-4334-48b0-8a44-e2e12b4e8548">Associate Product Manager Program</a></td>
+<td>Singapore, Singapore<br/>Downtown Core, Singapore</td>
+<td align="center"><a href="https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/SG---Singapore/Associate-Product-Manager-Program_REF089093W">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>JPMorgan Chase</strong></td>
+<td><a href="https://trueinterview.io/jobs/63490f0a-70ae-4d56-9e5f-a33f571fbe18">Liquidity Data and Reporting Analyst</a></td>
+<td>Warszawa, Mazowieckie, Poland</td>
+<td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805757">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/07050dd0-c929-49ac-a79e-7b485c824429">Quantitative Trading &amp; Research - Commodities Quantitative Trading – Analyst</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210738947">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/da9d23b5-e02f-491c-b9f1-1661a1a269b6">Software Engineer Program Early Careers - April 2027</a></td>
+<td>Ciudad Autónoma de Buenos Aires, Argentina</td>
+<td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805519">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Mastercard</strong></td>
+<td><a href="https://trueinterview.io/jobs/80dd5454-4770-4ed7-ba85-4a538c744716">Data Protection Engineer</a></td>
+<td>Mexico City Metropolitan Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4448402951/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Crédit Agricole CIB</strong></td>
+<td><a href="https://trueinterview.io/jobs/c681ea18-17cc-49cb-a21a-2dde0c1b58ff">Java Software Engineer</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4445706342/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>AXA</strong></td>
+<td><a href="https://trueinterview.io/jobs/4ec7b8a9-4537-48ba-839b-17c67a03d942">AI Marketing Prompt Engineer</a></td>
+<td>London, United Kingdom</td>
+<td align="center"><a href="https://careers.axa.com/jobs/29890/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Société Générale</strong></td>
+<td><a href="https://trueinterview.io/jobs/a3244c8e-95ba-4c3c-9d2a-5a3285933b9c">Data Scientist – Agentique</a></td>
+<td>La Défense, France</td>
+<td align="center"><a href="https://careers.societegenerale.com/offres-d-emploi/data-scientist-agentique-26000LJY-fr">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Mastercard</strong></td>
+<td><a href="https://trueinterview.io/jobs/7a6eae68-0d7c-45bb-a360-cb0adcc8cb2f">Specialist, Product Management</a></td>
+<td>Dublin, County Dublin, Ireland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474481824/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
 </table>

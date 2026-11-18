@@ -2,7 +2,7 @@
 
 # 🔒 Cybersecurity
 
-**17 open roles.** 15 in the United States & Canada · 2 elsewhere in the world. Security products, detection, identity and offensive-security vendors.
+**24 open roles.** 19 in the United States & Canada · 5 elsewhere in the world. Security products, detection, identity and offensive-security vendors.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,10 +18,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>Opswat</strong></td>
-<td><a href="https://trueinterview.io/jobs/29a61a05-0452-445f-b2c4-658e34aa009e">Electrical Engineer</a></td>
-<td>Tampa, Florida, United States</td>
-<td align="center"><a href="https://www.opswat.com/jobs/4755059005?gh_jid=4755059005">Apply</a></td>
+<td><strong>Fortinet</strong></td>
+<td><a href="https://trueinterview.io/jobs/58844d6a-4efb-4026-a2c0-f7c7c3163819">Product Design Engineer</a></td>
+<td>Santa Clara, CA, United States</td>
+<td align="center"><a href="https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/24985">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
@@ -122,6 +122,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/24852">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
+<tr>
+<td><strong>Verkada</strong></td>
+<td><a href="https://trueinterview.io/jobs/20ed63ae-9a14-4856-989b-90f671441095">Software Engineer - Data Platform</a></td>
+<td>San Mateo, CA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/verkada/jobs/4129304007">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>CrowdStrike</strong></td>
+<td><a href="https://trueinterview.io/jobs/8ddd6472-5710-44aa-ac77-376519b3db0f">Software Development Engineer in Test - Agentic Automation (Remote, CAN)</a></td>
+<td>Greater Winnipeg Metropolitan Area<br/>Greater Calgary Metropolitan Area<br/>Greater Halifax Metropolitan Area<br/>+5 more</td>
+<td align="center"><a href="https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/Canada---Remote-AB/Software-Development-Engineer-in-Test---Agentic-Automation--Remote--CAN-_R30708">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Tailscale</strong></td>
+<td><a href="https://trueinterview.io/jobs/11078f1e-85f3-4aaa-9aef-c18c753039cb">Customer Reliability Engineer</a> 🌐</td>
+<td>Remote — United States, Canada</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/tailscale/jobs/4715148005">Apply</a></td>
+<td align="center">1 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Outtake</strong></td>
+<td><a href="https://trueinterview.io/jobs/2ea25592-ccb0-423f-a388-5051bdab5104">Software Engineer, Security</a></td>
+<td>New York, NY<br/>New York City</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/outtake/5198b769-c1a0-4411-aa44-da68b308f22b">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -147,6 +175,27 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Ho Chi Minh City, Ho Chi Minh City, Vietnam</td>
 <td align="center"><a href="https://www.opswat.com/jobs/4750935005?gh_jid=4750935005">Apply</a></td>
 <td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>CrowdStrike</strong></td>
+<td><a href="https://trueinterview.io/jobs/20099780-fe8f-434e-b122-707f4f1d7b7d">Security Engineer (Hybrid, Bucharest)</a></td>
+<td>Bucharest, Bucharest, Romania</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4448767473/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/bcc6c801-d946-4a5b-8a2a-17607827d87c">Technical Support</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Technical-Support_R30773">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Fortinet</strong></td>
+<td><a href="https://trueinterview.io/jobs/fd957950-de98-47da-848d-e894685ba72d">Systems Engineer - Commercial</a></td>
+<td>Istanbul, Istanbul, Türkiye</td>
+<td align="center"><a href="https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/22979">Apply</a></td>
+<td align="center">2 Nov 2026</td>
 </tr>
 </tbody>
 </table>

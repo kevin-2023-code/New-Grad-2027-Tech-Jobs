@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,774 open roles.** 1,444 in the United States & Canada · 330 elsewhere in the world. Everything the employers put up this week.
+**1,691 open roles.** 1,380 in the United States & Canada · 311 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,454 +15,6 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Planet Fitness</strong></td>
-<td><a href="https://trueinterview.io/jobs/05e41f59-b742-476d-8f91-b8b718c5e4e5">Service Desk - Overnight (10pm-6am)</a></td>
-<td>Muskegon, MI</td>
-<td align="center"><a href="https://www.paycomonline.net/v4/ats/web.php/portal/95B2826AA498F32394F759493E3923E6/jobs/782236">Apply</a></td>
-<td align="center">16 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Pratt &amp; Whitney</strong></td>
-<td><a href="https://trueinterview.io/jobs/00840bfe-4a06-42c0-82df-7627e5d3e990">Quality Engineer (Onsite)</a></td>
-<td>North Berwick, ME</td>
-<td align="center"><a href="https://careers.rtx.com/global/en/job/01883816">Apply</a></td>
-<td align="center">16 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Pratt Miller</strong></td>
-<td><a href="https://trueinterview.io/jobs/fe51edc9-a54f-43ab-8aa1-428a8715bb58">Electronics Application Engineer</a></td>
-<td>New Hudson, MI</td>
-<td align="center"><a href="https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/New-Hudson-Michigan-United-States/Electronics-Application-Engineer_R51951">Apply</a></td>
-<td align="center">16 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/68a6a712-2c58-4798-85d4-6759c6b320fe">Motorsports Technical Support Specialist</a></td>
-<td>New Hudson, MI</td>
-<td align="center"><a href="https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/New-Hudson-Michigan-United-States/Motorsports-Technical-Support-Specialist_R52049">Apply</a></td>
-<td align="center">16 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Quanta Power Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/cd963707-22df-4578-8f15-c44bb2b376cd">Electrical Engineer I</a></td>
-<td>Houston, TX</td>
-<td align="center"><a href="https://careers2-quanta.icims.com/jobs/20327/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
-<td align="center">16 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Quantum Design Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/ee29a6a8-98c7-4540-9a20-a320fad83fc0">Business Intelligence &amp; Data Automation Analyst</a></td>
-<td>San Diego, CA</td>
-<td align="center"><a href="https://qdusa.wd108.myworkdayjobs.com/quantumdesigncareers/job/QD---Inc/Business-Intelligence---Data-Automation-Analyst_JR1060">Apply</a></td>
-<td align="center">16 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/1440deec-bd2b-4f10-8614-975b11666689">Product Engineer</a></td>
-<td>San Diego, CA</td>
-<td align="center"><a href="https://qdusa.wd108.myworkdayjobs.com/quantumdesigncareers/job/QD---Inc/Product-Engineer_JR1058">Apply</a></td>
-<td align="center">16 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Regeneron</strong></td>
-<td><a href="https://trueinterview.io/jobs/b9233ee9-3171-457c-a64d-34c61b70bb71">Process Development Engineer - Downstream Purification</a></td>
-<td>Tarrytown, NY</td>
-<td align="center"><a href="https://careers.regeneron.com/en/jobs/r52843/process-development-engineer-downstream-purification/">Apply</a></td>
-<td align="center">16 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Reyes Holdings</strong></td>
-<td><a href="https://trueinterview.io/jobs/a1016270-a447-433a-8acd-8bce213c4b52">Release Engineer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobportal.reyesbeveragegroup.com/jobs/39680/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
-<td align="center">16 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Rima Manufacturing Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/d9b9dd19-88a8-421c-bbf2-d5f6bb6f8f4e">Quality Engineer</a></td>
-<td>Hudson, MI</td>
-<td align="center"><a href="https://www.rimamfg.com/employment?gnk=job&amp;gni=8a78839fa1ccde6f01a1e62eb0a33a00&amp;gns=Indeed+Free">Apply</a></td>
-<td align="center">16 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Rocket Science Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/a1663a38-0b1d-4b9a-ba18-808158710e0c">UI/UX Designer - 1099 Contract</a></td>
-<td>Albany, NY</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/rocketsciencegg/46dfc8df-d744-4a82-9349-ea2e5d4db336">Apply</a></td>
-<td align="center">16 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Rotunda Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/e2759c6a-b6f7-4665-bb8e-c96bdbf8c357">Data Pipeline Engineer</a></td>
-<td>Arlington, VA</td>
-<td align="center"><a href="https://app.trinethire.com/companies/788473-rotunda-solutions-inc/jobs/126578-data-pipeline-engineer">Apply</a></td>
-<td align="center">16 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>RRC Power and Energy</strong></td>
-<td><a href="https://trueinterview.io/jobs/c3199db9-eef1-48a9-980e-1a28062b3a5c">Electrical Engineer I - Solar</a></td>
-<td>Round Rock, TX</td>
-<td align="center"><a href="https://www.paycomonline.net/v4/ats/web.php/portal/D76DF37AF37DCF7897E0A90C5FCDB2C7/jobs/391173">Apply</a></td>
-<td align="center">16 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>SACO AEI Polymers</strong></td>
-<td><a href="https://trueinterview.io/jobs/94f17827-448f-4f96-b53a-7c3d3ae53b10">Cyber Security Engineer</a></td>
-<td>Sheboygan, WI</td>
-<td align="center"><a href="https://www.paycomonline.net/v4/ats/web.php/portal/F505073DBF6F5217BB25D0CAE8371CF9/jobs/180984">Apply</a></td>
-<td align="center">16 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>SAIC</strong></td>
-<td><a href="https://trueinterview.io/jobs/cc0d3079-9c1e-41bd-920d-6c5df833ccad">Cable Fabrication - Electrical Engineer</a></td>
-<td>Huntsville, AL</td>
-<td align="center"><a href="https://jobs.saic.com/jobs/18487042-cable-fabrication-electrical-engineer?bid=336&amp;tm_company=2520&amp;tm_event=view&amp;tm_job=2619156">Apply</a></td>
-<td align="center">16 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/5a6191c4-3e32-41fc-b31d-b7ea0c969301">Space Payload Engineer</a></td>
-<td>Chantilly, VA</td>
-<td align="center"><a href="https://jobs.saic.com/jobs/18487902-space-payload-engineer?bid=336&amp;tm_company=2520&amp;tm_event=view&amp;tm_job=2619167">Apply</a></td>
-<td align="center">16 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/6e8adb24-e25a-4077-a3ba-7aa2f6533af7">Space Vehicle Engineer</a></td>
-<td>Chantilly, VA</td>
-<td align="center"><a href="https://jobs.saic.com/jobs/18487901-space-vehicle-engineer?bid=336&amp;tm_company=2520&amp;tm_event=view&amp;tm_job=2619169">Apply</a></td>
-<td align="center">16 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/de0918ec-5dc7-4d9e-a9f0-47cebce81839">SVAT Network Administrator</a></td>
-<td>Colorado Springs, CO</td>
-<td align="center"><a href="https://jobs.saic.com/jobs/18485891-svat-network-administrator?bid=336&amp;tm_company=2520&amp;tm_event=view&amp;tm_job=2619145">Apply</a></td>
-<td align="center">16 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>SAIM</strong></td>
-<td><a href="https://trueinterview.io/jobs/d9ea6b84-4bba-4db8-8241-0c3ea67bf775">Help Desk, Training, and Documentation Specialist</a></td>
-<td>Overland Park, KS</td>
-<td align="center"><a href="https://www.paycomonline.net/v4/ats/web.php/portal/43C08EB51CD0584304840DEAD66ACFF2/jobs/201552">Apply</a></td>
-<td align="center">16 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>San Diego Association of Governments</strong></td>
-<td><a href="https://trueinterview.io/jobs/6992e9b2-119c-428c-9825-fa2f2e959191">Data Scientist I/II</a></td>
-<td>San Diego, CA</td>
-<td align="center"><a href="https://www.governmentjobs.com/careers/sandag/jobs/5547223/data-scientist-i-ii">Apply</a></td>
-<td align="center">16 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Sandia National Laboratories</strong></td>
-<td><a href="https://trueinterview.io/jobs/452a401c-0c10-40c5-8c1e-71c68727e8a6">Cleared R&amp;D Mechanical Engineer - Enabling Aerospace Systems , Onsite</a></td>
-<td>Albuquerque, NM</td>
-<td align="center"><a href="https://cg.sandia.gov/psc/applicant/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&amp;Action=U&amp;FOCUS=Applicant&amp;SiteId=1&amp;JobOpeningId=699766&amp;PostingSeq=1">Apply</a></td>
-<td align="center">16 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Schneider Electric</strong></td>
-<td><a href="https://trueinterview.io/jobs/2317c37c-1f31-4b8b-bcca-926d49a87799">A.I. Product Owner</a></td>
-<td>Raleigh, NC</td>
-<td align="center"><a href="https://careers.se.com/jobs/140987/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
-<td align="center">16 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Seattle Children's</strong></td>
-<td><a href="https://trueinterview.io/jobs/bd70f584-ae10-4a3c-9169-5b4d1f1b8951">Research Scientist I</a></td>
-<td>Seattle, WA</td>
-<td align="center"><a href="https://careers.seattlechildrens.org/us/en/job/R265109">Apply</a></td>
-<td align="center">16 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Security First Federal Credit Union</strong></td>
-<td><a href="https://trueinterview.io/jobs/ae442302-0698-43ea-a7ca-c38981f19bb6">IT Support Specialist I</a></td>
-<td>Edinburg, TX</td>
-<td align="center"><a href="https://secure7.saashr.com/ta/6204059.careers?ShowJob=654784602">Apply</a></td>
-<td align="center">16 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Seneca Holdings, LLC</strong></td>
-<td><a href="https://trueinterview.io/jobs/2c14730c-d160-4f02-833c-ba01a23bf312">Network Administrator</a></td>
-<td>Charleston, SC</td>
-<td align="center"><a href="https://grnh.se/zcm0pzqg5us">Apply</a></td>
-<td align="center">16 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Shield</strong></td>
-<td><a href="https://trueinterview.io/jobs/a30b56ba-6f24-4130-b5fd-7f475ce4dca1">Engineer I, Software - Autonomy Capabilities - New Grad - 6129</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/shield/955d48ad-9380-4621-91f4-51f3f093ac10">Apply</a></td>
-<td align="center">16 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/61caedea-da66-42cd-9baa-83de359f7383">Mission Systems Software Engineer (R5888)</a></td>
-<td>Dallas, TX</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/shield/ad864afa-eb47-4f0e-8f0a-fea72f6b1fe3">Apply</a></td>
-<td align="center">16 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Signify</strong></td>
-<td><a href="https://trueinterview.io/jobs/edab4261-ef58-4d93-9332-f6d9fa22bf65">Mechanical Engineer VAVE, COOPER LIGHITNG SOLUTIONS</a></td>
-<td>Peachtree City, GA</td>
-<td align="center"><a href="https://www.careers.signify.com/global/en/job/367136/Mechanical-Engineer-VAVE-COOPER-LIGHITNG-SOLUTIONS">Apply</a></td>
-<td align="center">16 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>SimVentions</strong></td>
-<td><a href="https://trueinterview.io/jobs/b1243379-3add-4a33-9c65-a5716749215c">EW Test Engineer</a></td>
-<td>Crane, IN</td>
-<td align="center"><a href="https://careers-simventions.icims.com/jobs/1700/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
-<td align="center">16 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Skanska</strong></td>
-<td><a href="https://trueinterview.io/jobs/f3b9df57-f3ea-4376-a05e-43462d95b1d6">Commissioning Engineer</a></td>
-<td>Conshohocken, PA</td>
-<td align="center"><a href="https://careers.usa.skanska.com/jobs/10187/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
-<td align="center">16 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Skywalk Global</strong></td>
-<td><a href="https://trueinterview.io/jobs/ab36ac24-e311-4cdc-b0d3-0fb4a6dcf216">Help Desk Analyst</a></td>
-<td>Harrisburg, PA</td>
-<td align="center"><a href="https://skywalkglobal.net/careers/9140/7">Apply</a></td>
-<td align="center">16 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>SMS Data Products Group, Inc</strong></td>
-<td><a href="https://trueinterview.io/jobs/60c4bc0e-69bf-4caf-9449-19c9eac41664">Cybersecurity Analyst</a></td>
-<td>Sumter, SC<br/>Shaw AFB, SC</td>
-<td align="center"><a href="https://apply.clearcompany.com/sms?jobId=f4a5c4b3-ca01-76ee-9b85-d09e3c6df5e0">Apply</a></td>
-<td align="center">16 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Snap-on</strong></td>
-<td><a href="https://trueinterview.io/jobs/4e962107-7281-4f52-99c7-f3093ea57a84">Controls Engineer</a></td>
-<td>Elizabethton, TN</td>
-<td align="center"><a href="https://careers-snapon.icims.com/jobs/20947/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
-<td align="center">16 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Software Technology, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/f77b64bd-39c7-44f5-b64f-951cd847e72a">Help Desk Analyst - (816324)</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://stiorg.applicantstack.com/x/detail/a2jv0tklxvrk/aaac">Apply</a></td>
-<td align="center">16 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/31adc5b9-9bc4-48f9-ba86-a8b140c5eabf">Help Desk Coordinator :: Trenton, NJ</a></td>
-<td>Trenton, NJ</td>
-<td align="center"><a href="https://stiorg.applicantstack.com/x/detail/a2jv0tkdacvg/aaac">Apply</a></td>
-<td align="center">16 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Sonrava Health</strong></td>
-<td><a href="https://trueinterview.io/jobs/67b0db5a-cdc7-4969-bcbf-780c9ecd92a0">Project Systems Engineer</a></td>
-<td>Orange, CA</td>
-<td align="center"><a href="https://careers-sonrava.icims.com/jobs/26042/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
-<td align="center">16 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Southern California Edison</strong></td>
-<td><a href="https://trueinterview.io/jobs/50a7a474-0d72-4eda-ad45-e3f8f4011c89">Transmission Engineer 1</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://southerncaliforniaedison.contacthr.com/154254953">Apply</a></td>
-<td align="center">16 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Southern Methodist University</strong></td>
-<td><a href="https://trueinterview.io/jobs/69337e20-907d-446f-a0be-6e5741f4fc59">Business Intelligence Data Analyst</a></td>
-<td>Dallas, TX</td>
-<td align="center"><a href="https://smu.taleo.net/careersection/ex/jobdetail.ftl?job=PRO00000410&amp;tz=GMT-06%3A00&amp;tzname=America%2FChicago">Apply</a></td>
-<td align="center">16 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Southwestern Healthcare</strong></td>
-<td><a href="https://trueinterview.io/jobs/e6fcfd22-2069-4eb1-9da6-5557efcc0c94">IT Help Desk Technician - On-Site</a></td>
-<td>Evansville, IN</td>
-<td align="center"><a href="https://www.paycomonline.net/v4/ats/web.php/portal/7AF2C2B2DA1A077FEDA95511C4B4C94D/jobs/284739">Apply</a></td>
-<td align="center">16 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Southwire</strong></td>
-<td><a href="https://trueinterview.io/jobs/dd3080ff-2197-4715-b001-3645041c7fb6">Engineer, Process &amp; Control Automation</a></td>
-<td>Carrollton, GA</td>
-<td align="center"><a href="https://careers.southwire.com/job/Carrollton-Engineer%2C-Process-&amp;-Control-Automation-GA-30117/1450971000/?feedId=267200&amp;campaignId=3">Apply</a></td>
-<td align="center">16 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Spectrum Control</strong></td>
-<td><a href="https://trueinterview.io/jobs/b256ab18-9ecd-48e2-8aee-2bdd0891a24b">RF Engineer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://spectrumcontrol.wd1.myworkdayjobs.com/SpectrumControl/job/Marlborough-MA/RF-Engineer_JR101551">Apply</a></td>
-<td align="center">16 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>State of Montana</strong></td>
-<td><a href="https://trueinterview.io/jobs/cec4b661-5566-4fa0-9d7d-d2875d6a7528">Data Quality &amp; Reporting Analyst</a></td>
-<td>United States</td>
-<td align="center"><a href="https://mtstatejobs.taleo.net/careersection/200/jobdetail.ftl?job=26142718&amp;tz=GMT-06%3A00&amp;tzname=America%2FChicago">Apply</a></td>
-<td align="center">16 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>State of New Mexico</strong></td>
-<td><a href="https://trueinterview.io/jobs/e1511c91-dcb3-4ec0-83ec-c2d36d36b812">Emergency Medical Systems Data Analyst (DOH/CHP #30674)</a></td>
-<td>Santa Fe, NM</td>
-<td align="center"><a href="https://careers.share.nm.gov/psp/hprdcg/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&amp;Action=U&amp;SiteId=1&amp;JobOpeningId=169426&amp;PostingSeq=1">Apply</a></td>
-<td align="center">16 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>State of Ohio</strong></td>
-<td><a href="https://trueinterview.io/jobs/d8140032-52ad-46bc-8204-88bac515ff95">Database Administration Specialist 1</a></td>
-<td>Columbus, OH</td>
-<td align="center"><a href="https://stateofohio.csod.com/ux/ats/careersite/1/home/requisition/2091?c=stateofohio">Apply</a></td>
-<td align="center">16 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>State of Washington</strong></td>
-<td><a href="https://trueinterview.io/jobs/0dd80098-d535-496e-bce4-2f67bff97994">Port Engineer - Washington State Ferries</a></td>
-<td>Seattle, WA</td>
-<td align="center"><a href="https://www.governmentjobs.com/careers/washington/jobs/5551692/port-engineer-washington-state-ferries">Apply</a></td>
-<td align="center">16 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Stefanini</strong></td>
-<td><a href="https://trueinterview.io/jobs/f39ac3ae-a024-4108-82be-5e53e6d4c424">Diseñador UI/UX (Design System &amp; Aplicaciones Mobile) - Proyecto de 3 meses</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://stefaninilatam.gupy.io/job/eyJqb2JJZCI6MTI5MDAzNDgsInNvdXJjZSI6ImluZGVlZCJ9?jobBoardSource=indeed">Apply</a></td>
-<td align="center">16 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Stellantis</strong></td>
-<td><a href="https://trueinterview.io/jobs/4dd105a2-1059-4257-8d4c-dc65331c5337">Core Team Engineer - Refrigerant Loop</a></td>
-<td>Auburn Hills, MI</td>
-<td align="center"><a href="https://careers.stellantis.com/job/24217105/core-team-engineer-refrigerant-loop/">Apply</a></td>
-<td align="center">16 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/ff76353d-ec3b-4a1f-b468-9ac32f52c1ab">Lab Automation Software Engineer</a></td>
-<td>Auburn Hills, MI</td>
-<td align="center"><a href="https://careers.stellantis.com/job/24215423/lab-automation-software-engineer/">Apply</a></td>
-<td align="center">16 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>STP NUCLEAR OPERATING COMPANY</strong></td>
-<td><a href="https://trueinterview.io/jobs/869b4b02-361e-4e94-869f-a0afc309b2d4">Reactor Engineer (All Levels)</a></td>
-<td>Wadsworth, TX</td>
-<td align="center"><a href="https://jobs.dayforcehcm.com/en-US/stp/CANDIDATEPORTAL/jobs/7232">Apply</a></td>
-<td align="center">16 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Summa Health</strong></td>
-<td><a href="https://trueinterview.io/jobs/b18c8f24-ca3e-4cb9-904c-39c07ce11c90">Mobile Device Engineer</a></td>
-<td>Akron, OH</td>
-<td align="center">—</td>
-<td align="center">16 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>SUNY Upstate Medical University</strong></td>
-<td><a href="https://trueinterview.io/jobs/1f36f9b8-65c4-4bcc-976f-c57bd92b289b">Cloud Network Engineer</a></td>
-<td>Syracuse, NY</td>
-<td align="center"><a href="https://careers.upstate.edu/jobs/cloud-network-engineer-syracuse-new-york-united-states">Apply</a></td>
-<td align="center">16 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>SV Microwave</strong></td>
-<td><a href="https://trueinterview.io/jobs/5cb01a12-0c06-4473-bea9-ac838344ab4e">Mechanical Design Engineer</a></td>
-<td>West Palm Beach, FL</td>
-<td align="center"><a href="https://svmicrowave.applytojob.com/apply/qEhd0QCawk/Mechanical-Design-Engineer?%7E=">Apply</a></td>
-<td align="center">16 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Switch, Ltd.</strong></td>
-<td><a href="https://trueinterview.io/jobs/642c3729-93bb-4a46-8e08-e2b96e8915bb">Data Center Electrical Engineer</a></td>
-<td>Reno, NV</td>
-<td align="center"><a href="https://grnh.se/5zp3obmw9us">Apply</a></td>
-<td align="center">16 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Syner-G BioPharma Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/1063d1e5-a459-4961-94f9-2b35aaee477d">Reliability Engineer</a></td>
-<td>Boston, MA</td>
-<td align="center"><a href="https://grnh.se/4ikfugs04us">Apply</a></td>
-<td align="center">16 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Systems Solutions of Paducah</strong></td>
-<td><a href="https://trueinterview.io/jobs/61858c5e-69a1-4b1c-98f4-c65dc403fb1e">IT Support Specialist</a></td>
-<td>Paducah, KY</td>
-<td align="center"><a href="https://newchartertech.wd12.myworkdayjobs.com/systemssolutions/job/SSI-KY---Paducah/IT-Support-Specialist_JR0976-2">Apply</a></td>
-<td align="center">16 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>T-Mobile</strong></td>
-<td><a href="https://trueinterview.io/jobs/4534fbee-e114-4233-b07f-08eb9e1d8a91">AI Engineer</a></td>
-<td>Frisco, TX</td>
-<td align="center"><a href="https://careers.t-mobile.com/ai-engineer/job/191180034BB71582C2C2BBA98CDDF75F">Apply</a></td>
-<td align="center">16 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>T&amp;M SERVICES</strong></td>
-<td><a href="https://trueinterview.io/jobs/84a38f5f-f616-4bb9-86ed-b659236a974a">Systems Integration &amp; Automation Engineer (IT &amp; AI)</a></td>
-<td>Des Moines, IA</td>
-<td align="center"><a href="https://tmservices.bamboohr.com/careers/87?postedDate=2026-11-16">Apply</a></td>
-<td align="center">16 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>TEAM JAS, INC.</strong></td>
-<td><a href="https://trueinterview.io/jobs/f1b91147-5733-4c4d-9421-50a2dc72c868">Quality Engineer</a></td>
-<td>Jacksonville, FL</td>
-<td align="center"><a href="https://teamjasinc.applytojob.com/apply/PqgZximDIl/Quality-Engineer?%7E=">Apply</a></td>
-<td align="center">16 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Teledyne FLIR</strong></td>
-<td><a href="https://trueinterview.io/jobs/8ed43baf-59c0-4f3d-b65a-d0a2a75dfd75">Process Development Engineer</a></td>
-<td>Goleta, CA</td>
-<td align="center"><a href="https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Goleta-CA/Process-Development-Engineer_REQ37578">Apply</a></td>
-<td align="center">16 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Texas Department of Transportation</strong></td>
-<td><a href="https://trueinterview.io/jobs/2d08d4d4-4767-4a29-ac7f-105c0a668723">Artificial Intelligence Systems Analyst I - Information Technology Div.</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://fa009.taleo.net/careersection/ex/jobdetail.ftl?job=2603043&amp;tz=GMT-06%3A00&amp;tzname=America%2FChicago">Apply</a></td>
-<td align="center">16 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>The Aerospace Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/a35db1b7-5588-463e-ac78-98f1b41c6b7e">Spacecraft Thermal Engineer</a></td>
-<td>El Segundo, CA</td>
-<td align="center"><a href="https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/Spacecraft-Thermal-Engineer_R017244">Apply</a></td>
-<td align="center">16 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>The Home Depot</strong></td>
-<td><a href="https://trueinterview.io/jobs/33ebfa24-5c59-430c-b72f-f687ea5a8645">Logistics Engineer</a></td>
-<td>Atlanta, GA</td>
-<td align="center"><a href="https://homedepot.contacthr.com/154251734">Apply</a></td>
-<td align="center">16 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>The New School</strong></td>
-<td><a href="https://trueinterview.io/jobs/6226a55f-70b6-402c-abf9-18d751f885f9">Front End Developer &amp; UI/UX Designer - Student Assistant Specialist</a></td>
-<td>United States</td>
-<td align="center"><a href="https://newschool.wd1.myworkdayjobs.com/en-US/External/job/N---66-Fifth-Avenue/Front-End-Developer---UI-UX-Designer---Student-Assistant-Specialist_JR109390-1">Apply</a></td>
-<td align="center">16 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>The University of Iowa</strong></td>
-<td><a href="https://trueinterview.io/jobs/5e6b83db-1484-4bbe-a0e5-6adf79e20e45">Student IT Support Opportunity — Belin-Blank Center</a></td>
-<td>Iowa City, IA</td>
-<td align="center"><a href="https://jobs.uiowa.edu/content/temp/view.php?job=164362">Apply</a></td>
-<td align="center">16 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>The University Of Tulsa</strong></td>
 <td><a href="https://trueinterview.io/jobs/6b442b23-a70e-4d21-b3c6-e8a3ba9bc002">Research Engineer</a></td>
@@ -2814,6 +2366,454 @@
 <td>Denver, CO</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4489077804/">Apply</a></td>
 <td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Alarm.com</strong></td>
+<td><a href="https://trueinterview.io/jobs/257ef9b7-e67b-46be-8268-487dcc6219dd">Support Operations Associate I</a></td>
+<td>Minneapolis, MN</td>
+<td align="center"><a href="https://grnh.se/sa2r3xm82us">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>All IT Solutions LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/b01dd14d-6e54-40e6-a777-a994eeb7c56d">Digital Asset QA Engineer</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://careers.allitsolutions.net/jobs/digital-asset-qa-engineer-2026-9a6946c6">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon Web Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/3c09d94d-6e1a-4a53-8494-e55a3937f591">SDE, MLA hardware/software co-design, Annapurna Labs Machine Learning Acceleration</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://www.amazon.jobs/jobs/10606581/sde-mla-hardwaresoftware-codesign-annapurna-labs-machine-learning-acceleration?cmpid=DA_INAD200785B">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon.com</strong></td>
+<td><a href="https://trueinterview.io/jobs/e4bd5e6d-6331-4a18-a01b-f44bc9b7ae8c">Software Dev Engineer, Amazon AI at Work</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://www.amazon.jobs/jobs/10604717/software-dev-engineer-amazon-ai-at-work?cmpid=DA_INAD200785B">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/9ad1dd9b-2cd0-4ed0-bab7-00856a5f43fa">Software Development Engineer, VirtSat Team</a></td>
+<td>Redmond, WA</td>
+<td align="center"><a href="https://www.amazon.jobs/jobs/10607218/software-development-engineer-virtsat-team?cmpid=DA_INAD200785B">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>American Honda Motor</strong></td>
+<td><a href="https://trueinterview.io/jobs/99681fed-7cfe-463a-8f9b-ee69edd971cb">Hybrid Powertrain Design Engineer</a></td>
+<td>Raymond, OH</td>
+<td align="center"><a href="https://careers.honda.com/us/en/job/13332">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ArcBest</strong></td>
+<td><a href="https://trueinterview.io/jobs/78e4e11f-84bb-4819-80e4-9a11362ef0e0">Engineer I - Deployment</a></td>
+<td>Lathrop, CA</td>
+<td align="center"><a href="https://arcbest.avature.net/careersmarketplace/JobDetail?id=29996">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Cargill</strong></td>
+<td><a href="https://trueinterview.io/jobs/c5d2d36f-331c-4dec-a431-ef357131f640">Electrical Engineer Full Time 2027 - Multiple U.S. Locations</a></td>
+<td>Wahpeton, ND<br/>Eddyville, IA</td>
+<td align="center"><a href="https://careers.cargill.com/en/job/-/-/23251/103184251072">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>CDK Global</strong></td>
+<td><a href="https://trueinterview.io/jobs/c6b88002-4bf7-457b-8ac2-adc9f90f9e21">Associate Database Engineer</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://cdk.wd1.myworkdayjobs.com/en-US/CDK/job/Austin-TX-USA/Associate-Database-Engineer_JR9386">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Celestica</strong></td>
+<td><a href="https://trueinterview.io/jobs/459dec14-bd4c-4d49-80a5-dfbf5f6e274f">Engineer, Mechanical Design - Graduate Development Program</a></td>
+<td>Richardson, TX</td>
+<td align="center"><a href="https://careers.celestica.com/job/Richardson-Engineer%2C-Mechanical-Design-Graduate-Development-Program-TX-75080/1457029133/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ElringKlinger</strong></td>
+<td><a href="https://trueinterview.io/jobs/aeeb98f3-da71-42e5-bc51-405236f869e1">Quality Engineer</a></td>
+<td>Easley, SC</td>
+<td align="center"><a href="https://elringklinger.de/en/career/job-openings/quality-engineer-6">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Firefly Aerospace</strong></td>
+<td><a href="https://trueinterview.io/jobs/f73cd183-261e-4ba3-8927-24cac3820422">Launch Vehicle Integration Engineer I</a></td>
+<td>Bertram, TX</td>
+<td align="center"><a href="https://fireflyspace.wd115.myworkdayjobs.com/Firefly/job/Briggs-TX/Launch-Vehicle-Integration-Engineer-I_JR100335">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Garmin</strong></td>
+<td><a href="https://trueinterview.io/jobs/3956f4bf-e323-4f2a-a1e2-d97ab5a80dc8">Product Support Specialist - Marine</a></td>
+<td>Salem, OR</td>
+<td align="center"><a href="https://careers.garmin.com/jobs/22081/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>General Dynamics Electric Boat</strong></td>
+<td><a href="https://trueinterview.io/jobs/a97fd6fb-7905-4866-bbcc-194d1bbe1bce">Engineer I - Systems</a></td>
+<td>Groton, CT</td>
+<td align="center"><a href="https://careers-gdeb.icims.com/jobs/19087/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>General Motors (GM)</strong></td>
+<td><a href="https://trueinterview.io/jobs/7de8d461-022c-4446-854e-3f3c58cbdf3a">IT Operations Analyst</a></td>
+<td>Warren, MI</td>
+<td align="center"><a href="https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/IT-Operations-Analyst_JR-202624026">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Gulfstream Aerospace</strong></td>
+<td><a href="https://trueinterview.io/jobs/d77f6f53-5720-484c-a9ca-50c6ef9b7d5c">Entry-Level Engineer I - Service Engineering Stress</a></td>
+<td>Savannah, GA</td>
+<td align="center"><a href="https://careers.gulfstream.com/en/jobs/238012/entry-level-engineer-i-service-engineering-stress/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Hewlett Packard Enterprise | HPE</strong></td>
+<td><a href="https://trueinterview.io/jobs/cd2442c1-04eb-4c00-8d77-87cc1e03cda9">Finance AI/ML Engineer - PhD</a></td>
+<td>Spring, TX</td>
+<td align="center"><a href="https://careers.hpe.com/us/en/job/HPE1US1218794EXTERNALENUS/Finance-AI-ML-Engineer-PhD">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>IMEG</strong></td>
+<td><a href="https://trueinterview.io/jobs/d816d193-5a08-442b-a770-db54c08e2a16">Electrical Engineering New Grad | Rogers, AR</a></td>
+<td>Rogers, AR</td>
+<td align="center"><a href="https://wd1.myworkdaysite.com/en-US/recruiting/imeg/Imeg_Careers/job/Rogers-AR/Electrical-Engineering-New-Grad---Rogers--AR_R-16501">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>KeyBank</strong></td>
+<td><a href="https://trueinterview.io/jobs/dc5fb7c3-b845-4e9c-a6f5-1241b35a3c03">2027 Analytics and Quantitative Modeling Rotational Analyst Program- Cleveland</a></td>
+<td>Cleveland, OH</td>
+<td align="center"><a href="https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/XMLNAME-2027-Analytics-and-Quantitative-Modeling-Rotational-Analyst-Program--Cleveland_R-41381-1">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>L3Harris</strong></td>
+<td><a href="https://trueinterview.io/jobs/7bd8b7e8-1bc0-4a00-aecc-ac586c7ac64a">Associate, Instrumentation and Controls Test Integration Engineer</a></td>
+<td>Orange, VA</td>
+<td align="center"><a href="https://careers.harris.com/job/-/-/4832/103163614656">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/2b48b1fa-f352-469b-b9e3-a6000a53ab0a">Associate, Network and Telecom</a></td>
+<td>Palm Bay, FL</td>
+<td align="center"><a href="https://careers.harris.com/job/-/-/4832/103214384368">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Lane County, OR</strong></td>
+<td><a href="https://trueinterview.io/jobs/49e54106-26fd-4d78-a0ad-0be98019bc45">Information Technology Specialist 1</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.governmentjobs.com/careers/lanecountyor/jobs/5523147/information-technology-specialist-1">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>MicroAire Surgical Instruments</strong></td>
+<td><a href="https://trueinterview.io/jobs/0db65248-606c-44fc-a4b3-e22976c54563">Quality Assurance Engineer</a></td>
+<td>Charlottesville, VA</td>
+<td align="center"><a href="https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Charlottesville-VA/Quality-Assurance-Engineer_JR0000047028-1">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Nor-Cal Controls ES, LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/a5ab857e-34a9-49b7-b2b1-fe7481def052">Network Technician</a></td>
+<td>El Dorado Hills, CA</td>
+<td align="center"><a href="https://norcalcontrols.bamboohr.com/careers/222?postedDate=2026-11-12">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Northrop Grumman</strong></td>
+<td><a href="https://trueinterview.io/jobs/096ef8fa-0707-4c5f-a3ad-50af093470b8">Engineer Propulsion - Lvl 1/2</a></td>
+<td>Elkton, MD</td>
+<td align="center"><a href="https://jobs.northropgrumman.com/careers/job/1340075315049?code=JB-17946&amp;domain=ngc.com">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Observable Space</strong></td>
+<td><a href="https://trueinterview.io/jobs/a7276ff2-477d-41d9-8e01-fe1e0852791f">Mechanical Engineer - New Graduate 2027</a></td>
+<td>Los Angeles, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/observable-space/ee4060b8-7eeb-442a-9025-376d2ba10adb">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Pratt &amp; Whitney</strong></td>
+<td><a href="https://trueinterview.io/jobs/3b73365f-dc94-4136-921a-bb2474b31c70">Associate Software Engineer I – CDS / Engine System Software (Onsite)</a></td>
+<td>East Hartford, CT</td>
+<td align="center"><a href="https://careers.rtx.com/global/en/job/01884197">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>PVM, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/a1036c39-1392-4642-ac92-fba0a734f815">DoW Skillbridge Fellowship - ACTIVE DUTY SERVICE MEMBERS ONLY</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://grnh.se/j41owedn7us">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Raytheon</strong></td>
+<td><a href="https://trueinterview.io/jobs/ece32ad5-f670-482a-b084-3961d8c4dea0">Digital Design Engineer I - onsite</a></td>
+<td>Tucson, AZ</td>
+<td align="center"><a href="https://careers.rtx.com/global/en/job/01888918">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Sargent &amp; Lundy</strong></td>
+<td><a href="https://trueinterview.io/jobs/cae2c989-1d45-404d-a2a6-d5bfdfae25c2">Electrical Engineer 1 (Entry Level) - Energy &amp; Industrial</a></td>
+<td>San Juan, PR</td>
+<td align="center"><a href="https://careers-sargentlundy.icims.com/jobs/28984/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Thales</strong></td>
+<td><a href="https://trueinterview.io/jobs/1a7db58f-3042-4760-9117-6a54a187d887">Associate FPGA Engineer (TVI)</a></td>
+<td>Aurora, IL</td>
+<td align="center"><a href="https://careers.thalesdsi.com/job/AURORA-Associate-FPGA-Engineer-%28TVI%29-IL-60504/1450216600/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>University of South Florida</strong></td>
+<td><a href="https://trueinterview.io/jobs/c0d5cf6c-0240-4231-b19a-05c2f9c2e0dc">Walk Up Desk Student Technician - Nights</a></td>
+<td>Tampa, FL</td>
+<td align="center"><a href="https://fa-ewkd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/44747">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Carnegiesoft</strong></td>
+<td><a href="https://trueinterview.io/jobs/0165dbb0-077f-4b69-9622-b04c847a65c7">Software Engineers</a></td>
+<td>Princeton, NJ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490091590/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>QuantumCommit</strong></td>
+<td><a href="https://trueinterview.io/jobs/f606baf2-d646-4731-aceb-15e5b79c71c5">🚀 URGENT HIRING | C/C++ LINUX EMBEDDED ENGINEER | USA</a></td>
+<td>North Reading, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489079443/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Cortrucent Security</strong></td>
+<td><a href="https://trueinterview.io/jobs/ef25ad71-65aa-4f70-a46a-9470082693bc">AI Generalist (Entry Level)</a></td>
+<td>Berlin, NJ</td>
+<td align="center"><a href="https://jobs.gusto.com/postings/cortrucent-security-ai-generalist-entry-level-48971303-29ee-4940-a7c3-b99ef5a0ffc4">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>GiaSpace inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/3604d601-7312-4c23-9948-fbe49d1ea86f">Helpdesk Technician - Onsite GNV</a></td>
+<td>Gainesville, FL</td>
+<td align="center"><a href="https://jobs.gusto.com/postings/giaspace-inc-helpdesk-technician-onsite-gnv-eb5b3210-a42f-4c28-9a5a-59bc7a1b0811">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Applied Materials</strong></td>
+<td><a href="https://trueinterview.io/jobs/ab6c8cd0-fc29-4b84-9bcc-8c14b24b9117">Service Product Line Manager</a></td>
+<td>Santa Clara, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488290237/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>GlobalFoundries</strong></td>
+<td><a href="https://trueinterview.io/jobs/ec10342c-d332-4b22-85a7-f411533f21c7">Silicon Photonics Technology Development &amp; Integration Engineer (2027 New College Graduate)</a></td>
+<td>Malta, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489063920/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Bask Health</strong></td>
+<td><a href="https://trueinterview.io/jobs/188b4208-33c6-4191-88a6-6db08d73072d">Frontend Engineer, New Grad</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://apply.workable.com/bask-health-1/j/95FB1074E4/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>New Vision Co-op</strong></td>
+<td><a href="https://trueinterview.io/jobs/69999267-c732-4b82-9db5-9add8c9710c2">Information Technology Support Technician</a></td>
+<td>38438 210th Street, Brewster, MN, 56119, US</td>
+<td align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4659236?listingId=8105d05f-7a2c-42c1-8490-f60a7c37db80">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Rubrik</strong></td>
+<td><a href="https://trueinterview.io/jobs/116f677e-0f76-4283-acd3-3380b0324c57">Software Engineer - Virtual Platform</a></td>
+<td>Palo Alto, CA</td>
+<td align="center"><a href="https://www.rubrik.com/company/careers/departments/job.8351288?gh_jid=8351288">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Bonner General Health</strong></td>
+<td><a href="https://trueinterview.io/jobs/956f28d5-7eed-44cf-83a8-78d9b593d88a">Help Desk Technician/Information Systems</a></td>
+<td>Sandpoint, ID, 83864</td>
+<td align="center"><a href="https://bonner.rec.pro.ukg.net/BON1503BONN/JobBoard/e6a6022a-8366-4829-9d4d-f737baac9b7e/OpportunityDetail?opportunityId=ebcac999-e380-40cb-bf7a-fe0e1e700cf7">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>MITRE</strong></td>
+<td><a href="https://trueinterview.io/jobs/1f2919b5-73a4-4b7c-b647-a3177ef17844">Associate Embedded Software Engineer</a></td>
+<td>Bedford, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482142125/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Pacific Northwest National Laboratory</strong></td>
+<td><a href="https://trueinterview.io/jobs/9c11c38c-eb0f-4085-9d69-554c4000e235">Post Bachelor Research Associate - Full Stack Product</a></td>
+<td>Richland, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489044765/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>BAE Systems, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/f37d2d18-1b75-4078-af72-bbf6de4172f8">Software (SW) Engineering Leadership Development (ELDP), AMS Defense</a></td>
+<td>Manchester, NH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488272239/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Siemens</strong></td>
+<td><a href="https://trueinterview.io/jobs/8ed93de8-6686-4c6a-85a5-874f97fae0d2">Genesis Program - Canada Services Associate Consultant</a></td>
+<td>Toronto - Ontario - Canada</td>
+<td align="center"><a href="https://jobs.siemens.com/en_US/externaljobs/JobDetail/517018">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>FTI Defense - Frontier Technology Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/e4a2b6fa-2e21-4a44-b2fa-aeb5a0c5fb7e">Associate Software Developer – Transitioning Navy Service Members</a></td>
+<td>Norfolk, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4473983548/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Nokia</strong></td>
+<td><a href="https://trueinterview.io/jobs/ba9a2359-932f-47c2-99c8-2c0b89ce5ac7">Optical Coherent System Engineer</a></td>
+<td>Germany<br/>Canada</td>
+<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39552">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>TikTok</strong></td>
+<td><a href="https://trueinterview.io/jobs/b8370856-afbb-4c73-86cd-982bff800e87">Machine Learning Engineer Graduate (Lead Ads) - 2027 Start</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4446298006/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>WSP</strong></td>
+<td><a href="https://trueinterview.io/jobs/70b6cfdb-9489-4755-8d52-82710db235e9">Early Professional, Mechanical Engineering</a></td>
+<td>Thunder Bay, ON, Canada</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98193">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Adobe</strong></td>
+<td><a href="https://trueinterview.io/jobs/a2187345-61de-4473-8470-f6574ccc749c">2027 University Graduate - Data Scientist</a></td>
+<td>San Jose, CA<br/>California, Pará, Brazil</td>
+<td align="center"><a href="https://careers.adobe.com/us/en/job/ADOBUSR173462EXTERNALENUS/2027-University-Graduate-Data-Scientist">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Dew Software</strong></td>
+<td><a href="https://trueinterview.io/jobs/45995567-d158-4d8c-b239-ee62a32ea02e">Cloud Infrastructure Engineer</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488267324/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>SynergisticIT</strong></td>
+<td><a href="https://trueinterview.io/jobs/6b282eee-f656-43b3-b48f-38d8cd10db07">junior software developer/data engineer/Scientist</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489058090/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>F&amp;B Business News</strong></td>
+<td><a href="https://trueinterview.io/jobs/3d4a8605-0ebf-4cb3-b59c-a019d0c04fa9">ENTRY LEVEL SOFTWARE DEVELOPE</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488268002/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>GeoControl Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/1439999d-ed9b-4a0a-9c38-2ae5dcc6498b">Early Career Spaceflight Hardware Propulsion Engineer</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://geocontrol.zohorecruit.com/recruit/PortalDetail.na?iframe=true&amp;digest=awV8S94.jkAvnO2CLtcqnnGAUnkE7bVo.a85bxdBEmQ-&amp;jobid=460115000023624040&amp;widgetid=460115000000072311&amp;embedsource=CareerSite">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ValueMomentum</strong></td>
+<td><a href="https://trueinterview.io/jobs/c04b7819-a9c2-414d-a39b-7470569b8971">Guidewire developer</a></td>
+<td>Iowa, United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489033676/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Fluor Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/3a31d9fa-345e-4894-b730-76a17f17c8d8">Infrastructure Construction Engineer- New Grad</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490039436/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Digipulse Technologies Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/0fee2180-bbaf-43ea-ae7d-1e8e2fd3acab">Data Analyst</a></td>
+<td>North Carolina, United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488266024/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Apex Companies</strong></td>
+<td><a href="https://trueinterview.io/jobs/64da212e-2e33-4973-a26e-8e5d6c946823">Land Development Engineer</a></td>
+<td>Fort Myers, FL</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/apexcompanies/jobs/5479351008">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Arkhya Tech Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/80b53aad-e415-4a41-9e25-3a6e5d27d244">Servicenow Developer</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490010477/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Global Connect Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/2fde5010-b64a-4364-8afb-051ee662f6bc">NET/MAUI Developer – Embedded UI</a></td>
+<td>Fond Du Lac County, WI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490018302/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Tekgence Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/4d335adc-8c85-4675-81de-beaeb9d705de">Azure AI Engineer</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489037316/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Saransh Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/69cb99a4-b22f-45d2-af46-8ed9b46a3544">MQ Exit Developer with C programming Experience</a></td>
+<td>Dallas, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489031570/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Western Digital</strong></td>
+<td><a href="https://trueinterview.io/jobs/edf1330e-6c19-415b-bd53-2c792c57000d">Applications Engineer</a></td>
+<td>Irvine, California, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/WesternDigital/744000161156269-applications-engineer">Apply</a></td>
+<td align="center">11 Nov 2026</td>
 </tr>
 </tbody>
 </table>

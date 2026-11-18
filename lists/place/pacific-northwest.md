@@ -2,7 +2,7 @@
 
 # 🌧️ Portland, Boise & Spokane
 
-**41 open roles.**
+**61 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -200,6 +200,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Wunderlich-Malec</strong></td>
+<td><a href="https://trueinterview.io/jobs/4470e94c-23b7-44ec-b4ea-dbeddb26f7ac">Controls Engineer</a></td>
+<td>Boise, ID</td>
+<td align="center"><a href="https://recruiting2.ultipro.com/WUN1002WND/JobBoard/cf373efc-2fad-42c7-b3ea-efbff4360573/OpportunityDetail?opportunityId=fcba996e-0c99-4803-bcee-5f811f273a06&amp;postingId=02541414-be92-4b64-b4ca-f2b7f9565b7a">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>SecureWorld</strong></td>
 <td><a href="https://trueinterview.io/jobs/b0ff2af0-35ff-4000-b1bc-4924ec4f7cf1">Sponsorship Sales Specialist | Cybersecurity</a></td>
 <td>Portland, OR</td>
@@ -303,6 +310,139 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Beaverton, OR</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4486400758/">Apply</a></td>
 <td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>FusionIRX</strong></td>
+<td><a href="https://trueinterview.io/jobs/811ee651-7f01-4b4e-a475-4abbdd3af90b">Commissioning-Engineer-Telecom-SME, Boise, ID</a></td>
+<td>Boise, ID</td>
+<td align="center"><a href="https://apply.workable.com/j/E9429A2139">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Oregon Community Credit Union</strong></td>
+<td><a href="https://trueinterview.io/jobs/ff7356a6-7433-4df9-86c6-f1e988d3e540">Marketing Data Analyst | Remote from OR, WA, or ID</a> 🌐</td>
+<td>Remote — United States<br/>Eugene, OR</td>
+<td align="center"><a href="https://myoccu.hrmdirect.com/employment/view.php?req=3853180&amp;jbsrc=1014&amp;location=e597486b-3986-01d9-8644-455ff4b7d7ff">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Patriot Contract Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/be7505fa-fa03-4138-9a97-8d22c6cffabf">Asst. Port Engineer/NSE Analyst</a></td>
+<td>Vancouver, WA<br/>Vancouver, BC</td>
+<td align="center"><a href="https://patriotships.bamboohr.com/careers/129?postedDate=2026-11-02">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>AZAD Technology Partners</strong></td>
+<td><a href="https://trueinterview.io/jobs/e7037527-4043-4ccb-b698-01ce5a0db8fd">Civil Engineering Technician -9/8/26</a></td>
+<td>Vancouver, WA<br/>Vancouver, BC</td>
+<td align="center"><a href="https://search2.smartsearchonline.com/azad/jobs/jobdetails.asp?da=_202611&amp;job_number=6803&amp;sourcename=Indeed">Apply</a></td>
+<td align="center">1 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Ultra Clean Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/75b0bdc6-94a6-4e40-b9e6-e0d6ba664121">CNC Programmer</a></td>
+<td>Hillsboro, OR</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4448071005/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Bonneville Power Administration</strong></td>
+<td><a href="https://trueinterview.io/jobs/d1f7e3da-c681-4128-83c4-0e7d82f9a69a">Supervisory Data Scientist.</a></td>
+<td>Portland, OR</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485692419/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Avista Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/3923b3eb-a113-4e31-b125-83d26b14f750">Engineer - Generation</a></td>
+<td>Spokane, WA</td>
+<td align="center"><a href="https://recruiting2.ultipro.com/AVI1000AMAST/JobBoard/362abf68-95c3-4b17-a39d-76a6efe5ff18/OpportunityDetail?opportunityId=7430a131-4c9e-44de-814b-477e548de515&amp;postingId=9810b7be-d72b-41c1-99a2-47a00c5d862d">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Clearwater Analytics</strong></td>
+<td><a href="https://trueinterview.io/jobs/ef04e856-5dc8-4d5d-b2dd-f52f22e2c04b">Data Flow Engineer</a></td>
+<td>Boise, ID</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4458029102/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ingersoll Rand</strong></td>
+<td><a href="https://trueinterview.io/jobs/a82d2074-2168-4ab7-9b4e-2cae1e7e0ccf">Cooling System Design Engineer</a></td>
+<td>Vancouver, WA<br/>Portland, OR<br/>Eugene, OR<br/>+7 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474836771/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Jubilant HollisterStier</strong></td>
+<td><a href="https://trueinterview.io/jobs/e071b19c-91d3-457b-b1b2-800faab96280">IT Network Administrator</a></td>
+<td>Spokane, WA</td>
+<td align="center"><a href="https://jubilantcareer.jubl.com/career?company=jubilantphP2&amp;career_ns=job_listing&amp;career_job_req_id=1921&amp;lang=en_US">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Onboard Systems International</strong></td>
+<td><a href="https://trueinterview.io/jobs/576bd59e-f612-4474-8644-0a806f786d8e">Quality Engineer</a></td>
+<td>Vancouver, WA<br/>Vancouver, BC</td>
+<td align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4629289/Onboard-Systems-International/Quality-Engineer">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Vigor, LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/6f0b0ba4-3e53-4694-b2aa-5b9eb034defe">Structural Engineer I, Marine</a></td>
+<td>Vancouver, WA<br/>Vancouver, BC</td>
+<td align="center"><a href="https://vigorcareers.ttcportals.com/jobs/18429863-structural-engineer-i-marine?tm_job=929&amp;tm_event=view&amp;tm_company=92649">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>First Tech Federal Credit Union</strong></td>
+<td><a href="https://trueinterview.io/jobs/73ecd804-7719-401c-92d9-ba195f30d991">Delivery Platform System Administrator</a></td>
+<td>Hillsboro, OR<br/>Marlborough, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485287308/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>U.S. Bank</strong></td>
+<td><a href="https://trueinterview.io/jobs/85be9d39-624e-43a0-a1b3-1456f959996f">nCino/Moody's Product Designer</a></td>
+<td>Portland, OR<br/>Atlanta, GA<br/>Chicago, IL<br/>+7 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4479254166/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Epic</strong></td>
+<td><a href="https://trueinterview.io/jobs/a230a8af-a888-4627-ab9a-ad27e0650187">Integration Solutions Engineer</a></td>
+<td>Vancouver, WA<br/>Vancouver, BC<br/>Casper, WY<br/>+8 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4320272576/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Enpro Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/15fa363a-b1b0-4e3e-b46e-a7e13391ac9c">Electrical Engineer</a></td>
+<td>Boise, ID</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4421885888/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>JR Automation</strong></td>
+<td><a href="https://trueinterview.io/jobs/1ab5197b-5413-4d25-8298-b8563a26cdb4">Data Scientist I or II (MAD-BS-OR)</a></td>
+<td>Hillsboro, OR</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484977301/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sierra Pacific Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/c357e7dd-2973-4277-a35f-615781bf2524">Engineer - Controls</a></td>
+<td>Eugene, OR</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484982391/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>JR Automation</strong></td>
+<td><a href="https://trueinterview.io/jobs/4be57a5d-cb01-4cd5-a86c-b8a5210e4cb9">AI Data &amp; Security Governance Engineer (MAD-BS-OR)</a></td>
+<td>Hillsboro, OR</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484962878/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
 </table>

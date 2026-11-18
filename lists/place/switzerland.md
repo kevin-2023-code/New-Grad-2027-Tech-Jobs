@@ -2,7 +2,7 @@
 
 # 🇨🇭 Zürich & Switzerland
 
-**32 open roles.** 4 in the United States & Canada · 28 elsewhere in the world.
+**80 open roles.** 5 in the United States & Canada · 75 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -45,6 +45,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://apply.workable.com/j/F2DEE1CB8D">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
+<tr>
+<td><strong>Skydio</strong></td>
+<td><a href="https://trueinterview.io/jobs/65bbe8d8-b745-41f3-a344-c3bf62c2999f">Autonomy Engineer - Deep Learning Model Acceleration</a></td>
+<td>Zurich, Switzerland<br/>San Mateo, California, United States</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/skydio/cd6d8410-419b-4713-8d4d-7eb72b134d5a">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -57,13 +64,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Neura Robotics</strong></td>
-<td><a href="https://trueinterview.io/jobs/6afe4b18-8eb0-43ed-9791-a8c04310f91b">Embedded Firmware Engineer - Humanoid (Mensch)</a></td>
-<td>Zurich</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/neura-robotics-gmbh/9c45ab9e-2e4d-4e55-a18e-17d5814482c0">Apply</a></td>
-<td align="center">17 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>CERN</strong></td>
 <td><a href="https://trueinterview.io/jobs/ab61563f-1452-44a0-a257-c3159a759500">Database Software Engineer (BE-CSS-IDE-2026-260-GRAE)</a></td>
@@ -139,6 +139,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/6549295a-6313-4800-beb3-3412623e1aa4">Core Developer Digital Assets</a></td>
 <td>Zug, Switzerland</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487721920/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ETH Zurich</strong></td>
+<td><a href="https://trueinterview.io/jobs/51a233cd-728d-4e43-a891-8335c7d473f3">Full-Stack Software/Data Engineer</a></td>
+<td>Zürich, Switzerland</td>
+<td align="center"><a href="https://jobs.ethz.ch/job/view/JOPG_ethz_rdQqFLZvQF0D2jhGE9">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Zürcher Kantonalbank</strong></td>
+<td><a href="https://trueinterview.io/jobs/57acc242-8125-49d9-8ec1-81f33f4280fe">AI Engineer (m/w/d)</a></td>
+<td>Zürich, Switzerland</td>
+<td align="center"><a href="https://apply.refline.ch/792841/11459/pub/1">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
@@ -252,6 +266,328 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Hinwil, Zurich, Switzerland</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4432677019/">Apply</a></td>
 <td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>BLP</strong></td>
+<td><a href="https://trueinterview.io/jobs/5c1dc1d0-cf3a-45d7-9b46-932c69d9d37a">Forward Deployed Engineer</a></td>
+<td>Zürich, Switzerland<br/>Madrid, Spain<br/>Barcelona, Spain<br/>+12 more</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/blp-digital/95e7e3a9-8f14-428b-9d66-afa5d36c8d43">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ControlTech Engineering AG</strong></td>
+<td><a href="https://trueinterview.io/jobs/11b07e85-4cc9-44aa-9269-3419732263de">Automation System Engineer</a></td>
+<td>Basel, Switzerland</td>
+<td align="center"><a href="https://cte.ch/jobs/system-engineer">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>McKinsey &amp; Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/f9bccd03-3100-4e2e-9036-dd348e2ab72e">Data Engineer - QuantumBlack, AI by McKinsey</a></td>
+<td>Zürich, Switzerland</td>
+<td align="center"><a href="https://www.mckinsey.com/careers/search-jobs/jobs/dataengineer-quantumblackaibymckinsey-113981">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Swisscom AG</strong></td>
+<td><a href="https://trueinterview.io/jobs/f4b32341-e5da-421c-8892-4d4773df03d8">Software Developer .NET</a></td>
+<td>Lausanne, Switzerland</td>
+<td align="center"><a href="https://swisscom.wd103.myworkdayjobs.com/en-US/SwisscomExternalCareers/job/Lausanne/Software-Developer-NET_R-0006885-1">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>United Nations</strong></td>
+<td><a href="https://trueinterview.io/jobs/5398807d-b5e3-4077-8e2f-994c8e3af86b">Mining Data Analyst</a></td>
+<td>Genève, Switzerland</td>
+<td align="center"><a href="https://careers.un.org/jobSearchDescription/287184?language=en">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>VZ VermögensZentrum</strong></td>
+<td><a href="https://trueinterview.io/jobs/5717cdbf-73d5-4ce9-8bc1-1b02c0c22bce">Professional Software Engineer (.NET, Web, AI), 80-100%, Zürich</a></td>
+<td>Zürich, Switzerland</td>
+<td align="center"><a href="https://jobs.vermoegenszentrum.ch/offene-stellen/professional-software-engineer-net-web-ai/74242cee-1dc3-4812-b5bc-0933e883ca69">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Siemens</strong></td>
+<td><a href="https://trueinterview.io/jobs/e726a8be-a28f-4ba4-83d8-ab2633339c16">Working Student Cybersecurity &amp; AI Automation 50-60%</a></td>
+<td>Zug, Zug, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484101664/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>LEGIC</strong></td>
+<td><a href="https://trueinterview.io/jobs/cd900e93-981a-4984-9237-d83246fe8588">Software Engineer - Technical Support (m/f/d) 80% - 100%</a></td>
+<td>Wetzikon, Zurich, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4413592712/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Code Compass 🧭</strong></td>
+<td><a href="https://trueinterview.io/jobs/a38ad0cb-3e00-4f4b-a301-30f8f6c10a5c">Quantitative Researcher - HFT</a></td>
+<td>Zurich, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483434653/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/261c0cf2-5030-43b9-9763-6cd723b3fc7d">Software Engineer 🦀</a></td>
+<td>Bern, Berne, Switzerland<br/>Berlin, Germany<br/>Zürich Metropolitan Area<br/>+1 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483438264/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>DeepJudge</strong></td>
+<td><a href="https://trueinterview.io/jobs/fe9e2987-c87a-4f81-82bf-839697297b43">Software Engineer - Data Engine</a></td>
+<td>Zurich, Zurich, Switzerland<br/>Zürich, Switzerland<br/>Zurich HQ</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/deepjudge/52c971e9-4399-413e-a5be-a348f9e37948">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Noir</strong></td>
+<td><a href="https://trueinterview.io/jobs/11d41bfc-4a91-4455-b0e1-0f948bb55a2e">Linux System Engineer</a></td>
+<td>Zurich, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485320732/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>VANGARD AG</strong></td>
+<td><a href="https://trueinterview.io/jobs/34e6e653-1702-4c6a-ad7d-a469448359ee">SAP Developer</a></td>
+<td>Basel, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483439278/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Tortuga Sense</strong></td>
+<td><a href="https://trueinterview.io/jobs/aca17d63-b7da-43c2-ae77-13b924c85cd9">Health AI Product Owner (m/w/d)</a></td>
+<td>Zug, Zug, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485306811/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NIL Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/b1f2d45f-6db3-485a-8ad9-bc12fd39f988">Test &amp; Characterization Engineer</a></td>
+<td>Horgen, Zurich, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483434397/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Mettler-Toledo International, Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/1d1825d0-66c9-4b68-b330-f7c5822ebd03">Software Engineer C# .NET</a></td>
+<td>Nänikon, Zurich, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484834359/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ProfiLogic AG</strong></td>
+<td><a href="https://trueinterview.io/jobs/44b9add4-4f2c-4138-a170-f0c7cadb6152">DevOps Engineer - 29358</a></td>
+<td>Zurich, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484817641/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Infometis</strong></td>
+<td><a href="https://trueinterview.io/jobs/74648825-b107-4b3e-892b-e899950fe66b">Test Automation Engineer UiPath</a></td>
+<td>Zurich, Zurich, Switzerland<br/>Zürich, Switzerland</td>
+<td align="center"><a href="https://join.com/companies/infometis/16890973-test-automation-engineer-uipath?pid=a13795120131dbe48464">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CERN</strong></td>
+<td><a href="https://trueinterview.io/jobs/74743d5e-2ec7-448f-a0bf-0a545351897a">Control Software Engineer - Particle Accelerators (TE-MPE-CB-2026-213-LD)</a></td>
+<td>Geneva, GENEVA, Switzerland<br/>Genève, Switzerland</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/CERN/744000158675253-control-software-engineer-particle-accelerators-te-mpe-cb-2026-213-ld-">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Falu AG</strong></td>
+<td><a href="https://trueinterview.io/jobs/bf2dc0c2-bbaf-425e-ae95-f3de7f51e68d">Edge &amp; Machine Integration Engineer (PLC to Cloud), Freelance, m/f/d</a></td>
+<td>Rüti, Zurich, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483413780/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Allianz</strong></td>
+<td><a href="https://trueinterview.io/jobs/7a93b72d-7685-4679-861d-2972be8c5c0c">(Technical) Product Owner:in P&amp;C Non-Life 80-100%</a></td>
+<td>Zürich, Switzerland</td>
+<td align="center"><a href="https://careers.allianz.com/global/en/job/109183">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amaris Consulting</strong></td>
+<td><a href="https://trueinterview.io/jobs/00e77112-472a-41ed-b48b-19ae150ba7c3">Data Engineer (Databricks) - F/M/X</a></td>
+<td>Genève, Switzerland</td>
+<td align="center"><a href="https://careers.amaris.com/jobs/45179">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Kanton Zürich</strong></td>
+<td><a href="https://trueinterview.io/jobs/27d6af39-405b-48b4-8c89-7217e80bcd35">Platform Engineer KI</a></td>
+<td>Zürich, Switzerland</td>
+<td align="center"><a href="https://live.solique.ch/ktzh/job/details/4095084/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Universität Zürich</strong></td>
+<td><a href="https://trueinterview.io/jobs/13cf49aa-f415-4f7b-aa32-9623b27cf56c">Cloud Engineer (w/m/x)</a></td>
+<td>Zürich, Switzerland</td>
+<td align="center"><a href="https://jobs.uzh.ch/offene-stellen/cloud-engineer-w-m-x/e8a9d805-8677-45e3-8b6b-f6bfe4208cd7">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Vontobel</strong></td>
+<td><a href="https://trueinterview.io/jobs/fc2ad74b-aa9b-4d2b-8479-3329fde58bf2">Data Engineer</a></td>
+<td>Zürich, Switzerland</td>
+<td align="center"><a href="https://www.vontobel.com/en-us/about-vontobel/careers/open-positions/9465-data-engineer/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Wingtra AG</strong></td>
+<td><a href="https://trueinterview.io/jobs/081b5adf-f879-4c57-b76b-6d13365c1b7f">Mechatronic Design &amp; Test Engineer</a></td>
+<td>Zürich, Switzerland</td>
+<td align="center"><a href="https://jobs.lever.co/wingtra-2/f47a837f-fc10-42b8-93c9-97ebbb06f431">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>VZ VermögensZentrum</strong></td>
+<td><a href="https://trueinterview.io/jobs/820e4e6a-4fc6-47e5-9167-960ef50aa5ca">Professional Process Automation &amp; AI Engineer (Financial Services)</a></td>
+<td>Zurich, Zurich, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484800433/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Harmattan AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/9fc80cb4-1d8a-4351-80e9-7bdd73fa1d9c">ML Ops Engineer</a></td>
+<td>Lausanne, Vaud, Switzerland<br/>Paris<br/>Zurich</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/harmattan-ai/95687a2c-17cb-4c1e-8a88-6eebbaf56692">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Medexec</strong></td>
+<td><a href="https://trueinterview.io/jobs/3df752fc-2e51-4a97-99e7-c3a37b5767f0">Development Engineer</a></td>
+<td>Zurich, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484995672/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sword Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/2f7bf97c-e627-4109-bcd9-76cdafa5499e">DevOps Engineer</a></td>
+<td>Geneva, Geneva, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484995906/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>KastGroup AG</strong></td>
+<td><a href="https://trueinterview.io/jobs/a83f1f3b-443b-4e56-a887-ed68bf9d5785">IT-System Engineer / Systemtechniker 60% - 100% (m/w/d)</a></td>
+<td>Wallisellen / Hof, Zurich, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485203569/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/5c4e3f5a-b55e-4e3c-9cfa-bc441768c95e">IT-System Engineer / Systemtechniker Linux 80% - 100% (m/w/d)</a></td>
+<td>Wallisellen / Hof, Zurich, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485208349/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Roche</strong></td>
+<td><a href="https://trueinterview.io/jobs/95bbd85b-ecd3-428d-aa1b-69012bd3dba3">Data Scientist / Engineer - DNA-Encoded Library Technology (DELT)</a></td>
+<td>Basel, Basel, Switzerland<br/>Basel, Switzerland</td>
+<td align="center"><a href="https://careers.roche.com/de/de/job/202610-125078">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>AXA Switzerland</strong></td>
+<td><a href="https://trueinterview.io/jobs/da17a966-751f-4fed-9302-d13baf1c7a75">Analytical Cloud Software Engineer (all genders)</a></td>
+<td>Winterthur, Zurich, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485201032/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Harmattan AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/c5bb07e7-b0f0-4161-bceb-e54477f34730">Design &amp; Simulation Engineer</a></td>
+<td>Lausanne, Vaud, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484983758/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>VBV-Recruiting GmbH</strong></td>
+<td><a href="https://trueinterview.io/jobs/20df7041-280d-4706-9e04-5ed3f796cddc">SAP BTP &amp; Cloud Integration Engineer (m/w/d) 80-100%</a></td>
+<td>Zurich, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484991452/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Swisscom</strong></td>
+<td><a href="https://trueinterview.io/jobs/ba74c327-8ad4-4821-aeb6-f7ecf46938d4">Technical Product Owner - Kubernetes Platform</a></td>
+<td>Zurich, Zurich, Switzerland<br/>Zürich, Switzerland</td>
+<td align="center"><a href="https://swisscom.wd103.myworkdayjobs.com/en-US/SwisscomExternalCareers/job/Zurich/Product-Owner---Kubernetes-Platform_R-0005123">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Michael Bailey Associates</strong></td>
+<td><a href="https://trueinterview.io/jobs/7ff7c647-9dfc-482b-99d2-6abe5bbbd9fe">Software Developer (Mulesoft)</a></td>
+<td>Bern, Berne, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474067936/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>JR Automation</strong></td>
+<td><a href="https://trueinterview.io/jobs/804f6116-1047-4c9e-ab33-663822eb7870">HV Test Engineer</a></td>
+<td>Zurich, Zurich, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484967836/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/fc2a545d-4f00-4ee3-8394-fa6ad3b46f4f">Quality &amp; Project Engineer Eastern Europe &amp; Ukraine 80 - 100% (f/m/d)</a></td>
+<td>Zurich, Zurich, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484981349/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/4869c6b7-b454-495e-90cb-a1a325e45c62">Factory Quality Assurance Specialist 80 - 100% (f/m/d)</a></td>
+<td>Zurich, Zurich, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484977433/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Exyte</strong></td>
+<td><a href="https://trueinterview.io/jobs/0e94591f-4441-434e-a510-9fafcf815c68">Process Engineer / Technician - Spray Drying / Fluid Bed Drying / Vacuum Drying (m/f/d)</a></td>
+<td>Basel, Basel, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466882788/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Migros-Genossenschafts-Bund</strong></td>
+<td><a href="https://trueinterview.io/jobs/8aad012a-921e-4dcf-8cc3-35a6a7e5f33f">Supply Chain Integration Engineer (w/m/d) 60 - 100%</a></td>
+<td>Zurich, Zurich, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474997260/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Unit8</strong></td>
+<td><a href="https://trueinterview.io/jobs/40924fce-ba53-4241-988e-d55ea82d21e4">Palantir Foundry Engineer (Zurich or Lausanne, Switzerland)</a></td>
+<td>Lausanne, Vaud, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4415202674/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Zürcher Kantonalbank</strong></td>
+<td><a href="https://trueinterview.io/jobs/6eacd4d1-5d7a-43a9-b65d-0a0e7bae2482">Product Owner Mobile Apps (m/w/d)</a></td>
+<td>Zurich, Zurich, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474826383/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/d98beb4d-ce4e-48ca-ae4f-a90f8a1aad63">Workplace Engineer Microsoft 365 Plattform (w/m/d)</a></td>
+<td>Zurich, Zurich, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474814979/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
 </table>

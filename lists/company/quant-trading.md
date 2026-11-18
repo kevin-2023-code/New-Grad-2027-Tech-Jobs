@@ -2,7 +2,7 @@
 
 # 📈 Quant trading & hedge funds
 
-**35 open roles.** 20 in the United States & Canada · 15 elsewhere in the world. Market makers, proprietary trading firms and quantitative funds.
+**51 open roles.** 27 in the United States & Canada · 24 elsewhere in the world. Market makers, proprietary trading firms and quantitative funds.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -157,6 +157,55 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4439266376/">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
+<tr>
+<td><strong>DRW</strong></td>
+<td><a href="https://trueinterview.io/jobs/35cee2db-e813-407d-ab2f-7f50a12c019b">Quantitative Developer</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/drweng/jobs/7985591">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Point72</strong></td>
+<td><a href="https://trueinterview.io/jobs/804b62b8-053d-41a1-a91e-32c618e3727f">Data Scientist, Proprietary Research</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4191961576/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Optiver</strong></td>
+<td><a href="https://trueinterview.io/jobs/90179f52-6b9f-460e-8caa-858f8ac2bfd8">Software Engineer - Trading Strategies</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475236106/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/6d7690ec-ebdd-4bff-943c-25d33b84e2bd">Software Engineer - Research Platform</a></td>
+<td>Chicago, IL<br/>Austin, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475223656/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/c95a9a5d-1fb5-45ef-8a09-811efcf99a24">Software Engineer - Agentic SDLC</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475216984/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>IMC</strong></td>
+<td><a href="https://trueinterview.io/jobs/e78487dd-7be0-4039-b4c4-5cd295dde88a">Quantitative Researcher</a></td>
+<td>Chicago, IL<br/>New York, NY<br/>Mumbai, India</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/imc/jobs/4987748101">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>DV Trading</strong></td>
+<td><a href="https://trueinterview.io/jobs/78175ba3-35f7-417b-9355-9dc9b08e7ce2">Back Office Developer</a></td>
+<td>Chicago, IL<br/>New York, NY</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/dvtrading/jobs/4749008005">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -273,6 +322,69 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Chicago, IL<br/>Tel Aviv-Yafo, Tel Aviv District, Israel</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/drweng/jobs/7921963">Apply</a></td>
 <td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f1824345-4ba7-4f06-a9ec-2b694a62e7e4">Options Trading Systems Engineer</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/drweng/jobs/7182464">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/25fc8452-27bc-4538-9515-ef7127a8f7c4">Quantitative Researcher - Commodities</a></td>
+<td>London, England, United Kingdom</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/drweng/jobs/6362259">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Optiver</strong></td>
+<td><a href="https://trueinterview.io/jobs/a9a3638f-09da-4bc0-9ccf-13e460bb37b3">Quantitative Developer - Pricing Data</a></td>
+<td>Amsterdam, North Holland, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4437686371/">Apply</a></td>
+<td align="center">1 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/407be996-7d28-40ae-8ade-9cf3b353a721">Software Engineer - Build Platform</a></td>
+<td>London, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475219725/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Two Sigma</strong></td>
+<td><a href="https://trueinterview.io/jobs/97a3647c-607b-4896-bfa3-0b49e86c00fb">Software Engineering Full-Time Campus Hire - London</a></td>
+<td>London, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474851288/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/024aec45-034b-47f7-a1b0-19ab110206c3">Production Engineer, Electronic Trading Systems</a></td>
+<td>Tokyo, Tokyo, Japan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466240209/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>DRW</strong></td>
+<td><a href="https://trueinterview.io/jobs/af9d9009-427c-4851-9b89-87d8bc6d065f">Trade Support Engineer</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/drweng/jobs/8168988">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/fbf3f00c-d52e-4d7f-ade3-2a52446b0298">Trading Systems Engineer, Cumberland Mining</a></td>
+<td>London, England, United Kingdom</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/drweng/jobs/7614634">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Two Sigma</strong></td>
+<td><a href="https://trueinterview.io/jobs/93e6b833-bd9a-45e4-8569-1c56e3e5eb91">Data Operations Analyst - Global Data Operations</a></td>
+<td>Tokyo, Tokyo, Japan<br/>London, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474454133/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
 </table>

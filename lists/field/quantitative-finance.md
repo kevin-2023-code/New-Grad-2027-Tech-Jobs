@@ -2,7 +2,7 @@
 
 # 📈 Quantitative Finance
 
-**116 open roles.** 94 in the United States & Canada · 22 elsewhere in the world.
+**174 open roles.** 124 in the United States & Canada · 50 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -675,6 +675,216 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4481454183/">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
+<tr>
+<td><strong>FINRA</strong></td>
+<td><a href="https://trueinterview.io/jobs/abb2b9b4-9892-4f5f-b0d5-189d97df642c">Quantitative Analyst, Advanced Analytics</a></td>
+<td>Rockville, MD<br/>Jersey City, NJ<br/>McLean, VA</td>
+<td align="center"><a href="https://finra.wd1.myworkdayjobs.com/FINRA/job/Rockville-MD-Job-Posting/Senior-Principal-Research-Analyst--Advanced-Analytics_R-010303">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Thurn Partners</strong></td>
+<td><a href="https://trueinterview.io/jobs/52a4ba6e-13aa-4eae-9d36-8c4f492410ec">C++ Quantitative Developer: Proprietary Trading Firm (New York)</a></td>
+<td>New York, NY<br/>Miami, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475256411/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/cf2da7b8-2a6b-4c59-ac43-d2114714226b">C++ Research Engineer / Quant Research Analyst: Proprietary Trading Firm</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4480079793/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Robeco</strong></td>
+<td><a href="https://trueinterview.io/jobs/3667f1a2-efb6-4bb6-993a-6b98655680bd">Quant Equity Researcher</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486148920/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>NJF Global Holdings Ltd</strong></td>
+<td><a href="https://trueinterview.io/jobs/14876069-2f94-472c-9604-cc1e86b422be">Quantitative Developer – Applied AI Research &amp; C++ Engineering</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486160231/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>DRW</strong></td>
+<td><a href="https://trueinterview.io/jobs/35cee2db-e813-407d-ab2f-7f50a12c019b">Quantitative Developer</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/drweng/jobs/7985591">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Scotiabank</strong></td>
+<td><a href="https://trueinterview.io/jobs/a744ef91-abc4-4d10-ab74-5ff8ea25bd42">Trader (1832 Asset Management)</a></td>
+<td>Toronto, ON<br/>Toronto, Canada</td>
+<td align="center"><a href="https://jobs.scotiabank.com/job/Toronto-Trader-%281832-Asset-Management%29-ON-M5C2V9/607630517/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Great Value Hiring</strong></td>
+<td><a href="https://trueinterview.io/jobs/e9c0e806-1fc6-4f9a-8625-5fbbb31c0cf8">Quantitative Rates Researcher</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477257239/">Apply</a></td>
+<td align="center">1 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ENGIE North America Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/e7deddc4-8b63-44c8-b5f5-67ffab687a46">Quantitative Analyst II_TRQA1H</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4449225328/">Apply</a></td>
+<td align="center">1 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Virtu Financial</strong></td>
+<td><a href="https://trueinterview.io/jobs/f5bfe962-bcab-4aec-97f3-e574d99760d5">Prediction Markets Trader (Nights &amp; Weekends)</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4422497928/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Aquatic Capital Management</strong></td>
+<td><a href="https://trueinterview.io/jobs/7932e554-f8da-41d7-84ca-1ac572149797">Quantitative Researcher, PhD</a></td>
+<td>Greater Chicago Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4409010891/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>RBC</strong></td>
+<td><a href="https://trueinterview.io/jobs/b524dc7b-ed01-413a-b820-fb84e0b7fea3">2027 Capital Markets, Quantitative Technology Services Summer, Raleigh</a></td>
+<td>Raleigh, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476358324/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Belvedere Trading, LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/38d6e46f-328f-4c00-8e5f-11104bd46ec8">Quantitative Trader - Entry Level 2027</a></td>
+<td>Chicago, Illinois</td>
+<td align="center"><a href="https://jobs.lever.co/belvederetrading/34369a5c-55c0-4e9f-9d2e-4f21b9418bee">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Skyrocket Ventures</strong></td>
+<td><a href="https://trueinterview.io/jobs/e0b88e67-7a5d-416b-866d-e0e293626e6f">Quant Developer / Quantitative Software Engineer - DeFi WealthTech Startup</a></td>
+<td>New York City Metropolitan Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4462669108/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>U.S. Bank</strong></td>
+<td><a href="https://trueinterview.io/jobs/50705fbd-fc40-4278-9808-9de7fe854da4">Financial Risk Quantitative Analyst</a></td>
+<td>New York, NY<br/>Charlotte, NC<br/>Minneapolis, MN</td>
+<td align="center"><a href="https://careers.usbank.com/global/en/job/UBNAGLOBAL20260033895EXTERNALENGLOBAL/Financial-Risk-Quantitative-Analyst">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Mizuho</strong></td>
+<td><a href="https://trueinterview.io/jobs/df180e22-da08-4bf8-8fac-bb467e2a889b">Quantitative Strategist – Balance Sheet Strategy &amp; Financial Resource Analysis, AVP</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4440815996/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Millennium</strong></td>
+<td><a href="https://trueinterview.io/jobs/775b8c01-75c2-499f-965f-a98af4c9e4bd">Quantitative Analyst – Quant Analyst Program</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485119708/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>GTS</strong></td>
+<td><a href="https://trueinterview.io/jobs/162cbf44-a4b5-498a-aac6-46fe9298190d">Quantitative Trader, ETF Team - Fixed Income</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4438445881/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>IMC</strong></td>
+<td><a href="https://trueinterview.io/jobs/e78487dd-7be0-4039-b4c4-5cd295dde88a">Quantitative Researcher</a></td>
+<td>Chicago, IL<br/>New York, NY<br/>Mumbai, India</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/imc/jobs/4987748101">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ONEOK</strong></td>
+<td><a href="https://trueinterview.io/jobs/001d2fdf-1390-4289-af5f-4a95302de721">Natural Gas Trader- Texas Markets</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477185882/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Engineering Management Student Association (EMSA)</strong></td>
+<td><a href="https://trueinterview.io/jobs/be37e0cd-2e74-4114-bfc9-71f04e19f91e">Assistant Professor in Quantitative Methods and Computational Psychology</a></td>
+<td>Los Angeles, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483420118/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>IMC Financial Markets</strong></td>
+<td><a href="https://trueinterview.io/jobs/344a4586-6d87-404b-a743-bef570313cba">Quantitative Researcher</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.imc.com/us/careers/jobs/4987748101">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Talisman</strong></td>
+<td><a href="https://trueinterview.io/jobs/44822760-081f-4c14-ae65-21a509550979">ETF Trader</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485284286/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/da023915-e3c6-4502-81e4-882a8ab12f0d">Discretionary Trader</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485264966/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Huntington National Bank</strong></td>
+<td><a href="https://trueinterview.io/jobs/42cac67f-2f3d-4fc1-a6b3-f503adede184">Quantitative Risk Modeling Analyst</a></td>
+<td>Columbus, OH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485240562/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Albert Bow</strong></td>
+<td><a href="https://trueinterview.io/jobs/d5e6d1e5-7747-4e29-b184-ce9d656aa6fb">Quantitative Developer</a></td>
+<td>Greater Chicago Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4465521948/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Bank of America</strong></td>
+<td><a href="https://trueinterview.io/jobs/16ff39f5-1374-4796-96f2-170a49bb3f18">Quantitative Engineer Analyst</a></td>
+<td>Atlanta, GA<br/>Charlotte, NC<br/>Jersey City, NJ</td>
+<td align="center"><a href="https://careers.bankofamerica.com/en-us/job-detail/26040002/quantitative-engineer-analyst-multiple-locations">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Federal Home Loan Bank of Chicago</strong></td>
+<td><a href="https://trueinterview.io/jobs/a3d12c4c-7f4a-46ca-87b5-28997b9011dc">Quantitative Rotational Analyst</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467148061/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Obsidian Ridge Trading</strong></td>
+<td><a href="https://trueinterview.io/jobs/32c6f94d-361a-4988-813d-010eef2fa8bf">Quantitative Developer</a></td>
+<td>Philadelphia, PA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485200196/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Pangea</strong></td>
+<td><a href="https://trueinterview.io/jobs/7fe02955-82df-4f40-b784-084458de9681">Gasoline Trader</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484982132/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -840,6 +1050,202 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Genève, Switzerland</td>
 <td align="center"><a href="https://jobs.totalenergies.com/fr_FR/careers/JobDetail/Quant-Modeling-Analyst-Oil/85173">Apply</a></td>
 <td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>DRW</strong></td>
+<td><a href="https://trueinterview.io/jobs/25fc8452-27bc-4538-9515-ef7127a8f7c4">Quantitative Researcher - Commodities</a></td>
+<td>London, England, United Kingdom</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/drweng/jobs/6362259">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>CNRS</strong></td>
+<td><a href="https://trueinterview.io/jobs/f351ae23-0016-4be8-a2fd-477723e3d90c">Doctorant (H/F) en biologie du développement et imagerie quantitative</a></td>
+<td>Montpellier, France</td>
+<td align="center"><a href="https://emploi.cnrs.fr/Offres/Doctorant/UMR5237-ALBTSA-005/Default.aspx">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Gravitas Recruitment Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/90044a19-6963-4fc8-b073-811153c8cd8e">Quant Developer</a></td>
+<td>Hong Kong</td>
+<td align="center"><a href="https://www.efinancialcareers.hk/jobs-Hong_Kong-Hong_Kong-Quant_Developer.id24963830">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>UniCredit Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/da44c3ae-550f-4e2b-8f55-1a1c381665c8">Praktikant Produktentwicklung Quantitative Investment-Strategien (m/w/d)</a></td>
+<td>München, Deutschland</td>
+<td align="center"><a href="https://careers.unicredit.eu/de_DE/jobsuche/JobDetail/Praktikant-Produktentwicklung-Quantitative-Investment-Strategien-m-w-d/117234">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>JPMorgan Chase</strong></td>
+<td><a href="https://trueinterview.io/jobs/07050dd0-c929-49ac-a79e-7b485c824429">Quantitative Trading &amp; Research - Commodities Quantitative Trading – Analyst</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210738947">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Optiver</strong></td>
+<td><a href="https://trueinterview.io/jobs/a9a3638f-09da-4bc0-9ccf-13e460bb37b3">Quantitative Developer - Pricing Data</a></td>
+<td>Amsterdam, North Holland, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4437686371/">Apply</a></td>
+<td align="center">1 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Forvis Mazars</strong></td>
+<td><a href="https://trueinterview.io/jobs/0649fa31-529d-493f-a7bd-6e5ac5e20278">Quant – Market Risk (Analyst)</a></td>
+<td>India</td>
+<td align="center"><a href="https://careers-asia.forvismazars.com/job-offer/quant-market-risk-analyst/">Apply</a></td>
+<td align="center">1 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>IMC Trading</strong></td>
+<td><a href="https://trueinterview.io/jobs/1e034d1e-2879-49ce-9a26-1c6798318de0">Trader - Digital Assets</a></td>
+<td>Sydney, New South Wales, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4449739502/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Qube Research &amp; Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/aa904c50-ba3d-4a62-b244-f40bf7421c86">Quantitative Developer - Production</a></td>
+<td>Hong Kong</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8908075002">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Susquehanna International Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/6993d938-445b-4c42-9eae-3cc45219e4cc">Quantitative Trader - Graduate: 2027</a></td>
+<td>Dublin, County Dublin, Ireland<br/>London, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4438420091/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Summit Global Investments</strong></td>
+<td><a href="https://trueinterview.io/jobs/93c62381-517a-43bf-bca4-84ea951e903c">Investment Analyst – Quantitative Research &amp; AI</a></td>
+<td>Salt Lake City Metropolitan Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485105106/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Da Vinci</strong></td>
+<td><a href="https://trueinterview.io/jobs/78c490f9-571a-4264-90d4-6a552a93d512">Graduate Trader</a></td>
+<td>Amsterdam Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483439529/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/97f04a9e-abec-4d6d-b298-f92ae689358f">Graduate Quant</a></td>
+<td>Amsterdam, North Holland, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483441584/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Code Compass 🧭</strong></td>
+<td><a href="https://trueinterview.io/jobs/a38ad0cb-3e00-4f4b-a301-30f8f6c10a5c">Quantitative Researcher - HFT</a></td>
+<td>Zurich, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483434653/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ACExcellent Consulting</strong></td>
+<td><a href="https://trueinterview.io/jobs/abc3c2a0-682d-4c15-973c-002eb155f1e1">Treasury Sales Trader/ Dealer (Foreign Bank)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484840087/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Tardis Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/14cc8f61-7a54-44d9-aab8-37c31a5c9499">Execution Quantitative Researcher, Singapore</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485322025/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>BoF Careers</strong></td>
+<td><a href="https://trueinterview.io/jobs/951f0122-4705-4100-ac45-b62bfbf0a7ad">Deckers Brands Online Trader - 14 month FTC</a></td>
+<td>London, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484816291/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ashford-Benjamin</strong></td>
+<td><a href="https://trueinterview.io/jobs/221765c5-5a8e-49d4-a3b0-11c628270c60">Quantitative Risk and Portfolio Construction Management – Global Trading Platform</a></td>
+<td>Hong Kong</td>
+<td align="center"><a href="https://www.efinancialcareers.hk/jobs-Hong_Kong-Hong_Kong-Quantitative_Risk_and_Portfolio_Construction_Management_%E2%80%93_Global_Trading_Platform.id24954367">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>HSBC</strong></td>
+<td><a href="https://trueinterview.io/jobs/a046018d-47c6-4cdf-8260-6592c82468ef">Stage - FICC Quantitative Research (f/m/d)</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://apply.careers.hsbc.com/job/PARIS-Stage-FICC-Quantitative-Research-%28fmd%29-75-75116/1376316157/?feedId=417557">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>VANGUARD FT SDN. BHD.</strong></td>
+<td><a href="https://trueinterview.io/jobs/c1d7438e-7bf8-4ef8-be47-1362b1bc6992">Quantitative Researcher / Quantitative Developer / Quantitative Strategist</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484594771/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Petroineos Trading Limited</strong></td>
+<td><a href="https://trueinterview.io/jobs/be991762-0a52-4119-975d-6b5ad4b9860b">Trader, Petrochemicals</a></td>
+<td>Rotterdam, South Holland, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4447539965/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Bozzino &amp; Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/580c455b-9140-4587-a1f6-072676b9ad26">Trader Investor / Co-Founder (Hedge Fund Start Up)</a></td>
+<td>England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484998253/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Petroineos Trading Limited</strong></td>
+<td><a href="https://trueinterview.io/jobs/e5dae24c-0ea9-45a8-a3f2-5aa865a65e91">Rubber Trader (Natural and Synthetic)</a></td>
+<td>Rotterdam, South Holland, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4447541818/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Swissquote</strong></td>
+<td><a href="https://trueinterview.io/jobs/8ee41138-00f6-478c-babe-0ac30f48778d">FX/Execution Trader</a></td>
+<td>Gland, Vaud, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4468669631/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Acadian Asset Management</strong></td>
+<td><a href="https://trueinterview.io/jobs/485a14d4-b491-4eaf-9909-4b1ed3c60b75">ESG Quant Analyst - Stewardship Specialist</a></td>
+<td>Sydney, New South Wales, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4446396227/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>HDI Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/8e3e3594-cab5-4d1f-b531-ba08516af301">Auditor Actuarial and Quantitative Risk Management</a></td>
+<td>Hannover, Lower Saxony, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4404096629/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Petroineos Trading Limited</strong></td>
+<td><a href="https://trueinterview.io/jobs/4d0c2fb1-32e7-4485-9c75-da6b848bd686">Metal Trader, Copper Cathodes</a></td>
+<td>London, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4446262582/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>IFC - International Food Connectors</strong></td>
+<td><a href="https://trueinterview.io/jobs/e04fbe6f-0e0a-4492-945e-5eb78a6b0846">Trader Latin America</a></td>
+<td>Rotterdam, South Holland, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484982101/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
 </table>

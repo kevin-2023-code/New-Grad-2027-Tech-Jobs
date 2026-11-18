@@ -2,7 +2,7 @@
 
 # 🌍 Dubai, Cairo, Lagos & Africa
 
-**38 open roles.** 1 in the United States & Canada · 37 elsewhere in the world.
+**55 open roles.** 1 in the United States & Canada · 54 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -177,6 +177,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Alibaba Cloud</strong></td>
+<td><a href="https://trueinterview.io/jobs/0ce717a1-b14a-4d4d-a9e3-2a32e21ff699">Data Center Fire Protection Engineer-Dubai</a></td>
+<td>Dubai, Dubai, United Arab Emirates</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4469949392/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>CHOCOLALA LLC - UAE &amp; GCC</strong></td>
 <td><a href="https://trueinterview.io/jobs/b021343b-6693-4a7c-8f7c-ddabb3ce8412">Photographer and Videographer</a></td>
 <td>Abu Dhabi, UAE</td>
@@ -294,6 +301,118 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Abu Dhabi, UAE</td>
 <td align="center"><a href="https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Abu-Dhabi-Abu-Dhabi-United-Arab-Emirates/Warranty-Engineer_R0147279">Apply</a></td>
 <td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Masdar</strong></td>
+<td><a href="https://trueinterview.io/jobs/0683766d-7cff-44c2-a41b-5ddef3c19931">ServiceNow Product Owner</a></td>
+<td>Abu Dhabi, UAE<br/>Abu Dhabi, Abu Dhabi, United Arab Emirates</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Masdar/744000159060868-servicenow-product-owner">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>DICETEK LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/53403327-59a2-4456-8e32-b15fd4feabee">Database Engineer</a></td>
+<td>Abu Dhabi, UAE</td>
+<td align="center"><a href="https://dicetek.talentrecruit.com/career-page/apply/U2FsdGVkX19PiFt0sTcqQvf1P4jxbL5EmQXl4iGyzEw%253D?viewJD=true">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Jacobs</strong></td>
+<td><a href="https://trueinterview.io/jobs/6fb303b7-3051-4921-8183-750f7223caad">Electrical BIM Engineer</a></td>
+<td>Dubai, UAE</td>
+<td align="center"><a href="https://careers.jacobs.com/en_US/careers/JobDetail/Electrical-BIM-Engineer/47716">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/aa306e88-3828-4643-baef-bf88e1a53433">Mechanical BIM Engineer</a></td>
+<td>Dubai, UAE</td>
+<td align="center"><a href="https://careers.jacobs.com/en_US/careers/JobDetail/Mechanical-BIM-Engineer/47713">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Parsons</strong></td>
+<td><a href="https://trueinterview.io/jobs/862bdc42-51e9-4ecb-9a79-bb8083b5f83a">Stakeholder Engineer (UAE Nationals)</a></td>
+<td>Dubai, UAE</td>
+<td align="center"><a href="https://jobs.parsons.com/jobs/stakeholder-engineer-uae-nationals-r-187900-jobs--administration--">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>University of Wollongong in Dubai</strong></td>
+<td><a href="https://trueinterview.io/jobs/aca8334b-eda5-4fb5-9573-3bee7901d3b4">Lab Engineer - Mechanical Engineering</a></td>
+<td>Dubai, UAE</td>
+<td align="center"><a href="https://employment.uowdubai.ac.ae/vacancy/176513?ChannelID=2883">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Fortinet</strong></td>
+<td><a href="https://trueinterview.io/jobs/fd957950-de98-47da-848d-e894685ba72d">Systems Engineer - Commercial</a></td>
+<td>Istanbul, Istanbul, Türkiye</td>
+<td align="center"><a href="https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/22979">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Henkel</strong></td>
+<td><a href="https://trueinterview.io/jobs/5e9cae92-2202-47e8-b5ab-989ed2b046e7">Packaging Engineer Home care</a></td>
+<td>Dubai, UAE</td>
+<td align="center"><a href="https://henkel.csod.com/ux/ats/careersite/1/home/requisition/89760?c=henkel&amp;lang=en-US&amp;jbid=-19">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Murphy AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/e1ea1a1b-14d6-4211-a8d0-0a244a7cffd3">Forward Deployed Engineer, Enterprise - Dubai</a> 🌐</td>
+<td>Remote — United Arab Emirates<br/>Dubai, UAE</td>
+<td align="center"><a href="https://careers.getmurphy.ai/jobs/8646806-forward-deployed-engineer-enterprise-dubai">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Beam AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/3aa89d59-4b64-4b3c-bb8a-af71943c5ecb">Forward Deployed Engineer</a></td>
+<td>Dubai, UAE</td>
+<td align="center"><a href="https://apply.workable.com/j/531888133E">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>AECOM</strong></td>
+<td><a href="https://trueinterview.io/jobs/7707d094-6a38-4f5d-a632-9091271628cf">Graduate - Mechanical Engineering إماراتيين (خلاصة القيد)</a></td>
+<td>Dubai, UAE, United Arab Emirates</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/AECOM2/744000158681938-graduate-mechanical-engineering-">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>DICETEK LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/a96d6e1d-1fff-4df1-a3a6-1d510a1c7c80">DevOps Engineer</a></td>
+<td>Dubai, UAE</td>
+<td align="center"><a href="https://dicetek.talentrecruit.com/career-page/apply/U2FsdGVkX1%252F0f3QcpjM2V%252B9beZlintbOedQrCmTi%252FXo%253D?viewJD=true">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>GHD</strong></td>
+<td><a href="https://trueinterview.io/jobs/6793b64a-907b-4862-84a9-71d6107f2632">Graduate Site Civil Engineer</a></td>
+<td>Abu Dhabi, UAE</td>
+<td align="center"><a href="https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/29094">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ITP Media Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/5ec205ed-b743-46a2-b556-02da8760f5aa">DevOps Engineer</a></td>
+<td>Dubai, UAE</td>
+<td align="center"><a href="https://itpmediagroup.teamtailor.com/jobs/8641072-devops-engineer">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>OPITO</strong></td>
+<td><a href="https://trueinterview.io/jobs/f995f3ec-2905-48aa-921c-589f6334701f">Qualification QA Specialist</a></td>
+<td>Dubai, UAE</td>
+<td align="center"><a href="https://jobs.opito.com/jobs/8641940-qualification-qa-specialist">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>W Group Holding</strong></td>
+<td><a href="https://trueinterview.io/jobs/18c6cec2-ba85-4448-9037-45cf469e5fa8">Project Engineer</a></td>
+<td>Dubai, UAE</td>
+<td align="center"><a href="https://t.gohiring.com/h/f88c1c91fdb9631d1c7c744a4be4941d9d9fc35c0b10832422ebc4bb059b72ba">Apply</a></td>
+<td align="center">30 Oct 2026</td>
 </tr>
 </tbody>
 </table>
