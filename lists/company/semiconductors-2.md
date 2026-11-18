@@ -2,7 +2,7 @@
 
 # 🔬 Semiconductors & chips
 
-**438 open roles.** 188 in the United States & Canada · 250 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
+**438 open roles.** 186 in the United States & Canada · 252 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 

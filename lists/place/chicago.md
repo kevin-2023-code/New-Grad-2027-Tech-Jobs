@@ -2,7 +2,7 @@
 
 # 🌬️ Chicago
 
-**232 open roles.** 231 in the United States & Canada · 1 elsewhere in the world.
+**235 open roles.** 234 in the United States & Canada · 1 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Akuna Capital</strong></td>
+<td><a href="https://trueinterview.io/jobs/62931056-bda2-4b2a-a48d-47f83d91203f">Software Engineer - Python, Post Trade</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491755301/">Apply</a></td>
+<td align="center">18 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>RandomTrees</strong></td>
+<td><a href="https://trueinterview.io/jobs/0d1152fc-9401-49db-9345-d66880116bac">Full Stack Engineer</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490892783/">Apply</a></td>
+<td align="center">18 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>HERE Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/42bc2521-483b-4561-9f0a-21409bbaa534">Data Scientist</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491764050/">Apply</a></td>
+<td align="center">18 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Tempus AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/1bd32108-0fc3-4e54-8875-0314c0e50fac">AI Scientist</a></td>
+<td>Chicago, IL<br/>Boston, MA<br/>New York, NY<br/>+1 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483810795/">Apply</a></td>
+<td align="center">18 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>OP Recruiting</strong></td>
 <td><a href="https://trueinterview.io/jobs/9592f7b3-8825-422d-947f-9d2bfc24feea">Software Developer (Java)</a></td>
@@ -111,7 +139,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Amazon.com</strong></td>
 <td><a href="https://trueinterview.io/jobs/6718818a-219a-496f-996e-e7bfb60086bd">Product Lifecycle Electrical Engineer, Data Center Electrical Products and Services</a></td>
-<td>Chicago, IL</td>
+<td>Chicago, IL<br/>Austin, TX</td>
 <td align="center"><a href="https://www.amazon.jobs/jobs/10606818/product-lifecycle-electrical-engineer-data-center-electrical-products-and-services?cmpid=DA_INAD200785B">Apply</a></td>
 <td align="center">10 Nov 2026</td>
 </tr>
@@ -253,13 +281,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/31748b37-c633-484c-bffe-71958e1a87b9">Machine Learning Engineer Fraud | Fintech Payments</a></td>
 <td>Chicago, IL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4488426861/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Sterling Trading Tech</strong></td>
-<td><a href="https://trueinterview.io/jobs/f65ff212-c9ed-4614-a964-d1be5603ae9f">React Native Developer</a></td>
-<td>Chicago, IL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4488414930/">Apply</a></td>
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>

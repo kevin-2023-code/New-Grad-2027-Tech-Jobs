@@ -2,7 +2,7 @@
 
 # 🌐 Remote
 
-**649 open roles.** 401 in the United States & Canada · 248 elsewhere in the world. Postings the pipeline classified as remote.
+**655 open roles.** 404 in the United States & Canada · 251 elsewhere in the world. Postings the pipeline classified as remote.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -20,6 +20,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>GAMURS Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/b25f0d26-02e6-4ebc-912b-fb6c29024600">Full Stack Developer (WordPress)</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://gamurs.breezy.hr/p/ca874a251651-full-stack-developer-wordpress">Apply</a></td>
+<td align="center">18 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Pipeline Health</strong></td>
+<td><a href="https://trueinterview.io/jobs/b186a795-2ec7-495a-8d71-14989e351005">IT Service Desk Technician Full Time</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://pipeline.rec.pro.ukg.net/PIP1500PPLN/JobBoard/663afd70-7892-48da-a106-a2deaafde171/OpportunityDetail?opportunityId=f46320eb-8075-49b5-8e5c-62de737404f0">Apply</a></td>
+<td align="center">18 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>SendCutSend</strong></td>
+<td><a href="https://trueinterview.io/jobs/3119a3f7-f56e-4c26-bdbb-fb11df9f88e5">CAD/CAM Programmer - All Shifts</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4674032?listingId=3ecffcba-6b5a-4a7e-b71b-bbb54a4527ab">Apply</a></td>
+<td align="center">18 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Smart IT Frame LLC</strong></td>
 <td><a href="https://trueinterview.io/jobs/64e0b26a-ca26-4318-a575-1cd31465bdd9">GCP DevSecOps Engineer</a> 🌐</td>
 <td>Remote — United States</td>
@@ -34,10 +55,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>IMIA, LLC</strong></td>
-<td><a href="https://trueinterview.io/jobs/09b5928f-97b8-4965-865c-73ae42fb6cd0">Cybersecurity Analyst- Information Protection</a> 🌐</td>
+<td><strong>Peraton</strong></td>
+<td><a href="https://trueinterview.io/jobs/07543ec0-d1d5-4364-9271-2d82908ff818">Software Test Engineer</a> 🌐</td>
 <td>Remote — United States</td>
-<td align="center"><a href="https://www.appone.com/applinkportal.asp?r_id=7228594&amp;AdCode=Indeed14961">Apply</a></td>
+<td align="center"><a href="https://www.careers.peraton.com/jobs/software-test-engineer-undefined-undefined-173542-jobs--quality-assurance--">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
@@ -2797,27 +2818,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — Singapore, United Kingdom, United States</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/sentient/c8354f11-556c-496c-8ef4-d6bd336a8f2d">Apply</a></td>
 <td align="center">23 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Openrouter</strong></td>
-<td><a href="https://trueinterview.io/jobs/87559b16-3a38-4477-a602-e93a10732509">Software Engineer, Trust &amp; Safety</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openrouter/cd5340a1-e787-4916-abb8-a08ab1bb229b/application">Apply</a></td>
-<td align="center">21 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Nice</strong></td>
-<td><a href="https://trueinterview.io/jobs/c243883c-422b-45ae-9f98-f45b81a06a6b">Dedicated Support Engineer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://boards.eu.greenhouse.io/nice/jobs/4943714101?gh_jid=4943714101">Apply</a></td>
-<td align="center">21 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Shopify</strong></td>
-<td><a href="https://trueinterview.io/jobs/5e6a97d7-ab71-44db-b41f-aa557b2f6f6c">Technical Security Analyst, IAM</a> 🌐</td>
-<td>Remote — Canada</td>
-<td align="center"><a href="https://www.shopify.com/careers/technical-security-analyst-iam_ed446689-e031-4f41-aa1d-e0de6a5940c8">Apply</a></td>
-<td align="center">21 Sep 2026</td>
 </tr>
 </tbody>
 </table>

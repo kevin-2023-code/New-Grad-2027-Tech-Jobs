@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**1,634 open roles.** 1,294 in the United States & Canada · 340 elsewhere in the world.
+**1,635 open roles.** 1,296 in the United States & Canada · 339 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Ubisoft</strong></td>
+<td><a href="https://trueinterview.io/jobs/c10fc570-6882-4beb-a3e5-85e28c05f420">Functional Support IT Analyst Assistant - Stage (6 mois) Janvier 2027 (F/H/NB)</a></td>
+<td>Paris, Île-de-France, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Ubisoft2/744000156260479-functional-support-it-analyst-assistant-stage-6-mois-janvier-2027-f-h-nb-">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>NCS</strong></td>
 <td><a href="https://trueinterview.io/jobs/752d7c75-e723-4aff-8ef5-201cff7de464">#EG Helpdesk and Concierge Engineer (M365)</a></td>

@@ -2,7 +2,7 @@
 
 # Embedded Engineer
 
-**226 open roles.** 145 in the United States & Canada · 81 elsewhere in the world.
+**229 open roles.** 147 in the United States & Canada · 82 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Donatech Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/dab4d977-4b2c-474a-b8ae-0a6ea7c1613c">Embedded Software Engineer</a></td>
+<td>Michigan, United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4492065208/">Apply</a></td>
+<td align="center">18 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/d110d3d3-baf5-4f0a-b81b-f92bd2663eba">Embedded Software Engineer - Always On Platforms, Core OS</a></td>
+<td>Cupertino, CA</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200695375-0836?board_id=JB001">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>MOLG</strong></td>
 <td><a href="https://trueinterview.io/jobs/2b2ccb21-40f6-47d9-bd17-d6f100e8f3c8">Firmware Engineer</a></td>
@@ -1049,6 +1063,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/0bef7c58-30c8-4c18-865a-6adbd3d83ffe">2027 YEAP Trainee - Embedded Software Development Engineer (Shanghai)</a></td>
 <td>Yang Pu Qu, Shang Hai Shi, China</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Aumovio/744000162009519-2027-yeap-trainee-embedded-software-development-engineer">Apply</a></td>
+<td align="center">18 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/b89717f4-26b0-4a63-a5af-a9d232b2b051">Software Development Engineer, MLIL Firmware</a></td>
+<td>Tel Aviv-Yafo, Tel Aviv, Israel</td>
+<td align="center"><a href="https://www.amazon.jobs/en/jobs/10607880/software-development-engineer-mlil-firmware">Apply</a></td>
 <td align="center">18 Nov 2026</td>
 </tr>
 <tr>

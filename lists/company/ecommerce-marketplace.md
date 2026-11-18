@@ -2,7 +2,7 @@
 
 # 🛒 E-commerce & marketplaces
 
-**218 open roles.** 149 in the United States & Canada · 69 elsewhere in the world. Retail tech, marketplaces, delivery, ride-hail and travel.
+**227 open roles.** 153 in the United States & Canada · 74 elsewhere in the world. Retail tech, marketplaces, delivery, ride-hail and travel.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,41 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/41929e2b-ef0e-429d-a641-419e5a25c0b5">Software Development Engineer, ROBOTICS - 2027</a></td>
+<td>Austin, TX<br/>North Reading, MA<br/>Westborough, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4492021490/">Apply</a></td>
+<td align="center">18 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/b42d6b6d-1600-4cd2-8ed3-fbcd8a08f6ec">Electric Propulsion System Research Scientist, Amazon Prime Air</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476192059/">Apply</a></td>
+<td align="center">18 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/14310864-4003-4e93-87b7-7325434d3311">Software Development Engineer, Checkout Engineering Excellence Team</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491779878/">Apply</a></td>
+<td align="center">18 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/34f4b7d5-855a-4f59-8362-3e9de91fe06b">Launch Ops SW Engineer - 2nd Shift, Amazon Leo, Launch Operation Software Team</a></td>
+<td>Merritt Island, Florida, United States</td>
+<td align="center"><a href="https://www.amazon.jobs/en/jobs/10607948/launch-ops-sw-engineer-2nd-shift-amazon-leo-launch-operation-software-team">Apply</a></td>
+<td align="center">18 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e227ba3e-8f12-4e26-9eea-ef7eb9c6fad4">Research Scientist, TechOps</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491717961/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/4da36cab-bb3b-4240-a91a-38ea28f4ebf8">Applied Scientist, AWS Identity Threat</a></td>
 <td>Seattle, Washington, United States</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10601001/applied-scientist-aws-identity-threat">Apply</a></td>
@@ -396,14 +431,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>eBay</strong></td>
-<td><a href="https://trueinterview.io/jobs/de6784eb-ac18-48b6-9195-173817ad38a9">Security Operations Engineer</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468954354/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/f76eaf80-61d2-495e-865e-94b7c12a409c">Software Development Engineer, AFT Outbound Flow</a></td>
 <td>Toronto, Ontario, Canada</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4470206631/">Apply</a></td>
@@ -1073,7 +1101,42 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>SHEIN</strong></td>
+<td><a href="https://trueinterview.io/jobs/7ad29c48-ee62-4cbb-b36f-0e8b3530347c">Graphic Designer</a></td>
+<td>Manchester, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4447105876/">Apply</a></td>
+<td align="center">18 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/38b2191b-786b-4489-99f8-139ab7b216a5">Data Engineer - Supply Chain Engineering, Supply Chain Engineering</a></td>
+<td>London, England, United Kingdom</td>
+<td align="center"><a href="https://www.amazon.jobs/en/jobs/10607966/data-engineer-supply-chain-engineering-supply-chain-engineering">Apply</a></td>
+<td align="center">18 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/602ce7fb-78c8-4944-8cc5-8a1317fba54d">Simulation Engineer</a></td>
+<td>Bengaluru, Karnataka, India</td>
+<td align="center"><a href="https://www.amazon.jobs/en/jobs/10607963/simulation-engineer">Apply</a></td>
+<td align="center">18 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/ba333d45-9b80-4842-b9bf-0390e268a735">Software Development Engineer, Last Mile Platform Services, SDE</a></td>
+<td>Gurugram, Haryana, India</td>
+<td align="center"><a href="https://www.amazon.jobs/en/jobs/10607822/software-development-engineer-last-mile-platform-services-sde">Apply</a></td>
+<td align="center">18 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/b89717f4-26b0-4a63-a5af-a9d232b2b051">Software Development Engineer, MLIL Firmware</a></td>
+<td>Tel Aviv-Yafo, Tel Aviv, Israel</td>
+<td align="center"><a href="https://www.amazon.jobs/en/jobs/10607880/software-development-engineer-mlil-firmware">Apply</a></td>
+<td align="center">18 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/97550800-a38f-4c2f-af4c-2d0f75685a7d">Data Center Technical Support Operations Engr, AWS Infra-operation DCEO</a></td>
 <td>Zhongwei, People's Republic of China</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10606895/data-center-technical-support-operations-engr-aws-infra-operation-dceo">Apply</a></td>

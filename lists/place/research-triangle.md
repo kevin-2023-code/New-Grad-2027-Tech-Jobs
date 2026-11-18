@@ -2,7 +2,7 @@
 
 # 🔺 Research Triangle & the Carolinas
 
-**256 open roles.**
+**262 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,6 +18,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Blend</strong></td>
+<td><a href="https://trueinterview.io/jobs/b4954483-b84f-4ae3-a600-0e589b95df78">Software Engineer - AI Native (Full Stack)</a></td>
+<td>Raleigh, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4492053522/">Apply</a></td>
+<td align="center">18 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Lowe's Companies, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/1362645b-604f-4423-ba40-a5b02100cd86">Data Scientist</a></td>
+<td>Charlotte, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491482934/">Apply</a></td>
+<td align="center">18 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>EY</strong></td>
+<td><a href="https://trueinterview.io/jobs/19772472-c954-4f1c-bf0f-ff680cf50413">SDC WAMT Back End Engineer---Analyst---Dallas, Raleigh, San Antonio</a></td>
+<td>Raleigh, NC<br/>Dallas, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474642698/">Apply</a></td>
+<td align="center">18 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Booth and Associates</strong></td>
 <td><a href="https://trueinterview.io/jobs/07b6a77c-f47b-4c01-b4aa-8fcd0892765e">Project Engineer I - Renewable Studies and Planning</a></td>
 <td>Raleigh, NC</td>
@@ -25,7 +46,21 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Nexstar Media Group, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/8b98a2a3-cd44-4946-9a53-29e99e4b44b1">IT Network Engineer</a></td>
+<td>Raleigh, NC</td>
+<td align="center"><a href="https://nexstar.wd5.myworkdayjobs.com/en-US/nexstar/job/NC-Raleigh/IT-Network-Engineer_REQ-43702-1">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Whistle Express Car Wash</strong></td>
+<td><a href="https://trueinterview.io/jobs/94b485f0-c323-4d13-bb9b-ad3f9ea3b27e">Analytics Engineering</a></td>
+<td>Charlotte, NC</td>
+<td align="center"><a href="https://whistleexpresscarwash.wd108.myworkdayjobs.com/Whistle_Express_Car_Wash/job/Whistle-Express-Headquarters/Analytics-Engineering_JR107084">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/5336e3a9-7402-4bcb-a336-743560463989">IT Engineer</a></td>
 <td>Charlotte, NC</td>
 <td align="center"><a href="https://whistleexpresscarwash.wd108.myworkdayjobs.com/Whistle_Express_Car_Wash/job/Whistle-Express-Headquarters/IT-Engineer_JR107083">Apply</a></td>
@@ -92,6 +127,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/b13f4f17-59fa-4f6e-a3e2-b2471fdb22c6">GE Vernova Combustion Aerothermal Engineer</a></td>
 <td>Greenville, SC</td>
 <td align="center"><a href="https://careers.gevernova.com/ge-vernova-combustion-aerothermal-engineer/job/R5059083">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Microsoft</strong></td>
+<td><a href="https://trueinterview.io/jobs/33b7dc06-b2df-42b3-9e6d-693761316592">Memory Circuit Design Engineer</a></td>
+<td>Raleigh, NC</td>
+<td align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393557074579?domain=microsoft.com">Apply</a></td>
 <td align="center">16 Nov 2026</td>
 </tr>
 <tr>

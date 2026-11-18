@@ -2,7 +2,7 @@
 
 # 🛢️ Houston, San Antonio & the rest of Texas
 
-**244 open roles.**
+**247 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,10 +18,31 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>SWIVEL</strong></td>
+<td><a href="https://trueinterview.io/jobs/30a7e85d-d534-4873-a701-e8340c69f8b5">Software Engineer</a></td>
+<td>San Antonio, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484265068/">Apply</a></td>
+<td align="center">18 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Hewlett Packard Enterprise</strong></td>
+<td><a href="https://trueinterview.io/jobs/78b1912d-da72-4eae-9bbd-6a109f8f1add">AI Automation Engineer Graduate</a></td>
+<td>Spring, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491762981/">Apply</a></td>
+<td align="center">18 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Hewlett Packard Enterprise | HPE</strong></td>
 <td><a href="https://trueinterview.io/jobs/f05a0295-9b3d-422f-a9bc-08c49e62fe4c">AI Automation Engineer Graduate</a></td>
 <td>Spring, TX</td>
 <td align="center"><a href="https://careers.hpe.com/us/en/job/HPE1US1213068EXTERNALENUS/AI-Automation-Engineer-Graduate">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/3e8885b0-2aae-4630-a0cb-b3a54c913ba7">Premium Services Engineer</a></td>
+<td>Spring, TX</td>
+<td align="center"><a href="https://careers.hpe.com/us/en/job/HPE1US1217539EXTERNALENUS/Premium-Services-Engineer">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>

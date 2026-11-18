@@ -2,7 +2,7 @@
 
 # 🖥️ Hardware, devices & networking
 
-**384 open roles.** 257 in the United States & Canada · 127 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
+**394 open roles.** 266 in the United States & Canada · 128 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,55 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Hewlett Packard Enterprise</strong></td>
+<td><a href="https://trueinterview.io/jobs/78b1912d-da72-4eae-9bbd-6a109f8f1add">AI Automation Engineer Graduate</a></td>
+<td>Spring, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491762981/">Apply</a></td>
+<td align="center">18 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Cisco</strong></td>
+<td><a href="https://trueinterview.io/jobs/9fddb2c2-d616-42db-b37e-9bba1485142c">ASIC DFT Engineer - Acacia (Hybrid)</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484271490/">Apply</a></td>
+<td align="center">18 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Hewlett Packard Enterprise</strong></td>
+<td><a href="https://trueinterview.io/jobs/565f40b4-c3fa-4bf3-adec-d5a6f7604d39">Business Systems &amp; Data Engineer</a></td>
+<td>Chippewa Falls, WI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491806192/">Apply</a></td>
+<td align="center">18 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/c43aa20d-a39f-4a44-b8de-e65630b3717c">Swift Software Engineer, Productivity Apps</a></td>
+<td>Vancouver, BC<br/>Cupertino, California, 95014, United States<br/>Pittsburgh, Pennsylvania, 15213, United States<br/>+1 more</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200694166/swift-software-engineer-productivity-apps">Apply</a></td>
+<td align="center">18 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Cisco</strong></td>
+<td><a href="https://trueinterview.io/jobs/c1709ec7-aad9-4e3a-a42e-1ff9c38128a2">Silicon Validation Software Engineer</a></td>
+<td>San Jose, California, US</td>
+<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Silicon-Validation-Engineer_2029023">Apply</a></td>
+<td align="center">18 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/cada0028-57b1-42ad-850b-dc8374651ea0">Content Developer- Retail &amp; Marcom Engineering</a></td>
+<td>Sunnyvale, California, 94085, United States</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200694660/content-developer-retail-marcom-engineering">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/6897d624-31b5-4dba-9259-b59be894a6e6">Software Development Engineer - Location Technologies, Sensing &amp; Connectivity</a></td>
+<td>Cupertino, California, 95014, United States</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200695484/software-development-engineer-location-technologies-sensing-connectivity">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Eight Sleep</strong></td>
 <td><a href="https://trueinterview.io/jobs/0e3466f2-5aff-467c-b0d2-272ce0d3dd74">New Grad - Engineering</a></td>
@@ -40,9 +89,30 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/b9277305-f683-4b51-beda-93ea05a34b80">Wireless RF OTA MIMO Validation Engineer</a></td>
+<td>Cupertino, CA</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200693968-0836?board_id=JB001">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/da68cfbc-d1f1-4de0-a707-e5a1f36cb113">AI Measurement Scientist, AI Evaluation Platform</a></td>
 <td>Seattle, Washington, 98117, United States</td>
 <td align="center"><a href="https://jobs.apple.com/en-us/details/200695284/ai-measurement-scientist-ai-evaluation-platform">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/d110d3d3-baf5-4f0a-b81b-f92bd2663eba">Embedded Software Engineer - Always On Platforms, Core OS</a></td>
+<td>Cupertino, CA</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200695375-0836?board_id=JB001">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/98174c46-95e4-4cd3-894f-42f600f0de4d">Media-IP SoC Performance Engineer, Platform Architecture</a></td>
+<td>Cupertino, CA</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200695477-0836?board_id=JB001">Apply</a></td>
 <td align="center">16 Nov 2026</td>
 </tr>
 <tr>
@@ -1026,13 +1096,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">25 Oct 2026</td>
 </tr>
 <tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/7fc12ba4-17f6-4b0a-b63f-5f65c9f9f6a9">Security Site Reliability Engineer - Apple Service Engineering</a></td>
-<td>Seattle, WA</td>
-<td align="center"><a href="https://jobs.apple.com/en-us/details/200690706-3337?board_id=JB001">Apply</a></td>
-<td align="center">23 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Arista</strong></td>
 <td><a href="https://trueinterview.io/jobs/939e89a4-d842-481e-8a2b-54a75e72828c">Thermal Test Engineer</a></td>
 <td>Santa Clara, California, United States</td>
@@ -1828,6 +1891,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/6fdb5f11-b97d-4289-8840-42509bf5a443">AIML - Apple Foundation Model - Post-Training Research Scientist</a></td>
+<td>Zurich, 8301, Switzerland</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200679630/aiml-apple-foundation-model-post-training-research-scientist">Apply</a></td>
+<td align="center">18 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Cisco</strong></td>
 <td><a href="https://trueinterview.io/jobs/33fbe51d-7b73-4b8e-8165-cc892f4c3f23">Junior Software QA Engineer- ETR- Serbia</a></td>

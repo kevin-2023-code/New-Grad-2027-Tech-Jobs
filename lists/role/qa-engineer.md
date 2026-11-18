@@ -2,7 +2,7 @@
 
 # QA Engineer
 
-**414 open roles.** 255 in the United States & Canada · 159 elsewhere in the world.
+**420 open roles.** 259 in the United States & Canada · 161 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -20,6 +20,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Global Payments Advisory Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/652a9288-3d6c-4779-b4b5-d2ca6cd3a2ac">QA Analyst I</a></td>
+<td>Dallas, TX, 75248</td>
+<td align="center"><a href="https://recruiting.ultipro.ca/PAY5000PAYCC/JobBoard/577632a2-3244-45f9-8cc3-e1457962ea52/OpportunityDetail?opportunityId=68f8325a-694c-401c-b0d6-bb2d413aa407">Apply</a></td>
+<td align="center">18 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>YuJa</strong></td>
+<td><a href="https://trueinterview.io/jobs/4cdb7b28-8b4e-4480-8adb-44f081ee84a0">Support Engineer in Test (Bilingual – French/English)</a></td>
+<td>North York, Ontario, Canada</td>
+<td align="center"><a href="https://yuja.bamboohr.com/careers/537">Apply</a></td>
+<td align="center">18 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Parlement des Jeunes du Bénin</strong></td>
 <td><a href="https://trueinterview.io/jobs/397aaf85-77bd-4480-b2ff-039590e72cf6">Software Tester / QA Analyst / Automation Engineer</a></td>
 <td>United States</td>
@@ -31,6 +45,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/9152facc-a6bb-4657-8689-7d2b6d3ac116">Software Tester / QA Analyst / Automation Engineer</a></td>
 <td>United States</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4490441914/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Peraton</strong></td>
+<td><a href="https://trueinterview.io/jobs/07543ec0-d1d5-4364-9271-2d82908ff818">Software Test Engineer</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://www.careers.peraton.com/jobs/software-test-engineer-undefined-undefined-173542-jobs--quality-assurance--">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>UST</strong></td>
+<td><a href="https://trueinterview.io/jobs/8c43f675-a17b-4977-8b31-22d08e501b7f">QA Analyst – Automation &amp; AI</a></td>
+<td>West Des Moines, IA</td>
+<td align="center"><a href="https://usource.ripplehire.com/candidate/?token=0KSUpazjWwph001YgYkd&amp;lang=en">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
@@ -1817,6 +1845,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Visa</strong></td>
+<td><a href="https://trueinterview.io/jobs/a67fdd8b-0a76-492a-9256-84aa0345c327">Consultant, Software Test Engineering</a></td>
+<td>Bogota, D.C., Capital District, Colombia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484220528/">Apply</a></td>
+<td align="center">18 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/45300f37-25be-4b4d-8cbb-dd0120c61e08">Software Testing Professional (Russian, Arabic, or French)</a></td>
+<td>Pasay, National Capital Region, Philippines</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4481563503/">Apply</a></td>
+<td align="center">18 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Testlio</strong></td>
 <td><a href="https://trueinterview.io/jobs/9690e0a0-9531-44c9-8f92-e342c54b9c71">Freelance Software Tester | Remote in Belgium</a></td>
 <td>Belgium</td>
@@ -2788,48 +2830,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Sophia Antipolis, Alpes-Maritimes, France</td>
 <td align="center"><a href="https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/24733">Apply</a></td>
 <td align="center">23 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Devoteam</strong></td>
-<td><a href="https://trueinterview.io/jobs/9a58d72c-8465-4279-b102-5bdedefb1917">Software Development| Quality Assurance Analyst</a></td>
-<td>Lisboa, Lisboa, Portugal</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Devoteam/744000157080310-software-development-quality-assurance-analyst">Apply</a></td>
-<td align="center">22 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/a3a9a0ad-a8b4-4721-b7e2-f0cfa1a7e9dd">Software Development | Quality Assurance Engineer</a></td>
-<td>Lisboa, Lisboa, Portugal</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Devoteam/744000157080339-software-development-quality-assurance-engineer">Apply</a></td>
-<td align="center">22 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Graphcore</strong></td>
-<td><a href="https://trueinterview.io/jobs/d5f6e794-1ad1-4ade-af2a-7579e9e10980">Graduate Software Engineer, System Software QA 2027</a></td>
-<td>Bristol, UK<br/>Cambridge, UK</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/graphcore/jobs/8894574002">Apply</a></td>
-<td align="center">20 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>ALTEN</strong></td>
-<td><a href="https://trueinterview.io/jobs/f1a391af-9d79-4eb4-b40c-bac288da664e">Test Automation Engineer (all gender)</a></td>
-<td>Nürnberg, Bavaria, Germany</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/ALTEN/744000156232060-test-automation-engineer-all-gender-">Apply</a></td>
-<td align="center">19 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Devoteam</strong></td>
-<td><a href="https://trueinterview.io/jobs/da26129a-d9e5-4033-b69d-2a693576eb06">QA Automation Back JAVA Spring Boot Sénior (H/F) Nearshore</a></td>
-<td>Rabat, Rabat-Salé-Kénitra, Morocco</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Devoteam/744000156010959-qa-automation-back-java-spring-boot-senior-h-f-nearshore">Apply</a></td>
-<td align="center">16 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Wpp Production</strong></td>
-<td><a href="https://trueinterview.io/jobs/1efa3aa6-1321-488a-abdd-4d5663566ec8">SDET (Software Development Engineer in Test)</a></td>
-<td>Hyderabad, India</td>
-<td align="center"><a href="https://www.wppproduction.com/careers/jobs/6223927004?gh_jid=6223927004">Apply</a></td>
-<td align="center">15 Oct 2026</td>
 </tr>
 </tbody>
 </table>

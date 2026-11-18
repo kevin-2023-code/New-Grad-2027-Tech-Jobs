@@ -2,7 +2,7 @@
 
 # Product Manager
 
-**375 open roles.** 145 in the United States & Canada · 230 elsewhere in the world.
+**376 open roles.** 147 in the United States & Canada · 229 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Lockheed Martin</strong></td>
+<td><a href="https://trueinterview.io/jobs/deb373eb-018f-4405-bebb-fac31a8a0825">Product Owner (Stf) - Product Lifecycle Enablement</a></td>
+<td>Orlando, FL<br/>King of Prussia, PA<br/>Littleton, CO<br/>+3 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491307436/">Apply</a></td>
+<td align="center">18 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Dallas Area Rapid Transit</strong></td>
+<td><a href="https://trueinterview.io/jobs/1ca95838-78ad-45a1-843b-5d5c35b7d30f">Business Analyst-Revenue Systems Product Owner</a></td>
+<td>Dallas, TX</td>
+<td align="center"><a href="https://apply-jobs.apploi.com/job/2018860">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>HPE Aruba Networking</strong></td>
 <td><a href="https://trueinterview.io/jobs/958b6bcf-986d-4b1b-804c-098f3c7f0a15">Networking MBA Product Manager Graduate</a></td>
@@ -1045,6 +1059,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Revolut</strong></td>
+<td><a href="https://trueinterview.io/jobs/a9cdc756-dc1f-4ad5-8b1e-c42e562b01c0">UX Product Owner (Personal Loans)</a></td>
+<td>Porto, Porto, Portugal<br/>Chennai, Tamil Nadu, India<br/>United Arab Emirates<br/>+11 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491419804/">Apply</a></td>
+<td align="center">18 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>ByteDance</strong></td>
 <td><a href="https://trueinterview.io/jobs/f95ab45b-c415-47a0-b2c9-40226adce61b">AI Product Manager Graduate (Corporate Information Systems - AI Vertical Scenarios) - 2027 Start</a></td>
 <td>Dubai, Dubai, United Arab Emirates</td>
@@ -1420,20 +1441,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/aca17d63-b7da-43c2-ae77-13b924c85cd9">Health AI Product Owner (m/w/d)</a></td>
 <td>Zug, Zug, Switzerland</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485306811/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Klanik</strong></td>
-<td><a href="https://trueinterview.io/jobs/8103d102-0975-42d2-bf61-9ebffa332d40">Product Owner (H/F)</a></td>
-<td>Lyon, Auvergne-Rhône-Alpes, France</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484828096/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/cc2024ec-9a81-45d0-8d78-5608835c4ee5">Product Owner Data (H/F)</a></td>
-<td>Marseille, Provence-Alpes-Côte d'Azur, France</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484817492/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>

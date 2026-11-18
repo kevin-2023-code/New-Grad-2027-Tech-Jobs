@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**1,634 open roles.** 1,294 in the United States & Canada · 340 elsewhere in the world.
+**1,635 open roles.** 1,296 in the United States & Canada · 339 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Nightwing</strong></td>
+<td><a href="https://trueinterview.io/jobs/544b013a-e005-4503-8221-a371e713ef8e">Network Engineer</a></td>
+<td>Sterling, VA<br/>Arlington, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476345803/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Codan Limited</strong></td>
 <td><a href="https://trueinterview.io/jobs/7fbf14e7-149e-4c83-80f6-1c5857b02e9b">Network Administrator</a></td>
@@ -2487,6 +2494,13 @@
 <td align="center">27 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>County of Galveston</strong></td>
+<td><a href="https://trueinterview.io/jobs/197baa9b-1a54-45bd-a783-f2840ac17cfa">Network Engineer</a></td>
+<td>Moody, AL</td>
+<td align="center"><a href="https://galvestoncountytx.wd503.myworkdayjobs.com/en-US/CountyofGalvestonCareers/job/722-Moody-Courthouse-Annex/Network-Engineer_JR563">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Dallas Stars</strong></td>
 <td><a href="https://trueinterview.io/jobs/3c8b10b9-c236-4c40-a024-d5eb74b218ff">Systems Administrator</a></td>
 <td>Frisco, TX</td>
@@ -2799,20 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/1bbaa8be-76df-41d0-8b06-24be896e6489">Service Desk Agent</a></td>
 <td>Wichita Falls, TX</td>
 <td align="center"><a href="https://careers.unitedregional.org/en/job/12255">Apply</a></td>
-<td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>University of Wisconsin–Madison</strong></td>
-<td><a href="https://trueinterview.io/jobs/081de946-13da-411e-96dc-9e566f39da61">PeopleSoft Systems Admin</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.wisc.edu/jobs/peoplesoft-systems-admin-madison-wisconsin-united-states-ce15b79a-0384-47d8-b1a7-3466a4b787ee">Apply</a></td>
-<td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>US Joint Activities</strong></td>
-<td><a href="https://trueinterview.io/jobs/407da028-ae74-47ff-8322-e7b78fc63857">IT Specialist Systems Administrator</a></td>
-<td>Key West, FL</td>
-<td align="center"><a href="https://www.usajobs.gov/job/889952700">Apply</a></td>
 <td align="center">27 Oct 2026</td>
 </tr>
 </tbody>

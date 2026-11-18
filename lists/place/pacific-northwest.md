@@ -18,6 +18,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/c43aa20d-a39f-4a44-b8de-e65630b3717c">Swift Software Engineer, Productivity Apps</a></td>
+<td>Vancouver, Washington, 98684, United States<br/>Vancouver, BC<br/>Cupertino, California, 95014, United States<br/>+1 more</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200694166/swift-software-engineer-productivity-apps">Apply</a></td>
+<td align="center">18 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>VELOX Media</strong></td>
 <td><a href="https://trueinterview.io/jobs/0a883f44-6c6d-46bb-ac1e-fb03a56ca8e7">GTM Engineer (AI Sales &amp; Engineering)</a></td>
 <td>Boise, ID</td>
@@ -127,13 +134,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/4de0dcb1-88ca-49a8-bb24-4fc9ce8c254c">DevOps Engineer</a></td>
 <td>Beaverton, OR</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487366398/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>UST</strong></td>
-<td><a href="https://trueinterview.io/jobs/df9312b2-ec85-4fef-b2fa-5ffd0f91b678">Cloud Application Developer</a></td>
-<td>Hillsboro, OR</td>
-<td align="center"><a href="https://usource.ripplehire.com/candidate/?token=ZGlNvDD3ss6eLi4Vpdke&amp;lang=en">Apply</a></td>
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>

@@ -51,6 +51,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Revolut</strong></td>
+<td><a href="https://trueinterview.io/jobs/a9cdc756-dc1f-4ad5-8b1e-c42e562b01c0">UX Product Owner (Personal Loans)</a></td>
+<td>Porto, Porto, Portugal<br/>Chennai, Tamil Nadu, India<br/>United Arab Emirates<br/>+11 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491419804/">Apply</a></td>
+<td align="center">18 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Stripe</strong></td>
 <td><a href="https://trueinterview.io/jobs/7c5635ec-9a78-4e7c-a411-4b4ad019c847">Software Engineer, New Grad - Frontend</a></td>
 <td>Barcelona, Catalonia, Spain</td>
@@ -923,13 +930,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/e6787c79-b729-433c-b7cd-bb5766df9299">QA Automation Engineer</a></td>
 <td>Madrid, Community of Madrid, Spain</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4482299598/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>King</strong></td>
-<td><a href="https://trueinterview.io/jobs/7f222f24-d8ef-4244-b3bf-46e19904f0d7">Game Engine Developer | Shared Tech</a></td>
-<td>Barcelona, Catalonia, Spain</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467267728/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

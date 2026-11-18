@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**1,250 open roles.** 695 in the United States & Canada · 555 elsewhere in the world.
+**1,261 open roles.** 705 in the United States & Canada · 556 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,83 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Devoteam</strong></td>
+<td><a href="https://trueinterview.io/jobs/6823a882-8699-4ca8-aa5c-abd1ee0ba945">AI Engineer Microsoft H/F</a></td>
+<td>Levallois-Perret, Île-de-France, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Devoteam/744000155308612-ai-engineer-microsoft-h-f">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Loveholidays</strong></td>
+<td><a href="https://trueinterview.io/jobs/8458adbe-06b2-4c1e-ba82-822d53206e2b">Applied AI Engineer</a></td>
+<td>London</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/loveholidays/10ba54b7-8c04-455b-b7e9-287202e448e9">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SIGMA SOFTWARE</strong></td>
+<td><a href="https://trueinterview.io/jobs/b60aed00-fc7d-4689-8021-283795a1099d">Forward AI Deployment Engineer (FDE)</a></td>
+<td>Kraków, Lesser Poland Voivodeship, Poland</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SigmaSoftware2/744000155228789-forward-ai-deployment-engineer-fde-">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>42dot</strong></td>
+<td><a href="https://trueinterview.io/jobs/d8d375be-b8e8-47d1-b017-a195b35d3fb8">AI Agent Engineer (Autonomous Driving)</a></td>
+<td>Pangyo (Software Dream Center), South Korea</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/42dot/133bd359-f3b9-463d-870b-ae2e6ed9b3b1">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ericsson</strong></td>
+<td><a href="https://trueinterview.io/jobs/27a7052d-45c3-44bf-abe2-cb9b433547ef">AI Product Engineer</a></td>
+<td>Stockholm, Sweden</td>
+<td align="center"><a href="https://jobs.ericsson.com/careers/job/563121777431846?domain=ericsson.com">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Western Digital</strong></td>
+<td><a href="https://trueinterview.io/jobs/c2f03688-6af8-4197-be63-f07a3149fc70">Testing Engineering, Manufacturing (AI)</a></td>
+<td>Shenzhen, Guangdong Province, China</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/WesternDigital/744000155156589-testing-engineering-manufacturing-ai-">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>IFS</strong></td>
+<td><a href="https://trueinterview.io/jobs/5183f3ed-8dec-4c4b-8988-229a25e9e90c">AI Engineer - Front end</a></td>
+<td>Staines-upon-Thames, England, United Kingdom</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/IFS1/744000155010794-ai-engineer-front-end">Apply</a></td>
+<td align="center">12 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Perk</strong></td>
+<td><a href="https://trueinterview.io/jobs/5ddde3c4-3f23-4049-8b88-2ceb158093ab">AI Revenue Systems Analyst</a></td>
+<td>Barcelona</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/Perk/7c53b9c9-cac4-4717-a466-1ea186889843">Apply</a></td>
+<td align="center">12 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SAP IT Business Systeme</strong></td>
+<td><a href="https://trueinterview.io/jobs/03e5b5b9-351e-4f74-84cd-19d77082e3b1">Application AI Engineer</a></td>
+<td>Sofia, Bulgaria</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000154993348-application-ai-engineer-">Apply</a></td>
+<td align="center">12 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Wavestone</strong></td>
+<td><a href="https://trueinterview.io/jobs/51adddea-efdb-4d9d-9769-9046bfffd273">Data and AI - AI Engineer</a></td>
+<td>London, England, United Kingdom</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Wavestone1/744000154989689-data-and-ai-ai-engineer">Apply</a></td>
+<td align="center">12 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Reolink</strong></td>
+<td><a href="https://trueinterview.io/jobs/267d6490-cc82-448b-b124-9910d7d4971d">Agentic AI Engineer / Specialist (PhD Holder)</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/reolink/jobs/4448320009">Apply</a></td>
+<td align="center">12 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Sopra Steria</strong></td>
 <td><a href="https://trueinterview.io/jobs/68b9bc8f-11de-4f46-ab78-f5024a8091c7">AI Native Developer</a></td>

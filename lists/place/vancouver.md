@@ -2,7 +2,7 @@
 
 # ⛰️ Vancouver & British Columbia
 
-**78 open roles.**
+**79 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/c43aa20d-a39f-4a44-b8de-e65630b3717c">Swift Software Engineer, Productivity Apps</a></td>
+<td>Vancouver, BC<br/>Cupertino, California, 95014, United States<br/>Pittsburgh, Pennsylvania, 15213, United States<br/>+1 more</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200694166/swift-software-engineer-productivity-apps">Apply</a></td>
+<td align="center">18 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Cisco</strong></td>
 <td><a href="https://trueinterview.io/jobs/7c914da8-12ad-4f73-bc3e-88ab57068592">Software Developer Full Stack / Backend II (Full Time) - Canada</a></td>

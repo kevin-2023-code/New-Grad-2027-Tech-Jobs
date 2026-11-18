@@ -2,7 +2,7 @@
 
 # 🇩🇪 Berlin, Munich & Germany
 
-**403 open roles.** 2 in the United States & Canada · 401 elsewhere in the world.
+**405 open roles.** 2 in the United States & Canada · 403 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Flix</strong></td>
+<td><a href="https://trueinterview.io/jobs/f1aea284-7073-4245-bc1e-dd625328f974">Infrastructure Engineer (m/f/d)</a></td>
+<td>Berlin</td>
+<td align="center"><a href="https://flix.careers/job/8836372002?gh_jid=8836372002">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Drees &amp; Sommer Digital Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/c74581a5-c3e5-4091-9d9b-529b6f4b9659">Praktikant (w/m/d) Engineering audiovisuelle Medientechnik</a></td>
+<td>Stuttgart, Baden-Württemberg, Germany</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/DreesSommerSE/744000151794535-praktikant-w-m-d-engineering-audiovisuelle-medientechnik">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Proxima Fusion</strong></td>
 <td><a href="https://trueinterview.io/jobs/3d4c2434-654b-411e-bd31-e91b96a386ca">Mechanical Design Engineer</a></td>

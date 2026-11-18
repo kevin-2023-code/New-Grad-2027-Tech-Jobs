@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**1,634 open roles.** 1,294 in the United States & Canada · 340 elsewhere in the world.
+**1,635 open roles.** 1,296 in the United States & Canada · 339 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Dynasty Financial Partners</strong></td>
+<td><a href="https://trueinterview.io/jobs/a6b37eab-d95a-40d3-86c5-97dd1b55b8b2">Service Desk Generalist</a></td>
+<td>200 Central Avenue, St Petersburg, FL, 33701, US</td>
+<td align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4673255?listingId=ae5f0443-df50-48c1-a191-4e205c9bbee6">Apply</a></td>
+<td align="center">18 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Pipeline Health</strong></td>
+<td><a href="https://trueinterview.io/jobs/b186a795-2ec7-495a-8d71-14989e351005">IT Service Desk Technician Full Time</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://pipeline.rec.pro.ukg.net/PIP1500PPLN/JobBoard/663afd70-7892-48da-a106-a2deaafde171/OpportunityDetail?opportunityId=f46320eb-8075-49b5-8e5c-62de737404f0">Apply</a></td>
+<td align="center">18 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>SynQor, Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/b440f6c3-c73d-46d2-bdfb-9b8c64533ded">Systems Administrator I</a></td>
+<td>Salem, New Hampshire, United States</td>
+<td align="center"><a href="https://jobs.jobvite.com/synqor-careers/job/oTi7AfwC">Apply</a></td>
+<td align="center">18 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>The AME Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/654e989c-42c6-44d8-b481-a0484da2f5cb">IT Desktop Support Service Technician</a></td>
+<td>Indianapolis, IN<br/>1400 N Meridian St, Indianapolis, IN, 46202-2305, US</td>
+<td align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4672116/The-AME-Group/IT-Desktop-Support-Service-Technician">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>University of Notre Dame</strong></td>
 <td><a href="https://trueinterview.io/jobs/5449edce-4982-4f19-9998-09bf0028014c">On-call Security Monitor | NDPD</a></td>
@@ -48,17 +76,17 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Nexstar Media Group, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/8b98a2a3-cd44-4946-9a53-29e99e4b44b1">IT Network Engineer</a></td>
+<td>Raleigh, NC</td>
+<td align="center"><a href="https://nexstar.wd5.myworkdayjobs.com/en-US/nexstar/job/NC-Raleigh/IT-Network-Engineer_REQ-43702-1">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Radiance Technologies Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/e803fc7a-d883-4e02-aced-189a848fe580">IT Data Analyst</a></td>
 <td>Dayton, OH</td>
 <td align="center"><a href="https://radiancetech.wd12.myworkdayjobs.com/en-US/Radiance_External/job/Dayton-Office/IT-Data-Analyst_HR102573">Apply</a></td>
-<td align="center">17 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>The AME Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/654e989c-42c6-44d8-b481-a0484da2f5cb">IT Desktop Support Service Technician</a></td>
-<td>Indianapolis, IN</td>
-<td align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4672116/The-AME-Group/IT-Desktop-Support-Service-Technician">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
@@ -353,13 +381,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a7076b80-30dc-4009-b8b3-ea34e1673184">Systems Administrator (SO)</a></td>
 <td>Golden, CO</td>
 <td align="center"><a href="https://jefferson.wd5.myworkdayjobs.com/en-US/External/job/Golden/Systems-Administrator--SO-_R-10704-1">Apply</a></td>
-<td align="center">16 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Kennesaw State University</strong></td>
-<td><a href="https://trueinterview.io/jobs/678eae03-38df-4080-bfe7-41a32f4bc16d">Information Technology Apprenticeship - IT Service Desk Operations</a></td>
-<td>Kennesaw, GA</td>
-<td align="center"><a href="https://careers.hprod.onehcm.usg.edu/psc/careers/CAREERS/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&amp;Action=U&amp;Focus=Applicant&amp;JobOpeningId=305939&amp;SiteId=43000&amp;PostingSeq=1">Apply</a></td>
 <td align="center">16 Nov 2026</td>
 </tr>
 <tr>
@@ -2796,27 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/2c484af5-4f98-437c-95dc-c14e95b2fcc6">IT Support Specialist (Contract)</a></td>
 <td>United States, Los Angeles, CA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6233291004">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Vervic</strong></td>
-<td><a href="https://trueinterview.io/jobs/78774751-63d1-429b-959e-1f7bb449d2c0">Functional System Administrator</a></td>
-<td>Manhattan, NY<br/>Baltimore, MD</td>
-<td align="center"><a href="https://vervichr.apscareerportal.com/j/036vd08">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/259b8499-2998-4943-867a-4e346e4e0236">Technical System Administrator</a></td>
-<td>Manhattan, NY<br/>Baltimore, MD</td>
-<td align="center"><a href="https://vervichr.apscareerportal.com/j/036vcsp">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>J.W. Speaker Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/28a2df7d-5cf8-48d5-8830-bf87e4da418e">Service Desk Specialist</a></td>
-<td>Germantown, WI</td>
-<td align="center"><a href="https://recruiting.ultipro.com/JWS1000/JobBoard/3f2cb93c-c041-b65a-1edb-09573a51de1a/OpportunityDetail?opportunityId=66b81acb-c175-4d82-9cf6-3dcaac5a9d4e&amp;postingId=d372d84c-7485-4aac-9c1e-dd57b46e02e3">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 </tbody>

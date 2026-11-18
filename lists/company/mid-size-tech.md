@@ -2,7 +2,7 @@
 
 # 🏤 Mid-sized tech (200–999)
 
-**148 open roles.** 67 in the United States & Canada · 81 elsewhere in the world. Big enough to have a real engineering org, small enough that you will meet the founders.
+**149 open roles.** 68 in the United States & Canada · 81 elsewhere in the world. Big enough to have a real engineering org, small enough that you will meet the founders.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>Hightouch</strong></td>
+<td><a href="https://trueinterview.io/jobs/bcd24de7-2e30-40e7-ab12-1cfa8ba66b2c">Software Engineer, Native Delivery</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475871718/">Apply</a></td>
+<td align="center">18 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/72fccf73-c6c3-48ef-8919-9f92167c692e">Software Engineer, Control Plane</a></td>
 <td>United States</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4475865792/">Apply</a></td>

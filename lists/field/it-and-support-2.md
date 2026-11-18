@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**1,634 open roles.** 1,294 in the United States & Canada · 340 elsewhere in the world.
+**1,635 open roles.** 1,296 in the United States & Canada · 339 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,27 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Vervic</strong></td>
+<td><a href="https://trueinterview.io/jobs/78774751-63d1-429b-959e-1f7bb449d2c0">Functional System Administrator</a></td>
+<td>Manhattan, NY<br/>Baltimore, MD</td>
+<td align="center"><a href="https://vervichr.apscareerportal.com/j/036vd08">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/259b8499-2998-4943-867a-4e346e4e0236">Technical System Administrator</a></td>
+<td>Manhattan, NY<br/>Baltimore, MD</td>
+<td align="center"><a href="https://vervichr.apscareerportal.com/j/036vcsp">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>J.W. Speaker Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/28a2df7d-5cf8-48d5-8830-bf87e4da418e">Service Desk Specialist</a></td>
+<td>Germantown, WI</td>
+<td align="center"><a href="https://recruiting.ultipro.com/JWS1000/JobBoard/3f2cb93c-c041-b65a-1edb-09573a51de1a/OpportunityDetail?opportunityId=66b81acb-c175-4d82-9cf6-3dcaac5a9d4e&amp;postingId=d372d84c-7485-4aac-9c1e-dd57b46e02e3">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Sbt Global</strong></td>
 <td><a href="https://trueinterview.io/jobs/651413b7-fde5-459c-97f1-c84f45d7635e">IT Support &amp; Automation Specialist -HB</a></td>
@@ -751,13 +772,6 @@
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Aurora Flight Sciences</strong></td>
-<td><a href="https://trueinterview.io/jobs/b54707af-4dca-4105-b8c9-f5c1befdb974">IT Support Specialist</a></td>
-<td>Bridgeport, WV</td>
-<td align="center"><a href="https://phg.tbe.taleo.net/phg01/ats/careers/v2/viewRequisition?org=AURORA&amp;cws=37&amp;rid=4076">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Ball Horticultural Company</strong></td>
 <td><a href="https://trueinterview.io/jobs/00ea5af2-7073-444d-a2ba-5631437821b6">IT Support Desk Technician</a></td>
 <td>West Chicago, IL</td>
@@ -1252,13 +1266,6 @@
 <td><a href="https://trueinterview.io/jobs/2f7fa4b3-ed9e-4693-be25-f4c5341e209a">IT Support Analyst</a></td>
 <td>El Segundo, CA</td>
 <td align="center"><a href="https://jobs.lever.co/canvasww/bf9ea7c7-4112-4fdd-b31d-a1c283cc96f5">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>ICCU</strong></td>
-<td><a href="https://trueinterview.io/jobs/327582d1-2c7b-4eba-a7da-10b1b073bc7d">Business Systems Administrator - Chubbuck or Meridian</a></td>
-<td>Chubbuck, ID</td>
-<td align="center"><a href="https://recruiting.ultipro.com/IDA1000/JobBoard/26bbbd4e-7790-a471-7482-a40a1f3f8f25/OpportunityDetail?opportunityId=c9ca9ce4-d0cb-4c71-a683-08bd32873714&amp;postingId=30ce5daf-be76-4fde-acb5-9e0092828217">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
@@ -2806,13 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/a9a685c3-834c-4315-aa23-cc6908b1f3f6">IT Analyst I - Desktop</a></td>
 <td>Gardena, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4446699443/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Nightwing</strong></td>
-<td><a href="https://trueinterview.io/jobs/544b013a-e005-4503-8221-a371e713ef8e">Network Engineer</a></td>
-<td>Sterling, VA<br/>Arlington, VA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476345803/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

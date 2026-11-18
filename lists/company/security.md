@@ -2,7 +2,7 @@
 
 # 🔒 Cybersecurity
 
-**67 open roles.** 33 in the United States & Canada · 34 elsewhere in the world. Security products, detection, identity and offensive-security vendors.
+**68 open roles.** 34 in the United States & Canada · 34 elsewhere in the world. Security products, detection, identity and offensive-security vendors.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>BeyondTrust</strong></td>
+<td><a href="https://trueinterview.io/jobs/d98566a5-8615-430c-94b7-b399386d2520">Site Reliability Engineer- Remote</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475814744/">Apply</a></td>
+<td align="center">18 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Darktrace</strong></td>
 <td><a href="https://trueinterview.io/jobs/e66f45f6-cf05-4e3c-aca6-6c1cf8a4d615">Cyber Infrastructure Engineer</a></td>

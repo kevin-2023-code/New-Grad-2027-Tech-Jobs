@@ -2,7 +2,7 @@
 
 # 🧠 AI labs & AI infrastructure
 
-**170 open roles.** 116 in the United States & Canada · 54 elsewhere in the world. Foundation-model labs, AI products, evaluation and data vendors, GPU clouds.
+**171 open roles.** 117 in the United States & Canada · 54 elsewhere in the world. Foundation-model labs, AI products, evaluation and data vendors, GPU clouds.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>C3 AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/23840c03-8451-4476-9c08-26df302faeb5">Platform Full-Stack Engineer, New Grad 2027</a></td>
+<td>Redwood City, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4465226718/">Apply</a></td>
+<td align="center">18 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Otter.ai</strong></td>
 <td><a href="https://trueinterview.io/jobs/fdfdc661-1cf0-4387-b128-64aa7e9464e7">Software Engineer, AI Agent &amp; LLM</a></td>
