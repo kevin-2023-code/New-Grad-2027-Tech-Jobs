@@ -2,11 +2,11 @@
 
 # 🧰 IT & Support
 
-**1,660 open roles.** 1,321 in the United States & Canada · 339 elsewhere in the world.
+**1,128 open roles.** 916 in the United States & Canada · 212 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
-<sub>[← Page 1](it-and-support.md) · Page 2 of 5 · [Page 3 →](it-and-support-3.md)</sub>
+<sub>[← Page 1](it-and-support.md) · Page 2 of 3 · [Page 3 →](it-and-support-3.md)</sub>
 
 ## United States & Canada
 
@@ -15,265 +15,6 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Cloudscale365</strong></td>
-<td><a href="https://trueinterview.io/jobs/002870ad-2a92-4d4e-9bd5-a403d85a4bc0">Help Desk Technician</a></td>
-<td>Flemington, NJ</td>
-<td align="center"><a href="https://cloudscale365.bamboohr.com/careers/40?postedDate=2026-11-04">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>DOCTORS HEALTHCARE PLANS, INC.</strong></td>
-<td><a href="https://trueinterview.io/jobs/faa261e1-1f29-4e67-8e5f-eba871b7f7b2">IT HelpDesk - PC Support</a></td>
-<td>Miami, FL</td>
-<td align="center"><a href="https://doctorshealthcareplansinc.applytojob.com/apply/dhOyl2EQGc/IT-HelpDesk-PC-Support?%7E=">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Elevance Health</strong></td>
-<td><a href="https://trueinterview.io/jobs/1fd73895-c28d-44e2-89be-cd09a653ceaa">Help Desk Analyst I (External Support)</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://careers.elevancehealth.com/help-desk-analyst-i-external-support/job/906D0FD9230B94806658620187966414">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>ELEVI Associates, LLC</strong></td>
-<td><a href="https://trueinterview.io/jobs/eaaa5c9d-2502-423e-bb63-486481d070cc">Systems Administrator Level 1</a></td>
-<td>Annapolis Junction, MD</td>
-<td align="center"><a href="https://grnh.se/mp88i7zq3us">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>EMCOR</strong></td>
-<td><a href="https://trueinterview.io/jobs/1262a09f-abaa-4d04-b01c-df00280b7a27">IT Support Specialist</a></td>
-<td>Atlanta, GA</td>
-<td align="center"><a href="https://careers-emcorgroup.icims.com/jobs/54383/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Erie Community College</strong></td>
-<td><a href="https://trueinterview.io/jobs/c66a23d1-b3ec-4e23-92d6-3dfcb7e27d28">Coordinator of Network Admin and Security (ON SITE)</a></td>
-<td>Williamsville, NY</td>
-<td align="center"><a href="https://ecc.wd5.myworkdayjobs.com/en-US/CareerOpportunities/job/North-Campus---Williamsville/Coordinator-of-Network-Admin-and-Security---ON-SITE-_J0003062-1">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Expedient</strong></td>
-<td><a href="https://trueinterview.io/jobs/7d2fbe4d-d872-431f-a12b-c4035cde74fc">Entry-Level IT Support Associate (B)</a></td>
-<td>Pittsburgh, PA<br/>Carmel, IN</td>
-<td align="center"><a href="https://expedient.applytojob.com/apply/jNKdZ7jlDi/EntryLevel-IT-Support-Associate-F?%7E=">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Falls Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/4d45fce9-7024-4731-9dda-e49c572bb1dc">Systems Administrator | TS/SCI w/ Poly</a></td>
-<td>Reston, VA</td>
-<td align="center"><a href="https://fallstech.bamboohr.com/careers/139?postedDate=2026-11-04">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Fuse Engineering</strong></td>
-<td><a href="https://trueinterview.io/jobs/05b19164-09df-4a22-a3f0-b56d94dfce4b">Linux Systems Administrator</a></td>
-<td>Laurel, MD</td>
-<td align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4641454/Fuse-Engineering-LLC/Linux-Systems-Administrator">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Gable &amp; Gotwals</strong></td>
-<td><a href="https://trueinterview.io/jobs/cd4748a0-e318-4ddc-9a1b-e82a3bb7db20">Help Desk/Applications Specialist</a></td>
-<td>Tulsa, OK</td>
-<td align="center"><a href="https://secure7.saashr.com/ta/6222944.careers?ShowJob=638044876">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Gama-1 Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/a46e46bd-d4e8-4643-ba1c-ff6df333bffa">Help Desk Technician I</a></td>
-<td>Silver Spring, MD</td>
-<td align="center"><a href="https://secure.entertimeonline.com/ta/PayServ214003.careers?ShowJob=553989651">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Henrico County Public Schools</strong></td>
-<td><a href="https://trueinterview.io/jobs/81cf5647-50b6-4859-bc44-ddd2bfb529b1">IT Systems Administrator I</a></td>
-<td>United States</td>
-<td align="center"><a href="https://careers.henrico.gov/careersmarketplace/PositionDetails?jobId=2301source=Indeed">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Hoffman Auto Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/97ac1d80-1d7f-4bf4-991f-58c26ebc2601">IT Specialist</a></td>
-<td>East Hartford, CT<br/>West Simsbury, CT</td>
-<td align="center"><a href="https://www.paycomonline.net/v4/ats/web.php/portal/C987D694EB255190507E75D10D8B72B0/jobs/243175">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>HORN MEMORIAL HOSPITAL</strong></td>
-<td><a href="https://trueinterview.io/jobs/ac3a6488-7352-43e1-8bf1-80b3f96be3a8">IT Help Desk Support Specialist- Full Time</a></td>
-<td>Ida Grove, IA</td>
-<td align="center"><a href="https://hornmemorial.hireclick.com/jb/it-help-desk-support-specialist-full-time/view/271924">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>HTG, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/4380443a-150d-4c57-b0ea-b73bfe7564bd">Service Desk Monitoring</a> 🌐</td>
-<td>Remote — United States, Canada</td>
-<td align="center"><a href="https://htginc.bamboohr.com/careers/223?postedDate=2026-11-04">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Infosys</strong></td>
-<td><a href="https://trueinterview.io/jobs/b6171874-c529-4cda-af8c-d9251240e51b">SD-WAN Network Engineer</a></td>
-<td>Ashburn, VA<br/>Richmond, VA</td>
-<td align="center"><a href="https://digitalcareers.infosys.com/global-careers/company-job/description/reqid/155731BR">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>International House at UC Berkeley</strong></td>
-<td><a href="https://trueinterview.io/jobs/d3fb8f30-394b-4898-99a9-d496aad55170">Cloud and IT Systems Administrator</a></td>
-<td>Berkeley, CA</td>
-<td align="center"><a href="https://grnh.se/32iphh0e4us">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>LaunchTech</strong></td>
-<td><a href="https://trueinterview.io/jobs/2899e198-4b79-477c-ba34-dea2b7f29d97">Enterprise Systems Administrator</a></td>
-<td>Huntsville, AL<br/>Colorado Springs, CO</td>
-<td align="center"><a href="https://launchtech.applytojob.com/apply/ovoGzP7KkJ/Enterprise-Systems-Administrator?%7E=">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Matter Healthcare</strong></td>
-<td><a href="https://trueinterview.io/jobs/27b78262-7b50-4c7b-a547-d4a251980cdd">System Administrator</a></td>
-<td>Memphis, TN</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/matter-health/22fddd85-05f5-4516-aa1a-2739f339948d">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Mercyhealth</strong></td>
-<td><a href="https://trueinterview.io/jobs/666c7580-4652-4d36-b0f4-8e8e65854844">Finance System Administrator- Remote</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://mercyhealth.wd1.myworkdayjobs.com/mercyhealthcareers/job/Remote-Illinois/Finance-System-Administrator--Remote_2026-03970-1">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Montclair State University</strong></td>
-<td><a href="https://trueinterview.io/jobs/5c5bb386-6480-491c-a7f8-e19824aa5530">Network Engineer</a></td>
-<td>Montclair, NJ</td>
-<td align="center"><a href="https://montclair.wd1.myworkdayjobs.com/en-US/JobOpportunities/job/Montclair-NJ/Network-Engineer_R1005121">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Motivational Marketing</strong></td>
-<td><a href="https://trueinterview.io/jobs/d25a9d54-f6dd-4fd2-b7ef-04317a674f8e">IT Systems (Linux) Network Administrator</a></td>
-<td>Southaven, MS</td>
-<td align="center"><a href="https://www.paycomonline.net/v4/ats/web.php/portal/F213B35A75E77C9D9587C978B65E65A2/jobs/68732">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>PruittHealth</strong></td>
-<td><a href="https://trueinterview.io/jobs/f556aab0-0c5e-4f16-bde4-a40eabc7379c">IT Service Desk Technician</a></td>
-<td>Norcross, GA</td>
-<td align="center"><a href="https://careers.pruitthealth.com/us/en/job/PTRHUS2613889EXTERNALENUS/IT-Service-Desk-Technician">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>PUMA</strong></td>
-<td><a href="https://trueinterview.io/jobs/f30a1c0d-2a5f-49c4-bc25-bbc82fa9247e">Analyst I IT Service Desk</a></td>
-<td>Somerville, MA</td>
-<td align="center"><a href="https://about.puma.com/node/27205">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Regions Financial</strong></td>
-<td><a href="https://trueinterview.io/jobs/85eb3ce7-c4df-4a8a-b1f6-3d1075aeb571">Technology Services Help Desk Technician</a></td>
-<td>Hoover, AL</td>
-<td align="center"><a href="https://careers.regions.com/us/en/job/RFCOUSR107285ENUSEXTERNAL/Technology-Services-Help-Desk-Technician">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Samaritan Medical Center</strong></td>
-<td><a href="https://trueinterview.io/jobs/32afe3a4-3668-49e3-a242-200faab25ba1">DESKTOP SUPPORT TECHNICIAN</a></td>
-<td>Watertown, NY</td>
-<td align="center"><a href="https://samaritanhealth.wd12.myworkdayjobs.com/shsny/job/Samaritan-Medical-Center/DESKTOP-SUPPORT-TECHNICIAN_R3775">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Savannah River National Laboratory</strong></td>
-<td><a href="https://trueinterview.io/jobs/e3724679-4862-4ea4-9b7b-b8c3ef8d992c">Entry Level Linux Systems Administrator</a></td>
-<td>Aiken, SC</td>
-<td align="center"><a href="https://ewvl.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/2238">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/b30e218b-127b-4151-9511-e8a0fabd72fb">Linux Systems Administrator</a></td>
-<td>Aiken, SC</td>
-<td align="center"><a href="https://ewvl.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/2239">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Select Source Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/f2363acc-3bb3-4b58-b9a9-aebdfb018da1">Help Desk Technician</a></td>
-<td>Greenbelt, MD</td>
-<td align="center"><a href="https://selectsourcesolutions.applytojob.com/apply/WYGfcqzWov/Help-Desk-Technician?%7E=">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Shentel</strong></td>
-<td><a href="https://trueinterview.io/jobs/0fbb2154-186a-4f33-b4e3-911c7b189405">Technical Support Rep I</a></td>
-<td>Winchester, VA<br/>Columbus, OH<br/>Virginia Beach, VA</td>
-<td align="center"><a href="https://jobs.dayforcehcm.com/en-US/shentel/CANDIDATEPORTAL/jobs/19968">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Southwest Women's Oncology,</strong></td>
-<td><a href="https://trueinterview.io/jobs/4e8304da-972d-4096-899a-d4a57d04c7d1">IT Support Specialist</a></td>
-<td>Albuquerque, NM</td>
-<td align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4642649/Southwest-Womens-Oncology-Inc/IT-Support-Specialist">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/cfacdd55-aebb-4792-97bd-f6e027928c6a">Database Administrator</a></td>
-<td>Hawthorne, CA</td>
-<td align="center"><a href="https://grnh.se/m06ek23r2us">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Special Health Resources</strong></td>
-<td><a href="https://trueinterview.io/jobs/595c9a27-83d2-4c08-bbc7-41cd2c494e66">IT Support Specialist</a></td>
-<td>Longview, TX</td>
-<td align="center"><a href="https://www.paycomonline.net/v4/ats/web.php/portal/56B72CAA6D3F530B9BC1DB5D9B97DD12/jobs/317875">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>State of Illinois</strong></td>
-<td><a href="https://trueinterview.io/jobs/3a1227a5-8f3a-401d-b9d9-92f2fe642816">INFORMATION TECHNOLOGY SYSTEM ADMINISTRATOR</a></td>
-<td>Springfield, IL</td>
-<td align="center"><a href="https://illinois.jobs2web.com/job/Springfield-INFORMATION-TECHNOLOGY-SYSTEM-ADMINISTRATOR-IL-62704/1447811700/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Steel Dynamics</strong></td>
-<td><a href="https://trueinterview.io/jobs/882bba6a-a802-4bec-9304-35b6c3f4e4c3">IT Network Technician</a></td>
-<td>Fort Wayne, IN</td>
-<td align="center"><a href="https://careers-steeldynamics.icims.com/jobs/8439/it-network-technician/job">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Stride Healthcare Management LLC</strong></td>
-<td><a href="https://trueinterview.io/jobs/622285ed-d0d9-4734-9f41-987fd192e247">IT HELP DESK ADMINISTRATOR</a></td>
-<td>Addison, TX</td>
-<td align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4642487/StrideCare/IT-HELP-DESK-ADMINISTRATOR">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Synopsys</strong></td>
-<td><a href="https://trueinterview.io/jobs/9f277177-b676-452b-9582-3e65cc494bcd">Service Desk Engineer</a></td>
-<td>Exton, PA</td>
-<td align="center"><a href="https://careers.synopsys.com/job/exton/service-desk-engineer/44408/102923301632">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>Textron</strong></td>
 <td><a href="https://trueinterview.io/jobs/490e3c68-2e76-4798-9261-9e542b596d73">Network Engineer</a></td>
@@ -342,13 +83,6 @@
 <td><a href="https://trueinterview.io/jobs/28a2df7d-5cf8-48d5-8830-bf87e4da418e">Service Desk Specialist</a></td>
 <td>Germantown, WI</td>
 <td align="center"><a href="https://recruiting.ultipro.com/JWS1000/JobBoard/3f2cb93c-c041-b65a-1edb-09573a51de1a/OpportunityDetail?opportunityId=66b81acb-c175-4d82-9cf6-3dcaac5a9d4e&amp;postingId=d372d84c-7485-4aac-9c1e-dd57b46e02e3">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Axs</strong></td>
-<td><a href="https://trueinterview.io/jobs/c56d628b-461a-40fb-bd3b-d66c20b40242">IT Specialist I (Field)</a></td>
-<td>Los Angeles, CA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/axs/jobs/8929424002">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
@@ -611,6 +345,20 @@
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>FGM Architects</strong></td>
+<td><a href="https://trueinterview.io/jobs/307f6933-3081-4525-98b6-d1a99c6b7a25">IT Support Specialist (Westchester, IL)</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://www.fgmarchitects.com/opportunities?gnk=job&amp;gni=8a7887aca18473d901a1a32b279d27e1&amp;gns=Indeed+Free">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>General Dynamics Information Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/4d816d99-fd84-4ec2-b60e-e85c2deaee5f">Help Desk Technician- DAYS - TS/SCI w/ poly</a></td>
+<td>Annapolis Junction, MD</td>
+<td align="center"><a href="https://www.gdit.com/careers/job/0d587f20e/help-desk-technician-days-tssci-w-poly/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>GFA, Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/4a7a3dff-67bc-4325-ad18-2fd6cb6c32a0">IT Specialist</a></td>
 <td>Valley, AL</td>
@@ -695,7 +443,21 @@
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Mainstay Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/3658e7a5-1092-4ce1-9bcf-d05beba9ca19">Help Desk Tier I Technician</a></td>
+<td>Manchester, NH</td>
+<td align="center"><a href="https://mainstaytechnologies.applytojob.com/apply/FZnM1ImRZb/Help-Desk-Tier-I-Technician?%7E=">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Merrick &amp; Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/693e0e9b-5736-493f-a5cd-a207bbb2d5e2">Service Desk Analyst</a></td>
+<td>Richmond, VA</td>
+<td align="center"><a href="https://careers.merrick.com/jobs/8554/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/2c6627f6-c682-4027-9788-a6fe42af2869">Systems Administrator</a></td>
 <td>Greenwood Village, CO</td>
 <td align="center"><a href="https://careers.merrick.com/jobs/8553/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
@@ -720,6 +482,13 @@
 <td><a href="https://trueinterview.io/jobs/c0bd0131-5303-4bf3-bad5-04aa6d930d2a">IT Specialist (Network Services)</a></td>
 <td>Boulder, CO</td>
 <td align="center"><a href="https://www.usajobs.gov/job/891319900">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Northern Arizona Healthcare</strong></td>
+<td><a href="https://trueinterview.io/jobs/cb02c2f2-0685-4be9-b3e4-6ad40c8ab01b">Temporary IT Service Center Help Desk Specialist 1 - AZ Remote (must reside in AZ)</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://careers-nahealth.icims.com/jobs/22928/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
@@ -765,6 +534,13 @@
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Professional Search Group, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/56247b9b-7d4b-4fcc-8e00-321ec594ac2d">Help Desk Technician (Contract)</a></td>
+<td>Columbia City, IN</td>
+<td align="center"><a href="https://jobs.crelate.com/portal/psg/job/tj8e4hy9u4ha9bsseetsn8zy6a?r=28">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>RFgen</strong></td>
 <td><a href="https://trueinterview.io/jobs/9effcc66-40cc-4217-8484-4f456b24087c">Technical Support</a></td>
 <td>El Dorado Hills, CA</td>
@@ -783,6 +559,27 @@
 <td><a href="https://trueinterview.io/jobs/4a824e41-3034-4c07-91a2-a04663621cc3">IT Analyst</a></td>
 <td>Morrisville, NC</td>
 <td align="center"><a href="https://grnh.se/af6nbgiq1us">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Sentara</strong></td>
+<td><a href="https://trueinterview.io/jobs/3dc434cf-e4c0-405c-bd74-7a61d787636a">IT Technical Support Specialist - Hybrid</a></td>
+<td>Virginia Beach, VA</td>
+<td align="center"><a href="https://sentara.wd1.myworkdayjobs.com/SCS/job/Sentara-Independence/IT-Technical-Support-Specialist---Hybrid_JR-108702">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Sony Interactive Entertainment</strong></td>
+<td><a href="https://trueinterview.io/jobs/aa1b2af3-1e4d-42ed-be29-8adacdc01797">IT Support Specialist (Contract)</a></td>
+<td>Los Angeles, CA</td>
+<td align="center"><a href="https://grnh.se/5kkmmxrg4us">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Southland Holdings</strong></td>
+<td><a href="https://trueinterview.io/jobs/29c0c90e-dfdd-46a9-8cec-7847c46ca179">IT Support Technician</a></td>
+<td>Grapevine, TX</td>
+<td align="center"><a href="https://southlandholdings.applytojob.com/apply/G2DR6dBGby/IT-Support-Technician?%7E=">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
@@ -839,6 +636,13 @@
 <td><a href="https://trueinterview.io/jobs/059a8a36-b6f4-462e-b877-73cb6249248b">Help Desk Technician</a></td>
 <td>Virginia Beach, VA</td>
 <td align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4638185/Urology-of-Virginia-PLLC/Help-Desk-Technician">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>VIVA</strong></td>
+<td><a href="https://trueinterview.io/jobs/ad9e3153-8aa9-40b8-aada-18bf61ce5616">Level 1 IT Technician (Help Desk)</a></td>
+<td>Carlsbad, NM</td>
+<td align="center"><a href="https://careers.viva-it.com/careers/opportunities/job-detail/level-1-it-technician-help-desk-RKNML13">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
@@ -1010,6 +814,13 @@
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e4f5a613-8328-4a62-8e2f-ebcac729d6b4">Network Technician 1</a></td>
+<td>Hanover, MD</td>
+<td align="center"><a href="https://www.amentumcareers.com/jobs/network-technician-1-hanover-maryland-united-states-e0b6cfa2-cfe2-4c64-9ea7-90075bbcdb80">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Aurora Flight Sciences</strong></td>
 <td><a href="https://trueinterview.io/jobs/b54707af-4dca-4105-b8c9-f5c1befdb974">IT Support Specialist</a></td>
 <td>Bridgeport, WV</td>
@@ -1122,6 +933,13 @@
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Fortis</strong></td>
+<td><a href="https://trueinterview.io/jobs/cf5c7b32-624d-401d-a248-ad0f06f424d0">IT Support Analyst</a></td>
+<td>Greenville, SC</td>
+<td align="center"><a href="https://fortis.bamboohr.com/careers/75?postedDate=2026-11-02">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Fortis Payments</strong></td>
 <td><a href="https://trueinterview.io/jobs/5cec316f-f969-4d2a-b21f-1ed430212c5d">Technical Support Specialist</a></td>
 <td>Plano, TX</td>
@@ -1220,6 +1038,13 @@
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Michigan Broadband Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/679c4f24-3cfa-4092-872d-2918b2de5661">Network Technician, Commercial Accounts</a></td>
+<td>Escanaba, MI</td>
+<td align="center"><a href="https://michiganbroadbandservices.bamboohr.com/careers/113?postedDate=2026-11-02">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Ministry Brands</strong></td>
 <td><a href="https://trueinterview.io/jobs/86de9cb4-32b2-4d51-a1af-10c6ded5cb9a">IT Support Technician</a></td>
 <td>Alpharetta, GA</td>
@@ -1245,6 +1070,13 @@
 <td><a href="https://trueinterview.io/jobs/76bb06b8-cf0a-45b3-ad6e-df3f3c78bb93">Branch Specialist Technical Support</a></td>
 <td>Mobile, AL<br/>Philadelphia, PA, United States<br/>Knoxville, TN, United States<br/>+2 more</td>
 <td align="center"><a href="https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2628060">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Siddons-Martin Emergency Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/4aff68bc-518a-46d6-821b-0c1aa510f936">Network Specialist</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://jobs.dayforcehcm.com/en-US/smteam/CANDIDATEPORTAL/jobs/1226">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>
@@ -1500,6 +1332,13 @@
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>SpaceX</strong></td>
+<td><a href="https://trueinterview.io/jobs/ae318b1d-6850-4263-a9fa-79c852939e15">IT Windows Systems Administrator</a></td>
+<td>Bastrop, TX<br/>Starbase, TX</td>
+<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8924702002?gh_jid=8924702002">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Sub-Zero Group, Inc</strong></td>
 <td><a href="https://trueinterview.io/jobs/118ac70a-83bd-4ece-b905-d86e46369eea">Network Engineer</a></td>
 <td>Goodyear, AZ</td>
@@ -1745,6 +1584,13 @@
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>DESC (Downtown Emergency Service Center)</strong></td>
+<td><a href="https://trueinterview.io/jobs/3ba3cdf0-6dc5-43e9-a5a8-804154e4199c">Help Desk Technician</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483404899/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Accenture</strong></td>
 <td><a href="https://trueinterview.io/jobs/e09d738a-2894-4b86-b393-afb6a418396a">IT Live Helpdesk Support Representative - San Antonio, TX</a> 🌐</td>
 <td>Remote — United States</td>
@@ -1805,6 +1651,13 @@
 <td><a href="https://trueinterview.io/jobs/f40485db-05bc-40f8-b350-151401f962b5">Windows System Administrator (SA2) (Government)</a></td>
 <td>Columbia, MD</td>
 <td align="center"><a href="https://www.att.jobs/job/-/windows-system-administrator-sa2-government/117/102658995168">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ATC</strong></td>
+<td><a href="https://trueinterview.io/jobs/f0b67804-7a6c-45d9-9bde-970a49c4d6da">Database Administrator</a></td>
+<td>Pewaukee, WI</td>
+<td align="center"><a href="https://atcllc.wd5.myworkdayjobs.com/en-US/atcllc/job/Pewaukee-WI/Database-Administrator_R0003370">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
@@ -1913,6 +1766,13 @@
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Knobelsdorff (KE)</strong></td>
+<td><a href="https://trueinterview.io/jobs/90e0daaf-a64f-4bec-9edc-26f79156b79f">Help Desk Analyst</a></td>
+<td>Goodhue, MN</td>
+<td align="center"><a href="https://phx.us-west.paycomonline.net/v4/ats/web.php/portal/6523D734AA0B6FF624DF2EA2D34E9FCA/jobs/7210">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Moraine Valley Community College</strong></td>
 <td><a href="https://trueinterview.io/jobs/39e160dd-c94c-4937-b7bc-7dd78377a38a">Network Engineer</a></td>
 <td>Palos Hills, IL</td>
@@ -1945,6 +1805,13 @@
 <td><a href="https://trueinterview.io/jobs/8d7947e0-71fb-462a-91ba-6a31793afbad">Linux System Administrator (Top Secret/SCI with agreement to obtain CI Poly Clearance Required)</a></td>
 <td>Chantilly, VA</td>
 <td align="center"><a href="https://grnh.se/aji297x02us">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Olam Agri Americas, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/b0888dbd-5327-4df1-9562-5925cf119371">IT Administrator (Temporary)</a></td>
+<td>Richardson, TX</td>
+<td align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4630406/Olam-Agri-Americas-Inc/IT-Administrator-Temporary">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
@@ -1987,6 +1854,20 @@
 <td><a href="https://trueinterview.io/jobs/90699faa-0751-4546-b173-4e343a3c925f">I.T. Help Desk Technician I</a></td>
 <td>Indiana, United States</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4483420201/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SAIC</strong></td>
+<td><a href="https://trueinterview.io/jobs/22a7f16a-8aeb-49ee-b426-17e5b962fc5d">Systems Administrator</a></td>
+<td>Pearl City, HI</td>
+<td align="center"><a href="https://jobs.saic.com/jobs/18428097-systems-administrator?bid=336&amp;tm_company=2520&amp;tm_event=view&amp;tm_job=2618653">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Salt River Pima-Maricopa Indian Community</strong></td>
+<td><a href="https://trueinterview.io/jobs/4b50cc22-4f01-4ee4-b501-c83ca1973589">Database Administrator</a></td>
+<td>Scottsdale, AZ</td>
+<td align="center"><a href="https://www.governmentjobs.com/careers/srpmic/jobs/5536488/database-administrator">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
@@ -2815,9 +2696,128 @@
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484959778/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
+<tr>
+<td><strong>Illinois State Board of Education</strong></td>
+<td><a href="https://trueinterview.io/jobs/bfac61e8-3625-4f20-821d-363e3bcd77e8">Help Desk Agent (Consultant #1424)</a></td>
+<td>Springfield, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4459041968/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>OWL Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/48a94ab3-69dd-4635-8118-2de64d93d719">IT Support Specialist</a></td>
+<td>Manchester, NH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4465920030/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Robert Half</strong></td>
+<td><a href="https://trueinterview.io/jobs/82c8508a-eded-44ab-b9f8-e4174042fd7d">Help Desk/Desktop Support Analyst</a></td>
+<td>Tucson, AZ<br/>Monrovia, CA<br/>White Plains, NY<br/>+4 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484459864/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Tata Consultancy Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/7d33d8f9-3d99-4bcc-8461-0354e6822c13">Network Administrator</a></td>
+<td>Blue Bell, PA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4448597273/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Alight Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/3a473942-c0ab-4869-989f-f5a605eceda9">Systems Administrator - Virtual</a></td>
+<td>Illinois, United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474492174/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Tata Consultancy Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/8e23ea78-97a9-4ff4-868c-63d4f7fb9c97">Technical Support Specialist</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467126241/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Kelly Science, Engineering, Technology &amp; Telecom</strong></td>
+<td><a href="https://trueinterview.io/jobs/8af074ce-bf15-47a4-a7ac-40261c75a144">Desktop Support Specialist</a></td>
+<td>Verona, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484942871/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Orion Innovation</strong></td>
+<td><a href="https://trueinterview.io/jobs/31b1ba7d-6bbb-4827-a4a1-4b3ee6bfb4d8">DB2 Database Administrator</a></td>
+<td>New City, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475434726/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cook County Health</strong></td>
+<td><a href="https://trueinterview.io/jobs/7135a550-490c-41f9-9eb1-d4c327c3d4a9">SERVICE DESK ANALYST I</a></td>
+<td>Cook County, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474806013/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Dilawri Group of Companies</strong></td>
+<td><a href="https://trueinterview.io/jobs/28a0413a-07e6-44dd-9fbe-5ade1a4ec3c6">IT Service Desk</a></td>
+<td>Vancouver, BC<br/>Vancouver, British Columbia, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4439345863/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Fluidstack</strong></td>
+<td><a href="https://trueinterview.io/jobs/0f77ba2f-1e3d-472a-99f3-d789aa712f75">Network Engineer, Connectivity &amp; Strategy</a></td>
+<td>San Francisco, CA<br/>New York, NY<br/>Austin, TX<br/>+1 more</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/172c522b-b085-401b-8bd6-c7e98c1da318">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Star Catcher</strong></td>
+<td><a href="https://trueinterview.io/jobs/cb963975-79e8-422c-a474-d1ab7611fa91">IT Support Technician</a></td>
+<td>Jacksonville, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476909058/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Fleet Response</strong></td>
+<td><a href="https://trueinterview.io/jobs/29aa57df-1421-4127-9b84-64a3ad7402dd">Help Desk Support Engineer I</a></td>
+<td>Hudson, OH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476506988/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Careerscape</strong></td>
+<td><a href="https://trueinterview.io/jobs/79a9febc-cac8-4965-9781-a4f91b06a215">Remote Help Desk Assistant</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4478989517/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Mitsubishi Power Americas</strong></td>
+<td><a href="https://trueinterview.io/jobs/01fbbaf9-a55b-43b7-a99e-95047cfa30c5">Data Systems Administrator</a></td>
+<td>Orlando, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4472742495/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Canvas</strong></td>
+<td><a href="https://trueinterview.io/jobs/f42a0798-4921-41ad-8601-a8852b47b3c7">Network Administrator</a></td>
+<td>Holloman Air Force Base, NM</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4468279044/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>White Pine County</strong></td>
+<td><a href="https://trueinterview.io/jobs/45569f1f-7a7b-44d8-9bfe-e57ef09b4633">IT Help Desk</a></td>
+<td>Ely, NV</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484945363/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 </tbody>
 </table>
 
-<sub>[← Page 1](it-and-support.md) · Page 2 of 5 · [Page 3 →](it-and-support-3.md)</sub>
+<sub>[← Page 1](it-and-support.md) · Page 2 of 3 · [Page 3 →](it-and-support-3.md)</sub>
 
 [← Every filter](../README.md) · [Back to the full list](../../README.md)
