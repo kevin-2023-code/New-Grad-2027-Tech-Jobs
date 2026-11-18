@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**1,214 open roles.** 667 in the United States & Canada · 547 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**872 open roles.** 449 in the United States & Canada · 423 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -10,7 +10,7 @@
 
 _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-authorisation restriction._
 
-<sub>Page 1 of 4 · [Page 2 →](big-tech-2.md)</sub>
+<sub>Page 1 of 3 · [Page 2 →](big-tech-2.md)</sub>
 
 ## United States & Canada
 
@@ -2822,6 +2822,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tbody>
 </table>
 
-<sub>Page 1 of 4 · [Page 2 →](big-tech-2.md)</sub>
+<sub>Page 1 of 3 · [Page 2 →](big-tech-2.md)</sub>
 
 [← Every filter](../README.md) · [Back to the full list](../../README.md)

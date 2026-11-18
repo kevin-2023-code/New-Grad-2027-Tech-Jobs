@@ -6,15 +6,15 @@ Every cut of the New Grad Opportunities list that has a page of its own. Each on
 
 [← The list](../README.md) · [← The worldwide list](../README-Global.md)
 
-_Last updated: 2026-11-18 20:19 UTC_
+_Last updated: 2026-11-18 21:15 UTC_
 
-> **What the company filters cover.** The sector and headcount of an employer are recorded in a hand-written registry, and it covers 480 of the 9,633 employers on this list (15% of the roles). An employer it does not cover appears in the main list and in every field, role and location filter exactly as before — it is simply in no company-type filter, because guessing a sector from a company's name is how a reader ends up with the wrong list. [Add one](../CONTRIBUTING.md#adding-a-company-to-the-registry).
+> **What the company filters cover.** The sector and headcount of an employer are recorded in a hand-written registry, and it covers 342 of the 7,844 employers on this list (12% of the roles). An employer it does not cover appears in the main list and in every field, role and location filter exactly as before — it is simply in no company-type filter, because guessing a sector from a company's name is how a reader ends up with the wrong list. [Add one](../CONTRIBUTING.md#adding-a-company-to-the-registry).
 
 ## What is here
 
 🗂️ **[By field](#️-by-field)** — The catalog's six technical fields — the same sections the main list is cut into, with every row rather than a sample. (6 filters)
 
-🏷️ **[By company type](#️-by-company-type)** — Who the employer is: the size cut you were after, or the sector. (24 filters)
+🏷️ **[By company type](#️-by-company-type)** — Who the employer is: the size cut you were after, or the sector. (23 filters)
 
 🧑‍💻 **[By role](#-by-role)** — The catalog's own role classification, not a keyword search on the title. (22 filters)
 
@@ -32,12 +32,12 @@ _Every posting the catalog classified into that field. A posting is in exactly o
 
 | Filter | The United States & Canada | Elsewhere |
 | :-- | --: | --: |
-| [💻 Software Engineering](field/software-engineering.md) | 7,444 | 4,735 |
-| [🤖 Data, AI & Machine Learning](field/data-ai-and-machine-learning.md) | 2,546 | 1,716 |
-| [🔧 Hardware & Engineering](field/hardware-and-engineering.md) | 1,493 | 721 |
-| [🧰 IT & Support](field/it-and-support.md) | 1,296 | 339 |
-| [📱 Product & Design](field/product-and-design.md) | 394 | 448 |
-| [📈 Quantitative Finance](field/quantitative-finance.md) | 153 | 92 |
+| [💻 Software Engineering](field/software-engineering.md) | 5,954 | 3,104 |
+| [🤖 Data, AI & Machine Learning](field/data-ai-and-machine-learning.md) | 2,123 | 1,152 |
+| [🔧 Hardware & Engineering](field/hardware-and-engineering.md) | 1,111 | 505 |
+| [🧰 IT & Support](field/it-and-support.md) | 991 | 238 |
+| [📱 Product & Design](field/product-and-design.md) | 303 | 244 |
+| [📈 Quantitative Finance](field/quantitative-finance.md) | 132 | 61 |
 
 ---
 
@@ -45,34 +45,33 @@ _Every posting the catalog classified into that field. A posting is in exactly o
 
 Who the employer is: the size cut you were after, or the sector.
 
-_Between them these 24 filters hold **3,102 of the 21,377** new-grad roles on this list (15%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 23 filters hold **1,927 of the 15,918** new-grad roles on this list (12%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 | Filter | The United States & Canada | Elsewhere | What it selects |
 | :-- | --: | --: | :-- |
-| [🏛️ Big Tech](company/big-tech.md) | 667 | 547 | A derived cut, not a hand-picked list: the employer is in one of the technology sectors and the registry records its headcount as 10,000 people or more. An employer the registry does not cover is in no size cut at all. |
-| [🧾 IT services & consulting](company/it-consulting.md) | 238 | 244 | Every employer the company registry files under IT services & consulting, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
-| [🔬 Semiconductors & chips](company/semiconductors.md) | 186 | 252 | Every employer the company registry files under Semiconductors & chips, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
-| [🖥️ Hardware, devices & networking](company/hardware-devices.md) | 266 | 128 | Every employer the company registry files under Hardware, devices & networking, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
-| [🏗️ Large tech (1,000–9,999)](company/large-tech.md) | 166 | 121 | A derived cut, not a hand-picked list: the employer is in one of the technology sectors and the registry records its headcount as between 1,000 and 9,999 people. An employer the registry does not cover is in no size cut at all. |
-| [🛒 E-commerce & marketplaces](company/ecommerce-marketplace.md) | 153 | 74 | Every employer the company registry files under E-commerce & marketplaces, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
-| [🚗 Autonomy, automotive & mobility](company/autonomy-mobility.md) | 156 | 33 | Every employer the company registry files under Autonomy, automotive & mobility, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
-| [🚀 Aerospace & defence](company/aerospace-defense.md) | 139 | 45 | Every employer the company registry files under Aerospace & defence, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
-| [🏢 Enterprise & business software](company/enterprise-saas.md) | 97 | 81 | Every employer the company registry files under Enterprise & business software, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
-| [🧠 AI labs & AI infrastructure](company/ai.md) | 117 | 54 | Every employer the company registry files under AI labs & AI infrastructure, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
-| [📱 Consumer internet & media](company/consumer-internet.md) | 88 | 72 | Every employer the company registry files under Consumer internet & media, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
-| [🏤 Mid-sized tech (200–999)](company/mid-size-tech.md) | 68 | 81 | A derived cut, not a hand-picked list: the employer is in one of the technology sectors and the registry records its headcount as between 200 and 999 people. An employer the registry does not cover is in no size cut at all. |
-| [📐 Engineering & architecture firms](company/engineering-services.md) | 78 | 61 | Every employer the company registry files under Engineering & architecture firms, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
-| [🌱 Startups (under 200)](company/startups.md) | 67 | 26 | A derived cut, not a hand-picked list: the employer is in one of the technology sectors and the registry records its headcount as fewer than 200 people. An employer the registry does not cover is in no size cut at all. |
-| [🏦 Banks, insurers & asset managers](company/banking-finance.md) | 21 | 66 | Every employer the company registry files under Banks, insurers & asset managers, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
-| [💳 Fintech, payments & crypto](company/fintech.md) | 31 | 51 | Every employer the company registry files under Fintech, payments & crypto, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
-| [☁️ Developer tools, cloud & data infrastructure](company/dev-infra.md) | 33 | 43 | Every employer the company registry files under Developer tools, cloud & data infrastructure, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
-| [🔒 Cybersecurity](company/security.md) | 34 | 34 | Every employer the company registry files under Cybersecurity, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
-| [📈 Quant trading & hedge funds](company/quant-trading.md) | 33 | 34 | Every employer the company registry files under Quant trading & hedge funds, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
-| [💼 Other industries](company/other-industry.md) | 19 | 47 | Every employer the company registry files under Other industries, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
-| [🧬 Health, biotech & medical devices](company/health-bio.md) | 34 | 12 | Every employer the company registry files under Health, biotech & medical devices, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
-| [⚡ Energy, climate & industrial](company/energy-industrial.md) | 26 | 3 | Every employer the company registry files under Energy, climate & industrial, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
-| [🎮 Gaming & interactive](company/gaming.md) | 4 | 8 | Every employer the company registry files under Gaming & interactive, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
-| [🏛️ Government, research & non-profits](company/public-research.md) | 0 | 7 | Every employer the company registry files under Government, research & non-profits, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
+| [🏛️ Big Tech](company/big-tech.md) | 449 | 423 | A derived cut, not a hand-picked list: the employer is in one of the technology sectors and the registry records its headcount as 10,000 people or more. An employer the registry does not cover is in no size cut at all. |
+| [🧾 IT services & consulting](company/it-consulting.md) | 168 | 136 | Every employer the company registry files under IT services & consulting, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
+| [🔬 Semiconductors & chips](company/semiconductors.md) | 108 | 180 | Every employer the company registry files under Semiconductors & chips, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
+| [🖥️ Hardware, devices & networking](company/hardware-devices.md) | 131 | 78 | Every employer the company registry files under Hardware, devices & networking, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
+| [🛒 E-commerce & marketplaces](company/ecommerce-marketplace.md) | 138 | 64 | Every employer the company registry files under E-commerce & marketplaces, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
+| [🏗️ Large tech (1,000–9,999)](company/large-tech.md) | 109 | 53 | A derived cut, not a hand-picked list: the employer is in one of the technology sectors and the registry records its headcount as between 1,000 and 9,999 people. An employer the registry does not cover is in no size cut at all. |
+| [📱 Consumer internet & media](company/consumer-internet.md) | 78 | 61 | Every employer the company registry files under Consumer internet & media, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
+| [🏢 Enterprise & business software](company/enterprise-saas.md) | 57 | 61 | Every employer the company registry files under Enterprise & business software, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
+| [🧠 AI labs & AI infrastructure](company/ai.md) | 90 | 27 | Every employer the company registry files under AI labs & AI infrastructure, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
+| [🚗 Autonomy, automotive & mobility](company/autonomy-mobility.md) | 102 | 13 | Every employer the company registry files under Autonomy, automotive & mobility, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
+| [🚀 Aerospace & defence](company/aerospace-defense.md) | 81 | 22 | Every employer the company registry files under Aerospace & defence, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
+| [🏤 Mid-sized tech (200–999)](company/mid-size-tech.md) | 44 | 19 | A derived cut, not a hand-picked list: the employer is in one of the technology sectors and the registry records its headcount as between 200 and 999 people. An employer the registry does not cover is in no size cut at all. |
+| [🌱 Startups (under 200)](company/startups.md) | 44 | 14 | A derived cut, not a hand-picked list: the employer is in one of the technology sectors and the registry records its headcount as fewer than 200 people. An employer the registry does not cover is in no size cut at all. |
+| [📈 Quant trading & hedge funds](company/quant-trading.md) | 29 | 26 | Every employer the company registry files under Quant trading & hedge funds, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
+| [🏦 Banks, insurers & asset managers](company/banking-finance.md) | 11 | 37 | Every employer the company registry files under Banks, insurers & asset managers, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
+| [📐 Engineering & architecture firms](company/engineering-services.md) | 24 | 21 | Every employer the company registry files under Engineering & architecture firms, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
+| [☁️ Developer tools, cloud & data infrastructure](company/dev-infra.md) | 23 | 18 | Every employer the company registry files under Developer tools, cloud & data infrastructure, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
+| [💳 Fintech, payments & crypto](company/fintech.md) | 18 | 19 | Every employer the company registry files under Fintech, payments & crypto, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
+| [🔒 Cybersecurity](company/security.md) | 25 | 8 | Every employer the company registry files under Cybersecurity, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
+| [💼 Other industries](company/other-industry.md) | 11 | 16 | Every employer the company registry files under Other industries, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
+| [🧬 Health, biotech & medical devices](company/health-bio.md) | 23 | 3 | Every employer the company registry files under Health, biotech & medical devices, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
+| [⚡ Energy, climate & industrial](company/energy-industrial.md) | 10 | 2 | Every employer the company registry files under Energy, climate & industrial, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
+| [🎮 Gaming & interactive](company/gaming.md) | 3 | 5 | Every employer the company registry files under Gaming & interactive, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
 
 ---
 
@@ -80,34 +79,34 @@ _Between them these 24 filters hold **3,102 of the 21,377** new-grad roles on th
 
 The catalog's own role classification, not a keyword search on the title.
 
-_Between them these 22 filters hold **11,814 of the 21,377** new-grad roles on this list (55%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 22 filters hold **9,110 of the 15,918** new-grad roles on this list (57%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 _Every posting the catalog classified as that role. A posting it could not place is filed as *Other* and is on no role page — it is in the README and in every other cut._
 
 | Filter | The United States & Canada | Elsewhere |
 | :-- | --: | --: |
-| [Software Engineer](role/software-engineer.md) | 2,333 | 1,089 |
-| [AI Engineer](role/ai-engineer.md) | 705 | 556 |
-| [Data Engineer](role/data-engineer.md) | 454 | 447 |
-| [Data Analyst](role/data-analyst.md) | 495 | 261 |
-| [Security Engineer](role/security-engineer.md) | 437 | 202 |
-| [Machine Learning Engineer](role/machine-learning-engineer.md) | 364 | 197 |
-| [Full-Stack Engineer](role/full-stack-engineer.md) | 301 | 178 |
-| [Data Scientist](role/data-scientist.md) | 282 | 195 |
-| [QA Engineer](role/qa-engineer.md) | 259 | 161 |
-| [Product Manager](role/product-manager.md) | 147 | 229 |
-| [Research Scientist](role/research-scientist.md) | 271 | 64 |
-| [Hardware Engineer](role/hardware-engineer.md) | 205 | 126 |
-| [Platform Engineer](role/platform-engineer.md) | 170 | 155 |
-| [DevOps Engineer](role/devops-engineer.md) | 148 | 160 |
-| [Embedded Engineer](role/embedded-engineer.md) | 147 | 82 |
-| [Backend Engineer](role/backend-engineer.md) | 100 | 99 |
-| [Site Reliability Engineer](role/site-reliability-engineer.md) | 84 | 105 |
-| [Frontend Engineer](role/frontend-engineer.md) | 115 | 67 |
-| [Mobile Engineer](role/mobile-engineer.md) | 99 | 82 |
-| [Quantitative Developer](role/quantitative-developer.md) | 71 | 38 |
-| [Quantitative Researcher](role/quantitative-researcher.md) | 49 | 18 |
-| [Quantitative Trader](role/quantitative-trader.md) | 31 | 36 |
+| [Software Engineer](role/software-engineer.md) | 1,968 | 729 |
+| [AI Engineer](role/ai-engineer.md) | 601 | 369 |
+| [Data Engineer](role/data-engineer.md) | 365 | 312 |
+| [Data Analyst](role/data-analyst.md) | 410 | 179 |
+| [Security Engineer](role/security-engineer.md) | 365 | 140 |
+| [Machine Learning Engineer](role/machine-learning-engineer.md) | 309 | 129 |
+| [Full-Stack Engineer](role/full-stack-engineer.md) | 258 | 114 |
+| [Data Scientist](role/data-scientist.md) | 239 | 125 |
+| [QA Engineer](role/qa-engineer.md) | 209 | 113 |
+| [Research Scientist](role/research-scientist.md) | 225 | 42 |
+| [Product Manager](role/product-manager.md) | 121 | 130 |
+| [Platform Engineer](role/platform-engineer.md) | 150 | 97 |
+| [Hardware Engineer](role/hardware-engineer.md) | 153 | 86 |
+| [DevOps Engineer](role/devops-engineer.md) | 130 | 102 |
+| [Embedded Engineer](role/embedded-engineer.md) | 131 | 59 |
+| [Backend Engineer](role/backend-engineer.md) | 81 | 66 |
+| [Mobile Engineer](role/mobile-engineer.md) | 85 | 54 |
+| [Site Reliability Engineer](role/site-reliability-engineer.md) | 65 | 73 |
+| [Frontend Engineer](role/frontend-engineer.md) | 94 | 40 |
+| [Quantitative Developer](role/quantitative-developer.md) | 64 | 22 |
+| [Quantitative Researcher](role/quantitative-researcher.md) | 42 | 12 |
+| [Quantitative Trader](role/quantitative-trader.md) | 25 | 27 |
 
 ---
 
@@ -115,49 +114,49 @@ _Every posting the catalog classified as that role. A posting it could not place
 
 Metro areas the postings actually resolve to.
 
-_Between them these 39 filters hold **10,961 of the 21,377** new-grad roles on this list (51%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 39 filters hold **8,024 of the 15,918** new-grad roles on this list (50%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 | Filter | The United States & Canada | Elsewhere | What it selects |
 | :-- | --: | --: | :-- |
-| [🌉 SF Bay Area](place/bay-area.md) | 1,387 | 4 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in CA: San Francisco, South San Francisco, Palo Alto, Menlo Park, Mountain View, Sunnyvale, Cupertino, Santa Clara, San Jose, Redwood City, Foster City, Milpitas, and 24 more. |
-| [🏛️ Washington DC & Northern Virginia](place/washington-dc.md) | 843 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page: Washington Dc, Washington DC, Arlington VA, Alexandria VA, Reston VA, Herndon VA, Mclean VA, Tysons VA, Vienna VA, Bethesda MD, Rockville MD, College Park MD, and 7 more. |
-| [🇬🇧 London & the UK](place/uk.md) | 27 | 784 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
-| [🗽 New York City](place/new-york.md) | 768 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page: New York City, Nyc, Manhattan, Brooklyn, Long Island City, Jersey City, Hoboken, New York NY, Queens NY, Newark NJ, Stamford CT. |
-| [🇸🇬 Singapore](place/singapore.md) | 11 | 542 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
-| [🌲 Seattle & Puget Sound](place/seattle.md) | 471 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in WA: Seattle, Redmond, Issaquah, Sammamish, Bellevue, Kirkland, Renton, Bothell, Everett, Tacoma. |
-| [🇮🇳 Bengaluru & India](place/india.md) | 2 | 432 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
-| [🤠 Dallas–Fort Worth](place/dallas-fort-worth.md) | 417 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in TX: Dallas, Fort Worth, Plano, Irving, Richardson, Frisco, Arlington, Mckinney, Addison. |
-| [🎸 Austin](place/austin.md) | 412 | 4 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in TX: Austin, Pflugerville, Round Rock, Cedar Park, Bastrop, Georgetown. |
-| [🇩🇪 Berlin, Munich & Germany](place/germany.md) | 2 | 403 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
-| [🌴 Los Angeles & Orange County](place/los-angeles.md) | 389 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in CA: Los Angeles, Santa Monica, El Segundo, Culver City, Hawthorne, Van Nuys, Marina Del Rey, Playa Vista, Pasadena, Burbank, Torrance, Long Beach, and 6 more. |
-| [🇫🇷 Paris & France](place/france.md) | 6 | 383 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
-| [🇳🇱 Amsterdam & the Benelux](place/benelux.md) | 0 | 302 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
-| [🇦🇺 Sydney, Melbourne & Aotearoa](place/anz.md) | 4 | 292 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
-| [🎓 Boston & Cambridge](place/boston.md) | 293 | 1 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in MA: Somerville, Boston, Cambridge, Waltham, Burlington, Lexington, Wilmington, Needham, Andover, Marlborough, Leominster, Quincy, and 3 more. |
-| [🏔️ Denver, Boulder & Colorado](place/denver-boulder.md) | 269 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in CO: Denver, Boulder, Broomfield, Louisville, Longmont, Colorado Springs, Fort Collins, Golden, Westminster, Aurora. |
-| [🔺 Research Triangle & the Carolinas](place/research-triangle.md) | 262 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page: Research Triangle Park, Raleigh NC, Durham NC, Chapel Hill NC, Cary NC, Morrisville NC, Charlotte NC, Greenville SC, Columbia SC. |
-| [🛢️ Houston, San Antonio & the rest of Texas](place/texas-other.md) | 247 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in TX: Houston, San Antonio, Spring, The Woodlands, Sugar Land, El Paso, Lubbock, College Station, Richmond. |
-| [🍑 Atlanta](place/atlanta.md) | 243 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in GA: Atlanta, Alpharetta, Marietta, Sandy Springs, Duluth. |
-| [🌬️ Chicago](place/chicago.md) | 234 | 1 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in IL: Chicago, Evanston, Naperville, Schaumburg, Deerfield, Oak Brook, Northbrook. |
-| [🇪🇸 Madrid, Barcelona & Iberia](place/iberia.md) | 3 | 230 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
-| [🍁 Toronto, Waterloo & Ottawa](place/toronto.md) | 232 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in ON: Toronto, Mississauga, Kitchener, Brampton, Waterloo, Ottawa, Markham, Hamilton, London. |
-| [🏮 Beijing, Shanghai, Taipei & Hong Kong](place/greater-china.md) | 1 | 210 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
-| [🌵 Phoenix & Arizona](place/phoenix.md) | 207 | 2 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in AZ: Phoenix, Tempe, Chandler, Scottsdale, Mesa, Tucson, Gilbert, Peoria. |
-| [🇨🇭 Zürich & Switzerland](place/switzerland.md) | 4 | 189 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
-| [🏖️ San Diego](place/san-diego.md) | 189 | 2 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in CA: San Diego, La Jolla, Carlsbad, Poway, Oceanside. |
-| [🏰 Warsaw, Kraków & Central Europe](place/poland-cee.md) | 1 | 184 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
-| [🇮🇪 Dublin & Ireland](place/ireland.md) | 8 | 161 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
-| [🌧️ Portland, Boise & Spokane](place/pacific-northwest.md) | 101 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page: Portland OR, Hillsboro OR, Beaverton OR, Eugene OR, Vancouver WA, Spokane WA, Boise ID. |
-| [❄️ Stockholm & the Nordics](place/nordics.md) | 3 | 90 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
-| [🌎 México, Brazil & Latin America](place/latam.md) | 1 | 85 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
-| [🌍 Dubai, Cairo, Lagos & Africa](place/mena-africa.md) | 1 | 81 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
-| [⛰️ Vancouver & British Columbia](place/vancouver.md) | 79 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in BC: Vancouver, Burnaby, Richmond, Surrey, Victoria. |
-| [🥐 Montréal & Québec](place/montreal.md) | 78 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in QC: Montreal, MontréAl, Quebec City, Laval, Sherbrooke. |
-| [🏜️ Salt Lake City & Utah](place/salt-lake-city.md) | 65 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in UT: Salt Lake City, Lehi, Provo, Draper, South Jordan, Sandy, Ogden. |
-| [🇯🇵 Tokyo & Japan](place/japan.md) | 0 | 54 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
-| [🐎 Calgary & the Prairies](place/calgary.md) | 50 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page: Calgary AB, Edmonton AB, Winnipeg MB, Saskatoon SK, Regina SK. |
-| [🇰🇷 Seoul & Korea](place/korea.md) | 0 | 24 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
-| [🇮🇱 Tel Aviv & Israel](place/israel.md) | 0 | 23 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
+| [🌉 SF Bay Area](place/bay-area.md) | 1,062 | 4 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in CA: San Francisco, South San Francisco, Palo Alto, Menlo Park, Mountain View, Sunnyvale, Cupertino, Santa Clara, San Jose, Redwood City, Foster City, Milpitas, and 24 more. |
+| [🏛️ Washington DC & Northern Virginia](place/washington-dc.md) | 692 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page: Washington Dc, Washington DC, Arlington VA, Alexandria VA, Reston VA, Herndon VA, Mclean VA, Tysons VA, Vienna VA, Bethesda MD, Rockville MD, College Park MD, and 7 more. |
+| [🗽 New York City](place/new-york.md) | 593 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page: New York City, Nyc, Manhattan, Brooklyn, Long Island City, Jersey City, Hoboken, New York NY, Queens NY, Newark NJ, Stamford CT. |
+| [🇬🇧 London & the UK](place/uk.md) | 19 | 544 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
+| [🇸🇬 Singapore](place/singapore.md) | 8 | 374 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
+| [🌲 Seattle & Puget Sound](place/seattle.md) | 374 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in WA: Seattle, Redmond, Issaquah, Sammamish, Bellevue, Kirkland, Renton, Bothell, Everett, Tacoma. |
+| [🤠 Dallas–Fort Worth](place/dallas-fort-worth.md) | 331 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in TX: Dallas, Fort Worth, Plano, Irving, Richardson, Frisco, Arlington, Mckinney, Addison. |
+| [🇮🇳 Bengaluru & India](place/india.md) | 2 | 310 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
+| [🎸 Austin](place/austin.md) | 304 | 4 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in TX: Austin, Pflugerville, Round Rock, Cedar Park, Bastrop, Georgetown. |
+| [🌴 Los Angeles & Orange County](place/los-angeles.md) | 276 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in CA: Los Angeles, Santa Monica, El Segundo, Culver City, Hawthorne, Van Nuys, Marina Del Rey, Playa Vista, Pasadena, Burbank, Torrance, Long Beach, and 6 more. |
+| [🇩🇪 Berlin, Munich & Germany](place/germany.md) | 1 | 269 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
+| [🎓 Boston & Cambridge](place/boston.md) | 229 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in MA: Somerville, Boston, Cambridge, Waltham, Burlington, Lexington, Wilmington, Needham, Andover, Marlborough, Leominster, Quincy, and 3 more. |
+| [🔺 Research Triangle & the Carolinas](place/research-triangle.md) | 228 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page: Research Triangle Park, Raleigh NC, Durham NC, Chapel Hill NC, Cary NC, Morrisville NC, Charlotte NC, Greenville SC, Columbia SC. |
+| [🇫🇷 Paris & France](place/france.md) | 6 | 219 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
+| [🏔️ Denver, Boulder & Colorado](place/denver-boulder.md) | 223 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in CO: Denver, Boulder, Broomfield, Louisville, Longmont, Colorado Springs, Fort Collins, Golden, Westminster, Aurora. |
+| [🇦🇺 Sydney, Melbourne & Aotearoa](place/anz.md) | 4 | 216 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
+| [🇳🇱 Amsterdam & the Benelux](place/benelux.md) | 0 | 218 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
+| [🛢️ Houston, San Antonio & the rest of Texas](place/texas-other.md) | 205 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in TX: Houston, San Antonio, Spring, The Woodlands, Sugar Land, El Paso, Lubbock, College Station, Richmond. |
+| [🍑 Atlanta](place/atlanta.md) | 193 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in GA: Atlanta, Alpharetta, Marietta, Sandy Springs, Duluth. |
+| [🌬️ Chicago](place/chicago.md) | 189 | 1 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in IL: Chicago, Evanston, Naperville, Schaumburg, Deerfield, Oak Brook, Northbrook. |
+| [🌵 Phoenix & Arizona](place/phoenix.md) | 173 | 2 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in AZ: Phoenix, Tempe, Chandler, Scottsdale, Mesa, Tucson, Gilbert, Peoria. |
+| [🍁 Toronto, Waterloo & Ottawa](place/toronto.md) | 159 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in ON: Toronto, Mississauga, Kitchener, Brampton, Waterloo, Ottawa, Markham, Hamilton, London. |
+| [🏮 Beijing, Shanghai, Taipei & Hong Kong](place/greater-china.md) | 1 | 154 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
+| [🏖️ San Diego](place/san-diego.md) | 150 | 1 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in CA: San Diego, La Jolla, Carlsbad, Poway, Oceanside. |
+| [🇪🇸 Madrid, Barcelona & Iberia](place/iberia.md) | 3 | 121 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
+| [🇨🇭 Zürich & Switzerland](place/switzerland.md) | 4 | 115 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
+| [🇮🇪 Dublin & Ireland](place/ireland.md) | 1 | 116 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
+| [🏰 Warsaw, Kraków & Central Europe](place/poland-cee.md) | 1 | 93 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
+| [🌧️ Portland, Boise & Spokane](place/pacific-northwest.md) | 75 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page: Portland OR, Hillsboro OR, Beaverton OR, Eugene OR, Vancouver WA, Spokane WA, Boise ID. |
+| [🌍 Dubai, Cairo, Lagos & Africa](place/mena-africa.md) | 1 | 59 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
+| [⛰️ Vancouver & British Columbia](place/vancouver.md) | 53 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in BC: Vancouver, Burnaby, Richmond, Surrey, Victoria. |
+| [🥐 Montréal & Québec](place/montreal.md) | 49 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in QC: Montreal, MontréAl, Quebec City, Laval, Sherbrooke. |
+| [❄️ Stockholm & the Nordics](place/nordics.md) | 1 | 48 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
+| [🏜️ Salt Lake City & Utah](place/salt-lake-city.md) | 46 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in UT: Salt Lake City, Lehi, Provo, Draper, South Jordan, Sandy, Ogden. |
+| [🇯🇵 Tokyo & Japan](place/japan.md) | 0 | 41 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
+| [🐎 Calgary & the Prairies](place/calgary.md) | 39 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page: Calgary AB, Edmonton AB, Winnipeg MB, Saskatoon SK, Regina SK. |
+| [🌎 México, Brazil & Latin America](place/latam.md) | 0 | 32 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
+| [🇮🇱 Tel Aviv & Israel](place/israel.md) | 0 | 11 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
+| [🇰🇷 Seoul & Korea](place/korea.md) | 0 | 6 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
 
 ---
 
@@ -165,12 +164,12 @@ _Between them these 39 filters hold **10,961 of the 21,377** new-grad roles on t
 
 The two cuts that are about the posting rather than the employer.
 
-_Between them these 2 filters hold **1,969 of the 21,377** new-grad roles on this list (9%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 2 filters hold **1,738 of the 15,918** new-grad roles on this list (11%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 | Filter | The United States & Canada | Elsewhere | What it selects |
 | :-- | --: | --: | :-- |
-| [🆕 Posted in the last 7 days](new-this-week.md) | 1,121 | 249 | Published or re-posted within 7 days of the last run. A posting with no date is not here: undated is not recent. |
-| [🌐 Remote](remote.md) | 404 | 251 | The catalog’s own work-mode classification, not a keyword match on the title. Hybrid postings are not here — they are a different answer to "must I move?". |
+| [🆕 Posted in the last 7 days](new-this-week.md) | 1,117 | 249 | Published or re-posted within 7 days of the last run. A posting with no date is not here: undated is not recent. |
+| [🌐 Remote](remote.md) | 280 | 148 | The catalog’s own work-mode classification, not a keyword match on the title. Hybrid postings are not here — they are a different answer to "must I move?". |
 
 ---
 
