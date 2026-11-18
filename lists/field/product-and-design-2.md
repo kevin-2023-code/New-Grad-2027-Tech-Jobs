@@ -2,11 +2,11 @@
 
 # 📱 Product & Design
 
-**754 open roles.** 362 in the United States & Canada · 392 elsewhere in the world.
+**836 open roles.** 389 in the United States & Canada · 447 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
-<sub>[← Page 1](product-and-design.md) · Page 2 of 2</sub>
+<sub>[← Page 1](product-and-design.md) · Page 2 of 3 · [Page 3 →](product-and-design-3.md)</sub>
 
 ## Elsewhere in the world
 
@@ -17,6 +17,195 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Voodoo</strong></td>
+<td><a href="https://trueinterview.io/jobs/66641372-d980-4106-bec3-633984f6a20c">Unreal Engine Motion Designer - Mob Control</a></td>
+<td>Paris</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/voodoo/efa492d2-1133-4fbf-b8b7-dc2dc4df0cad">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Sopra Steria</strong></td>
+<td><a href="https://trueinterview.io/jobs/bd65599d-79fa-4fa4-9d1d-ee53e2b96932">Product Owner confirmé(e) - Industrie - Toulouse</a></td>
+<td>Toulouse, Occitanie, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SopraSteria1/744000160229032-product-owner-confirme-e-industrie-toulouse">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Ubisoft</strong></td>
+<td><a href="https://trueinterview.io/jobs/e819b863-2757-4468-9b26-0b51fe47a676">Combat Game Designer (F/M/NB)</a></td>
+<td>Bordeaux, Nouvelle-Aquitaine, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Ubisoft2/744000160226335-combat-game-designer-f-m-nb-">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>SIXT</strong></td>
+<td><a href="https://trueinterview.io/jobs/4993ccd4-8397-42f7-aae3-a2bd9d26c3e6">Product Owner Rent Booking (m/f/d)</a></td>
+<td>Munich, Bavaria, Germany</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SIXT/744000160211139-product-owner-rent-booking-m-f-d-">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Bosch</strong></td>
+<td><a href="https://trueinterview.io/jobs/5167748d-00f3-46a2-a828-eee79d60de74">Process Designer Produce to Supply (w/m/div.)</a></td>
+<td>Ulm, Baden-Württemberg, Germany</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000160189769-process-designer-produce-to-supply-w-m-div-">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Sopra Steria</strong></td>
+<td><a href="https://trueinterview.io/jobs/f39eac03-1886-4f4b-be32-21b8da4c6db4">Product Owner - Services Publics - Nantes</a></td>
+<td>NANTES, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SopraSteria1/744000160171468-product-owner-services-publics-nantes">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Devoteam</strong></td>
+<td><a href="https://trueinterview.io/jobs/a1febead-08bd-4978-bf0f-fe221b01c9c3">Product Owner Data H/F</a></td>
+<td>Marcq-en-Barœul, Hauts-de-France, France<br/>Levallois-Perret, Île-de-France, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Devoteam/744000160161319-product-owner-data-h-f">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Primark</strong></td>
+<td><a href="https://trueinterview.io/jobs/71de8e51-20ff-4479-b611-f279a08b9788">Trainee Designer – Placement Student</a></td>
+<td>Dublin, Ireland</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Primark/744000160158275-trainee-designer-placement-student">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Groupe Covéa</strong></td>
+<td><a href="https://trueinterview.io/jobs/402087df-0619-4f20-929f-16cd745d6e7f">Product Owner Digital F/H</a></td>
+<td>Le Mans, Pays de la Loire, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/COVEA1/744000160153939-product-owner-digital-f-h">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>LY Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/1fe506e2-43dc-459d-8449-208eb92017ae">プロダクトデザイナー（UI/UX） / UGC新サービス</a></td>
+<td>Tokyo, Japan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486962056/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Gravity IT</strong></td>
+<td><a href="https://trueinterview.io/jobs/6c381b57-fdd6-461f-903a-400f70ebfef2">Product Owner</a></td>
+<td>Miami-Fort Lauderdale Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488039843/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Shopee</strong></td>
+<td><a href="https://trueinterview.io/jobs/1a8d29fa-6046-4305-bb61-a1652ef4f37f">Analista de Projetos de Melhoria Contínua - CX/UX</a></td>
+<td>São Paulo, São Paulo, Brazil</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486901401/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>MediaTek</strong></td>
+<td><a href="https://trueinterview.io/jobs/0bdcb0ab-2a25-4c1f-b0df-e325ca195fb3">SoC Debug System IC Designer</a></td>
+<td>Taipei, Taipei City, Taiwan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4405137928/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Mastercard</strong></td>
+<td><a href="https://trueinterview.io/jobs/74bf9978-8e8a-454b-aa4e-72cec595ed27">Graphic Designer (Consultant)-1</a></td>
+<td>Gurugram, Haryana, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485857100/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>PA Consulting</strong></td>
+<td><a href="https://trueinterview.io/jobs/1ba7568f-fae3-4570-a247-85b8f58b2c5b">UX/UI Designer</a></td>
+<td>London, England, United Kingdom</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/PAConsulting/744000159945369-ux-ui-designer">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Bosch</strong></td>
+<td><a href="https://trueinterview.io/jobs/a759d20f-6a15-498f-81f7-914daed31b2f">Product Owner - Display</a></td>
+<td>Guadalajara, Jalisco, Mexico</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000159934670-product-owner-display">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>NEXTON</strong></td>
+<td><a href="https://trueinterview.io/jobs/e458bc9a-a745-4d1b-bf9b-3ccc652687c4">Product Designer Media H/F</a></td>
+<td>Paris, Île-de-France, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/NEXTON/744000159922940-product-designer-media-h-f">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>MediaTek</strong></td>
+<td><a href="https://trueinterview.io/jobs/a0669c2f-633c-44e2-814d-80ee02198af4">CPU subsystem IC designer</a></td>
+<td>Hsinchu, Taiwan, Taiwan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4425081631/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Bosch</strong></td>
+<td><a href="https://trueinterview.io/jobs/2b3c8003-b059-4499-8274-78c5b0eecd6b">Technical Product Owner (f/m/div.)</a></td>
+<td>Renningen, Baden-Württemberg, Germany</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000159867534-technical-product-owner-f-m-div-">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Ericsson</strong></td>
+<td><a href="https://trueinterview.io/jobs/48c90313-d935-4c6d-97f8-e5d9fa3d3679">Product Owner</a></td>
+<td>Budapest, Budapest, Hungary</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4478877006/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/dbb1faa7-3048-494f-b5db-0d06e33130e8">System Designer 6G Technology Testbeds</a></td>
+<td>Stockholm, Stockholm County, Sweden</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4478482009/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Prima</strong></td>
+<td><a href="https://trueinterview.io/jobs/bd93a3df-a461-4df2-b1ea-dcc17624c932">Product Designer</a></td>
+<td>Madrid</td>
+<td align="center"><a href="https://jobs.eu.lever.co/prima/2544408d-3a12-4138-ba38-b12fe3221446">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Multiverse</strong></td>
+<td><a href="https://trueinterview.io/jobs/6d2f901f-501d-432e-8dbc-cf04bd4a17c2">Technical Instructional Designer (AI Programmes)</a></td>
+<td>London</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/multiverse/4f13b216-6fbf-4353-b6f3-fc18e6f406c2">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Smiths Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/eccddb6f-08a9-4679-a7ba-dddf4ab7b533">Product Owner, Digital Solutions</a></td>
+<td>Slough, England, United Kingdom</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SmithsGroup2/744000159836823-product-owner-digital-solutions-">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Landor</strong></td>
+<td><a href="https://trueinterview.io/jobs/a0430cb5-9e65-4082-9cb0-d19bf8072661">MW Designer (Experience and Spatial)</a></td>
+<td>London</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/landor/jobs/8303272">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Inetum</strong></td>
+<td><a href="https://trueinterview.io/jobs/cf55148d-a74d-4d6d-8499-fddbe55b5651">UX/UI Designer H/F</a></td>
+<td>Saint-Ouen, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Inetum2/744000159807129-ux-ui-designer-h-f">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/2da74a20-733c-4a33-b34f-578c05d5ff2b">Product Designer H/F</a></td>
+<td>LYON, France<br/>SAINT OUEN, France<br/>PESSAC, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Inetum2/744000159806749-product-designer-h-f">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>360training.com</strong></td>
 <td><a href="https://trueinterview.io/jobs/df227ec7-fffc-4c7e-90b2-10a8c702c1a7">Product Owner LMS/ LCMS</a> 🌐</td>
@@ -2495,9 +2684,142 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center"><a href="https://iahxgs.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/227">Apply</a></td>
 <td align="center">12 Oct 2026</td>
 </tr>
+<tr>
+<td><strong>Haufe Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/07c62852-5ecb-4a3a-92ff-1a8daea4039b">Product Owner (d/m/w) - Security Experience</a></td>
+<td>Freiburg im Breisgau, Baden-Württemberg, Germany</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/HaufeGroup/744000154702532-product-owner-d-m-w-security-experience">Apply</a></td>
+<td align="center">9 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Dept</strong></td>
+<td><a href="https://trueinterview.io/jobs/736424c0-fd07-4050-93dd-890cab940d8b">AI Motion Designer &amp; Creative Technologist</a></td>
+<td>Budapest</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/dept/jobs/8267357">Apply</a></td>
+<td align="center">9 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NEXTON</strong></td>
+<td><a href="https://trueinterview.io/jobs/dc5962ee-d606-4080-8f52-748df4a18eb2">UX DESIGNER APP H/F</a></td>
+<td>Montpellier, Occitanie, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/NEXTON/744000154688790-ux-designer-app-h-f">Apply</a></td>
+<td align="center">9 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Accor</strong></td>
+<td><a href="https://trueinterview.io/jobs/bdb9d785-d59b-4248-b3a8-b940ae4e49fd">Product Owner Digital Workplace (F/M/X)</a></td>
+<td>Issy-les-Moulineaux, Île-de-France, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/AccorCorpo/744000154645266-product-owner-digital-workplace-f-m-x-">Apply</a></td>
+<td align="center">9 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Teneo</strong></td>
+<td><a href="https://trueinterview.io/jobs/fd4211aa-3473-4e72-93d8-ddd83b5027f5">Management Consulting, Digital Learning Designer - 6 month contract</a></td>
+<td>London, United Kingdom</td>
+<td align="center"><a href="https://www.teneo.com/careers/open-positions/8016097003?gh_jid=8016097003">Apply</a></td>
+<td align="center">9 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Clearer</strong></td>
+<td><a href="https://trueinterview.io/jobs/c3e21888-ec83-4130-a3cc-c24b17ac1606">UX/UI Designer I</a></td>
+<td>Ho Chi Minh<br/>Ha Noi</td>
+<td align="center"><a href="https://jobs.lever.co/Clearer/af2fdf98-d825-4a56-a58a-52c6f2ef4659">Apply</a></td>
+<td align="center">9 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Octopus Energy Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/48acbdc3-4eff-4068-83c0-ce4a92937de1">UI/UX Designer</a></td>
+<td>Ancarano (IT)<br/>Ascoli Piceno (IT)</td>
+<td align="center"><a href="https://jobs.lever.co/octoenergy/87968dbe-dbaf-438f-9535-b5039fc6a89b">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Wpp Production</strong></td>
+<td><a href="https://trueinterview.io/jobs/6673ca78-ab49-4c4f-ba56-173184b2cb88">Trainee Graphic Designer</a></td>
+<td>Madrid, Spain</td>
+<td align="center"><a href="https://www.wppproduction.com/careers/jobs/6220251004?gh_jid=6220251004">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Neura Robotics</strong></td>
+<td><a href="https://trueinterview.io/jobs/c6d75410-294b-448a-983f-cc720f10a187">Produkt &amp; Industrieller Designer (Human)</a></td>
+<td>Metzingen / Riederich</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/neura-robotics-gmbh/2bde29de-1a27-42e4-a0dd-decef13b6c59">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NEXTON</strong></td>
+<td><a href="https://trueinterview.io/jobs/62ccc7e8-bb73-4068-beb0-abcefa5e7fa2">UX Designer Sénior H/F</a></td>
+<td>Annecy, Auvergne-Rhône-Alpes, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/NEXTON/744000154427599-ux-designer-senior-h-f">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/0529d93a-b362-4f74-822b-1ba2e02e583c">Designer Graphique Sénior H/F</a></td>
+<td>Paris, Île-de-France, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/NEXTON/744000154418399-designer-graphique-senior-h-f">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SAP IT Business Systeme</strong></td>
+<td><a href="https://trueinterview.io/jobs/47ffcade-a43d-4928-aec8-d31741b630ff">Working Student (f/m/d) - SAP HANA Cloud Tooling UX</a></td>
+<td>Walldorf, Baden-Württemberg, Germany</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000154375323-working-student-f-m-d-sap-hana-cloud-tooling-ux">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Tripledot Studios</strong></td>
+<td><a href="https://trueinterview.io/jobs/aaf1cda1-9c68-42e1-8097-6d399d740897">AI Level Designer</a></td>
+<td>Jakarta</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/tripledotstudios/jobs/5000279101">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Lalamove</strong></td>
+<td><a href="https://trueinterview.io/jobs/4b263afc-00e4-4bd0-9120-5e967817ccdd">Graphic Designer</a></td>
+<td>Tokyo</td>
+<td align="center"><a href="https://jobs.lever.co/lalamove/e1d23f55-13be-4817-9323-f34bb213cf2b">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Experian</strong></td>
+<td><a href="https://trueinterview.io/jobs/d4879144-3721-4ab1-89c8-4c1527a26d59">Service Now CSM Technical Product Owner</a></td>
+<td>Sofia, Sofia City Province, Bulgaria</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Experian/744000154156611-service-now-csm-technical-product-owner">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Veepee</strong></td>
+<td><a href="https://trueinterview.io/jobs/d1e5244e-04be-4f19-99e7-0a929d9d5fa7">Stage - Designer Digital F/H/X - Janvier 2027</a></td>
+<td>Saint-Denis</td>
+<td align="center"><a href="https://jobs.lever.co/veepee/f41785a1-1815-481e-9ed9-dc19f4a530e9">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>The Quality Group Gmbh</strong></td>
+<td><a href="https://trueinterview.io/jobs/4c3a0e48-c1df-497e-9907-4e6b7be14dc3">Product Owner (gn) - Product Data &amp; Integration</a></td>
+<td>Hamburg (hybrid)</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/thequalitygroupgmbh1/jobs/4999327101">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/d1d5d49f-11c9-4852-9b93-84d35a6417fe">Product Owner (gn) – Product Data Flow</a></td>
+<td>Hamburg (hybrid)</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/thequalitygroupgmbh1/jobs/4999360101">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Inter Carreiras</strong></td>
+<td><a href="https://trueinterview.io/jobs/64acd6c6-4491-4406-94f7-a0b7c3c3776d">PRODUCT DESIGNER SPECIALIST</a></td>
+<td>São Paulo, SP<br/>Belo Horizonte, MG</td>
+<td align="center"><a href="https://boards.greenhouse.io/inter/jobs/4738863005?gh_jid=4738863005">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
 </tbody>
 </table>
 
-<sub>[← Page 1](product-and-design.md) · Page 2 of 2</sub>
+<sub>[← Page 1](product-and-design.md) · Page 2 of 3 · [Page 3 →](product-and-design-3.md)</sub>
 
 [← Every filter](../README.md) · [Back to the full list](../../README.md)

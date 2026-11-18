@@ -2,7 +2,7 @@
 
 # QA Engineer
 
-**401 open roles.** 254 in the United States & Canada · 147 elsewhere in the world.
+**414 open roles.** 255 in the United States & Canada · 159 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1797,6 +1797,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://jobs.apple.com/en-us/details/200688785-0836?board_id=JB001">Apply</a></td>
 <td align="center">12 Oct 2026</td>
 </tr>
+<tr>
+<td><strong>Newton Research</strong></td>
+<td><a href="https://trueinterview.io/jobs/2f54144c-9898-4465-9897-26ef51bc309e">QA Engineer-AI Native Quality</a></td>
+<td>Greater Boston Area</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/newtonresearch/jobs/5442149008">Apply</a></td>
+<td align="center">2 Oct 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -2823,13 +2830,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Hyderabad, India</td>
 <td align="center"><a href="https://www.wppproduction.com/careers/jobs/6223927004?gh_jid=6223927004">Apply</a></td>
 <td align="center">15 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Decile Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/de5df60b-f21a-45e9-b477-25910180fd3e">QA Engineer (Remote)</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://jobs.lever.co/decilegroup/82429004-c548-4b59-a547-febc6960b2c5">Apply</a></td>
-<td align="center">14 Oct 2026</td>
 </tr>
 </tbody>
 </table>

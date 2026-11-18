@@ -2,7 +2,7 @@
 
 # Security Engineer
 
-**601 open roles.** 426 in the United States & Canada · 175 elsewhere in the world.
+**638 open roles.** 439 in the United States & Canada · 199 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 

@@ -2,7 +2,7 @@
 
 # 🇪🇸 Madrid, Barcelona & Iberia
 
-**206 open roles.** 3 in the United States & Canada · 203 elsewhere in the world.
+**233 open roles.** 3 in the United States & Canada · 230 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1470,6 +1470,195 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Lisboa, Lisboa, Portugal</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Devoteam/744000154967709-distributed-cloud-ai-ml-engineer">Apply</a></td>
 <td align="center">12 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Labhouse</strong></td>
+<td><a href="https://trueinterview.io/jobs/4fdd2b65-633f-409c-bf1a-ae7abf41f9c8">Product Data Analyst</a> 🌐</td>
+<td>Remote — Spain<br/>Barcelona</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/labhouse/4246436f-0154-40c7-afa4-4f88613183ef">Apply</a></td>
+<td align="center">9 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Atexis</strong></td>
+<td><a href="https://trueinterview.io/jobs/0925cba0-d2a1-45d2-9030-35b15fc59cae">Spares Engineer (Composite Specialist)</a></td>
+<td>Seville, Andalucía, Spain</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/ATEXIS/744000154646429-spares-engineer-composite-specialist-">Apply</a></td>
+<td align="center">9 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Wpp Production</strong></td>
+<td><a href="https://trueinterview.io/jobs/6673ca78-ab49-4c4f-ba56-173184b2cb88">Trainee Graphic Designer</a></td>
+<td>Madrid, Spain</td>
+<td align="center"><a href="https://www.wppproduction.com/careers/jobs/6220251004?gh_jid=6220251004">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Veeam Software</strong></td>
+<td><a href="https://trueinterview.io/jobs/14044769-bc82-472a-a456-cfbb385abd92">QA Engineer</a></td>
+<td>Lisbon, Portugal<br/>Warsaw, Poland<br/>Prague, Czechia</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4999596101">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Devoteam</strong></td>
+<td><a href="https://trueinterview.io/jobs/788cfc4b-6e7e-4b37-98ba-c0e8412d39f9">DevOps Engineer</a></td>
+<td>Madrid, Comunidad de Madrid, Spain<br/>Frankfurt am Main, Hesse, Germany<br/>Riyadh, Saudi Arabia</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Devoteam/744000154021349-devops-engineer-">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Veltech</strong></td>
+<td><a href="https://trueinterview.io/jobs/311f192f-5614-4254-8277-f6447fb95bf8">Data Analyst</a></td>
+<td>Madrid, Spain</td>
+<td align="center"><a href="https://iris-venture.careers.ats.bizneo.cloud/jobs/data-analyst-4428219b-56b3-4f65-a34c-86dbfd3fc1fe">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Inetum</strong></td>
+<td><a href="https://trueinterview.io/jobs/db8d9d4b-038c-48e4-826a-1e52c41e2b12">Conversational Experience Designer</a></td>
+<td>Lisbon, Lisbon, Portugal</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Inetum2/744000153727889-conversational-experience-designer">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Devoteam</strong></td>
+<td><a href="https://trueinterview.io/jobs/9677a911-bc74-4091-8ad7-8d30f6e58c9a">Digital Impulse | Data Governance Analyst</a></td>
+<td>Lisboa, Lisboa, Portugal</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Devoteam/744000153716059-digital-impulse-data-governance-analyst">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Fortinet</strong></td>
+<td><a href="https://trueinterview.io/jobs/cef49ab5-90ce-4fc8-bb52-c1b56c6b0a7c">Consulting Systems Engineer -Automation</a></td>
+<td>Madrid, Comunidad de Madrid, Spain<br/>LONDON, United Kingdom<br/>Frankfurt, Hessen, Germany<br/>+3 more</td>
+<td align="center"><a href="https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/22165">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Dkb Code Factory</strong></td>
+<td><a href="https://trueinterview.io/jobs/11b59360-1b4d-4a1d-8c02-585372059f13">Backend QA Engineer</a></td>
+<td>Valencia, Spain</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/dkbcodefactory/jobs/8011502003">Apply</a></td>
+<td align="center">2 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/86b22fb6-9adb-4c3c-b64f-29d31c48ee89">Mobile QA Engineer</a></td>
+<td>Valencia, Spain</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/dkbcodefactory/jobs/8011482003">Apply</a></td>
+<td align="center">2 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/24e3d15b-2e0e-4645-bf13-abf7d23929df">Frontend QA Engineer</a></td>
+<td>Valencia, Spain</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/dkbcodefactory/jobs/8011466003">Apply</a></td>
+<td align="center">2 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ICEYE</strong></td>
+<td><a href="https://trueinterview.io/jobs/b8538537-3124-46c6-b9c9-f092e6549527">Forward Deployed Backend/DevOps Engineer, Portugal</a></td>
+<td>Lisbon</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/iceye/8a1f917f-09fa-45b0-8e05-2f6eb2cdc793">Apply</a></td>
+<td align="center">2 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sopra Steria</strong></td>
+<td><a href="https://trueinterview.io/jobs/3f5edc8e-04cc-483c-81d6-1578e510bf19">Requirements Engineer - presencial Rivas</a></td>
+<td>Madrid, Comunidad de Madrid, Spain</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SopraSteria1/744000152919679-requirements-engineer-presencial-rivas">Apply</a></td>
+<td align="center">1 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Scalian</strong></td>
+<td><a href="https://trueinterview.io/jobs/03488cfb-177d-44c2-bc53-c74ea73179fa">FPGA Engineer - Aerospace Sector</a></td>
+<td>Madrid, Spain</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Scalian/744000152882839-fpga-engineer-aerospace-sector">Apply</a></td>
+<td align="center">1 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Devoteam</strong></td>
+<td><a href="https://trueinterview.io/jobs/4b56b8fc-66d2-4164-9e91-20c3b8c42eb4">Distributed Cloud | AI Engineer</a></td>
+<td>Lisboa, Lisboa, Portugal</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Devoteam/744000152476602-distributed-cloud-ai-engineer">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/67bb0574-9082-432d-9768-f0aadc4cee3b">AWS Data Engineer</a></td>
+<td>Madrid, Comunidad de Madrid, Spain</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Devoteam/744000152135569-aws-data-engineer-">Apply</a></td>
+<td align="center">28 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Renesas</strong></td>
+<td><a href="https://trueinterview.io/jobs/cf4087ba-d1ce-455a-8829-b04efa723889">UX Researcher</a></td>
+<td>Lisbon, Portugal</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/RenesasElectronics/744000151900739-ux-researcher">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>TomTom</strong></td>
+<td><a href="https://trueinterview.io/jobs/7482cb68-ddf2-4e98-9df7-fe2b13c6034d">AI Engineer</a></td>
+<td>Madrid, Spain</td>
+<td align="center"><a href="https://jobs.eu.lever.co/tomtom/c915eb8b-6cc3-4093-8294-bb3f9c79f3bf">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Cabify</strong></td>
+<td><a href="https://trueinterview.io/jobs/85b03b34-814b-4814-b6db-d03477b77c2d">Software Engineer - Backend + AI</a></td>
+<td>Madrid, Spain<br/>On-Site - Madrid</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/cabify/jobs/8844081002">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Inetum</strong></td>
+<td><a href="https://trueinterview.io/jobs/eb714705-309d-4f36-a103-45c1cebb534e">Cybersecurity Engineer</a></td>
+<td>Lisbon, Lisbon, Portugal</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Inetum2/744000151573629-cybersecurity-engineer">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Cirrus Logic</strong></td>
+<td><a href="https://trueinterview.io/jobs/d3fc0e51-c965-4e5f-8381-32ee822300f6">Sustaining Engineer</a></td>
+<td>Porto</td>
+<td align="center"><a href="https://jobs.eu.lever.co/cirrus/bb05031a-3c1a-43d3-a8d6-30283cede3f5">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Prima</strong></td>
+<td><a href="https://trueinterview.io/jobs/70b16e8f-2d80-4af9-aff7-dd614385eafb">Software Engineer – AI/ML Platform</a></td>
+<td>Madrid<br/>Milan</td>
+<td align="center"><a href="https://jobs.eu.lever.co/prima/470a1770-da20-4dde-92ea-31f84666a7a0">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Gameloft</strong></td>
+<td><a href="https://trueinterview.io/jobs/72c375a0-912a-45a3-8af2-9a8c6094635b">Gametech Innovation Developer</a></td>
+<td>Barcelona, Catalunya, Spain</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Gameloft/744000151013658-gametech-innovation-developer">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Inetum</strong></td>
+<td><a href="https://trueinterview.io/jobs/d61f8946-d9df-475d-8782-d0295804f3f0">Webservices Engineer</a></td>
+<td>Lisbon, Lisbon, Portugal</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Inetum2/744000150969308-webservices-engineer">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Dkb Code Factory</strong></td>
+<td><a href="https://trueinterview.io/jobs/c4264bdb-b638-46cf-9fa0-471edcd9b6ae">Pega Developer</a></td>
+<td>Valencia, Spain</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/dkbcodefactory/jobs/8000589003">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Devoteam</strong></td>
+<td><a href="https://trueinterview.io/jobs/85b360af-1b25-4ad4-b6a1-7ffbed50bf9e">Google Cloud AI Engineer</a></td>
+<td>Madrid, Comunidad de Madrid, Spain</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Devoteam/744000150629429-google-cloud-ai-engineer">Apply</a></td>
+<td align="center">21 Sep 2026</td>
 </tr>
 </tbody>
 </table>

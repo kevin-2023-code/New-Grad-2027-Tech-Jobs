@@ -2,7 +2,7 @@
 
 # 🇮🇪 Dublin & Ireland
 
-**163 open roles.** 4 in the United States & Canada · 159 elsewhere in the world.
+**169 open roles.** 8 in the United States & Canada · 161 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -44,6 +44,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Dublin, Co. Dublin, Ireland<br/>Ireland<br/>Belfast, County Antrim, United Kingdom<br/>+1 more</td>
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97426">Apply</a></td>
 <td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/0139d3ce-3c83-4eae-ade6-e866e6bc03ea">Primary Design Engineer (Energy)</a></td>
+<td>Dublin, Co. Dublin, Ireland<br/>Ireland<br/>Naas, Co. Dublin, Ireland</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97312">Apply</a></td>
+<td align="center">9 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/2a2b6780-d058-4e27-91ff-8810183fdd5b">Protection &amp; Control Engineer (Energy)</a></td>
+<td>Dublin, Co. Dublin, Ireland<br/>Glasgow, Lanarkshire, United Kingdom<br/>Edinburgh, Midlothian, United Kingdom<br/>+5 more</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97309">Apply</a></td>
+<td align="center">9 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Intercom</strong></td>
+<td><a href="https://trueinterview.io/jobs/7997c991-52cb-412b-8414-44ecaf7fc1ab">Forward Deployed Data Scientist</a></td>
+<td>Dublin, Ireland<br/>London, England<br/>San Francisco, California</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/intercom/jobs/8245700">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>WSP</strong></td>
+<td><a href="https://trueinterview.io/jobs/c01b21af-f69b-4c9f-b8b3-4a5c345fcbce">Overhead Line (OHL) Engineer – Ireland (Energy)</a></td>
+<td>Dublin, Co. Dublin, Ireland<br/>Belfast, County Antrim, United Kingdom<br/>Naas, Co. Carlow, Ireland</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95952">Apply</a></td>
+<td align="center">25 Sep 2026</td>
 </tr>
 </tbody>
 </table>
@@ -1169,6 +1197,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Galway, Ireland<br/>Dublin, Ireland</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/blockdaemon/1f155fd0-0db0-4174-aa78-d31c049ebea7">Apply</a></td>
 <td align="center">12 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Bright Machines</strong></td>
+<td><a href="https://trueinterview.io/jobs/ba4ac873-2b7d-4a3b-96fd-c8d92901473b">Site Automation Engineer - Robotics/PLC</a></td>
+<td>Cork, County Cork</td>
+<td align="center"><a href="https://jobs.lever.co/brightmachines/7c87cbdd-c1ad-4517-ab32-6f8f1e7e13d7">Apply</a></td>
+<td align="center">3 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Version 1</strong></td>
+<td><a href="https://trueinterview.io/jobs/85cf7498-b99b-45f1-b33a-20776a14165f">Full Stack Developer (Java &amp; Angular)</a></td>
+<td>Dublin, Portlaoise, Ireland</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Version1/744000153194109-full-stack-developer-java-angular-">Apply</a></td>
+<td align="center">2 Oct 2026</td>
 </tr>
 </tbody>
 </table>

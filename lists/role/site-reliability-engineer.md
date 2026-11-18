@@ -2,7 +2,7 @@
 
 # Site Reliability Engineer
 
-**177 open roles.** 81 in the United States & Canada · 96 elsewhere in the world.
+**190 open roles.** 84 in the United States & Canada · 106 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -583,6 +583,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Arlington, Virginia, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Ramboll3/744000156035854-site-design-engineer-water-infrastructure">Apply</a></td>
 <td align="center">16 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>XYZ Reality</strong></td>
+<td><a href="https://trueinterview.io/jobs/d4fc3d1f-2cab-4c79-b5b3-e0ba834c8cd0">Site Engineer - Carterville, Georgia</a></td>
+<td>Atlanta, GA<br/>Atlanta, Georgia</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/xyz-reality/e337a907-dd0d-452e-a689-e89006dd9efe">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Beyondtrust</strong></td>
+<td><a href="https://trueinterview.io/jobs/826d8ed9-5661-43e8-8c4c-3eb3fee806b5">Site Reliability Engineer</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/beyondtrust/jobs/8256040">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Zimperium</strong></td>
+<td><a href="https://trueinterview.io/jobs/7eabd1c9-0f1b-407c-a9b8-fb0fb106b281">Site Reliability Engineer - Dallas, TX (Hybrid)</a></td>
+<td>Dallas, Texas</td>
+<td align="center"><a href="https://jobs.lever.co/zimperium/3d25782f-d020-49f3-80f1-43a7ecd85a10">Apply</a></td>
+<td align="center">21 Sep 2026</td>
 </tr>
 </tbody>
 </table>
@@ -1267,6 +1288,76 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Galway, Ireland<br/>Dublin, Ireland</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/blockdaemon/1f155fd0-0db0-4174-aa78-d31c049ebea7">Apply</a></td>
 <td align="center">12 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Renesas</strong></td>
+<td><a href="https://trueinterview.io/jobs/5343038b-3e94-4166-ba96-20674329587c">Site Reliability Engineer (SRE)</a></td>
+<td>Belgrade, Serbia</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/RenesasElectronics/744000154737738-site-reliability-engineer-sre-">Apply</a></td>
+<td align="center">9 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Lio</strong></td>
+<td><a href="https://trueinterview.io/jobs/14484f68-9ff4-443f-a116-68fe5c46fc91">Site Reliability Engineer / SRE (all genders)</a></td>
+<td>Munich Office</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/lio/4f67e6d6-72ca-4248-a748-3bd8d3c769ea">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Bright Machines</strong></td>
+<td><a href="https://trueinterview.io/jobs/ba4ac873-2b7d-4a3b-96fd-c8d92901473b">Site Automation Engineer - Robotics/PLC</a></td>
+<td>Cork, County Cork</td>
+<td align="center"><a href="https://jobs.lever.co/brightmachines/7c87cbdd-c1ad-4517-ab32-6f8f1e7e13d7">Apply</a></td>
+<td align="center">3 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>IMC</strong></td>
+<td><a href="https://trueinterview.io/jobs/596d4bc1-ba28-4c75-b090-3e356d70dc1e">Site Reliablity Engineer</a></td>
+<td>Mumbai, India</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/imc/jobs/4988566101">Apply</a></td>
+<td align="center">30 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>FIS Global</strong></td>
+<td><a href="https://trueinterview.io/jobs/590a0675-7c92-47bf-b90f-6c3f60248b5a">Site Reliability Engineer (SRE) – Cloud Platform</a></td>
+<td>IND PUNE FL7</td>
+<td align="center"><a href="https://fis.wd5.myworkdayjobs.com/SearchJobs/job/IND-PUNE-FL7/Site-Reliability-Engineer--SRE----Cloud-Platform_JR0309828">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Devoteam</strong></td>
+<td><a href="https://trueinterview.io/jobs/3dc32cbe-6cf0-484a-abea-c6b5d59825cc">Site Reliability Engineer &amp; AI SRE (F/H)</a></td>
+<td>Levallois-Perret, Île-de-France, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Devoteam/744000152169831-site-reliability-engineer-ai-sre-f-h-">Apply</a></td>
+<td align="center">28 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Xp Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/ddb1a869-1f50-4b97-b486-029dea15d8a9">Especialista em Infraestrutura | SRE</a></td>
+<td>São Paulo, SP</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/xpinc/jobs/8697005002">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Devoteam</strong></td>
+<td><a href="https://trueinterview.io/jobs/6706d01a-1d9c-4993-8e44-f24cb34a9620">Ingénieur Observabilité / SRE H/F</a></td>
+<td>Toulouse, Occitanie, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Devoteam/744000151075190-ingenieur-observabilite-sre-h-f">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Axon</strong></td>
+<td><a href="https://trueinterview.io/jobs/5026d9ed-e1c0-4b2d-8ba7-c5e5c748c35e">Graduate Site Reliability Engineer (Australia)</a></td>
+<td>Melbourne, Victoria, Australia<br/>Sydney, New South Wales, Australia<br/>Australia</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/axon/jobs/8001665003">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Six Construct</strong></td>
+<td><a href="https://trueinterview.io/jobs/e6d4e7b0-532b-46a4-adc9-d82b63ce709a">Site Engineer</a></td>
+<td>Adelaide, South Australia, Australia</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/BESIX/744000150831863-site-engineer">Apply</a></td>
+<td align="center">22 Sep 2026</td>
 </tr>
 </tbody>
 </table>

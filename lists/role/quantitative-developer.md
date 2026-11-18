@@ -2,7 +2,7 @@
 
 # Quantitative Developer
 
-**103 open roles.** 71 in the United States & Canada · 32 elsewhere in the world.
+**108 open roles.** 71 in the United States & Canada · 37 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -749,6 +749,41 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>London</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8883229002">Apply</a></td>
 <td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Encord</strong></td>
+<td><a href="https://trueinterview.io/jobs/f8473c46-c0de-4411-b4f3-2a1cdd36f1cf">Quant Developer in AI</a></td>
+<td>London</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/encord/39a4dc33-d4a9-4191-9daa-7712e1fb9bc4">Apply</a></td>
+<td align="center">1 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Engineers Gate</strong></td>
+<td><a href="https://trueinterview.io/jobs/5a85038f-ec0a-416d-ae34-7e82f495239f">Quantitative Developer</a></td>
+<td>London</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/engineersgate/jobs/8233715">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Winton Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/c857c70b-61c6-4ad3-a286-4c02afe8a895">Quantitative Developer/Researcher, Graduate</a></td>
+<td>London, United Kingdom</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/winton/jobs/4986765101">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Talan</strong></td>
+<td><a href="https://trueinterview.io/jobs/a0755ec9-b27b-46dd-809f-9e972a98f637">Front Office Quant Analyst</a></td>
+<td>London, England, United Kingdom</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Talan/744000151083244-front-office-quant-analyst">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Qube Research &amp; Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/12fa05d7-f493-4a08-aeb0-af9618f05532">Quantitative Developer - Pre/Post-Trade Analytics</a></td>
+<td>Hong Kong</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8826810002">Apply</a></td>
+<td align="center">21 Sep 2026</td>
 </tr>
 </tbody>
 </table>

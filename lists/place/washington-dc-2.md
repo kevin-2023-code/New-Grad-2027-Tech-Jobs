@@ -2,7 +2,7 @@
 
 # 🏛️ Washington DC & Northern Virginia
 
-**813 open roles.**
+**834 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 

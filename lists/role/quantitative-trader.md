@@ -2,7 +2,7 @@
 
 # Quantitative Trader
 
-**61 open roles.** 30 in the United States & Canada · 31 elsewhere in the world.
+**66 open roles.** 31 in the United States & Canada · 35 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -226,6 +226,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/vestmark/jobs/8303297">Apply</a></td>
 <td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Falconx</strong></td>
+<td><a href="https://trueinterview.io/jobs/af2e4c24-d26d-475d-9e7b-878f5e4939c0">Trader</a></td>
+<td>New York City, NY</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/falconx/jobs/4734676005">Apply</a></td>
+<td align="center">22 Sep 2026</td>
 </tr>
 </tbody>
 </table>
@@ -455,6 +462,34 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>London</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/blockchain/jobs/8289214">Apply</a></td>
 <td align="center">16 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Thndr</strong></td>
+<td><a href="https://trueinterview.io/jobs/42d7b652-face-4719-9717-5f22ad1a2dfa">Trader - KSA</a></td>
+<td>Riyadh Office</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/thndr/3133bc12-50ca-41b2-b8d4-da9d0907dd9a">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Wpp Media</strong></td>
+<td><a href="https://trueinterview.io/jobs/8abd3f31-fa80-44b0-a786-9da0d3ee9d67">Media Trader Multiscreen F/H (CDI)</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/wppmedia/jobs/5437476008">Apply</a></td>
+<td align="center">2 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Louis Dreyfus Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/d12a18e4-cf24-4e1c-be86-85799615bace">TRADER ALGODAO</a></td>
+<td>Sao Paulo, State of São Paulo, Brazil</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000151661830-trader-algodao">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Wormhole Labs</strong></td>
+<td><a href="https://trueinterview.io/jobs/f64e7adb-cf3b-447a-8e2b-8a9c674bb03b">Trader</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/wormholelabs/4e6f2ea6-c5de-464b-8c43-9a21d72dad70">Apply</a></td>
+<td align="center">24 Sep 2026</td>
 </tr>
 </tbody>
 </table>

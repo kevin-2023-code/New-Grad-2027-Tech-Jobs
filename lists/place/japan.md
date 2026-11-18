@@ -2,7 +2,7 @@
 
 # 🇯🇵 Tokyo & Japan
 
-**50 open roles.**
+**54 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -368,6 +368,34 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Tokyo</td>
 <td align="center"><a href="https://jobs.lever.co/tx-inc.com/1839506a-f54f-4c1f-8805-51dba0c2d87d">Apply</a></td>
 <td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Lalamove</strong></td>
+<td><a href="https://trueinterview.io/jobs/4b263afc-00e4-4bd0-9120-5e967817ccdd">Graphic Designer</a></td>
+<td>Tokyo</td>
+<td align="center"><a href="https://jobs.lever.co/lalamove/e1d23f55-13be-4817-9323-f34bb213cf2b">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Xsolla</strong></td>
+<td><a href="https://trueinterview.io/jobs/8f5ebfae-1acf-4be4-83ad-45b2c8c242dc">Solutions Engineer - Enterprise Partners</a></td>
+<td>Tokyo<br/>Kuala Lumpur</td>
+<td align="center"><a href="https://jobs.lever.co/xsolla/99125d4d-0896-4c51-ac14-70affe9d8493">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Rescale</strong></td>
+<td><a href="https://trueinterview.io/jobs/a3984311-bbe7-42b6-9cc4-3ab086e8a6cf">Customer Success Engineer (Japan)</a></td>
+<td>Tokyo</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/rescale/b8e09f69-f683-475a-adce-4c142680ec8e">Apply</a></td>
+<td align="center">1 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>OpenAI</strong></td>
+<td><a href="https://trueinterview.io/jobs/0df62237-4184-4567-b903-cd358cdff00d">Dedicated Support Engineer - Tokyo</a></td>
+<td>Tokyo, Japan</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/openai/73728d6c-8d8d-4aed-86c6-c2e73d9efec9/application">Apply</a></td>
+<td align="center">25 Sep 2026</td>
 </tr>
 </tbody>
 </table>

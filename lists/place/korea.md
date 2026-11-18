@@ -2,7 +2,7 @@
 
 # 🇰🇷 Seoul & Korea
 
-**21 open roles.**
+**24 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -165,6 +165,27 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Incheon, Incheon, Korea, republic of<br/>Chennai, Tamil Nadu, India</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Rotork1/744000154921869-mechanical-engineer-">Apply</a></td>
 <td align="center">12 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>42dot</strong></td>
+<td><a href="https://trueinterview.io/jobs/3cf72d49-08db-4b19-85c5-2cfc0c22ddd3">Deep Learning Engineer (음성 합성 개발)</a></td>
+<td>Pangyo (Software Dream Center), South Korea</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/42dot/c184cf35-51e2-4e80-87bc-579089f07472">Apply</a></td>
+<td align="center">2 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/136ee095-3f1c-451d-bb50-f39a51732e3e">[집중채용] System Framework Engineer</a></td>
+<td>Pangyo (Software Dream Center), South Korea</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/42dot/0c03a694-6180-4be3-80ff-74c96f5b7dad">Apply</a></td>
+<td align="center">28 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Moloco</strong></td>
+<td><a href="https://trueinterview.io/jobs/3d156b6c-bdf5-4e34-b626-04bada8dfe23">QA Engineer (1-Year Contract)</a></td>
+<td>Seoul, Korea</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/moloco/jobs/8003052003">Apply</a></td>
+<td align="center">23 Sep 2026</td>
 </tr>
 </tbody>
 </table>

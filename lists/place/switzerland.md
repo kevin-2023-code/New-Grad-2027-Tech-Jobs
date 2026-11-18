@@ -2,7 +2,7 @@
 
 # 🇨🇭 Zürich & Switzerland
 
-**191 open roles.** 4 in the United States & Canada · 187 elsewhere in the world.
+**192 open roles.** 4 in the United States & Canada · 188 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1365,6 +1365,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Zurich</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/proxima-fusion/3b6020ad-676c-4a8a-86e9-577be4aaa850">Apply</a></td>
 <td align="center">11 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/f364f973-994e-4427-8266-cec395998f79">Machine Learning Engineer with Focus on Generative 3D Representations - Europe Vision Group</a></td>
+<td>Zürich, Switzerland</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200687755-4170?board_id=JB001">Apply</a></td>
+<td align="center">6 Oct 2026</td>
 </tr>
 </tbody>
 </table>

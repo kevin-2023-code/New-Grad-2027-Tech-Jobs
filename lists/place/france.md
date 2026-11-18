@@ -2,7 +2,7 @@
 
 # 🇫🇷 Paris & France
 
-**344 open roles.** 6 in the United States & Canada · 338 elsewhere in the world.
+**392 open roles.** 6 in the United States & Canada · 386 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -2436,6 +2436,342 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Paris, Île-de-France, France</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Talan/744000155027109-da-digital-ui-designer-h-f">Apply</a></td>
 <td align="center">12 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NEXTON</strong></td>
+<td><a href="https://trueinterview.io/jobs/d0f378bd-c0f5-487d-a6d4-15082c4735a2">Développeur / Data Engineer SAS &amp; Altair SLC H/F</a></td>
+<td>Paris, Île-de-France, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/NEXTON/744000154700379-developpeur-data-engineer-sas-altair-slc-h-f">Apply</a></td>
+<td align="center">9 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Mistral AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/191b8bd8-15f4-4836-bb69-790f7977403e">Research Engineer - Eval Platform</a></td>
+<td>Paris</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/mistral.ai/ff382d26-285e-499d-973f-3d789d995ff9">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NEXTON</strong></td>
+<td><a href="https://trueinterview.io/jobs/0529d93a-b362-4f74-822b-1ba2e02e583c">Designer Graphique Sénior H/F</a></td>
+<td>Paris, Île-de-France, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/NEXTON/744000154418399-designer-graphique-senior-h-f">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ubisoft</strong></td>
+<td><a href="https://trueinterview.io/jobs/f314d8d0-3297-4066-af9d-d7e990f5924e">Engine Programmer - F/H/NB</a></td>
+<td>Paris, Île-de-France, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Ubisoft2/744000154374467-engine-programmer-f-h-nb">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Devoteam</strong></td>
+<td><a href="https://trueinterview.io/jobs/2b9cb49a-39c8-433e-aba4-7c2bcb6f673c">Team Leader / Data &amp; AI Engineer - H/F</a></td>
+<td>Nantes, Pays de la Loire, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Devoteam/744000154372399-team-leader-data-ai-engineer-h-f">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Mistral AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/8f36f92f-6b23-4dd4-913d-a10ea33626b3">LLM Scientist, AI for Science</a></td>
+<td>Paris</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/mistral.ai/9873f968-d5b2-4fb0-b268-7a274a4a2029">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Citech</strong></td>
+<td><a href="https://trueinterview.io/jobs/e3d6f17b-fa34-4068-aea4-45465ec88218">Digital Product Owner – Web &amp; eBusiness (H/F)</a></td>
+<td>Marseille, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/CITECH/744000153691809-digital-product-owner-web-ebusiness-h-f-">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Vocca</strong></td>
+<td><a href="https://trueinterview.io/jobs/d4f42662-68a9-4d5a-a2bf-b30b7ded24f5">Product Engineer (TypeScript)</a></td>
+<td>Paris</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/vocca/7916fd2e-2b17-4a86-aede-206987f5c8ed">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Fortinet</strong></td>
+<td><a href="https://trueinterview.io/jobs/cef49ab5-90ce-4fc8-bb52-c1b56c6b0a7c">Consulting Systems Engineer -Automation</a></td>
+<td>Paris, France<br/>Sophia Antipolis, Alpes-Maritimes, France<br/>LONDON, United Kingdom<br/>+3 more</td>
+<td align="center"><a href="https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/22165">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Wpp Media</strong></td>
+<td><a href="https://trueinterview.io/jobs/8abd3f31-fa80-44b0-a786-9da0d3ee9d67">Media Trader Multiscreen F/H (CDI)</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/wppmedia/jobs/5437476008">Apply</a></td>
+<td align="center">2 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Wavestone</strong></td>
+<td><a href="https://trueinterview.io/jobs/8d5231d9-90c3-4524-bbfd-cda90fd060ff">Data Platform, Analytics Engineering &amp; Data for IA</a></td>
+<td>Paris, Île-de-France, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Wavestone1/744000153172496-data-platform-analytics-engineering-data-for-ia">Apply</a></td>
+<td align="center">2 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Nemera</strong></td>
+<td><a href="https://trueinterview.io/jobs/a61ec7f8-4ebd-4f14-a9c0-04ba73a83455">Ingénieur Conception F/H/X (Design Engineer)</a></td>
+<td>Lyon, Auvergne-Rhône-Alpes, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Nemera/744000152890884-ingenieur-conception-f-h-x-design-engineer-">Apply</a></td>
+<td align="center">1 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Voodoo</strong></td>
+<td><a href="https://trueinterview.io/jobs/02a6b397-22c5-409d-9f9f-905ff38f415d">Finance Data Engineer</a></td>
+<td>Paris</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/voodoo/d5b907af-9ea4-416d-b32d-22986ded58bd">Apply</a></td>
+<td align="center">30 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Devoteam</strong></td>
+<td><a href="https://trueinterview.io/jobs/8d3f3ef7-df36-4021-9c6f-8c84fd364d08">Data Engineer Spark / Databricks H/F</a></td>
+<td>Nantes, Pays de la Loire, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Devoteam/744000152637122-data-engineer-spark-databricks-h-f">Apply</a></td>
+<td align="center">30 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Wpp Media</strong></td>
+<td><a href="https://trueinterview.io/jobs/16521b10-0b4e-4dc9-9e7f-561b735214ae">Stage Data Analyst F/H</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/wppmedia/jobs/5439465008">Apply</a></td>
+<td align="center">30 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Gojob</strong></td>
+<td><a href="https://trueinterview.io/jobs/d1b2a474-c4d2-45a0-9f0b-bfb8eba88dd7">Business Developer / Sales - Commercial terrain H/F - Toulouse (31)</a></td>
+<td>Toulouse</td>
+<td align="center"><a href="https://jobs.lever.co/gojob/57e342bb-5795-448f-b6dd-9cea7b974498">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>NEXTON</strong></td>
+<td><a href="https://trueinterview.io/jobs/de2417a4-69b8-4550-9a4d-9635543ec75a">Product Designer - Outils Métiers H/F</a></td>
+<td>Paris, Île-de-France, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/NEXTON/744000152192439-product-designer-outils-metiers-h-f">Apply</a></td>
+<td align="center">28 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Ubisoft</strong></td>
+<td><a href="https://trueinterview.io/jobs/41d01814-5379-44e9-8e63-e25288f98eda">Web &amp; Online Programmer Assistant (F/H/NB) – Stage 6 mois – The Crew Motorfest</a></td>
+<td>Lyon, Auvergne-Rhône-Alpes, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Ubisoft2/744000152183679-web-online-programmer-assistant-f-h-nb-stage-6-mois-the-crew-motorfest-">Apply</a></td>
+<td align="center">28 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>ARCANE</strong></td>
+<td><a href="https://trueinterview.io/jobs/062fd07c-8835-48c5-8245-1efbdb983df9">STAGE 6 MOIS TEMPS PLEIN - Motion Designer 2D (H/F)</a></td>
+<td>Paris, Île-de-France, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Labelium/744000152171269-stage-6-mois-temps-plein-motion-designer-2d-h-f-">Apply</a></td>
+<td align="center">28 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>VO2 GROUP</strong></td>
+<td><a href="https://trueinterview.io/jobs/cd55a169-5ef0-4198-aa9e-836bc8a6ed10">[VO2 Finance] - Data Analyst Finance / abus de marché</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://jobs.lever.co/vo2-group/f0cdec21-2da9-462d-949a-95b5d855c90a">Apply</a></td>
+<td align="center">28 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Citech</strong></td>
+<td><a href="https://trueinterview.io/jobs/1e9ddde1-1253-4c04-a308-1e8f03761613">Data Scientist – Customer Journey, ML &amp; GenAI (H/F)</a></td>
+<td>Marseille, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/CITECH/744000152119834-data-scientist-customer-journey-ml-genai-h-f-">Apply</a></td>
+<td align="center">28 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/b90a7598-98e6-4f37-8187-5dd55558efe2">Proxy Product Owner GenAI – Agentic AI &amp; Omnichannel (H/F)</a></td>
+<td>Marseille, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/CITECH/744000152111870-proxy-product-owner-genai-agentic-ai-omnichannel-h-f-">Apply</a></td>
+<td align="center">28 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/eecdb0ed-e821-4c9c-a86f-29a5edfb5f7d">Proxy Product Owner GenAI – Customer Care (H/F)</a></td>
+<td>Marseille, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/CITECH/744000152112821-proxy-product-owner-genai-customer-care-h-f-">Apply</a></td>
+<td align="center">28 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Decathlon Digital Fr</strong></td>
+<td><a href="https://trueinterview.io/jobs/6ecd3405-273e-45c1-9693-c2658d67d762">Android Software Engineer</a></td>
+<td>Lille - Btwin Village, Nord, France</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/decathlontechnology/jobs/4983376101">Apply</a></td>
+<td align="center">28 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>OCTO Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/343ecd9a-ed4a-44bb-bc80-a3477670c2d6">Consultant Confirmé - Fullstack (Java/Python/Gen AI, React, Angular, Vue, Flutter) - F/H/N</a></td>
+<td>Paris, Île-de-France, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/OCTOTechnology/744000152094240-consultant-confirme-fullstack-java-python-gen-ai-react-angular-vue-flutter-f-h-n">Apply</a></td>
+<td align="center">28 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Pennylane Sas</strong></td>
+<td><a href="https://trueinterview.io/jobs/ebf73fad-cfa9-4034-9433-eea60467c238">IT Support Administrator W/M</a></td>
+<td>Paris</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/pennylane/f9ed4c8e-a544-44d8-bec8-3aff0c80ecf6">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Decathlon Digital Fr</strong></td>
+<td><a href="https://trueinterview.io/jobs/1a82c632-8a97-42d5-890f-499c4aa4f91a">Software Integration Engineer (f/m/d) - SAP Transport &amp; Release</a></td>
+<td>Lille, Upline, Nord, France</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/decathlontechnology/jobs/4987671101">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Mistral AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/3f38bbc1-2e03-4b7f-84b4-24043dba69c5">Research Engineer - Cybersecurity (RL Environments)</a></td>
+<td>Paris</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/mistral.ai/818ab64d-6d6d-4e3e-9f6c-cc50ffd3e76c">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Inetum</strong></td>
+<td><a href="https://trueinterview.io/jobs/393e1de9-8298-4f38-9213-7345ddaa9f13">DEVELOPPEUR MOBILE IOS H/F</a></td>
+<td>Nantes, Pays de la Loire, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Inetum2/744000151808829-developpeur-mobile-ios-h-f">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/a07d942d-e534-49d5-a8cc-4dd5e5a0a4df">DEVELOPPEUR MOBILE ANDROID H/F</a></td>
+<td>Nantes, Pays de la Loire, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Inetum2/744000151808659-developpeur-mobile-android-h-f">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>ALTEN</strong></td>
+<td><a href="https://trueinterview.io/jobs/cbd5d55f-6065-4e62-aa08-a4f555f47b29">Stage Innovation : Ingénieur Intelligence Artificielle Générative / NLP</a></td>
+<td>Toulouse, Occitanie, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/ALTEN/744000151640893-stage-innovation-ingenieur-intelligence-artificielle-generative-nlp">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/6efa768d-8825-477d-8fba-e459ea9ec1ad">Stage Innovation : Ingénieur Intelligence Artificielle / Computer Vision</a></td>
+<td>Rennes, Brittany, France<br/>Sèvres, Île-de-France, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/ALTEN/744000151639008-stage-innovation-ingenieur-intelligence-artificielle-computer-vision">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/d0930865-2eff-4d94-a9dc-9a21e84f2369">Stage Innovation : Ingénieur Intelligence Artificielle / NLP</a></td>
+<td>Rennes, Brittany, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/ALTEN/744000151636531-stage-innovation-ingenieur-intelligence-artificielle-nlp">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Ekimetrics</strong></td>
+<td><a href="https://trueinterview.io/jobs/da7e81c6-7577-417d-a433-dabc807d0a37">Stage 2027 Business Data Scientist - Marketing effectivness</a></td>
+<td>Paris</td>
+<td align="center"><a href="https://jobs.lever.co/ekimetrics/8f0d6bb4-903a-4deb-8689-2f72e8b3e171">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Scalian</strong></td>
+<td><a href="https://trueinterview.io/jobs/ff2968f6-4a21-4766-ae47-07e4615b95ae">Data Engineer (H/F) - Lille</a></td>
+<td>Lille, Hauts-de-France, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Scalian/744000151568934-data-engineer-h-f-lille">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Citech</strong></td>
+<td><a href="https://trueinterview.io/jobs/08c6f326-3a23-4460-b738-4c57ee6a1155">Data Engineer Big Data – Expertise Vertica (H/F)</a></td>
+<td>Lille, France<br/>Strasbourg, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/CITECH/744000151539229-data-engineer-big-data-expertise-vertica-h-f-">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Eurofins</strong></td>
+<td><a href="https://trueinterview.io/jobs/457935b5-7144-47dd-a80e-356572d8c2e5">Stage Ingénieur.e Projets Intelligence Artificielle - Traitement du langage naturel (NLP)</a></td>
+<td>Paris, Île-de-France, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Eurofins/744000151401169-stage-ingenieur-e-projets-intelligence-artificielle-traitement-du-langage-naturel-nlp-">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Amo</strong></td>
+<td><a href="https://trueinterview.io/jobs/748820c4-b020-4427-a468-5ae974a8d7d8">Location Data engineer</a></td>
+<td>Paris</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/amo/6cb7a130-d790-4712-b098-953515c2eb2d">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Kpler</strong></td>
+<td><a href="https://trueinterview.io/jobs/4ffdfc1c-d844-4782-8895-01028d0f5de6">ML Engineer - Power</a></td>
+<td>Paris</td>
+<td align="center"><a href="https://jobs.lever.co/kpler/10105b9b-ed9c-4ebe-8f3b-76b18edeccb8">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Mistral AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/d35ac48e-33eb-4362-b31b-2f877f490345">Applied AI Software Engineer - Defense</a></td>
+<td>Paris</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/mistral.ai/4f2f058d-3a04-4b0d-b964-700c1d7790ac">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Inetum</strong></td>
+<td><a href="https://trueinterview.io/jobs/0c822f4c-81f2-4e32-85f6-f11f560dd0e1">Data engineer Teradata H/F</a></td>
+<td>Nantes, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Inetum2/744000151315584-data-engineer-teradata-h-f">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/2931ddf4-ac35-4a3f-a83b-96d0fb0dd2b1">DATA ENGINEER JAVA SPARK H/F</a></td>
+<td>Nantes, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Inetum2/744000151315559-data-engineer-java-spark-h-f">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>ARCANE</strong></td>
+<td><a href="https://trueinterview.io/jobs/419a870a-77ea-4a6d-8e64-c685eeeed91b">Stage FE - Data Scientist / Analytics Engineer (H-F)</a></td>
+<td>Paris, Île-de-France, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Labelium/744000151307439-stage-fe-data-scientist-analytics-engineer-h-f-">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/be36584c-7bea-4750-a780-f4ad10a252e0">AI/ML Engineer - AI Systems for Security, SEAR</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200624074-2911?board_id=JB001">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Valtech</strong></td>
+<td><a href="https://trueinterview.io/jobs/f461a69f-8cf9-41c3-9dba-e16af2cdcad3">Data Engineer - Snowflake</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/valtech/jobs/4964054101">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Devoteam</strong></td>
+<td><a href="https://trueinterview.io/jobs/6706d01a-1d9c-4993-8e44-f24cb34a9620">Ingénieur Observabilité / SRE H/F</a></td>
+<td>Toulouse, Occitanie, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Devoteam/744000151075190-ingenieur-observabilite-sre-h-f">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Citech</strong></td>
+<td><a href="https://trueinterview.io/jobs/3c2f3bea-6b7a-488d-965b-0e50dda3c0e5">Digital Product Owner – EDI / API (H/F)</a></td>
+<td>Marseille, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/CITECH/744000150627250-digital-product-owner-edi-api-h-f-">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Sopra Steria</strong></td>
+<td><a href="https://trueinterview.io/jobs/2d954bee-37e1-4b0a-97f2-eadbbe0ca143">Stage - UX, développement React et déploiement de Crimson PICS, solution numérique de gestion de crise - Défense &amp; Sécurité - Toulouse</a></td>
+<td>Toulouse, Occitanie, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SopraSteria1/744000150614209-stage-ux-developpement-react-et-deploiement-de-crimson-pics-solution-numerique-de-gestion-de-crise-defense-securite-toulouse">Apply</a></td>
+<td align="center">21 Sep 2026</td>
 </tr>
 </tbody>
 </table>

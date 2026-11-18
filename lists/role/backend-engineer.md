@@ -2,7 +2,7 @@
 
 # Backend Engineer
 
-**186 open roles.** 99 in the United States & Canada · 87 elsewhere in the world.
+**199 open roles.** 100 in the United States & Canada · 99 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -710,6 +710,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://jobs.ashbyhq.com/gallatin/8de1a441-15aa-4993-a0f5-d76be215b139">Apply</a></td>
 <td align="center">10 Oct 2026</td>
 </tr>
+<tr>
+<td><strong>RemoteJobsOne</strong></td>
+<td><a href="https://trueinterview.io/jobs/034a10f6-6432-4757-84a3-13d281081185">software developer</a></td>
+<td>Toronto, ON</td>
+<td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50344535">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -1330,6 +1337,90 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Remote — France</td>
 <td align="center"><a href="https://job-boards.eu.greenhouse.io/airship/jobs/5001057101">Apply</a></td>
 <td align="center">12 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Bitgo</strong></td>
+<td><a href="https://trueinterview.io/jobs/4a152957-f015-440c-baa1-05ac79eaa216">Backend Engineer E3 - India</a></td>
+<td>India</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/bitgo/jobs/8869949002">Apply</a></td>
+<td align="center">9 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Manulife</strong></td>
+<td><a href="https://trueinterview.io/jobs/b2538df3-4c64-4479-acbf-ad01e0f6872f">Associate Backend Software Engineer - HIREFITRO3405</a></td>
+<td>Makati City, Philippines Branch Office</td>
+<td align="center"><a href="https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Makati-City-Philippines-Branch-Office/Associate-Backend-Software-Engineer---HIREFITRO3405_JR26091278">Apply</a></td>
+<td align="center">9 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/20400afa-9631-4282-9767-b00dbfa81279">Associate Backend Software Engineer - HIREFITRO3433</a></td>
+<td>Makati City</td>
+<td align="center"><a href="https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Makati-City/Associate-Backend-Software-Engineer----HIREFITRO3433_JR26091280">Apply</a></td>
+<td align="center">9 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ci&amp;t</strong></td>
+<td><a href="https://trueinterview.io/jobs/e834d9d1-698c-408c-a6c5-29063d1d27ef">[Job - 32040] Analista de Suporte Pleno (Developer L3)</a></td>
+<td>Brazil</td>
+<td align="center"><a href="https://jobs.lever.co/ciandt/ff33f4ce-5822-4b09-a334-5ea5401a91e6/apply">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Inetum</strong></td>
+<td><a href="https://trueinterview.io/jobs/dde51e72-ce1f-4a8e-8c64-e635f50b358a">Backend Developer</a></td>
+<td>Lima, Callao Region, Peru<br/>San Isidro, Lima Province, Peru</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Inetum2/744000154150749-backend-developer">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SumUp</strong></td>
+<td><a href="https://trueinterview.io/jobs/8f8ad601-8b79-4317-824f-66c00b522464">Backend Engineer - Run &amp; Grow</a></td>
+<td>Sofia, Bulgaria</td>
+<td align="center"><a href="https://sumup.com/careers/positions/8874454002?gh_jid=8874454002">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Bybit</strong></td>
+<td><a href="https://trueinterview.io/jobs/929f53e8-361b-45af-ab85-bb42bbb0559b">Product AI Application Backend Engineer</a></td>
+<td>Kuala Lumpur, Malaysia</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/bybit/jobs/4987106101">Apply</a></td>
+<td align="center">2 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Trading212</strong></td>
+<td><a href="https://trueinterview.io/jobs/3399a44d-d61a-4a23-9f85-13ee54c1805e">Mid Backend Engineer</a></td>
+<td>Bulgaria</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/trading212/ab06e0c4-acc1-4ede-862d-1630efeefcd3">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>ABOUT YOU SE &amp; Co. KG</strong></td>
+<td><a href="https://trueinterview.io/jobs/2bfa3061-93ef-47fd-9ad5-18f2df00d276">Backend Engineer - Recommendation (all genders)</a></td>
+<td>Hamburg or Berlin, Germany</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000151832959-backend-engineer-recommendation-all-genders-">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Cabify</strong></td>
+<td><a href="https://trueinterview.io/jobs/85b03b34-814b-4814-b6db-d03477b77c2d">Software Engineer - Backend + AI</a></td>
+<td>Madrid, Spain<br/>On-Site - Madrid</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/cabify/jobs/8844081002">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Wise</strong></td>
+<td><a href="https://trueinterview.io/jobs/dd57c0fc-35b7-42b7-8522-d68eb7aa1d34">Backend Software Engineer - Product Eligibility</a></td>
+<td>London, England, United Kingdom</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Wise/744000151610329-backend-software-engineer-product-eligibility">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Sportradar</strong></td>
+<td><a href="https://trueinterview.io/jobs/e006a07d-2dfb-42f3-af71-b11e10920e9c">Backend Developer</a></td>
+<td>Mostar, Bosnia and Herzegowina</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Sportradar/744000151582114-backend-developer">Apply</a></td>
+<td align="center">24 Sep 2026</td>
 </tr>
 </tbody>
 </table>

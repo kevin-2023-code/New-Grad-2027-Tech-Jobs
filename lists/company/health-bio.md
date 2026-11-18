@@ -2,7 +2,7 @@
 
 # 🧬 Health, biotech & medical devices
 
-**40 open roles.** 32 in the United States & Canada · 8 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
+**45 open roles.** 33 in the United States & Canada · 12 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -241,6 +241,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://www.1point3acres.com/jobs/01m4hk53xn035003q725q7wbqr">Apply</a></td>
 <td align="center">10 Oct 2026</td>
 </tr>
+<tr>
+<td><strong>Intuitive Surgical</strong></td>
+<td><a href="https://trueinterview.io/jobs/2b99fdc9-4fa5-436d-aeff-492cba8db571">Optical Engineer</a></td>
+<td>Blacksburg, Virginia, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Intuitive/744000154466769-optical-engineer">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -308,6 +315,34 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Freiburg im Breisgau, Baden-Württemberg, Germany</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Intuitive/744000155064069-pflichtpraktikum-manufacturing-engineering-m-w-d-">Apply</a></td>
 <td align="center">12 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>AbbVie</strong></td>
+<td><a href="https://trueinterview.io/jobs/fabbb985-9bb9-4a94-a4d1-cc8e55344795">Drug Product Operations Engineer</a></td>
+<td>Sligo, County Sligo, Ireland</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990015861092-drug-product-operations-engineer">Apply</a></td>
+<td align="center">2 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Neko Health</strong></td>
+<td><a href="https://trueinterview.io/jobs/94502327-50ec-47f7-b183-440852c44477">Design Engineer, Member Experience</a></td>
+<td>Stockholm<br/>London</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/neko-health/bc21b16d-34d1-4b25-9ab3-7d4317d2d9db">Apply</a></td>
+<td align="center">2 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Intuitive Surgical</strong></td>
+<td><a href="https://trueinterview.io/jobs/06262add-a70f-457e-9f45-6b17a3e24215">Network Security Operations Center Analyst - Nights</a></td>
+<td>Mexicali, MEXICO, Mexico</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Intuitive/744000151938459-network-security-operations-center-analyst-nights?oga=true">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Neko Health</strong></td>
+<td><a href="https://trueinterview.io/jobs/59104759-0fba-4db8-ac90-4f755f524e03">NPI Engineer, Electronics</a></td>
+<td>Stockholm</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/neko-health/094f94c9-65f3-435a-9419-11266b745afb">Apply</a></td>
+<td align="center">21 Sep 2026</td>
 </tr>
 </tbody>
 </table>

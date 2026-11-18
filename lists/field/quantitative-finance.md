@@ -2,7 +2,7 @@
 
 # 📈 Quantitative Finance
 
-**227 open roles.** 150 in the United States & Canada · 77 elsewhere in the world.
+**242 open roles.** 153 in the United States & Canada · 89 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1067,6 +1067,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://jobs.ashbyhq.com/base-power/d8f62c73-d754-411e-b30f-99f856659906">Apply</a></td>
 <td align="center">14 Oct 2026</td>
 </tr>
+<tr>
+<td><strong>Squarepoint</strong></td>
+<td><a href="https://trueinterview.io/jobs/1097f56d-6feb-4f12-80d3-f7c931f1d52e">Quantitative Researcher, Volatility - Medium-Frequency</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.squarepoint-capital.com/open-opportunities?id=8257346&amp;gh_jid=8257346">Apply</a></td>
+<td align="center">9 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Eq Bank</strong></td>
+<td><a href="https://trueinterview.io/jobs/9e571ef6-9ed1-43fe-a8f4-cb2794fde96d">Analyst, Credit Risk Scoring</a></td>
+<td>Toronto, ON</td>
+<td align="center"><a href="https://jobs.lever.co/eqbank/be4c61df-81ee-48e8-9a39-4b929193a4ff/apply">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Falconx</strong></td>
+<td><a href="https://trueinterview.io/jobs/af2e4c24-d26d-475d-9e7b-878f5e4939c0">Trader</a></td>
+<td>New York City, NY</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/falconx/jobs/4734676005">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -1617,6 +1638,90 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>London</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8883229002">Apply</a></td>
 <td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Thndr</strong></td>
+<td><a href="https://trueinterview.io/jobs/42d7b652-face-4719-9717-5f22ad1a2dfa">Trader - KSA</a></td>
+<td>Riyadh Office</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/thndr/3133bc12-50ca-41b2-b8d4-da9d0907dd9a">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Wpp Media</strong></td>
+<td><a href="https://trueinterview.io/jobs/8abd3f31-fa80-44b0-a786-9da0d3ee9d67">Media Trader Multiscreen F/H (CDI)</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/wppmedia/jobs/5437476008">Apply</a></td>
+<td align="center">2 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Encord</strong></td>
+<td><a href="https://trueinterview.io/jobs/f8473c46-c0de-4411-b4f3-2a1cdd36f1cf">Quant Developer in AI</a></td>
+<td>London</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/encord/39a4dc33-d4a9-4191-9daa-7712e1fb9bc4">Apply</a></td>
+<td align="center">1 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Engineers Gate</strong></td>
+<td><a href="https://trueinterview.io/jobs/5a85038f-ec0a-416d-ae34-7e82f495239f">Quantitative Developer</a></td>
+<td>London</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/engineersgate/jobs/8233715">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Winton Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/c857c70b-61c6-4ad3-a286-4c02afe8a895">Quantitative Developer/Researcher, Graduate</a></td>
+<td>London, United Kingdom</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/winton/jobs/4986765101">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>JPMorgan Chase</strong></td>
+<td><a href="https://trueinterview.io/jobs/14e53ebc-68e3-4eb2-b495-8324b834d752">Quantitative Trading &amp; Research, Cross-Asset – Analyst</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210794823">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Louis Dreyfus Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/d12a18e4-cf24-4e1c-be86-85799615bace">TRADER ALGODAO</a></td>
+<td>Sao Paulo, State of São Paulo, Brazil</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000151661830-trader-algodao">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>DV Trading</strong></td>
+<td><a href="https://trueinterview.io/jobs/90162ee3-9837-4a96-89d9-bd7d355fca67">2027 Quantitative Researcher Graduate (DV QES)</a></td>
+<td>Hong Kong</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/dvtrading/jobs/4736954005">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Wormhole Labs</strong></td>
+<td><a href="https://trueinterview.io/jobs/f64e7adb-cf3b-447a-8e2b-8a9c674bb03b">Trader</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/wormholelabs/4e6f2ea6-c5de-464b-8c43-9a21d72dad70">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Talan</strong></td>
+<td><a href="https://trueinterview.io/jobs/a0755ec9-b27b-46dd-809f-9e972a98f637">Front Office Quant Analyst</a></td>
+<td>London, England, United Kingdom</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Talan/744000151083244-front-office-quant-analyst">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Worldquant</strong></td>
+<td><a href="https://trueinterview.io/jobs/96acf42a-7c84-4b4c-bae5-e9eedee983de">Quantitative Researcher - IPM (India)</a></td>
+<td>Mumbai</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/worldquant/jobs/4715001006">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Qube Research &amp; Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/12fa05d7-f493-4a08-aeb0-af9618f05532">Quantitative Developer - Pre/Post-Trade Analytics</a></td>
+<td>Hong Kong</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8826810002">Apply</a></td>
+<td align="center">21 Sep 2026</td>
 </tr>
 </tbody>
 </table>

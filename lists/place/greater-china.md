@@ -2,7 +2,7 @@
 
 # 🏮 Beijing, Shanghai, Taipei & Hong Kong
 
-**198 open roles.** 1 in the United States & Canada · 197 elsewhere in the world.
+**209 open roles.** 1 in the United States & Canada · 208 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1414,6 +1414,83 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Shenzhen, Guangdong Province, China</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/WesternDigital/744000155156589-testing-engineering-manufacturing-ai-">Apply</a></td>
 <td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Qube Research &amp; Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/92fc9a68-82bd-41ed-b2ec-5b7a39ed6c40">Linux Production Engineer</a></td>
+<td>Hong Kong<br/>Sydney</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8816129002">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Avery Dennison</strong></td>
+<td><a href="https://trueinterview.io/jobs/64a76aad-fb1d-4461-8661-9102fecab128">Assistant Automation Developer</a></td>
+<td>Guangzhou, China</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/AveryDennison/744000153965614-assistant-automation-developer">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Okx</strong></td>
+<td><a href="https://trueinterview.io/jobs/a3d80dfa-b8b0-4320-afdf-493a7a42e5cf">Rust Developer, Exchange OS Trading Engine</a></td>
+<td>Hong Kong, Hong Kong SAR<br/>Singapore, Singapore</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/okx/jobs/8014194003">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Capco</strong></td>
+<td><a href="https://trueinterview.io/jobs/68092e2b-1744-407e-a027-1295bcaf2124">UI/UX Designer | Banking</a></td>
+<td>China - Hong Kong</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/capco/jobs/8255801">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>HSBC</strong></td>
+<td><a href="https://trueinterview.io/jobs/1f824e01-c618-4c5a-a026-99da65ea2a38">Software Engineering</a></td>
+<td>Central, Hong Kong</td>
+<td align="center"><a href="https://apply.careers.hsbc.com/job/Central-Software-Engineering-Hong/1368513657/?feedId=417557">Apply</a></td>
+<td align="center">3 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Turner &amp; Townsend Pty Limited</strong></td>
+<td><a href="https://trueinterview.io/jobs/dd8795d5-b19f-483d-a9d9-e5a1d29f841c">Resident Engineer (Electrical / Building Services/ Mechanical) - Data Centre</a></td>
+<td>Hong Kong, Asia, Hong Kong</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/TurnerTownsend/744000153321739-resident-engineer-electrical-building-services-mechanical-data-centre">Apply</a></td>
+<td align="center">3 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>DV Trading</strong></td>
+<td><a href="https://trueinterview.io/jobs/07b74daf-1429-4164-853e-0ad8c33f842f">Data Engineer (DV QES)</a></td>
+<td>Hong Kong</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/dvtrading/jobs/4738302005">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Sika Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/a5b3fc6b-5876-4ceb-832e-da2614a438eb">Management Trainee – Design Engineering</a></td>
+<td>Suzhou, Jiangsu, China</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SikaAG/744000152291569-management-trainee-design-engineering">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>DV Trading</strong></td>
+<td><a href="https://trueinterview.io/jobs/90162ee3-9837-4a96-89d9-bd7d355fca67">2027 Quantitative Researcher Graduate (DV QES)</a></td>
+<td>Hong Kong</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/dvtrading/jobs/4736954005">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Framework</strong></td>
+<td><a href="https://trueinterview.io/jobs/f13d059a-192a-49d4-bbe0-98a9c1e4db1d">System Software Engineer</a></td>
+<td>Taipei, Taiwan</td>
+<td align="center"><a href="https://4dayweek.io/job/system-software-engineer-at-framework-6a7fd510">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Qube Research &amp; Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/12fa05d7-f493-4a08-aeb0-af9618f05532">Quantitative Developer - Pre/Post-Trade Analytics</a></td>
+<td>Hong Kong</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8826810002">Apply</a></td>
+<td align="center">21 Sep 2026</td>
 </tr>
 </tbody>
 </table>

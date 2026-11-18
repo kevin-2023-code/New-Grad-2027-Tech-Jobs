@@ -2,13 +2,15 @@
 
 # 🇩🇪 Berlin, Munich & Germany
 
-**372 open roles.** 1 in the United States & Canada · 371 elsewhere in the world.
+**403 open roles.** 2 in the United States & Canada · 401 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
 > A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page.
 
 _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-authorisation restriction._
+
+<sub>Page 1 of 2 · [Page 2 →](germany-2.md)</sub>
 
 ## United States & Canada
 
@@ -23,6 +25,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Berlin, Deutschland<br/>Toronto, ON<br/>Palo Alto, CA<br/>+7 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/nubank/fac13a25-9ede-43a9-b644-ad0e2760cb6d">Apply</a></td>
 <td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/e317e045-7266-4ec5-88f7-ee0ad3dee40a">Analog Mixed-Signal Modeling Software Engineer (m/f/d)</a></td>
+<td>München, Deutschland<br/>Cupertino, CA</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200687229-1731?board_id=JB001">Apply</a></td>
+<td align="center">4 Oct 2026</td>
 </tr>
 </tbody>
 </table>
@@ -2633,7 +2642,198 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center"><a href="https://jobs.apple.com/en-us/details/200688192-1731?board_id=JB001">Apply</a></td>
 <td align="center">11 Oct 2026</td>
 </tr>
+<tr>
+<td><strong>VEXCASH AG</strong></td>
+<td><a href="https://trueinterview.io/jobs/fd37025d-ba2e-451a-81b4-f0621ec0b7d6">Software Developer .NET C# (all genders)</a></td>
+<td>Berlin, Deutschland</td>
+<td align="center"><a href="https://join.com/companies/vexcash/16806808-software-developer-net-c-all-genders?pid=a13795120131dbe48464">Apply</a></td>
+<td align="center">9 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Lyceum</strong></td>
+<td><a href="https://trueinterview.io/jobs/483428f5-50b1-439b-b9e0-66180cdb0a64">Forward Deployed Engineer AI Inference</a></td>
+<td>Berlin</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/lyceum/c5cc3f2f-5220-498a-8459-3881b9a1d050">Apply</a></td>
+<td align="center">9 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Almedia</strong></td>
+<td><a href="https://trueinterview.io/jobs/b5d93a65-f78a-4853-a744-48830a56070d">Data Scientist</a></td>
+<td>Berlin</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/almedia/927ae9e7-1bf8-41d3-8f56-8d5fc4dbfd8c">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ALTEN</strong></td>
+<td><a href="https://trueinterview.io/jobs/777dd2c0-3755-48e9-8b9e-7b6b56692796">Manufacturing Engineer V.I.E</a></td>
+<td>Hamburg, Hamburg, Germany</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/ALTEN/744000154055820-manufacturing-engineer-v-i-e">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>The Quality Group Gmbh</strong></td>
+<td><a href="https://trueinterview.io/jobs/4c3a0e48-c1df-497e-9907-4e6b7be14dc3">Product Owner (gn) - Product Data &amp; Integration</a></td>
+<td>Hamburg (hybrid)</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/thequalitygroupgmbh1/jobs/4999327101">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/d1d5d49f-11c9-4852-9b93-84d35a6417fe">Product Owner (gn) – Product Data Flow</a></td>
+<td>Hamburg (hybrid)</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/thequalitygroupgmbh1/jobs/4999360101">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Riverty</strong></td>
+<td><a href="https://trueinterview.io/jobs/7dc3c3ca-9db0-44a9-8e54-a60f5730c4ad">Network Engineer (m/w/d)</a></td>
+<td>Leipzig, Sachsen, Germany<br/>St. Gallen, Switzerland<br/>Luxembourg, Luxembourg</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000153481269-network-engineer-m-w-d-">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Devoteam</strong></td>
+<td><a href="https://trueinterview.io/jobs/f56576c1-f938-4493-a41d-1ae81d58ce14">AI Engineer (m/w/d) - Fokus AWS</a></td>
+<td>München, Bavaria, Germany</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Devoteam/744000153455400-ai-engineer-m-w-d-fokus-aws">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ALTEN</strong></td>
+<td><a href="https://trueinterview.io/jobs/d29386ed-871a-4e2c-b476-a46100ee9b26">Cabin Designer – New Development Floor to Floor (all gender)</a></td>
+<td>Hamburg, Hamburg, Germany</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/ALTEN/744000153433749-cabin-designer-new-development-floor-to-floor-all-gender-">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Dkb Code Factory</strong></td>
+<td><a href="https://trueinterview.io/jobs/157a52c6-cd79-4f13-b185-d60135ceca82">Security Detection Engineer (x/f/m)</a></td>
+<td>Berlin, Germany</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/dkbcodefactory/jobs/8009180003">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Proxima Fusion</strong></td>
+<td><a href="https://trueinterview.io/jobs/964fabce-4b31-41d2-a5f5-f55104ac7e8c">Software Engineer - Simulation Platform</a></td>
+<td>Munich</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/proxima-fusion/0186dc7c-d6b1-44e0-aa35-dee6536eac78">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Lio</strong></td>
+<td><a href="https://trueinterview.io/jobs/14484f68-9ff4-443f-a116-68fe5c46fc91">Site Reliability Engineer / SRE (all genders)</a></td>
+<td>Munich Office</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/lio/4f67e6d6-72ca-4248-a748-3bd8d3c769ea">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/2c5a78fc-9b0c-48ba-94b5-60fe57583e4f">Early Career Analog Mixed-Signal Modeling Software Engineer (m/f/d)</a></td>
+<td>München, Deutschland</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200687414-1731?board_id=JB001">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Fortinet</strong></td>
+<td><a href="https://trueinterview.io/jobs/cef49ab5-90ce-4fc8-bb52-c1b56c6b0a7c">Consulting Systems Engineer -Automation</a></td>
+<td>Frankfurt, Hessen, Germany<br/>LONDON, United Kingdom<br/>Madrid, Comunidad de Madrid, Spain<br/>+3 more</td>
+<td align="center"><a href="https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/22165">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/c9233e4a-b52d-4835-beab-21eaa48d9de1">Analog Layout Automation Engineer (f/m/d)</a></td>
+<td>München, Deutschland</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200687202-1731?board_id=JB001">Apply</a></td>
+<td align="center">4 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Helsing</strong></td>
+<td><a href="https://trueinterview.io/jobs/5c4c1a9c-11bb-4330-a1df-f4e4edbc6358">Systems Engineer - Armament Control System Testing</a></td>
+<td>Munich</td>
+<td align="center"><a href="https://helsing.ai/jobs/4995372101?gh_jid=4995372101">Apply</a></td>
+<td align="center">1 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/c700d87d-f92e-4f0f-9e50-223e6c520f09">Flight Dynamics Modelling Engineer</a></td>
+<td>Munich</td>
+<td align="center"><a href="https://helsing.ai/jobs/4995452101?gh_jid=4995452101">Apply</a></td>
+<td align="center">1 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/b0781c18-6b34-47b0-8d80-78b8a85a481d">Systems Engineer - Low Observability Testing</a></td>
+<td>Munich</td>
+<td align="center"><a href="https://helsing.ai/jobs/4995384101?gh_jid=4995384101">Apply</a></td>
+<td align="center">1 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/14d98c16-f154-4965-9f8c-1cf7f139a8b5">Systems Engineer - Armament Control System</a></td>
+<td>Munich</td>
+<td align="center"><a href="https://helsing.ai/jobs/4995351101?gh_jid=4995351101">Apply</a></td>
+<td align="center">1 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/5100eea6-8db3-4902-8cc4-083155e0b28f">Systems Engineer - Weapon Integration</a></td>
+<td>Munich</td>
+<td align="center"><a href="https://helsing.ai/jobs/4995343101?gh_jid=4995343101">Apply</a></td>
+<td align="center">1 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Check Point Software Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/69a0b9e8-2330-44d8-b47c-2315bcc50878">Security Engineer, Global Accounts Germany</a></td>
+<td>Cologne, North Rhine-Westphalia, Germany</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/CheckPointSoftwareTechnologies2/744000152874590-security-engineer-global-accounts-germany">Apply</a></td>
+<td align="center">1 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ServiceNow</strong></td>
+<td><a href="https://trueinterview.io/jobs/de688697-f156-4028-94cd-116559927d12">Partner Solution Engineer – EMEA Central</a></td>
+<td>Munich, Germany</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/ServiceNow/744000152732339-partner-solution-engineer-emea-central">Apply</a></td>
+<td align="center">30 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Forvis Mazars</strong></td>
+<td><a href="https://trueinterview.io/jobs/b2b64c09-9c18-4839-a7f5-69d12aac9841">Technical Product Owner – Salesforce (all genders)</a></td>
+<td>Berlin<br/>Hamburg<br/>Dresden<br/>+8 more</td>
+<td align="center"><a href="https://karriere-de.forvismazars.com/stellensuche?gh_jid=4990739101">Apply</a></td>
+<td align="center">30 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Careers At Tide</strong></td>
+<td><a href="https://trueinterview.io/jobs/e6a17764-62a1-4778-be22-b8111c89cc54">Werkstudent:in (m/w/d) – UX Copywriting</a></td>
+<td>Berlin, Germany</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/tide/jobs/8006663003">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>The Exploration Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/00263bf5-207a-458b-bc20-414498da4fe4">AIT Test Engineer</a></td>
+<td>Munich, Germany</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/the-exploration-company/fb512aa7-7592-4cb7-a2f6-88dceda296f2/application">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Flix</strong></td>
+<td><a href="https://trueinterview.io/jobs/f1aea284-7073-4245-bc1e-dd625328f974">Infrastructure Engineer (m/f/d)</a></td>
+<td>Berlin</td>
+<td align="center"><a href="https://flix.careers/job/8836372002?gh_jid=8836372002">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Drees &amp; Sommer Digital Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/c74581a5-c3e5-4091-9d9b-529b6f4b9659">Praktikant (w/m/d) Engineering audiovisuelle Medientechnik</a></td>
+<td>Stuttgart, Baden-Württemberg, Germany</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/DreesSommerSE/744000151794535-praktikant-w-m-d-engineering-audiovisuelle-medientechnik">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
 </tbody>
 </table>
+
+<sub>Page 1 of 2 · [Page 2 →](germany-2.md)</sub>
 
 [← Every filter](../README.md) · [Back to the full list](../../README.md)

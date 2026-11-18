@@ -2,7 +2,7 @@
 
 # Mobile Engineer
 
-**171 open roles.** 98 in the United States & Canada · 73 elsewhere in the world.
+**182 open roles.** 100 in the United States & Canada · 82 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -703,6 +703,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://jobs.apple.com/en-us/details/200689259-3337?board_id=JB001">Apply</a></td>
 <td align="center">13 Oct 2026</td>
 </tr>
+<tr>
+<td><strong>Accenture Federal Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/355eb00b-17b7-480f-947b-632d727470ab">Informed Delivery Mobile Application Developer</a></td>
+<td>Washington, DC</td>
+<td align="center"><a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4719209006?gh_jid=4719209006">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/bbbe9190-f127-46b7-b795-afa33eeeb2b3">iOS SpringBoard Engineer- Graphic Wallpapers &amp; Screensavers</a></td>
+<td>Cupertino, CA</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200674686-0836?board_id=JB001">Apply</a></td>
+<td align="center">30 Sep 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -1225,6 +1239,69 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Cork, Ireland</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/netgear/415ee500-8f36-4766-a9e9-a565827e52c2/application">Apply</a></td>
 <td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Inter Carreiras</strong></td>
+<td><a href="https://trueinterview.io/jobs/e98d378c-8437-4b67-8d7b-eea5997bda0a">Desenvolvedor(a) Android Especialista</a></td>
+<td>Belo Horizonte, MG</td>
+<td align="center"><a href="https://boards.greenhouse.io/inter/jobs/4731721005?gh_jid=4731721005">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Gymshark</strong></td>
+<td><a href="https://trueinterview.io/jobs/4e249a85-7750-45b9-a176-5fef750a4958">Mobile Engineer - IOS</a></td>
+<td>Solihull, England, United Kingdom</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/gymshark/jobs/4988756101">Apply</a></td>
+<td align="center">28 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Decathlon Digital Fr</strong></td>
+<td><a href="https://trueinterview.io/jobs/6ecd3405-273e-45c1-9693-c2658d67d762">Android Software Engineer</a></td>
+<td>Lille - Btwin Village, Nord, France</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/decathlontechnology/jobs/4983376101">Apply</a></td>
+<td align="center">28 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>OCTO Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/343ecd9a-ed4a-44bb-bc80-a3477670c2d6">Consultant Confirmé - Fullstack (Java/Python/Gen AI, React, Angular, Vue, Flutter) - F/H/N</a></td>
+<td>Paris, Île-de-France, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/OCTOTechnology/744000152094240-consultant-confirme-fullstack-java-python-gen-ai-react-angular-vue-flutter-f-h-n">Apply</a></td>
+<td align="center">28 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Inetum</strong></td>
+<td><a href="https://trueinterview.io/jobs/393e1de9-8298-4f38-9213-7345ddaa9f13">DEVELOPPEUR MOBILE IOS H/F</a></td>
+<td>Nantes, Pays de la Loire, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Inetum2/744000151808829-developpeur-mobile-ios-h-f">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/a07d942d-e534-49d5-a8cc-4dd5e5a0a4df">DEVELOPPEUR MOBILE ANDROID H/F</a></td>
+<td>Nantes, Pays de la Loire, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Inetum2/744000151808659-developpeur-mobile-android-h-f">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Eso</strong></td>
+<td><a href="https://trueinterview.io/jobs/bad07a50-eacf-4774-83f7-06c8f839f7a6">Mobile App Developer</a></td>
+<td>Prague</td>
+<td align="center"><a href="https://www.eso.com/careers/job/?gh_jid=4734774005">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Scalian</strong></td>
+<td><a href="https://trueinterview.io/jobs/fca31cef-68b4-4db6-b5aa-de59b30ef34a">Développeur Android (H/F)</a></td>
+<td>Annecy, Haute-Savoie, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Scalian/744000150715109-developpeur-android-h-f-">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Acumatica</strong></td>
+<td><a href="https://trueinterview.io/jobs/a54df444-cd60-423f-ad07-7fde5bea40ed">iOS Developer (Field Services)</a></td>
+<td>Belgrade, Serbia</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Acumatica/744000150688380-ios-developer-field-services-">Apply</a></td>
+<td align="center">21 Sep 2026</td>
 </tr>
 </tbody>
 </table>

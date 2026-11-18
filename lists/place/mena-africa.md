@@ -2,7 +2,7 @@
 
 # 🌍 Dubai, Cairo, Lagos & Africa
 
-**75 open roles.** 1 in the United States & Canada · 74 elsewhere in the world.
+**82 open roles.** 1 in the United States & Canada · 81 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -553,6 +553,55 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Abu Dhabi</td>
 <td align="center"><a href="https://jobs.lever.co/loftorbital/bc16e2e5-65a3-412d-a186-1b9ea2a4e61c">Apply</a></td>
 <td align="center">12 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Scalian</strong></td>
+<td><a href="https://trueinterview.io/jobs/670211e1-a0d2-4472-9f46-f3d6d2e76ff3">Cloud &amp; SysOps / Automation Engineer</a></td>
+<td>Casablanca, Morocco</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Scalian/744000154625068-cloud-sysops-automation-engineer">Apply</a></td>
+<td align="center">9 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/33ca743a-d275-4718-98f3-a65af1a3dddf">Identity, OS &amp; Datacenter Engineer (M/F)</a></td>
+<td>Casablanca, Morocco</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Scalian/744000154619685-identity-os-datacenter-engineer-m-f-">Apply</a></td>
+<td align="center">9 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Devoteam</strong></td>
+<td><a href="https://trueinterview.io/jobs/788cfc4b-6e7e-4b37-98ba-c0e8412d39f9">DevOps Engineer</a></td>
+<td>Riyadh, Saudi Arabia<br/>Madrid, Comunidad de Madrid, Spain<br/>Frankfurt am Main, Hesse, Germany</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Devoteam/744000154021349-devops-engineer-">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>WSP</strong></td>
+<td><a href="https://trueinterview.io/jobs/ef07508c-73c0-4b8b-8c69-a196b6f70d9d">Resident Engineer - Electrical_ Emirati National</a></td>
+<td>Abu Dhabi, Abu Dhabi, United Arab Emirates</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96912">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Moniepoint</strong></td>
+<td><a href="https://trueinterview.io/jobs/1f9e6338-ebfb-49aa-baa5-f66d1dc4df4f">Engineering Relations Partner</a> 🌐</td>
+<td>Remote — Portugal, India, Poland<br/>Remote, Lagos, Nigeria</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/moniepoint/jobs/4997794101">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Fortinet</strong></td>
+<td><a href="https://trueinterview.io/jobs/cef49ab5-90ce-4fc8-bb52-c1b56c6b0a7c">Consulting Systems Engineer -Automation</a></td>
+<td>Dubai, United Arab Emirates<br/>LONDON, United Kingdom<br/>Frankfurt, Hessen, Germany<br/>+3 more</td>
+<td align="center"><a href="https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/22165">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon.com</strong></td>
+<td><a href="https://trueinterview.io/jobs/9cd3cf97-cd4f-4c4f-8348-4e85741259bd">Trans Topology Data Analyst, Supply Chain Transportation Planning, Supply Chain</a></td>
+<td>Dubai, UAE</td>
+<td align="center"><a href="https://www.amazon.jobs/jobs/10568628/trans-topology-data-analyst-supply-chain-transportation-planning-supply-chain?cmpid=DA_INAD200785B">Apply</a></td>
+<td align="center">29 Sep 2026</td>
 </tr>
 </tbody>
 </table>

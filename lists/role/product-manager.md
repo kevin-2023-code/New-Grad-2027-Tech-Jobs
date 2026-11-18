@@ -2,7 +2,7 @@
 
 # Product Manager
 
-**354 open roles.** 141 in the United States & Canada · 213 elsewhere in the world.
+**375 open roles.** 145 in the United States & Canada · 230 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1003,6 +1003,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — United States</td>
 <td align="center"><a href="https://jobs.lever.co/pditechnologies/ba03923d-fb60-4203-b85e-5e18bc046a04/apply">Apply</a></td>
 <td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Figma</strong></td>
+<td><a href="https://trueinterview.io/jobs/ef489dec-f770-4bfc-bd9e-bd0582dc5a32">Early Career, Associate Product Manager (2027)</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://boards.greenhouse.io/figma/jobs/6180116004?gh_jid=6180116004">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Intuit</strong></td>
+<td><a href="https://trueinterview.io/jobs/df762123-cc6e-4c95-ada4-731dc88c7e96">Product Manager 2 - Rotational Product Management (RPM) Program</a></td>
+<td>Mountain View, California</td>
+<td align="center"><a href="https://jobs.intuit.com/job/mountain-view/product-manager-2-rotational-product-management-rpm-program/27595/101456093584">Apply</a></td>
+<td align="center">2 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Osmo</strong></td>
+<td><a href="https://trueinterview.io/jobs/4c61faf7-2f06-46b7-bdd2-73ceb58b936a">Software, TPM</a></td>
+<td>Elizabeth, NJ</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/osmo/64356bd6-0598-40d0-b068-7e7f5b3143f0">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Redwood Software</strong></td>
+<td><a href="https://trueinterview.io/jobs/490b660f-252f-4c3d-968a-aeac3535b5b3">Product Owner</a></td>
+<td>Ontario, Canada</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/redwoodsoftware/jobs/4284505009">Apply</a></td>
+<td align="center">24 Sep 2026</td>
 </tr>
 </tbody>
 </table>
@@ -2506,6 +2534,125 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Valbonne, France</td>
 <td align="center"><a href="https://emploi.avisto.com/offers/149469/Stage-Product-Owner-%E2%80%93-Produit-Interaction-Utilisateurs-H-F">Apply</a></td>
 <td align="center">12 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Haufe Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/07c62852-5ecb-4a3a-92ff-1a8daea4039b">Product Owner (d/m/w) - Security Experience</a></td>
+<td>Freiburg im Breisgau, Baden-Württemberg, Germany</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/HaufeGroup/744000154702532-product-owner-d-m-w-security-experience">Apply</a></td>
+<td align="center">9 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Accor</strong></td>
+<td><a href="https://trueinterview.io/jobs/bdb9d785-d59b-4248-b3a8-b940ae4e49fd">Product Owner Digital Workplace (F/M/X)</a></td>
+<td>Issy-les-Moulineaux, Île-de-France, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/AccorCorpo/744000154645266-product-owner-digital-workplace-f-m-x-">Apply</a></td>
+<td align="center">9 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Experian</strong></td>
+<td><a href="https://trueinterview.io/jobs/d4879144-3721-4ab1-89c8-4c1527a26d59">Service Now CSM Technical Product Owner</a></td>
+<td>Sofia, Sofia City Province, Bulgaria</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Experian/744000154156611-service-now-csm-technical-product-owner">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>The Quality Group Gmbh</strong></td>
+<td><a href="https://trueinterview.io/jobs/4c3a0e48-c1df-497e-9907-4e6b7be14dc3">Product Owner (gn) - Product Data &amp; Integration</a></td>
+<td>Hamburg (hybrid)</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/thequalitygroupgmbh1/jobs/4999327101">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/d1d5d49f-11c9-4852-9b93-84d35a6417fe">Product Owner (gn) – Product Data Flow</a></td>
+<td>Hamburg (hybrid)</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/thequalitygroupgmbh1/jobs/4999360101">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Citech</strong></td>
+<td><a href="https://trueinterview.io/jobs/e3d6f17b-fa34-4068-aea4-45465ec88218">Digital Product Owner – Web &amp; eBusiness (H/F)</a></td>
+<td>Marseille, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/CITECH/744000153691809-digital-product-owner-web-ebusiness-h-f-">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Inetum</strong></td>
+<td><a href="https://trueinterview.io/jobs/e41efd45-fa34-42a5-a218-795137d22a0c">Product Owner - Banca Corporativa</a></td>
+<td>Bogotá, Bogota, Colombia</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Inetum2/744000153247590-product-owner-banca-corporativa">Apply</a></td>
+<td align="center">2 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/3907e6df-6f17-4672-b124-809702a49dc7">Product Owner / Chef de Projet Data &amp; IA Sénior (H/F)</a></td>
+<td>SAINT OUEN, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Inetum2/744000153128680-product-owner-chef-de-projet-data-ia-senior-h-f-">Apply</a></td>
+<td align="center">2 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>HSBC</strong></td>
+<td><a href="https://trueinterview.io/jobs/dde4da6b-e092-405e-bd7e-0ea1050907c5">Product Owner - ERM</a></td>
+<td>India</td>
+<td align="center"><a href="https://apply.careers.hsbc.com/job/Bangalore-Product-Owner-ERM-KA-560103/1370922757/?feedId=417557">Apply</a></td>
+<td align="center">1 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Social Discovery Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/f83f4c1d-9637-4fd4-ac8b-83f1242596da">Product Owner (Customer Experience)</a></td>
+<td>En remoto, Spain<br/>France<br/>Remote, Ireland<br/>+1 more</td>
+<td align="center"><a href="https://social-discovery-ventures.breezy.hr/p/afd8d2649cc001-product-owner-customer-experience">Apply</a></td>
+<td align="center">1 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Forvis Mazars</strong></td>
+<td><a href="https://trueinterview.io/jobs/b2b64c09-9c18-4839-a7f5-69d12aac9841">Technical Product Owner – Salesforce (all genders)</a></td>
+<td>Berlin<br/>Hamburg<br/>Dresden<br/>+8 more</td>
+<td align="center"><a href="https://karriere-de.forvismazars.com/stellensuche?gh_jid=4990739101">Apply</a></td>
+<td align="center">30 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Citech</strong></td>
+<td><a href="https://trueinterview.io/jobs/b90a7598-98e6-4f37-8187-5dd55558efe2">Proxy Product Owner GenAI – Agentic AI &amp; Omnichannel (H/F)</a></td>
+<td>Marseille, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/CITECH/744000152111870-proxy-product-owner-genai-agentic-ai-omnichannel-h-f-">Apply</a></td>
+<td align="center">28 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/eecdb0ed-e821-4c9c-a86f-29a5edfb5f7d">Proxy Product Owner GenAI – Customer Care (H/F)</a></td>
+<td>Marseille, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/CITECH/744000152112821-proxy-product-owner-genai-customer-care-h-f-">Apply</a></td>
+<td align="center">28 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Bees</strong></td>
+<td><a href="https://trueinterview.io/jobs/121ca286-3791-4afd-845f-66adc1d43d3a">Technical Product Management</a></td>
+<td>Campinas, São Paulo, Brazil</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/bees/jobs/8503876002">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Wpp</strong></td>
+<td><a href="https://trueinterview.io/jobs/bf7f4fdf-13c2-43d9-9531-1572dbbe582e">Office Technology Product Owner</a></td>
+<td>London, United Kingdom</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/wpp/jobs/8820166002">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Citech</strong></td>
+<td><a href="https://trueinterview.io/jobs/3c2f3bea-6b7a-488d-965b-0e50dda3c0e5">Digital Product Owner – EDI / API (H/F)</a></td>
+<td>Marseille, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/CITECH/744000150627250-digital-product-owner-edi-api-h-f-">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Lockheed Martin</strong></td>
+<td><a href="https://trueinterview.io/jobs/ce2cd43b-df49-46c2-8b32-073b8fb14fe5">Enterprise Ontology Product Owner</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://lockheedmartin.eightfold.ai/careers/job/996477013413?domain=lockheedmartin.com">Apply</a></td>
+<td align="center">21 Sep 2026</td>
 </tr>
 </tbody>
 </table>

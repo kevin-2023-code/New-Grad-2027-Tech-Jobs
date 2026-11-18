@@ -2,7 +2,7 @@
 
 # Quantitative Researcher
 
-**62 open roles.** 48 in the United States & Canada · 14 elsewhere in the world.
+**66 open roles.** 49 in the United States & Canada · 17 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -353,6 +353,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://jobs.ashbyhq.com/PrimeIntellect/e6430d82-f266-475e-a273-255c5b2bd521">Apply</a></td>
 <td align="center">19 Oct 2026</td>
 </tr>
+<tr>
+<td><strong>Squarepoint</strong></td>
+<td><a href="https://trueinterview.io/jobs/1097f56d-6feb-4f12-80d3-f7c931f1d52e">Quantitative Researcher, Volatility - Medium-Frequency</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.squarepoint-capital.com/open-opportunities?id=8257346&amp;gh_jid=8257346">Apply</a></td>
+<td align="center">9 Oct 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -462,6 +469,27 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.internsg.com/job/varsity-holdings-quant-researcher-experienced-us-equities-ai-driven-systematic-trading/?f_pg=5">Apply</a></td>
 <td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>JPMorgan Chase</strong></td>
+<td><a href="https://trueinterview.io/jobs/14e53ebc-68e3-4eb2-b495-8324b834d752">Quantitative Trading &amp; Research, Cross-Asset – Analyst</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210794823">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>DV Trading</strong></td>
+<td><a href="https://trueinterview.io/jobs/90162ee3-9837-4a96-89d9-bd7d355fca67">2027 Quantitative Researcher Graduate (DV QES)</a></td>
+<td>Hong Kong</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/dvtrading/jobs/4736954005">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Worldquant</strong></td>
+<td><a href="https://trueinterview.io/jobs/96acf42a-7c84-4b4c-bae5-e9eedee983de">Quantitative Researcher - IPM (India)</a></td>
+<td>Mumbai</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/worldquant/jobs/4715001006">Apply</a></td>
+<td align="center">21 Sep 2026</td>
 </tr>
 </tbody>
 </table>

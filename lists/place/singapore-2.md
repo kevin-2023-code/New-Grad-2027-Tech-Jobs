@@ -2,7 +2,7 @@
 
 # 🇸🇬 Singapore
 
-**529 open roles.** 10 in the United States & Canada · 519 elsewhere in the world.
+**550 open roles.** 11 in the United States & Canada · 539 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>STMicroelectronics</strong></td>
+<td><a href="https://trueinterview.io/jobs/a03aee6d-6159-408b-a02b-41aea330f123">Equipment Engineer, Metrology</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4458206246/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Micron Technology</strong></td>
 <td><a href="https://trueinterview.io/jobs/a00053cb-bb92-4ada-ae4a-6bf0b69e4fb7">SSD Customer Validation Engineer</a></td>
@@ -919,6 +926,146 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Singapore</td>
 <td align="center"><a href="https://jobs.careers.gov.sg/jobs/greenhouse/4007712201?gh_jid=4007712201">Apply</a></td>
 <td align="center">12 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Openrouter</strong></td>
+<td><a href="https://trueinterview.io/jobs/ac25cef8-b3e5-4c11-8c03-253c0bc6cd4f">Customer Engineer, APAC</a> 🌐</td>
+<td>Remote — Singapore<br/>Singapore</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/openrouter/64fe7bcc-39e7-454b-bb13-020d5676b162">Apply</a></td>
+<td align="center">9 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Lenovo</strong></td>
+<td><a href="https://trueinterview.io/jobs/0f005f45-a1fb-47e3-824b-16f3e390d34c">[LPS] Linux Engineer (12 hours shift)</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://jobs.lenovo.com/en_US/careers/JobDetail/LPS-Linux-Engineer-12-hours-shift/82516">Apply</a></td>
+<td align="center">9 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/7bacce0a-844d-4684-a625-0dae59797975">[LPS] Network Engineer (12 hours shift)</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://jobs.lenovo.com/en_US/careers/JobDetail/LPS-Network-Engineer-12-hours-shift/82521">Apply</a></td>
+<td align="center">9 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Quantinuum</strong></td>
+<td><a href="https://trueinterview.io/jobs/e985ba5f-b537-4b2a-92c1-b636be6e079f">Quantum Computer Operations Engineer - 1059</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://jobs.eu.lever.co/quantinuum/f30c5d73-f9ad-4163-ab2f-1e68c6cdcce1">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/3dff2256-3063-4a08-a768-e3cb3192927b">Quantum Computer Hardware Engineer - 1058</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://jobs.eu.lever.co/quantinuum/e6cd6f49-1060-4751-9dc2-da79edda23c9">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Engineers Gate</strong></td>
+<td><a href="https://trueinterview.io/jobs/1af83ca9-aee3-46fc-9641-e54eb2a4db0f">Data Engineer</a></td>
+<td>Singapore<br/>London</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/engineersgate/jobs/8259307">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NCS</strong></td>
+<td><a href="https://trueinterview.io/jobs/5fd7be52-7443-4ddd-9669-afaae8f0973c">DevOps Engineer, Video Intelligence</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/NCS3/6000000001472813-devops-engineer-video-intelligence">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/67e60dc9-4344-4147-8469-60cecde9dd53">Functional Testing Engineer, Video Intelligence</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/NCS3/6000000001472790-functional-testing-engineer-video-intelligence">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/7d80a517-8bd9-4baf-b135-1d87479a0b16">#EG AI Product Engineer</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/NCS3/6000000001469268--eg-ai-product-engineer">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Okx</strong></td>
+<td><a href="https://trueinterview.io/jobs/a3d80dfa-b8b0-4320-afdf-493a7a42e5cf">Rust Developer, Exchange OS Trading Engine</a></td>
+<td>Singapore, Singapore<br/>Hong Kong, Hong Kong SAR</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/okx/jobs/8014194003">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Western Digital</strong></td>
+<td><a href="https://trueinterview.io/jobs/6abeb7e2-22e3-4067-9884-5ce8cea93c58">AI Research Scientist, Scientific ML</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/WesternDigital/744000153657449-ai-research-scientist-scientific-ml">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Eurofins</strong></td>
+<td><a href="https://trueinterview.io/jobs/c5ae11d8-8d0a-4f80-bda3-de55269b72a0">Assistant Environmental Engineer/ Environmental Engineer</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Eurofins/744000153655839-assistant-environmental-engineer-environmental-engineer">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Govtech</strong></td>
+<td><a href="https://trueinterview.io/jobs/4d0eb648-15cb-4c95-8ebf-1aa3eb5283ea">Software Engineer, Elections Department Singapore</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://jobs.careers.gov.sg/jobs/greenhouse/4007329201?gh_jid=4007329201">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>SGS</strong></td>
+<td><a href="https://trueinterview.io/jobs/3cba7161-acbb-424b-9f4a-2de951f626f5">Assistant Engineer</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SGS/744000152131679-assistant-engineer-">Apply</a></td>
+<td align="center">28 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Mistral AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/b4b6769d-fac5-4e1e-bb04-4507ea2bb581">Applied Science - Research Engineer (Robotics)</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/mistral.ai/50656710-0001-42b0-8571-2880492b1233">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/3cea5148-2571-4773-9170-3cac4e304145">Applied AI Engineer, Robotics</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/mistral.ai/d5b3861e-d8ff-4b8f-b0a1-3b8582a1c7b4">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Lumilens</strong></td>
+<td><a href="https://trueinterview.io/jobs/a50c7fb4-27f1-4029-80f9-6ca322a23b20">Product Quality Engineer</a></td>
+<td>Singapore<br/>Chon Buri</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/lumilens/1d35efa5-5400-4205-a076-6d8919ee1058">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>JPMorgan Chase</strong></td>
+<td><a href="https://trueinterview.io/jobs/14e53ebc-68e3-4eb2-b495-8324b834d752">Quantitative Trading &amp; Research, Cross-Asset – Analyst</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210794823">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Lumilens</strong></td>
+<td><a href="https://trueinterview.io/jobs/19c2e700-6e69-4e0c-af4a-45eb0f3c8b9c">IC Layout Engineer – Optical Engine Silicon</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/lumilens/9173b39c-1f74-4410-b7c5-234620d151b4">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Sika Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/58c24d3f-3f9b-46ed-8a04-8cd23df1957f">Technical Engineer (Concrete)</a></td>
+<td>Singapore, Singapore<br/>Cileungsi, West Java, Indonesia</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SikaAG/744000150933089-technical-engineer-concrete-">Apply</a></td>
+<td align="center">22 Sep 2026</td>
 </tr>
 </tbody>
 </table>

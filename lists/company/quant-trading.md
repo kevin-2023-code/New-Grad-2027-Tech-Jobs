@@ -2,7 +2,7 @@
 
 # 📈 Quant trading & hedge funds
 
-**59 open roles.** 31 in the United States & Canada · 28 elsewhere in the world. Market makers, proprietary trading firms and quantitative funds.
+**64 open roles.** 32 in the United States & Canada · 32 elsewhere in the world. Market makers, proprietary trading firms and quantitative funds.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -234,6 +234,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://job-boards.greenhouse.io/schonfeld/jobs/8285213">Apply</a></td>
 <td align="center">15 Oct 2026</td>
 </tr>
+<tr>
+<td><strong>Squarepoint</strong></td>
+<td><a href="https://trueinterview.io/jobs/1097f56d-6feb-4f12-80d3-f7c931f1d52e">Quantitative Researcher, Volatility - Medium-Frequency</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.squarepoint-capital.com/open-opportunities?id=8257346&amp;gh_jid=8257346">Apply</a></td>
+<td align="center">9 Oct 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -441,6 +448,34 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Hong Kong, Hong Kong</td>
 <td align="center"><a href="https://www.janestreet.com/join-jane-street/apply/7979592002?gh_jid=7979592002">Apply</a></td>
 <td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>IMC</strong></td>
+<td><a href="https://trueinterview.io/jobs/596d4bc1-ba28-4c75-b090-3e356d70dc1e">Site Reliablity Engineer</a></td>
+<td>Mumbai, India</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/imc/jobs/4988566101">Apply</a></td>
+<td align="center">30 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>DV Trading</strong></td>
+<td><a href="https://trueinterview.io/jobs/07b74daf-1429-4164-853e-0ad8c33f842f">Data Engineer (DV QES)</a></td>
+<td>Hong Kong</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/dvtrading/jobs/4738302005">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/90162ee3-9837-4a96-89d9-bd7d355fca67">2027 Quantitative Researcher Graduate (DV QES)</a></td>
+<td>Hong Kong</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/dvtrading/jobs/4736954005">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Worldquant</strong></td>
+<td><a href="https://trueinterview.io/jobs/96acf42a-7c84-4b4c-bae5-e9eedee983de">Quantitative Researcher - IPM (India)</a></td>
+<td>Mumbai</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/worldquant/jobs/4715001006">Apply</a></td>
+<td align="center">21 Sep 2026</td>
 </tr>
 </tbody>
 </table>
