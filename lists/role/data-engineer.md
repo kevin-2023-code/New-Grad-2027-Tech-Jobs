@@ -2,7 +2,7 @@
 
 # Data Engineer
 
-**804 open roles.** 422 in the United States & Canada · 382 elsewhere in the world.
+**898 open roles.** 453 in the United States & Canada · 445 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 

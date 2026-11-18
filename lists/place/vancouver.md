@@ -2,7 +2,7 @@
 
 # ⛰️ Vancouver & British Columbia
 
-**63 open roles.**
+**78 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -457,6 +457,111 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Burnaby, Canada</td>
 <td align="center"><a href="https://jobs.danaher.com/global/en/job/DANAGLOBALR1320747EXTERNALENGLOBAL/Automation-Engineer">Apply</a></td>
 <td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>RBC</strong></td>
+<td><a href="https://trueinterview.io/jobs/88c35fde-a790-4a5d-a7ba-fb81ae70bf86">Developer, RBC Amplify 2027, Vancouver</a></td>
+<td>Vancouver, BC<br/>VANCOUVER, British Columbia, Canada</td>
+<td align="center"><a href="https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/VANCOUVER-British-Columbia-Canada/Developer--RBC-Amplify-2027--Vancouver_R-0000191199-2">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon.com</strong></td>
+<td><a href="https://trueinterview.io/jobs/9f666934-56c0-48c2-9af2-3f69a1d51b18">Software Development Engineer, Agent Labs</a></td>
+<td>Vancouver, BC<br/>Vancouver, Canada</td>
+<td align="center"><a href="https://www.amazon.jobs/jobs/10593550/software-development-engineer-agent-labs?cmpid=DA_INAD200785B">Apply</a></td>
+<td align="center">24 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Trail Appliances</strong></td>
+<td><a href="https://trueinterview.io/jobs/5f43663d-95ed-4d56-9b3e-1bbce5b66645">Product Owner - Data &amp; Business Intelligence</a></td>
+<td>3388 Sweden Way, Richmond, BC</td>
+<td align="center"><a href="https://jobs.lever.co/trailappliances/6f5ea21d-f17d-42f6-87cf-88b2799e2e8f">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/3726fd89-58fa-4295-af0f-bae264836c45">Product Owner - AI &amp; Power Platform</a></td>
+<td>3388 Sweden Way, Richmond, BC</td>
+<td align="center"><a href="https://jobs.lever.co/trailappliances/13a0c27a-2d8a-4114-af9c-ff13fe688fdc">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>WSP</strong></td>
+<td><a href="https://trueinterview.io/jobs/01c98358-df86-49da-8ec3-613373013319">Junior Process Engineer</a></td>
+<td>Vancouver, BC, Canada</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/92316">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/45993842-d5d4-49a2-a8e9-8895004a6781">Intermediate Mechanical Engineer, Mission Critical Buildings</a></td>
+<td>Vancouver, BC, Canada</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97962">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon.com</strong></td>
+<td><a href="https://trueinterview.io/jobs/abf2e9dc-4405-4f08-8bb4-4069f22fc478">Applied Scientist, ITA-Global Hiring Science</a></td>
+<td>Vancouver, BC<br/>Vancouver, Canada</td>
+<td align="center"><a href="https://www.amazon.jobs/jobs/10593710/applied-scientist-itaglobal-hiring-science?cmpid=DA_INAD200785B">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Gdh</strong></td>
+<td><a href="https://trueinterview.io/jobs/a1adbbdf-22c3-4057-991a-2abd82bf579e">Environmental Engineering or Sciences Graduate (Contaminated Site Assessment &amp; Remediation)</a></td>
+<td>Vancouver, BC, Canada</td>
+<td align="center"><a href="https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/28583">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Trail Appliances</strong></td>
+<td><a href="https://trueinterview.io/jobs/8af4fe13-ef36-483d-bc15-4d553dc5c109">Product Owner - Business Systems (1026)</a></td>
+<td>3388 Sweden Way, Richmond, BC</td>
+<td align="center"><a href="https://jobs.lever.co/trailappliances/09e543c6-0570-467c-b1f0-3514243de2ea">Apply</a></td>
+<td align="center">16 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Fortinet</strong></td>
+<td><a href="https://trueinterview.io/jobs/14892176-4b41-4e24-be21-b1097b3c583d">Software QA Specialist – FortiGate Cloud</a></td>
+<td>Burnaby, BC, Canada</td>
+<td align="center"><a href="https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/24658">Apply</a></td>
+<td align="center">16 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Humanoid</strong></td>
+<td><a href="https://trueinterview.io/jobs/7cf71cac-c0bc-4ee5-80c1-f1f885672f26">Mechanical Design Engineer - Robotic Hand</a></td>
+<td>Canada, Vancouver, BC</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/humanoid/433fadd1-b71c-4523-a909-8aae4f000c94">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>WSP</strong></td>
+<td><a href="https://trueinterview.io/jobs/b5f95206-8f3e-4a34-9968-04184fd03142">Materials Engineer / Materials Testing and Inspection Specialist</a></td>
+<td>Vancouver, BC, Canada</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96521">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Remarcable</strong></td>
+<td><a href="https://trueinterview.io/jobs/2c53a7a3-d975-400c-b07a-20e060337cd6">Integration Engineer</a></td>
+<td>Vancouver, BC</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/remarcable-inc/acdf01a7-f114-4c6f-8e1d-1e80b8fe599b">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Gdh</strong></td>
+<td><a href="https://trueinterview.io/jobs/cd3d1abb-4c58-4ad6-88fb-c8f3124a0b3f">Waste Management Engineering Graduate</a></td>
+<td>Vancouver, BC, Canada<br/>Waterloo, ON, Canada<br/>Toronto, ON, Canada<br/>+4 more</td>
+<td align="center"><a href="https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/28931">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Long View Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/16695b68-f1f4-4988-9a5a-2d5f78265331">Deskside Consultant</a></td>
+<td>Vancouver, BC</td>
+<td align="center"><a href="https://jobs.lever.co/lvs1/fb9a4d81-6f75-4259-b723-14de479b0e46/apply">Apply</a></td>
+<td align="center">22 Sep 2026</td>
 </tr>
 </tbody>
 </table>

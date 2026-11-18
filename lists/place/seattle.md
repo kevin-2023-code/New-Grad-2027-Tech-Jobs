@@ -2,7 +2,7 @@
 
 # 🌲 Seattle & Puget Sound
 
-**408 open roles.**
+**468 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 

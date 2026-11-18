@@ -2,7 +2,7 @@
 
 # 🗽 New York City
 
-**667 open roles.**
+**766 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1883,6 +1883,699 @@
 <td>New York, NY</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/rxr/jobs/5463832008">Apply</a></td>
 <td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon Web Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/a12bf57b-d0ef-4158-8c7c-f95cc60d77aa">Front-End Engineer, Amazon Connect InterApps (AWS)</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.amazon.jobs/jobs/10595519/frontend-engineer-amazon-connect-interapps-aws?cmpid=DA_INAD200785B">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>City of New York</strong></td>
+<td><a href="https://trueinterview.io/jobs/5e992ad4-c47d-45ac-879b-b65e1606713b">.NET Developer, Bureau of IT Application and Platform Engineering</a></td>
+<td>Long Island City, New York, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/CityOfNewYork/3743990016391626--net-developer-bureau-of-it-application-and-platform-engineering">Apply</a></td>
+<td align="center">24 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon.com</strong></td>
+<td><a href="https://trueinterview.io/jobs/8dd17253-39d1-4aa4-91e5-d810fccf0e73">Research Scientist, SCOT First Inbound</a></td>
+<td>New York, NY<br/>Bellevue, WA</td>
+<td align="center"><a href="https://www.amazon.jobs/jobs/10593798/research-scientist-scot-first-inbound?cmpid=DA_INAD200785B">Apply</a></td>
+<td align="center">24 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Makai Labs</strong></td>
+<td><a href="https://trueinterview.io/jobs/59df6475-304f-4ea6-a529-877e32ad442a">AI Engineer</a></td>
+<td>New York, NY<br/>California<br/>Massachusetts<br/>+3 more</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/makai-labs/a350e730-8d80-4528-9d41-497acbd01223">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Palantir</strong></td>
+<td><a href="https://trueinterview.io/jobs/fe22eb71-c745-40ff-8ebf-d48d21a8189d">Forward Deployed Software Engineer, New Grad - Warp Speed</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://jobs.lever.co/palantir/66b495eb-aaf9-4bf9-a759-41854534add7">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Tessera Labs</strong></td>
+<td><a href="https://trueinterview.io/jobs/ddfa797c-7014-4aa7-9726-5c74c991aea3">IT Support Specialist</a></td>
+<td>New York City Office</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/tessera-labs/ec359189-bc24-4abd-8a59-fe22db8f3746">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Harmony</strong></td>
+<td><a href="https://trueinterview.io/jobs/47adf2ab-e259-4ee2-a5cc-99171bcd841a">Support Engineer - New York</a></td>
+<td>New York City</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/harmony/42e136ae-4609-442a-aea4-e9a0e623c3c0">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>City of New York</strong></td>
+<td><a href="https://trueinterview.io/jobs/ea60fba3-978b-4c39-981f-25fca219d1d1">Data Analyst &amp; Program Evaluation Specialist, Bureau of Communicable Diseases</a></td>
+<td>Long Island City, New York, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/CityOfNewYork/3743990016330436-data-analyst-program-evaluation-specialist-bureau-of-communicable-diseases">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>New York University</strong></td>
+<td><a href="https://trueinterview.io/jobs/b2b7330c-34c8-40af-8087-95ee7b1eb6a4">Contract Faculty, Department of Computer Science &amp; Engineering</a></td>
+<td>Brooklyn, NY</td>
+<td align="center"><a href="https://apply.interfolio.com/196221">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Baseten</strong></td>
+<td><a href="https://trueinterview.io/jobs/e1dc36d2-526b-4850-84cd-29a4ea25d20c">Product Platform - Product Engineer</a></td>
+<td>New York, NY<br/>San Francisco, CA<br/>Seattle, WA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/baseten/7428d7cc-36d7-4d02-b19a-bd558fba6751">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Gusto</strong></td>
+<td><a href="https://trueinterview.io/jobs/33c09de8-a2a2-4f0c-8220-82c07059dfa1">Workday System Developer</a></td>
+<td>New York, NY - Hybrid<br/>Denver, CO - Hybrid<br/>San Francisco, CA - Hybrid</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/gusto/jobs/8257486">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>City of New York</strong></td>
+<td><a href="https://trueinterview.io/jobs/70aefea2-b363-46d2-9027-77206aa0ecf5">PEOPLE DATA &amp; STRATEGY ANALYST</a></td>
+<td>New York, NY<br/>New York, New York, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/CityOfNewYork/3743990016296076-people-data-strategy-analyst">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/7093f934-d5cf-4c08-a216-0aa175700ed6">ASSISTANT DESIGN ENGINEER 1</a></td>
+<td>Queens, New York, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/CityOfNewYork/3743990016295824-assistant-design-engineer-1">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Goldman Sachs</strong></td>
+<td><a href="https://trueinterview.io/jobs/7baf5724-b3eb-4ef5-b2c8-aadf0aeef0d3">The Core Engineering-Associate, Quantitative Strategist, Core Planning and Analysis Strats</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3002/job/176151">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Traversal</strong></td>
+<td><a href="https://trueinterview.io/jobs/305b23ed-b3c9-4596-a98b-810e1bde3708">Security Engineer</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/traversal/eb92071c-71b2-4281-8d31-37cc0ecc457a">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ramp</strong></td>
+<td><a href="https://trueinterview.io/jobs/30f2cbd4-a46a-4102-8d10-1b805b47abd0">Backend Engineer | AI Spend Management</a> 🌐</td>
+<td>Remote — United States, Canada<br/>New York, NY (HQ)</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/ramp/b7514711-8a29-4bd2-a97a-967be14e336f">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/b96a6970-39ba-49ae-87ff-5b6b93699bca">Backend Engineer | Accounts Receivable</a> 🌐</td>
+<td>Remote — United States, Canada<br/>New York, NY (HQ)</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/ramp/47a75895-24af-49b7-9858-1be0ec0e7c71">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>City of New York</strong></td>
+<td><a href="https://trueinterview.io/jobs/6b5ab749-cc5b-43e6-821f-4cbb3d12b79d">Engineer (Specification)</a></td>
+<td>New York City, New York, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/CityOfNewYork/3743990016254076-engineer-specification-">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Normal Computing Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/65482cb3-ef37-42bb-a02c-74d14dd329da">Runtime Engineer</a></td>
+<td>New York, NY<br/>Mountain View, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/NormalComputing/2d03f84a-5b39-44e5-8010-39be87eb2e2f">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Raisin</strong></td>
+<td><a href="https://trueinterview.io/jobs/9c23fdf8-0c88-4387-ac23-877881a5f8e4">Digital Designer, Growth</a></td>
+<td>New York, NY<br/>New York, New York, United States</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/raisin/jobs/5008476101">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Palantir</strong></td>
+<td><a href="https://trueinterview.io/jobs/81431728-d0da-4612-b358-aaf808b93bd0">Software Engineer, New Grad - Query Engines</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://jobs.lever.co/palantir/90329118-d9b7-4b96-acdf-13377e3196ac">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Primeintellect</strong></td>
+<td><a href="https://trueinterview.io/jobs/07cb2388-9f3c-474b-8be4-3d06ffa93194">Applied Researcher - Quantitative Finance</a> 🌐</td>
+<td>Remote — United States, United Kingdom<br/>New York, NY</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/PrimeIntellect/e6430d82-f266-475e-a273-255c5b2bd521">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Talonone</strong></td>
+<td><a href="https://trueinterview.io/jobs/480a6a78-05ae-4c82-8be2-141d6b7a9374">IT Administrator</a></td>
+<td>New York, NY<br/>Chicago, IL</td>
+<td align="center"><a href="https://www.talon.one/job-listing?gh_jid=5008605101">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon Web Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/e013e109-9c05-423b-95f6-89e4f67c2ed8">Software Development Engineer - AgentCore, AWS Agentic AI</a></td>
+<td>New York, NY<br/>Seattle, WA</td>
+<td align="center"><a href="https://www.amazon.jobs/jobs/10591991/software-development-engineer--agentcore-aws-agentic-ai?cmpid=DA_INAD200785B">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Millennium Management</strong></td>
+<td><a href="https://trueinterview.io/jobs/792838c2-820b-44c2-a1cb-8df6b2ded708">Quantitative Analyst – Quant Analyst Program</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://mlp.eightfold.ai/careers/job/755959471860?domain=mlp.com">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Qube Research &amp; Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/f2e56438-2472-4741-984f-934fd1bdc53b">Windows Infrastructure Operations Engineer</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8894575002">Apply</a></td>
+<td align="center">16 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>City of New York</strong></td>
+<td><a href="https://trueinterview.io/jobs/1fef215b-00ae-479f-87c3-a8f5cfdf992e">Analytics &amp; Reporting Engineer for the Division of Strategic Operations &amp; Analytics</a></td>
+<td>New York City, New York, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/CityOfNewYork/3743990016173346-analytics-reporting-engineer-for-the-division-of-strategic-operations-analytics">Apply</a></td>
+<td align="center">16 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>JPMorgan Chase</strong></td>
+<td><a href="https://trueinterview.io/jobs/b05bfc04-302c-4dfd-b629-6aec3a07d673">Instructional Designer - Leadership Development</a></td>
+<td>Jersey City, NJ, United States<br/>Columbus, OH, United States<br/>Wilmington, DE, United States</td>
+<td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210793808">Apply</a></td>
+<td align="center">16 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Tessera Labs</strong></td>
+<td><a href="https://trueinterview.io/jobs/5a49f984-e68b-4719-922f-3e428983cc59">Forward-Deployed Engineer</a></td>
+<td>New York City Office<br/>San Francisco Office<br/>San Jose Office</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/tessera-labs/5fd4b128-180a-4ef0-988e-90139766323e">Apply</a></td>
+<td align="center">15 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Mecka</strong></td>
+<td><a href="https://trueinterview.io/jobs/aa7e7361-39cf-4923-b4c7-76676a04340d">Research Scientist – Multimodal Foundation Models</a></td>
+<td>New York, NY<br/>San Francisco, CA<br/>Toronto GTA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/mecka.ai/7a90c17e-fb70-4840-9675-3651417b10e8">Apply</a></td>
+<td align="center">15 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Schonfeld Strategic Advisors</strong></td>
+<td><a href="https://trueinterview.io/jobs/44de1b27-d11d-47f8-80c2-a9017868d097">Software Engineer</a></td>
+<td>New York, NY<br/>New York, New York, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/schonfeld/jobs/8285213">Apply</a></td>
+<td align="center">15 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>City of New York</strong></td>
+<td><a href="https://trueinterview.io/jobs/a9b201f3-230b-46d5-b5e8-6e2719798fe7">Data Engineer</a></td>
+<td>New York City, New York, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/CityOfNewYork/3743990016140221-data-engineer">Apply</a></td>
+<td align="center">15 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/aafa90c7-07d3-462c-8545-d7687b56aaf1">Multimedia Designer</a></td>
+<td>New York City, New York, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/CityOfNewYork/3743990016140356-multimedia-designer">Apply</a></td>
+<td align="center">15 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon.com</strong></td>
+<td><a href="https://trueinterview.io/jobs/4e7c6c6c-35b4-4c37-a493-06e0cf4917e4">Software Development Engineer, Measurement, AdTech, and Data Science (MADS) - Performance Measurement</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.amazon.jobs/jobs/10607165/software-development-engineer-measurement-adtech-and-data-science-mads--performance-measurement?cmpid=DA_INAD200785B">Apply</a></td>
+<td align="center">15 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Celonis</strong></td>
+<td><a href="https://trueinterview.io/jobs/9b85ce7e-485b-4379-8240-7d8d3d4f80ff">Client Value Partner - Retail + CPG</a></td>
+<td>Please Update Office Field, New York, US, New York</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/celonis/jobs/7852910003?gh_jid=7852910003">Apply</a></td>
+<td align="center">15 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>City of New York</strong></td>
+<td><a href="https://trueinterview.io/jobs/090d6667-0aa4-458a-ab06-163428fe5796">Energy Engineer, Bureau of Facilities Planning and Administrative Services</a></td>
+<td>Long Island City, New York, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/CityOfNewYork/3743990016109941-energy-engineer-bureau-of-facilities-planning-and-administrative-services">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/bdd1e8f2-650e-4ba7-978a-15d749f1611a">Deputy Commissioner, Bureau of Water &amp; Sewer Operations - Administrative Engineer M7</a></td>
+<td>Queens, New York, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/CityOfNewYork/3743990016109906-deputy-commissioner-bureau-of-water-sewer-operations-administrative-engineer-m7">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Lavendo</strong></td>
+<td><a href="https://trueinterview.io/jobs/ce987742-e1b9-48e7-a43b-3aaff09f34bc">Implementation Solutions Engineer (Post-Sales), Agentic AI (NY, SF, Austin)</a></td>
+<td>New York, NY<br/>Austin, TX<br/>San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/lavendo/7c3795af-5267-4723-a7bc-51c25d63b968">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Anthropic</strong></td>
+<td><a href="https://trueinterview.io/jobs/2c2dae32-73ad-4809-822c-906c6a43ad62">IT Systems Engineer, M&amp;A</a> 🌐</td>
+<td>Remote — United States<br/>New York City, NY</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5450479008">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/417af975-d1d9-4b4f-b4fc-1ef814ca20c3">Software Engineer, ASE Commerce Engineering</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200688902-2459?board_id=JB001">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Namespace</strong></td>
+<td><a href="https://trueinterview.io/jobs/31408325-1332-4be4-ab3a-c5ec44dbbfc9">DevOps Engineer, US</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/namespace/e1aafe2a-d9e4-465e-8c20-6ec62b25720d">Apply</a></td>
+<td align="center">12 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>oneZero Financial Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/e42716dd-fe8b-4394-9f90-f2298c1bfdbd">Application Support Engineer (Weekend Shift)</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://onezero.bamboohr.com/careers/338?postedDate=2026-10-12">Apply</a></td>
+<td align="center">12 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Gallatin</strong></td>
+<td><a href="https://trueinterview.io/jobs/24e2c88c-04b9-422a-b66a-4367cea1d476">Backend Engineer</a></td>
+<td>El Segundo, CA, Washington, D.C., Palo Alto, CA, San Francisco, CA, Austin, TX, New York City, NY<br/>New York City, NY<br/>Washington, DC<br/>+4 more</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/gallatin/8de1a441-15aa-4993-a0f5-d76be215b139">Apply</a></td>
+<td align="center">10 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/935001d2-3c89-4ca0-a5fc-ba2ce761967c">AI Software Engineer</a></td>
+<td>New York City, NY<br/>Washington, DC<br/>Palo Alto, CA<br/>+4 more</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/gallatin/a9088c68-98e4-4854-a5fb-e9d0ec6ebc5a">Apply</a></td>
+<td align="center">9 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Notion</strong></td>
+<td><a href="https://trueinterview.io/jobs/ba362901-7379-4a81-bcb0-d0425802ebf9">Global Demo Engineer</a></td>
+<td>New York, NY<br/>New York, New York<br/>San Francisco, California</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/notion/57b88701-42ce-4c7d-901d-bf65a6256ebc">Apply</a></td>
+<td align="center">9 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>REFLECTION</strong></td>
+<td><a href="https://trueinterview.io/jobs/052cec2a-3da3-4fb2-998e-262bc6cff8f6">GRC Engineer</a></td>
+<td>New York, NY<br/>San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/reflectionai/ba8037e5-a9d3-4cfe-b8ae-6bb6d817af92">Apply</a></td>
+<td align="center">9 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Qvest Us</strong></td>
+<td><a href="https://trueinterview.io/jobs/5726b9cd-8b65-45fd-a525-4e814429251f">Media Network Engineer</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://jobs.lever.co/qvest.us/26305e4e-3cd4-43e6-9f4c-61045cc805f8">Apply</a></td>
+<td align="center">9 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Squarepoint</strong></td>
+<td><a href="https://trueinterview.io/jobs/1097f56d-6feb-4f12-80d3-f7c931f1d52e">Quantitative Researcher, Volatility - Medium-Frequency</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.squarepoint-capital.com/open-opportunities?id=8257346&amp;gh_jid=8257346">Apply</a></td>
+<td align="center">9 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cohere</strong></td>
+<td><a href="https://trueinterview.io/jobs/a4bf6e7e-7d4e-4e2f-a228-eadf84b69818">Design Engineer</a></td>
+<td>New York, NY<br/>San Francisco, CA<br/>Toronto, ON<br/>+1 more</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/cohere/75765a04-82cb-4d17-ac53-09b156656a7d">Apply</a></td>
+<td align="center">9 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NJ TRANSIT</strong></td>
+<td><a href="https://trueinterview.io/jobs/4c325c7e-a28a-4d2c-9c87-37c391d90174">Assistant Vehicle Engineer - Bus</a></td>
+<td>Newark, NJ</td>
+<td align="center"><a href="https://jobs.njtransit.com/en/job/12092">Apply</a></td>
+<td align="center">9 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Mecka</strong></td>
+<td><a href="https://trueinterview.io/jobs/f3b5da4a-c3eb-410d-851c-a33c91c0f085">Hardware, Electronics Engineer</a></td>
+<td>New York, NY<br/>Toronto GTA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/mecka.ai/49a29226-4dc9-488e-8b50-ff8136f634d2">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/07dfddb7-be59-4204-96f7-c94431787d03">Research Engineer, Simulation &amp; World Models</a></td>
+<td>New York, NY<br/>San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/mecka.ai/4ffe7389-0840-495d-b918-9ecfc6dfcb4e">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/bbdab062-c5aa-458f-ab02-6a959ab0047a">Research Engineer, RL Env</a></td>
+<td>New York, NY<br/>San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/mecka.ai/0d4bd078-b235-4b7d-aa33-0f8c52062645">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>City of New York</strong></td>
+<td><a href="https://trueinterview.io/jobs/7994a487-6a1c-4c54-aff0-ea4ca5db40ab">City Map Engineer</a></td>
+<td>New York, NY<br/>New York, New York, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/CityOfNewYork/3743990015947056-city-map-engineer">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Nliven</strong></td>
+<td><a href="https://trueinterview.io/jobs/4b6d939a-fd04-4848-a4e8-fbfd6e23dc69">Software Engineer (Remote - US)</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://nliven.teamtailor.com/jobs/8514114-software-engineer-remote-us">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Affirm</strong></td>
+<td><a href="https://trueinterview.io/jobs/74c8f638-b82a-4500-9658-c8641ba85367">Software Engineer I (New Grad 2027) (SF)</a></td>
+<td>New York, NY<br/>New York, New York, United States<br/>New York City<br/>+1 more</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/affirm/jobs/8010617003">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>City of New York</strong></td>
+<td><a href="https://trueinterview.io/jobs/22d56e04-aae6-4f6d-aab3-fae29e08ccc4">Application Security Engineer</a></td>
+<td>New York City, New York, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/CityOfNewYork/3743990015911176-application-security-engineer">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Trustpilot</strong></td>
+<td><a href="https://trueinterview.io/jobs/aeae9001-d56e-48d8-b247-f6b71d3cc528">Solutions Engineer</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://corporate.trustpilot.com/careers/job/8231565?gh_jid=8231565">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>City of New York</strong></td>
+<td><a href="https://trueinterview.io/jobs/17d9c444-cf4b-435e-89d4-bf9d0fc984f2">Mainframe Programmer Analyst</a></td>
+<td>New York City, New York, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/CityOfNewYork/3743990015879721-mainframe-programmer-analyst">Apply</a></td>
+<td align="center">3 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/b0cf92af-c30d-464b-90fb-7a02a46afb48">Drug-Checking Data Analyst, Bureau of Alcohol and Drug Use</a></td>
+<td>Long Island City, New York, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/CityOfNewYork/3743990015879746-drug-checking-data-analyst-bureau-of-alcohol-and-drug-use">Apply</a></td>
+<td align="center">3 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/83faa061-547a-4197-80d7-ed016665be36">HR Operations Data Analyst, Bureau of Division Management &amp; Systems Coordination</a></td>
+<td>Long Island City, New York, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/CityOfNewYork/3743990015879711-hr-operations-data-analyst-bureau-of-division-management-systems-coordination">Apply</a></td>
+<td align="center">3 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/fd2b144f-1500-415c-8607-d6391a014646">Machine Learning &amp; Data Engineer, Bureau of Data Technology &amp; Strategy</a></td>
+<td>Long Island City, New York, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/CityOfNewYork/3743990015879716-machine-learning-data-engineer-bureau-of-data-technology-strategy">Apply</a></td>
+<td align="center">3 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Fluidstack</strong></td>
+<td><a href="https://trueinterview.io/jobs/9650e5f5-e581-4fc4-8725-c7aea4eec32c">Product Engineer, Business Operations</a></td>
+<td>New York, NY<br/>San Francisco, CA<br/>Austin, TX</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/0337be3a-3844-4832-9078-b098bdefd736">Apply</a></td>
+<td align="center">3 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/6b64f218-ebd0-41fc-b968-e7f40f8b377b">Forward Deployed Engineer, Manufacturing &amp; Supply Chain</a></td>
+<td>New York, NY<br/>San Francisco, CA<br/>Austin, TX</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/f55e793b-ef9b-4e70-8c6b-6b0de57658e9">Apply</a></td>
+<td align="center">3 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/ec58012c-ae3d-4377-a19c-80b7daf7a368">Forward Deployed Engineer, Compute Operations</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/3dacc390-e34f-4644-8138-3dbd32d68682">Apply</a></td>
+<td align="center">3 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/0a6dc6d4-0774-433c-8896-79019a70d502">Forward Deployed Engineer, Business Operations</a></td>
+<td>New York, NY<br/>San Francisco, CA<br/>Austin, TX</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/3d7e9a94-325f-4205-a88e-b765e137813f">Apply</a></td>
+<td align="center">3 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Imentor</strong></td>
+<td><a href="https://trueinterview.io/jobs/0e9fa695-3b82-44a1-a596-725ab9cd999e">Salesforce Administrator</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://jobs.lever.co/imentor/0836a41e-1a1c-4447-953e-7d1e191cbc89/apply">Apply</a></td>
+<td align="center">2 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ICL</strong></td>
+<td><a href="https://trueinterview.io/jobs/fe42a698-168f-40cf-9908-40adda35c0b9">Help Desk Technician-IT514405</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://recruiting.ultipro.com/INS1020ICLI/JobBoard/e9acfd27-fb5e-441c-8e5d-9f6746da7afc/OpportunityDetail?opportunityId=64e7a02c-acdb-4da0-a1cd-db9017608a6d&amp;postingId=a0594ab1-05bf-4cfc-bfad-cdf0eaf116c5">Apply</a></td>
+<td align="center">2 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>City of New York</strong></td>
+<td><a href="https://trueinterview.io/jobs/664b4f5d-065d-4707-b62f-e406403d06ef">ENERGY ENGINEER</a></td>
+<td>New York, NY<br/>New York, New York, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/CityOfNewYork/3743990015853001-energy-engineer">Apply</a></td>
+<td align="center">2 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Radar Labs</strong></td>
+<td><a href="https://trueinterview.io/jobs/08fb7598-8a66-46b3-a053-b36544a2994f">Radar Labs / Software Engineers (SRE, ML, backend, full-stack, mobile, security, QA) / Remote (US), NYC / Full Time /</a> 🌐</td>
+<td>Remote — United States<br/>Remote (US), NYC</td>
+<td align="center"><a href="https://radar.com/">Apply</a></td>
+<td align="center">2 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Rebar</strong></td>
+<td><a href="https://trueinterview.io/jobs/43c4cf71-e063-4616-96b7-ccb5e451f242">Rebar / Software Engineers (Product, Applied AI, ML Infra, Data Platform) / ONSITE 5 days/week, New York City (union square area!) / Full-time / $150k–$260k + equity /</a></td>
+<td>ONSITE 5 days/week, New York City (union square area!)</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/rebar">Apply</a></td>
+<td align="center">2 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Mecka</strong></td>
+<td><a href="https://trueinterview.io/jobs/17bf2481-cfe3-47ed-8e85-b2cebeb8dffa">Research Scientist – Full Body Motion</a></td>
+<td>New York, NY<br/>Toronto GTA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/mecka.ai/afbd6329-dee5-4f66-a776-690563f08a34">Apply</a></td>
+<td align="center">1 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/9a884885-5b6e-4eea-b782-8b188f4d6262">Research Scientist – Neural 3D Objects</a></td>
+<td>New York, NY<br/>Toronto GTA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/mecka.ai/49a70698-f8f1-4f74-9a09-3a3536d377b3">Apply</a></td>
+<td align="center">1 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/034e2cbe-022e-4ddf-b32d-b75a8a21c05c">Research Scientist – 3D Environment Reconstruction</a></td>
+<td>New York, NY<br/>Toronto GTA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/mecka.ai/607719bc-6ff0-45dc-b539-9e0f22e889c9">Apply</a></td>
+<td align="center">1 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Gecko Robotics</strong></td>
+<td><a href="https://trueinterview.io/jobs/0a215d3c-1e7d-4f04-92a5-a7c927146de1">Product Strategist | Aeromechanical Engineering</a></td>
+<td>New York City<br/>Pittsburgh</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/gecko-robotics/0d35e313-05c0-449f-9d02-bf164b91ea65">Apply</a></td>
+<td align="center">30 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>City of New York</strong></td>
+<td><a href="https://trueinterview.io/jobs/17a6a462-c915-4836-8d22-37a1e75c186a">MIDDLEWARE DEVELOPER</a></td>
+<td>New York City, New York, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/CityOfNewYork/3743990015792436-middleware-developer">Apply</a></td>
+<td align="center">30 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/11822b5b-8569-450b-a234-407231109a3c">Public Safety Automation Engineer</a></td>
+<td>Brooklyn, New York, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/CityOfNewYork/3743990015792316-public-safety-automation-engineer">Apply</a></td>
+<td align="center">30 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>General Intuition &amp; Medal</strong></td>
+<td><a href="https://trueinterview.io/jobs/d817d9ce-23dd-4aad-a65b-c5f84f921681">Data Security Engineer</a></td>
+<td>New York City</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/generalintuition-medal/1376c9bf-41c3-4b1e-9247-63ff28cc7ea0">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/961cf670-9053-4249-919c-905a15e64c3f">Fullstack Engineer – Data Platform</a></td>
+<td>New York City</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/generalintuition-medal/9b4d7d31-64fa-4e5f-957a-68a457bc536d">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>City of New York</strong></td>
+<td><a href="https://trueinterview.io/jobs/5aff85ef-16b1-4384-91cf-a5eee25f7916">Electrical Engineer</a></td>
+<td>Queens, New York, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/CityOfNewYork/3743990015759876-electrical-engineer">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/fd23aceb-3212-4380-96a3-a47b232d246b">BOB- Assistant Civil Engineer</a></td>
+<td>New York City, New York, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/CityOfNewYork/3743990015759546-bob-assistant-civil-engineer">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Inmobi</strong></td>
+<td><a href="https://trueinterview.io/jobs/0c1b4441-d354-43a3-8653-71276ee25bfb">Brand Designer – Identity &amp; Campaigns</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/inmobi/jobs/8187961">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Sequence Holdings</strong></td>
+<td><a href="https://trueinterview.io/jobs/bb017477-a07e-42f9-9cc1-2031a9acb628">Refounding Engineer</a></td>
+<td>New York City</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/seqholdings/91eed659-a4e6-49f8-9b1f-e92759deb9b9">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Evolutioniq</strong></td>
+<td><a href="https://trueinterview.io/jobs/dd2ac24a-a8fa-477c-a47e-0e458ee865fd">Associate Data Engineer (Python / AI Insurance SaaS)</a></td>
+<td>New York, NY<br/>New York (HQ)</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/evolutioniq/jobs/6210230004">Apply</a></td>
+<td align="center">28 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Mecka</strong></td>
+<td><a href="https://trueinterview.io/jobs/984d6eff-0b87-4944-87cc-0c59f5fe1f49">Research Scientist – Body Pose Detection</a></td>
+<td>New York, NY<br/>Toronto GTA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/mecka.ai/4a37b99d-6305-4344-b6d2-acbe31719072">Apply</a></td>
+<td align="center">28 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Mirage</strong></td>
+<td><a href="https://trueinterview.io/jobs/57ab67b6-d383-48a0-ab70-131c9b381f2d">Research Engineer, Agentic Systems</a></td>
+<td>Union Square, New York City</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/mirage/6969c030-b1e2-417a-9008-c7e523e38efc">Apply</a></td>
+<td align="center">28 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>City of New York</strong></td>
+<td><a href="https://trueinterview.io/jobs/e01f71a2-9294-4c60-b6ed-5f607f9469e7">BOB- Engineer In Charge</a></td>
+<td>New York City, New York, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/CityOfNewYork/3743990015705616-bob-engineer-in-charge">Apply</a></td>
+<td align="center">26 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/c7546e22-f359-4dab-8b42-119fbd176fd0">BOB- Assistant Engineer (Civil)</a></td>
+<td>New York City, New York, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/CityOfNewYork/3743990015705551-bob-assistant-engineer-civil-">Apply</a></td>
+<td align="center">26 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Ambrook</strong></td>
+<td><a href="https://trueinterview.io/jobs/0525604c-6389-4949-bec0-f627180a79c3">Software Engineer, Platform</a> 🌐</td>
+<td>Remote — United States<br/>New York, NY</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/ambrook/899496e3-cbb0-4c84-885a-7391991054b5">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Woolpert</strong></td>
+<td><a href="https://trueinterview.io/jobs/86a505e0-9b41-4107-9104-fe73c6f484e5">Fire Protection Engineer</a> 🌐</td>
+<td>Remote — United States<br/>New York, NY</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/woolpert/jobs/4328828009">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Spotify</strong></td>
+<td><a href="https://trueinterview.io/jobs/2f7a5c7a-f191-4fb7-b9ac-a06e49e75c82">RecSys 2026 — Full Time</a></td>
+<td>New York, NY<br/>London<br/>Stockholm</td>
+<td align="center"><a href="https://www.lifeatspotify.com/jobs/recsys-2026-full-time">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Lendbuzz</strong></td>
+<td><a href="https://trueinterview.io/jobs/e955dad1-80d1-4329-a312-4246e2a6a86f">IT Systems Administrator (Boston)</a></td>
+<td>New York, NY<br/>Boston, MA</td>
+<td align="center"><a href="https://jobs.lever.co/lendbuzz/3409234d-dc4a-4340-acde-49815d2d1200">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>SOCOTEC Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/eb8e42ba-e836-4976-9b3e-81dd497ace68">Special Inspector Field Engineer</a></td>
+<td>New York, NY<br/>New York, New York, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Socotec/744000151392279-special-inspector-field-engineer">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Browserbase</strong></td>
+<td><a href="https://trueinterview.io/jobs/0b467853-57fa-4d19-bd2b-e1e14a0ea64d">Software Engineer (Dashboard) - New York</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/browserbase/689df609-4658-4769-bc2c-5962516237bb">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Jefferies Financial Group Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/9a604113-b0c7-41be-a72d-b01d605c8e88">Data Scientist – Equity Research</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://hdid.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4898">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Novig</strong></td>
+<td><a href="https://trueinterview.io/jobs/3ed7bf9a-9694-469a-bade-3e21a9096862">IT Specialist</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/novig/0644d8e3-7d35-486f-8666-a2988ddad3c4/application">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Falconx</strong></td>
+<td><a href="https://trueinterview.io/jobs/af2e4c24-d26d-475d-9e7b-878f5e4939c0">Trader</a></td>
+<td>New York City, NY</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/falconx/jobs/4734676005">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Plaid</strong></td>
+<td><a href="https://trueinterview.io/jobs/13325519-049c-4a37-b2f5-7668c21f5eac">TechOps Site Support</a></td>
+<td>New York City Office<br/>Seattle Office</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/plaid/4cc6c985-40cc-472f-94cd-90807c698b50/application">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Bloomberg</strong></td>
+<td><a href="https://trueinterview.io/jobs/06a8680e-3e47-4946-83cc-21c79981fbab">Video Analytics - Contract</a></td>
+<td>New York, NY<br/>New York, New York, United States of America</td>
+<td align="center"><a href="https://bloomberg.avature.net/careers/JobDetail/Video-Analytics-Contract/21572">Apply</a></td>
+<td align="center">20 Sep 2026</td>
 </tr>
 </tbody>
 </table>

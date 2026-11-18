@@ -2,13 +2,15 @@
 
 # 🧾 IT services & consulting
 
-**366 open roles.** 198 in the United States & Canada · 168 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
+**475 open roles.** 231 in the United States & Canada · 244 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
 > Every employer the company registry files under IT services & consulting, at any size. The sector is a fact about the company recorded once, never inferred from a job title.
 
 _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-authorisation restriction._
+
+<sub>Page 1 of 2 · [Page 2 →](it-consulting-2.md)</sub>
 
 ## United States & Canada
 
@@ -1403,6 +1405,237 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://www.careers.peraton.com/jobs/tier-1-help-desk-technician-undefined-undefined-172750-jobs--information-technology--">Apply</a></td>
 <td align="center">27 Oct 2026</td>
 </tr>
+<tr>
+<td><strong>Accenture Federal Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/892aff85-f18e-4af8-b644-ec2746e25f45">ServiceNow UI/UX Designer</a></td>
+<td>Chantilly, VA<br/>Herndon, VA</td>
+<td align="center"><a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4622241006?gh_jid=4622241006">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Agile Defense</strong></td>
+<td><a href="https://trueinterview.io/jobs/0840d491-52bd-43c8-9bf8-8eab28e7c8ad">Data Engineer - Arlington (VA)</a></td>
+<td>Arlington, VA</td>
+<td align="center"><a href="https://jobs.lever.co/agile-defense/db2e6a66-cd2b-45a3-98eb-d49cfd3f720a/apply">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e7ecbd82-0e82-4357-9d82-1e17981a9f29">Data Engineer - DC</a></td>
+<td>Washington, DC<br/>Washington, D.C.</td>
+<td align="center"><a href="https://jobs.lever.co/agile-defense/006dcc67-cdc4-482f-bfa2-fd439638d530/apply">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/6a97e8d4-1cf0-4145-a0b6-96e9d979b7d7">Data Engineer - Falls Church</a></td>
+<td>Falls Church, VA</td>
+<td align="center"><a href="https://jobs.lever.co/agile-defense/4377cbc7-83da-42de-85c6-291c24d5d180/apply">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/601647c8-c234-440b-aa4c-2bd5f7508513">Data Engineer - Fort Meade</a></td>
+<td>Fort Meade, MD</td>
+<td align="center"><a href="https://jobs.lever.co/agile-defense/43a9f021-393b-463c-808a-882d00997cee/apply">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/5497ed94-a38d-4f0e-bfcb-089eb998ef9c">Data Engineer - Honolulu</a></td>
+<td>Camp Smith, HI</td>
+<td align="center"><a href="https://jobs.lever.co/agile-defense/ce6065e2-eb52-4ec7-b0e8-6a250a7f4b46/apply">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f2a5daac-4339-49f9-b330-3346a57efaa1">Data Engineer - Omaha</a></td>
+<td>Offut AFB, NE</td>
+<td align="center"><a href="https://jobs.lever.co/agile-defense/f62d2e45-63d8-47f6-a508-b8a996525633/apply">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/32ff7984-632d-420b-bad1-bfe982787a9e">Data Engineer - Colorado Springs</a></td>
+<td>Peterson Space Force Base, CO</td>
+<td align="center"><a href="https://jobs.lever.co/agile-defense/bc0a731b-0944-400e-ac3c-662ae8308693">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Concentrix</strong></td>
+<td><a href="https://trueinterview.io/jobs/d336e0aa-c5f5-4afa-80ac-43fa29981b2a">Customer Service / Tech Support Rep – Tech Products (Night Shift, Remote)</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://concentrix.crew.talkpush.com/apply/concentrix/1SB8A3ZDRFF47XVSS2399Z7EQDZRXZ7W">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/1c2f6947-22ae-427f-a03e-4c059d50fcb5">Entry Level IBM Z Engineering System Test Hardware Engineer - Poughkeepsie, NY - 2027</a></td>
+<td>POUGHKEEPSIE, US</td>
+<td align="center"><a href="https://careers.ibm.com/careers/JobDetail?jobId=137694">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Intelligent Technical Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/4b0df28c-c600-4308-ab95-584758e1a6f2">Network Admin Onsite (Dallas, TX)</a></td>
+<td>Dallas, Texas</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/its/jobs/8036215003">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Accenture Federal Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/be6b84ff-4775-44b6-a40b-7bf9219aeca7">Systems Engineer</a></td>
+<td>Albuquerque, NM<br/>McLean, VA<br/>Annapolis Junction, MD<br/>+2 more</td>
+<td align="center"><a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4723049006?gh_jid=4723049006">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sopra Steria</strong></td>
+<td><a href="https://trueinterview.io/jobs/46bb44e3-e310-4a7f-84c7-8a09ac6339d2">Analytics Engineer Malmö</a></td>
+<td>Malmö, Skåne län, Sweden</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SopraSteria1/744000155668899-analytics-engineer-malmo">Apply</a></td>
+<td align="center">15 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Computer World Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/e37c8e09-96eb-4ede-a4e2-cb26a1a5f5a9">Network Operations Center Technician I - Monitoring Cell (Sensor)</a></td>
+<td>Lackland AFB, TX</td>
+<td align="center"><a href="https://jobs.lever.co/cwsc/6650a135-2dba-447b-9890-1a78c59643fe/apply">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Agile Defense</strong></td>
+<td><a href="https://trueinterview.io/jobs/0b94d841-d948-4c7d-aec5-f75c4dba215b">Cyber Systems Administrator – Control Systems Cybersecurity</a></td>
+<td>Columbus, OH</td>
+<td align="center"><a href="https://jobs.lever.co/agile-defense/fc1b53be-7095-406b-b2ff-3313985bff86">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/404b3701-2ffc-48da-9967-a1448aa0ff61">Cybersecurity Engineer / RMF Specialist</a></td>
+<td>Columbus, OH</td>
+<td align="center"><a href="https://jobs.lever.co/agile-defense/fa2d1054-655b-416b-ad2a-4518902334e3">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>66degrees</strong></td>
+<td><a href="https://trueinterview.io/jobs/d3d90148-05c7-483f-8813-dff7f45a2134">Associate Software Engineer, Gradient Specialist</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/66degrees/jobs/6220274004">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/964b6a13-a6e1-4b37-b67d-b8a1db62750e">Associate Delivery Consultant, Gradient Specialist</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/66degrees/jobs/6220264004">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/19681924-46ec-467a-be91-db91cc102d0d">Associate AI/ML Engineer, Gradient Specialist</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/66degrees/jobs/6220259004">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Accenture Federal Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/355eb00b-17b7-480f-947b-632d727470ab">Informed Delivery Mobile Application Developer</a></td>
+<td>Washington, DC</td>
+<td align="center"><a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4719209006?gh_jid=4719209006">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Telus Digital</strong></td>
+<td><a href="https://trueinterview.io/jobs/bc1d82e5-82ea-414c-bbc6-be6bdda933f0">Solution Engineer</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/telus-digital/e67eb971-1de3-421c-89ad-ce645e04bc6b">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Agile Defense</strong></td>
+<td><a href="https://trueinterview.io/jobs/f758d75a-3ea0-4c7c-a492-78ef4d357b88">Cleared IT, Cybersecurity, Engineering, Data, and Program Support Professionals</a></td>
+<td>Quantico, VA</td>
+<td align="center"><a href="https://jobs.lever.co/agile-defense/597a12b0-1234-4cd9-a6b4-24d4694ca151/apply">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/8f01e6a2-c376-4802-860d-c9328a2833c3">Unified Communications Specialist</a></td>
+<td>Quantico, VA</td>
+<td align="center"><a href="https://jobs.lever.co/agile-defense/630e9af6-4505-4095-adb3-7982ee67650b/apply">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>VetsEZ</strong></td>
+<td><a href="https://trueinterview.io/jobs/5ba3ac52-cdbc-46a6-a291-7ed613c3a551">Windows System Administrator (Remote Opportunity)</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://vetsez.breezy.hr/p/c78e9d90197b01-windows-system-administrator-remote-opportunity">Apply</a></td>
+<td align="center">1 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Accenture Federal Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/9faa8b28-c420-4f13-ba50-e4bc038ff925">HPC Cloud Engineer</a></td>
+<td>Hill AFB, UT</td>
+<td align="center"><a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4716770006?gh_jid=4716770006">Apply</a></td>
+<td align="center">30 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Agile Defense</strong></td>
+<td><a href="https://trueinterview.io/jobs/e69baeaf-c04f-49c0-a5a2-b8557fb499af">Programming Specialist</a></td>
+<td>Fort Huachuca, AZ</td>
+<td align="center"><a href="https://jobs.lever.co/agile-defense/5ad81bfd-f3ef-4156-95c2-eb962cb5b07a/apply">Apply</a></td>
+<td align="center">28 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Accenture Federal Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/2332da20-488e-49ca-96e2-9b9cbceb9946">Enterprise AI Feature Engineer</a></td>
+<td>Arlington, VA</td>
+<td align="center"><a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4716617006?gh_jid=4716617006">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e5e0cb89-19fa-49ec-b112-11f26519e0a3">Oracle Analytics FDI Design / Developer</a></td>
+<td>Washington, DC</td>
+<td align="center"><a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4716547006?gh_jid=4716547006">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/18e1a41d-bad3-445e-8242-50efafa34eb5">UNIX / OS Systems Admin</a></td>
+<td>Washington, DC<br/>Arlington, VA</td>
+<td align="center"><a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4713346006?gh_jid=4713346006">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/2df5610a-98f6-4f62-8120-0b4ff02540d6">Apps DBA / WebLogic (Fusion MW)</a></td>
+<td>Washington, DC<br/>Arlington, VA</td>
+<td align="center"><a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4713345006?gh_jid=4713345006">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/81dbc0d4-309a-472c-b71c-efb438c15e85">UI Developer</a></td>
+<td>Washington, DC<br/>Arlington, VA</td>
+<td align="center"><a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4713342006?gh_jid=4713342006">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/908f3ff9-5a71-482b-9136-572cca955d93">Release / Environment Mgmt</a></td>
+<td>Washington, DC<br/>Arlington, VA</td>
+<td align="center"><a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4713339006?gh_jid=4713339006">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Long View Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/16695b68-f1f4-4988-9a5a-2d5f78265331">Deskside Consultant</a></td>
+<td>Vancouver, BC</td>
+<td align="center"><a href="https://jobs.lever.co/lvs1/fb9a4d81-6f75-4259-b723-14de479b0e46/apply">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -2591,7 +2824,16 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center"><a href="https://jobs.telusdigital.com/en/jobs/17274943-brightscript-developer?tm_job=Req%255F00174685&amp;tm_event=view&amp;tm_company=94967">Apply</a></td>
 <td align="center">27 Oct 2026</td>
 </tr>
+<tr>
+<td><strong>Sopra Steria</strong></td>
+<td><a href="https://trueinterview.io/jobs/b8541c50-5f0c-4f5c-8a34-7d7a5c4c2d13">Ingénieur(e) Vérification Fonctionnelle FPGA/ASIC - Spatial - Toulouse</a></td>
+<td>Toulouse, Occitanie, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SopraSteria1/744000157741339-ingenieur-e-verification-fonctionnelle-fpga-asic-spatial-toulouse">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
 </tbody>
 </table>
+
+<sub>Page 1 of 2 · [Page 2 →](it-consulting-2.md)</sub>
 
 [← Every filter](../README.md) · [Back to the full list](../../README.md)

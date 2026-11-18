@@ -2,7 +2,7 @@
 
 # Machine Learning Engineer
 
-**491 open roles.** 335 in the United States & Canada · 156 elsewhere in the world.
+**559 open roles.** 364 in the United States & Canada · 195 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,209 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Mistral</strong></td>
+<td><a href="https://trueinterview.io/jobs/bd69fe72-8ee5-47e0-9ceb-d7a6acbd6842">ML Engineer - Tabular Data &amp; LLM Fine-Tuning</a></td>
+<td>Paris, Île-de-France, France</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486621537/">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/4b9698c6-6be5-433c-8b2f-55b41df8404e">Time-Series Foundation ML Engineer (GPU-Scale)</a></td>
+<td>Paris, Île-de-France, France</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486627552/">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/ff1a2356-49e8-4fa9-867a-578758e52aab">ML Engineer</a></td>
+<td>Cork, County Cork, Ireland</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200693662/ml-engineer">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>IMC Trading</strong></td>
+<td><a href="https://trueinterview.io/jobs/dae73c8f-055e-404b-8e4f-77ae46d775cc">Software Engineer - Machine Learning Frameworks</a></td>
+<td>Sydney, New South Wales, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4442991682/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Cohere</strong></td>
+<td><a href="https://trueinterview.io/jobs/02988dc1-37ab-4049-8938-4d8faedcc9ac">Software Engineer, ML Ops</a></td>
+<td>London<br/>Berlin<br/>Europe<br/>+1 more</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/cohere/2a9a9b65-4f1b-4387-aa7f-d58c78e738c4">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Mistral</strong></td>
+<td><a href="https://trueinterview.io/jobs/1981fba6-6df0-4d4f-85a8-19856edfae43">Research Engineer, Machine Learning</a></td>
+<td>Paris, Île-de-France, France</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486215409/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/703650a8-358f-4b09-b380-6c48cb88a7dd">ML Research Engineer: Large-Scale Systems</a></td>
+<td>Paris, Île-de-France, France</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486200907/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/196e5e9c-aa2c-4dfe-a9b6-b2efd147b3ce">ML Research Engineer: Build Scalable DL Pipelines</a></td>
+<td>Paris, Île-de-France, France</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486224035/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/c2557f83-61a9-45d7-82f0-7cb62e664e00">Research Engineer: End-to-End ML Training &amp; Deployment</a></td>
+<td>Paris, Île-de-France, France</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486210465/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Smiths Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/bd750e3a-6872-47a0-a7dc-645bc2430279">Software Engineer - Computer Vision &amp; Künstliche Intelligenz (m/w/d)</a></td>
+<td>Wiesbaden, Hesse, Germany</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SmithsGroup2/744000160182128-software-engineer-computer-vision-kunstliche-intelligenz-m-w-d-">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Bosch</strong></td>
+<td><a href="https://trueinterview.io/jobs/760c007a-1a4f-4266-b55a-c54a2b1af2e9">Development Engineer - Machine Learning (f/m/div.)</a></td>
+<td>Cacia, Aveiro, Portugal</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000160171804-development-engineer-machine-learning-f-m-div-">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Capco</strong></td>
+<td><a href="https://trueinterview.io/jobs/7abcde2f-2fd6-4edf-91b5-397bb06ec869">AI &amp; ML Engineer | Banking</a></td>
+<td>China - Hong Kong</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/capco/jobs/8358340">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>TikTok</strong></td>
+<td><a href="https://trueinterview.io/jobs/fc086f7d-b944-4d41-ab7b-0b3f5751e606">PhD Graduate Machine Learning Engineer Graduate, Trust and Safety Engineering - 2026 Start</a></td>
+<td>Sydney, New South Wales, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486776605/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>TSMC</strong></td>
+<td><a href="https://trueinterview.io/jobs/3bf0d8cc-8610-43fe-a53c-33ccb5b9e0dc">【2026 Southeast Asia &amp; India】AI/ML Application Engineer (IMC)</a></td>
+<td>Hsinchu City, Taiwan, Taiwan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4471188531/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ByteDance</strong></td>
+<td><a href="https://trueinterview.io/jobs/80475247-ff77-492f-8f56-e03bb352e911">Machine Learning Engineer (Compliance) - Global Payment - Singapore - Global Payment</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486588251/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Mistral</strong></td>
+<td><a href="https://trueinterview.io/jobs/8d9aa22a-48ad-45e5-8c6f-977c8c1953cb">ML Research Engineer – Large-Scale Training</a></td>
+<td>Paris, Île-de-France, France</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485526358/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/cf383c51-9232-4cea-a48b-bb458e90b877">Go live Research Engineer, Machine Learning , Paris/London/Zurich/Warsaw</a></td>
+<td>Paris, Île-de-France, France</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485510929/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ALTEN</strong></td>
+<td><a href="https://trueinterview.io/jobs/7f9edcaa-816a-44e3-b0ab-25f870af491c">Stage Innovation : Ingénieur Computer Vision</a></td>
+<td>Sèvres, Île-de-France, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/ALTEN/744000159631039-stage-innovation-ingenieur-computer-vision">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Esenca</strong></td>
+<td><a href="https://trueinterview.io/jobs/7d851ff9-6cf8-43f8-8e3e-b57318b3acb1">Data Engineer / ML Engineer – Python, GCP &amp; MLOps (H/F) (IT) / Freelance</a></td>
+<td>Lille, France</td>
+<td align="center"><a href="https://www.free-work.com/fr/tech-it/job-mission/developpeur-python/data-engineer-ml-engineer-python-gcp-mlops-h-f">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Nixil</strong></td>
+<td><a href="https://trueinterview.io/jobs/03790df8-e4ca-4794-ae46-4b50348c1231">Machine Learning Specialist</a></td>
+<td>Canberra, Australia</td>
+<td align="center"><a href="https://www.livehire.com/job/nixil/9D6X8">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Orange</strong></td>
+<td><a href="https://trueinterview.io/jobs/2d5ef612-e2dd-4813-9658-e0911afb7939">Stage Ingénieur Modélisation Hybride Hétérogène (Physique/ML) pour la prédiction de la QoS F/H</a></td>
+<td>Châtillon, France</td>
+<td align="center"><a href="https://orange.phenompeople.net/fr/fr/job/CTS-2026-54250">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/b06a4076-6672-4719-843e-2247868e4289">Machine Learning Researcher - Apple Services Engineering - Generative Audio</a></td>
+<td>London, England, United Kingdom</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200693132">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/62d3ae14-f156-4444-aaeb-e88db2e5ac90">Privacy-Preserving Machine Learning Researcher - Q</a></td>
+<td>Herzliya, Tel-Aviv District, Israel</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200692872">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Burckhardt Compression</strong></td>
+<td><a href="https://trueinterview.io/jobs/10b6e173-8fee-4ce5-a170-ba1c18b9b18b">Machine Learning Engineer</a></td>
+<td>Rheine, Deutschland</td>
+<td align="center"><a href="https://careers.burckhardtcompression.com/job/Rheine-Machine-Learning-Engineer/1453711233/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Dassault Systèmes</strong></td>
+<td><a href="https://trueinterview.io/jobs/f5c52eb3-e774-4d26-ac52-c7d10b81c2d5">Ingénieur R&amp;D C++ / Deep Learning – Algorithmes de maillage 3D (F/H)</a></td>
+<td>Vélizy-Villacoublay, France</td>
+<td align="center"><a href="https://www.3ds.com/careers/jobs/ingenieur-r-d-c-deep-learning-algorithmes-de-maillage-3d-f-h-550732">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Hanson Regan Limited</strong></td>
+<td><a href="https://trueinterview.io/jobs/58eb4f74-e78d-4e46-9ed6-929d863ce5ca">IA Generative / ML ops Engineer (IT) / Freelance</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://www.free-work.com/fr/tech-it/job-mission/data-engineer/ia-generative-ml-ops-engineer">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Umeå Universitet</strong></td>
+<td><a href="https://trueinterview.io/jobs/cafb9088-ab3e-438f-bbc3-9b43f4b188c0">PhD student in Computing Science with focus on Machine Learning for Graph Transformations</a></td>
+<td>Umeå, Sweden</td>
+<td align="center"><a href="https://umu.varbi.com/se/what:job/jobID:985887/type:job/where:62/apply:1">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Viridien</strong></td>
+<td><a href="https://trueinterview.io/jobs/3de26cd0-750d-4e0a-b88f-744ba2bdaa09">Machine Learning Engineer - Agentic AI &amp; Reinforcement Learning</a></td>
+<td>India</td>
+<td align="center"><a href="https://cgg.wd103.myworkdayjobs.com/en-US/viridiencareers/job/Airoli-India/Machine-Learning-Engineer---Agentic-AI---Reinforcement-Learning_JR101558-1">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Ericsson</strong></td>
+<td><a href="https://trueinterview.io/jobs/69f6f425-397a-4dff-92fc-350c312a38a2">Graduate AI/ML and Data Engineer (m/f/d)</a></td>
+<td>Aachen, North Rhine-Westphalia, Germany<br/>Deutschland</td>
+<td align="center"><a href="https://jobs.ericsson.com/careers/job/563121777546816?domain=ericsson.com">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Arting Digital Private Limited</strong></td>
 <td><a href="https://trueinterview.io/jobs/f50f7221-a9da-40ad-bfeb-93f1da24e82b">Python Developer+AI/ML</a></td>
@@ -653,6 +856,279 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Casablanca, Casablanca-Settat, Morocco</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Inetum2/744000157818169-developpement-industrialisation-et-mlops-d-un-modele-de-machine-learning-predictif-integre-dans-microsoft-fabric">Apply</a></td>
 <td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>AISON PTE. LTD.</strong></td>
+<td><a href="https://trueinterview.io/jobs/cdb71b06-e328-465f-bc78-1c2ed8f38eac">AI/ML Engineer</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.mycareersfuture.gov.sg/job/8cea67c49311cae39b93699d33c29027">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/5d87ef42-6c4b-4129-8120-c3312977e7d8">AIML - Machine Learning Research (Speech-to-Speech Translation) - TMI</a></td>
+<td>Cambridge, United Kingdom</td>
+<td align="center"><a href="https://jobs.apple.com/en-gb/details/200691875-1251/aiml-machine-learning-research-speech-to-speech-translation-tmi?board_id=JB001&amp;team=MLAI">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Coface</strong></td>
+<td><a href="https://trueinterview.io/jobs/b8de901e-ae78-4c5d-8251-69f9be061f8f">Stage - Data Scientist / ML Engineer (H/F)</a></td>
+<td>Bois-Colombes, Île-de-France, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Coface/744000157416972-stage-data-scientist-ml-engineer-h-f-">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Plaud</strong></td>
+<td><a href="https://trueinterview.io/jobs/00dc8513-a2fb-4f14-9750-f38ca9fb69c2">Machine Learning Engineer (Speech/Audio) - Singapore</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/Plaud/57a36c66-11ae-4e86-9587-987bfaac7fd8">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Microsoft</strong></td>
+<td><a href="https://trueinterview.io/jobs/1bf964b3-cfd2-4c4c-a5c0-20b4a5627aff">Applied Scientist (Computer Vision)-PhD Graduate</a></td>
+<td>Australia</td>
+<td align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393557045606?domain=microsoft.com">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Talan</strong></td>
+<td><a href="https://trueinterview.io/jobs/5f74c40c-3c94-48df-bfe4-ca20f4e680e9">Machine Learning Engineer l Luxembourg</a></td>
+<td>Luxembourg, Luxembourg, Luxembourg</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Talan/744000157089855-machine-learning-engineer-l-luxembourg-">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Citech</strong></td>
+<td><a href="https://trueinterview.io/jobs/9c730587-0b0a-4677-8c15-bf7d19940407">Ingénieur Vision Industrielle &amp; IA – C# / Computer Vision (H/F)</a></td>
+<td>Fos-sur-Mer, Provence-Alpes-Côte d'Azur, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/CITECH/744000157081691-ingenieur-vision-industrielle-ia-c-computer-vision-h-f-">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Decathlon Digital Fr</strong></td>
+<td><a href="https://trueinterview.io/jobs/bc6652d2-3096-4bb1-bb05-f94ed1c7d024">AI/ML Engineer - Product Info &amp; Content (f/m/d)</a></td>
+<td>Lille - Btwin Village, Nord, France</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/decathlontechnology/jobs/4997303101">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Graphcore</strong></td>
+<td><a href="https://trueinterview.io/jobs/cc4046e0-ae68-4302-8885-e3507cdaf76b">Graduate Software Engineer, AI/ ML Test Systems 2027</a></td>
+<td>Bristol, UK</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/graphcore/jobs/8894364002">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Niantic Spatial, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/acb1da73-6894-47f8-99f9-0fbd81d51545">3D Computer Vision Research Engineer - World Map</a></td>
+<td>London</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/niantic-spatial/a62c7d05-9fde-4ad9-aef7-2786873d7a67">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Harmattan Ai</strong></td>
+<td><a href="https://trueinterview.io/jobs/2841b742-13cd-4d20-9add-7b7269f56366">Machine Learning Research Engineer – Visual Navigation</a></td>
+<td>Lausanne<br/>Zurich<br/>Paris</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/harmattan-ai/87b1afe9-d23e-47e8-bab4-91ed61152276">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NEXTON</strong></td>
+<td><a href="https://trueinterview.io/jobs/3f0fc302-45a0-4d16-b0e0-f01e5d815ef4">Machine Learning Engineer H/F</a></td>
+<td>Paris, Île-de-France, France<br/>Bordeaux, Nouvelle-Aquitaine, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/NEXTON/744000156295449-machine-learning-engineer-h-f">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Woven By Toyota</strong></td>
+<td><a href="https://trueinterview.io/jobs/48e7ce3e-5f41-46eb-a5d3-f26886542f28">データサイエンティスト（ML・認識技術・データ基盤）</a></td>
+<td>—</td>
+<td align="center"><a href="https://jobs.lever.co/woven-by-toyota/61d37c69-6a4a-4fc7-8645-f73b911e03c4">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ALTEN</strong></td>
+<td><a href="https://trueinterview.io/jobs/90c6b27f-6e46-4a3e-9f93-bd8541bb986e">Stage Innovation : Ingénieur Computer Vision / Deep Learning</a></td>
+<td>Toulouse, Occitanie, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/ALTEN/744000155979928-stage-innovation-ingenieur-computer-vision-deep-learning">Apply</a></td>
+<td align="center">16 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ubisoft</strong></td>
+<td><a href="https://trueinterview.io/jobs/b0fe1a1a-07c3-4887-a15c-8661c57eaf66">Machine Learning Engineer - H/F/NB</a></td>
+<td>Paris, Île-de-France, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Ubisoft2/744000155974044-machine-learning-engineer-h-f-nb">Apply</a></td>
+<td align="center">16 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Harmattan Ai</strong></td>
+<td><a href="https://trueinterview.io/jobs/90d19241-42aa-4f43-bc7b-2977d8a07448">Computer Vision Engineer - Tracker</a></td>
+<td>Lausanne<br/>Zurich<br/>Paris</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/harmattan-ai/a104d927-c70a-44f9-830c-f6ef6e685be4">Apply</a></td>
+<td align="center">16 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Devoteam</strong></td>
+<td><a href="https://trueinterview.io/jobs/4cdefdb8-2e7b-49b5-a6d5-42f95c072c36">Distributed Cloud | AI/ML Engineer</a></td>
+<td>Lisboa, Lisboa, Portugal</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Devoteam/744000154967709-distributed-cloud-ai-ml-engineer">Apply</a></td>
+<td align="center">12 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Bobyard</strong></td>
+<td><a href="https://trueinterview.io/jobs/9700e149-5e44-4a12-910a-51a44c462587">Data Annotation Specialist - Computer Vision</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/bobyard/5df8467f-53d5-497f-98df-ae01886cc9ed">Apply</a></td>
+<td align="center">9 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Mistral AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/0cee6499-2abd-4334-bacf-63743c5ef908">Applied AI, Forward Deployed Machine Learning Engineer - London</a></td>
+<td>London</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/mistral.ai/4c57adc5-5beb-49d2-9202-1db0807b9cb7">Apply</a></td>
+<td align="center">9 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cerebras Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/9811bb6d-84b2-4462-bb2a-b7509633e76f">Full Stack Machine Learning Engineer</a></td>
+<td>Bengaluru, IND</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/cerebras/c2198d42-ccad-4bee-aa43-83027aa5e46e">Apply</a></td>
+<td align="center">9 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sportradar</strong></td>
+<td><a href="https://trueinterview.io/jobs/2133befe-606e-4782-b43b-6fbde77bbcc3">Machine Learning Engineer (m/f/d)</a></td>
+<td>Ljubljana, Slovenia</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Sportradar/744000153670469-machine-learning-engineer-m-f-d-">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/f364f973-994e-4427-8266-cec395998f79">Machine Learning Engineer with Focus on Generative 3D Representations - Europe Vision Group</a></td>
+<td>Zürich, Switzerland</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200687755-4170?board_id=JB001">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Spaitial</strong></td>
+<td><a href="https://trueinterview.io/jobs/08cedaf8-c82d-4ef1-8272-a0409ad6c1e3">ML Inference Engineer</a></td>
+<td>London<br/>Munich</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/spaitial/40802930-88dd-4922-a9ef-2549f241e71a">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>42dot</strong></td>
+<td><a href="https://trueinterview.io/jobs/3cf72d49-08db-4b19-85c5-2cfc0c22ddd3">Deep Learning Engineer (음성 합성 개발)</a></td>
+<td>Pangyo (Software Dream Center), South Korea</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/42dot/c184cf35-51e2-4e80-87bc-579089f07472">Apply</a></td>
+<td align="center">2 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Edb</strong></td>
+<td><a href="https://trueinterview.io/jobs/64bc65bc-5e33-4f98-8031-e7de6c325431">Machine Learning Engineer (Governance ML Platform)</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://www.enterprisedb.com/careers/job-openings?gh_jid=8010507003">Apply</a></td>
+<td align="center">1 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Quantcast</strong></td>
+<td><a href="https://trueinterview.io/jobs/cf2f9bbf-7238-46ea-b700-ca1d07f8cefd">Machine Learning Engineer</a></td>
+<td>London</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/quantcast/c7c68a81-188a-463c-96b7-0bdfac6be655">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Mistral AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/e49361e1-97a4-4ece-bed4-1d143bcc1422">Research Engineer, Machine Learning</a></td>
+<td>Paris<br/>Zurich<br/>Warsaw<br/>+1 more</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/mistral.ai/0e578cff-741d-4870-9c2c-aac85f9de266">Apply</a></td>
+<td align="center">28 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Sopra Steria</strong></td>
+<td><a href="https://trueinterview.io/jobs/1bd1537e-5362-43c0-87f9-1b51c7ca4a9c">Data Science / ML Engineer</a></td>
+<td>Oslo, Norway</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SopraSteria1/744000152100869-data-science-ml-engineer">Apply</a></td>
+<td align="center">28 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>L&amp;T Technology Services Ltd.</strong></td>
+<td><a href="https://trueinterview.io/jobs/2482201c-67ac-40f5-a5e0-4a54d1915477">AI/ML Engineer - Hardware Engineering Solutions</a></td>
+<td>India</td>
+<td align="center"><a href="https://ltts.sensehq.com/careers/iframe/jobs/40124">Apply</a></td>
+<td align="center">28 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>MaxInsights</strong></td>
+<td><a href="https://trueinterview.io/jobs/269cc24f-c446-463f-87c0-cf21dd8c9e02">Machine Learning Engineer (Video Foundation Models &amp; Agentic AI)</a></td>
+<td>Santa Clara</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/maxinsights/631ee3d8-07ca-455d-b6a2-dee4d3d33a72">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>ALTEN</strong></td>
+<td><a href="https://trueinterview.io/jobs/cbd5d55f-6065-4e62-aa08-a4f555f47b29">Stage Innovation : Ingénieur Intelligence Artificielle Générative / NLP</a></td>
+<td>Toulouse, Occitanie, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/ALTEN/744000151640893-stage-innovation-ingenieur-intelligence-artificielle-generative-nlp">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/6efa768d-8825-477d-8fba-e459ea9ec1ad">Stage Innovation : Ingénieur Intelligence Artificielle / Computer Vision</a></td>
+<td>Sèvres, Île-de-France, France<br/>Rennes, Brittany, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/ALTEN/744000151639008-stage-innovation-ingenieur-intelligence-artificielle-computer-vision">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/d0930865-2eff-4d94-a9dc-9a21e84f2369">Stage Innovation : Ingénieur Intelligence Artificielle / NLP</a></td>
+<td>Rennes, Brittany, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/ALTEN/744000151636531-stage-innovation-ingenieur-intelligence-artificielle-nlp">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Prima</strong></td>
+<td><a href="https://trueinterview.io/jobs/70b16e8f-2d80-4af9-aff7-dd614385eafb">Software Engineer – AI/ML Platform</a></td>
+<td>Madrid<br/>Milan</td>
+<td align="center"><a href="https://jobs.eu.lever.co/prima/470a1770-da20-4dde-92ea-31f84666a7a0">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Eurofins</strong></td>
+<td><a href="https://trueinterview.io/jobs/457935b5-7144-47dd-a80e-356572d8c2e5">Stage Ingénieur.e Projets Intelligence Artificielle - Traitement du langage naturel (NLP)</a></td>
+<td>Paris, Île-de-France, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Eurofins/744000151401169-stage-ingenieur-e-projets-intelligence-artificielle-traitement-du-langage-naturel-nlp-">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Inetum</strong></td>
+<td><a href="https://trueinterview.io/jobs/817e1b15-8cb3-44a4-9908-1092617a6e1c">IA Machine Learning - ML Experto</a></td>
+<td>Bogotá, Bogota, Colombia</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Inetum2/744000151387134-ia-machine-learning-ml-experto">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Kpler</strong></td>
+<td><a href="https://trueinterview.io/jobs/4ffdfc1c-d844-4782-8895-01028d0f5de6">ML Engineer - Power</a></td>
+<td>Paris</td>
+<td align="center"><a href="https://jobs.lever.co/kpler/10105b9b-ed9c-4ebe-8f3b-76b18edeccb8">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/be36584c-7bea-4750-a780-f4ad10a252e0">AI/ML Engineer - AI Systems for Security, SEAR</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200624074-2911?board_id=JB001">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Sainsbury's</strong></td>
+<td><a href="https://trueinterview.io/jobs/2a63c515-0a52-4761-a5c0-86ef3b52429f">AI/ML Engineer</a></td>
+<td>London, United Kingdom</td>
+<td align="center"><a href="https://4dayweek.io/job/ai-ml-engineer-at-sainsburys-83fd1858">Apply</a></td>
+<td align="center">23 Sep 2026</td>
 </tr>
 </tbody>
 </table>

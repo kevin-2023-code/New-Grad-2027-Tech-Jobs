@@ -2,7 +2,7 @@
 
 # 🏮 Beijing, Shanghai, Taipei & Hong Kong
 
-**167 open roles.** 1 in the United States & Canada · 166 elsewhere in the world.
+**209 open roles.** 1 in the United States & Canada · 208 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1197,6 +1197,300 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Xi'an, Shaanxi, China<br/>Shandong, China</td>
 <td align="center"><a href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010482">Apply</a></td>
 <td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Binance</strong></td>
+<td><a href="https://trueinterview.io/jobs/91cebfbe-a507-4d16-bbb9-fa650ca816de">Binance Acceleration Program - Product Data Analyst</a></td>
+<td>Hong Kong<br/>Singapore<br/>Taiwan</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/binance/jobs/5013528101">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Bosch</strong></td>
+<td><a href="https://trueinterview.io/jobs/9dfae698-c7a5-4e85-86b9-6e04e1eec593">Thermal Management Design Engineer(Process &amp; Manufacturing )</a></td>
+<td>Shanghai, China</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000157665099-thermal-management-design-engineer-process-manufacturing-">Apply</a></td>
+<td align="center">25 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Overview Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/a8a9fee7-2166-40a5-bac2-697c7a8da30b">Assistant Application Engineer</a></td>
+<td>Shenzhen, China<br/>China<br/>Haiyan<br/>+1 more</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/overview/ad33b509-2ebe-4c94-be91-91f4a79608ea">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Mobileye</strong></td>
+<td><a href="https://trueinterview.io/jobs/cae68033-d685-4334-b35e-562a0c815d8a">Embedded Software Engineer</a></td>
+<td>Shanghai, China</td>
+<td align="center"><a href="https://jobs.eu.lever.co/mobileye/98234741-a2d2-406a-ac14-7010e3ba3f0f">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Bosch</strong></td>
+<td><a href="https://trueinterview.io/jobs/fc6704c0-4ee4-4a3e-9b57-c3aa1ac9c931">车载电源应用开发软件工程师Application Software Engineer (OBC &amp; DCDC)_EM</a></td>
+<td>Shanghai, Shanghai, China</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000157039139--application-software-engineer-obc-dcdc-em">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>JLL</strong></td>
+<td><a href="https://trueinterview.io/jobs/f4cca8a0-0e51-492a-a196-a1ace68adfdf">Duty Engineer</a></td>
+<td>Hong Kong</td>
+<td align="center"><a href="https://jll.wd1.myworkdayjobs.com/jllcareers/job/Hong-Kong-SAR-China/Duty-Engineer_REQ544223">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/cd34ba11-57b3-4259-bfda-3c88170785fd">Audio &amp; Acoustic Instrumentation Systems Engineer</a></td>
+<td>Shenzhen, Guangdong, China<br/>Shanghai, Shanghai, China</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200659325">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Graphcore</strong></td>
+<td><a href="https://trueinterview.io/jobs/4d38b92c-d732-437b-b180-41c0d7502e73">Manufacturing Quality Engineer</a></td>
+<td>Taipei, Taipei City, Taiwan<br/>Hsinchu City, Hsinchu City, Taiwan</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/graphcore/jobs/8906019002">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Schonfeld Strategic Advisors</strong></td>
+<td><a href="https://trueinterview.io/jobs/06138ef1-a274-4307-ad3c-3a772100d60e">AI Platform Engineer</a></td>
+<td>Hong Kong, Hong Kong<br/>Singapore, Central, Singapore</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/schonfeld/jobs/8303536">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Société Générale</strong></td>
+<td><a href="https://trueinterview.io/jobs/e4410ce5-b81d-4c0c-a5c5-3beb6f6fabd6">Post Trade Application Developer (Contract)</a></td>
+<td>Hong Kong</td>
+<td align="center"><a href="https://careers.societegenerale.com/en/job-offers/post-trade-application-developer-contract-26000MFN-en">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Jane Street</strong></td>
+<td><a href="https://trueinterview.io/jobs/cdd88bd6-a1ef-49dc-a20a-924b111b322d">AV Engineer</a></td>
+<td>Hong Kong, Hong Kong</td>
+<td align="center"><a href="https://www.janestreet.com/join-jane-street/apply/7979592002?gh_jid=7979592002">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Payoneer</strong></td>
+<td><a href="https://trueinterview.io/jobs/38285e48-de0e-4584-a584-24e6570ab9ea">Integration Engineer</a></td>
+<td>Shanghai, China</td>
+<td align="center"><a href="https://www.payoneer.com/careers/position/8284892/?gh_jid=8284892">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Mobileye</strong></td>
+<td><a href="https://trueinterview.io/jobs/7df2bd5b-4b13-483e-956a-b24b172e801d">Hardware Testing Engineer - Body &amp; Joints</a></td>
+<td>Shanghai, China</td>
+<td align="center"><a href="https://jobs.eu.lever.co/mobileye/a7431f5c-1723-424f-b6a8-303d39418ecc">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Bosch</strong></td>
+<td><a href="https://trueinterview.io/jobs/55d6b68a-4c01-4061-9768-2981951bcb05">Application Engineer for Airbag ICs</a></td>
+<td>Shanghai, Shanghai, China</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000156487625-application-engineer-for-airbag-ics-">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Mobileye</strong></td>
+<td><a href="https://trueinterview.io/jobs/a602957f-c434-42a1-99a4-e8b0d8783c80">Software Development Engineer</a></td>
+<td>Shanghai, China</td>
+<td align="center"><a href="https://jobs.eu.lever.co/mobileye/ce5f71c6-4533-4016-b245-4f98509bf150">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/85094249-c6dc-4754-8f34-202d38801243">Hardware Development Engineer</a></td>
+<td>Shanghai, China</td>
+<td align="center"><a href="https://jobs.eu.lever.co/mobileye/fa5b5471-3ae8-4690-a65a-3792c2eaa9e0">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NielsenIQ</strong></td>
+<td><a href="https://trueinterview.io/jobs/5f933fd2-3e9f-4d66-a5a8-c69ea2282568">Antibot Engineer</a></td>
+<td>Shenzhen, GD, China</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/NielsenIQ/744000156470591-antibot-engineer">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Bosch</strong></td>
+<td><a href="https://trueinterview.io/jobs/59de56ba-a3f6-46cd-bb5e-d2d2c4720070">Application Engineer for 48V area</a></td>
+<td>Shanghai, Shanghai, China</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000156460669-application-engineer-for-48v-area">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Brunswick Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/f8309592-aea8-4fe2-9b8f-da9e24a8908b">Technical Support Analyst</a></td>
+<td>Hong Kong, Hong Kong SAR</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/brunswickgroup/jobs/8890483002">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Qube Research &amp; Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/cfa94f6c-2b1e-48ee-8c6f-c62b1ecca675">AWS Cloud Network Engineer</a></td>
+<td>Hong Kong</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8899594002">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Binance</strong></td>
+<td><a href="https://trueinterview.io/jobs/4ae1a0ab-9e8b-4768-9636-7cbc96b1a210">LLM Data Scientist/Algorithm Engineer (Top Talent Program)</a></td>
+<td>Hong Kong<br/>Singapore<br/>Australia<br/>+2 more</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/binance/jobs/5009522101">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Aumovio</strong></td>
+<td><a href="https://trueinterview.io/jobs/5eacf56b-48cc-45ca-96a5-9fcfeb96920d">Process Engineer</a></td>
+<td>Shanghai, China<br/>Bommasandra, Karnataka, India</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Aumovio/744000155728689-process-engineer">Apply</a></td>
+<td align="center">15 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Riot Games</strong></td>
+<td><a href="https://trueinterview.io/jobs/749889cc-9a33-4665-b214-789ce0b1549a">Sound Designer – Unpublished R&amp;D Product (Contract)</a></td>
+<td>Guangzhou, China</td>
+<td align="center"><a href="https://www.riotgames.com/en/work-with-us/job/8187444?gh_jid=8187444">Apply</a></td>
+<td align="center">15 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Chubb</strong></td>
+<td><a href="https://trueinterview.io/jobs/432d30d5-191d-4394-8795-fc324db8fac7">Chubb Life HK - Full Stack Engineer</a></td>
+<td>Hong Kong</td>
+<td align="center"><a href="https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/37667">Apply</a></td>
+<td align="center">15 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Binance</strong></td>
+<td><a href="https://trueinterview.io/jobs/b1a51f63-6c3f-451a-a126-87216d9d6233">Pioneer Talent Program - Research Data Scientist (APAC Remote)</a></td>
+<td>Hong Kong<br/>Singapore<br/>Taiwan</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/binance/jobs/5002565101">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/3b89d78c-974f-4463-b1fe-304f10e9f82c">Data Analyst (12 months contract)</a></td>
+<td>Hong Kong<br/>Singapore<br/>Malaysia</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/binance/jobs/5004445101">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/a93b765c-5b06-44ff-a9aa-4888512bfd8e">Binance Accelerator Program - Research On Chain Data Analyst</a></td>
+<td>Hong Kong<br/>Singapore<br/>Malaysia</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/binance/jobs/5002563101">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/7b6d19d5-0e35-4a37-9861-abb19236451c">Pioneer Talent Program - Applied Data Scientist</a></td>
+<td>Hong Kong<br/>Singapore<br/>Taiwan</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/binance/jobs/5002729101">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/66967a7e-6056-429e-9e92-b94543673716">LLM Applied Data Scientist (RAG/ NLP)</a></td>
+<td>Hong Kong<br/>Singapore</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/binance/jobs/5002635101">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/88133818-edf5-4af4-b163-365048034f4c">Java Backend Engineer, Global Travel Rule (GTR)</a></td>
+<td>Hong Kong<br/>Singapore</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/binance/jobs/5002673101">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Western Digital</strong></td>
+<td><a href="https://trueinterview.io/jobs/c2f03688-6af8-4197-be63-f07a3149fc70">Testing Engineering, Manufacturing (AI)</a></td>
+<td>Shenzhen, Guangdong Province, China</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/WesternDigital/744000155156589-testing-engineering-manufacturing-ai-">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Qube Research &amp; Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/92fc9a68-82bd-41ed-b2ec-5b7a39ed6c40">Linux Production Engineer</a></td>
+<td>Hong Kong<br/>Sydney</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8816129002">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Avery Dennison</strong></td>
+<td><a href="https://trueinterview.io/jobs/64a76aad-fb1d-4461-8661-9102fecab128">Assistant Automation Developer</a></td>
+<td>Guangzhou, China</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/AveryDennison/744000153965614-assistant-automation-developer">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Okx</strong></td>
+<td><a href="https://trueinterview.io/jobs/a3d80dfa-b8b0-4320-afdf-493a7a42e5cf">Rust Developer, Exchange OS Trading Engine</a></td>
+<td>Hong Kong, Hong Kong SAR<br/>Singapore, Singapore</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/okx/jobs/8014194003">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Capco</strong></td>
+<td><a href="https://trueinterview.io/jobs/68092e2b-1744-407e-a027-1295bcaf2124">UI/UX Designer | Banking</a></td>
+<td>China - Hong Kong</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/capco/jobs/8255801">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>HSBC</strong></td>
+<td><a href="https://trueinterview.io/jobs/1f824e01-c618-4c5a-a026-99da65ea2a38">Software Engineering</a></td>
+<td>Central, Hong Kong</td>
+<td align="center"><a href="https://apply.careers.hsbc.com/job/Central-Software-Engineering-Hong/1368513657/?feedId=417557">Apply</a></td>
+<td align="center">3 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Turner &amp; Townsend Pty Limited</strong></td>
+<td><a href="https://trueinterview.io/jobs/dd8795d5-b19f-483d-a9d9-e5a1d29f841c">Resident Engineer (Electrical / Building Services/ Mechanical) - Data Centre</a></td>
+<td>Hong Kong, Asia, Hong Kong</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/TurnerTownsend/744000153321739-resident-engineer-electrical-building-services-mechanical-data-centre">Apply</a></td>
+<td align="center">3 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>DV Trading</strong></td>
+<td><a href="https://trueinterview.io/jobs/07b74daf-1429-4164-853e-0ad8c33f842f">Data Engineer (DV QES)</a></td>
+<td>Hong Kong</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/dvtrading/jobs/4738302005">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Sika Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/a5b3fc6b-5876-4ceb-832e-da2614a438eb">Management Trainee – Design Engineering</a></td>
+<td>Suzhou, Jiangsu, China</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SikaAG/744000152291569-management-trainee-design-engineering">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>DV Trading</strong></td>
+<td><a href="https://trueinterview.io/jobs/90162ee3-9837-4a96-89d9-bd7d355fca67">2027 Quantitative Researcher Graduate (DV QES)</a></td>
+<td>Hong Kong</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/dvtrading/jobs/4736954005">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Framework</strong></td>
+<td><a href="https://trueinterview.io/jobs/f13d059a-192a-49d4-bbe0-98a9c1e4db1d">System Software Engineer</a></td>
+<td>Taipei, Taiwan</td>
+<td align="center"><a href="https://4dayweek.io/job/system-software-engineer-at-framework-6a7fd510">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Qube Research &amp; Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/12fa05d7-f493-4a08-aeb0-af9618f05532">Quantitative Developer - Pre/Post-Trade Analytics</a></td>
+<td>Hong Kong</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8826810002">Apply</a></td>
+<td align="center">21 Sep 2026</td>
 </tr>
 </tbody>
 </table>

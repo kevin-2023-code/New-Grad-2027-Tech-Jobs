@@ -2,7 +2,7 @@
 
 # Data Analyst
 
-**679 open roles.** 460 in the United States & Canada · 219 elsewhere in the world.
+**749 open roles.** 488 in the United States & Canada · 261 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 

@@ -2,7 +2,7 @@
 
 # 🇮🇱 Tel Aviv & Israel
 
-**13 open roles.**
+**22 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -109,6 +109,69 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Herzliya, Tel-Aviv District, Israel</td>
 <td align="center"><a href="https://jobs.apple.com/en-us/details/200691529">Apply</a></td>
 <td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cyesec</strong></td>
+<td><a href="https://trueinterview.io/jobs/3c118115-7a62-40c9-8233-7880c896b6ca">Support Engineer</a></td>
+<td>Herzliya, Israel</td>
+<td align="center"><a href="https://jobs.lever.co/CYE/7c79e174-f95b-4fff-a898-8e492032832b">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Nexxen</strong></td>
+<td><a href="https://trueinterview.io/jobs/8d763e6c-e4b2-4c12-80c2-658fc5c0dc89">IT Systems Engineer</a></td>
+<td>Tel Aviv, Israel</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/nexxen/a91bdc55-e8ae-4b3d-8e5e-bca90ce7ba56">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Mobileye</strong></td>
+<td><a href="https://trueinterview.io/jobs/5a58bd79-6f36-4ba0-a6fc-739c855dee09">ATE &amp; Manufacturing Engineer</a></td>
+<td>Petah Tikva, Israel</td>
+<td align="center"><a href="https://jobs.eu.lever.co/mobileye/b2d82205-1d0a-4fbd-be32-1e77efa22c76">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/4fdfa44b-6949-4809-bf08-f0be0a8412d1">Algo Software Engineer</a></td>
+<td>Jerusalem, Israel</td>
+<td align="center"><a href="https://jobs.eu.lever.co/mobileye/5b373ab2-fb86-4ce5-a393-5d838e28b2c4">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/c3bedf28-9cad-4aaa-ba69-f6bca8fc3b8d">Algorithm Developer - Vision Algorithms</a></td>
+<td>Jerusalem, Israel</td>
+<td align="center"><a href="https://jobs.eu.lever.co/mobileye/4445a729-d5ec-4ae4-b1f6-5bea979b4dce">Apply</a></td>
+<td align="center">30 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Intel</strong></td>
+<td><a href="https://trueinterview.io/jobs/48d4ba16-cb9a-4001-baa0-dc8ade9d6d70">AI Tools and Cloud Software Developer</a></td>
+<td>Israel, Haifa</td>
+<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/Israel-Haifa/AI-Tools-and-Cloud-Software-Developer_JR0286561">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Pagaya Investments</strong></td>
+<td><a href="https://trueinterview.io/jobs/6b0c4fe9-f9a7-4083-b1c9-35a4cb7c649d">DevOps Engineer- Avon</a></td>
+<td>Tel Aviv, Israel</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/pagayais/jobs/8006459003">Apply</a></td>
+<td align="center">28 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Mobileye</strong></td>
+<td><a href="https://trueinterview.io/jobs/66de6db3-3975-438e-8183-8b01bcc86107">Embedded Software Application Engineer</a></td>
+<td>Jerusalem, Israel</td>
+<td align="center"><a href="https://jobs.eu.lever.co/mobileye/fddc1e14-fb29-4181-9228-2a0e12d299bc">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Wix</strong></td>
+<td><a href="https://trueinterview.io/jobs/bb6fdc56-eced-4066-b2f7-b8dd27f260e1">Motion Designer - Base44</a></td>
+<td>Tel Aviv, Israel</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Wix2/744000151316848-motion-designer-base44">Apply</a></td>
+<td align="center">23 Sep 2026</td>
 </tr>
 </tbody>
 </table>

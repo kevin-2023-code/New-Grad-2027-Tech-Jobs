@@ -2,7 +2,7 @@
 
 # 🥐 Montréal & Québec
 
-**68 open roles.**
+**78 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -492,6 +492,76 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Montréal, PQ, Canada</td>
 <td align="center"><a href="https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/29036">Apply</a></td>
 <td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>RBC</strong></td>
+<td><a href="https://trueinterview.io/jobs/20c8103b-3fb6-4bb5-b280-26e4475c8e16">développeur, RBC amplifie 2027, Montréal / Developer, RBC Amplify 2027, Montreal</a></td>
+<td>Montréal, Canada</td>
+<td align="center"><a href="https://jobs.rbc.com/ca/en/job/R-0000191206">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Workleap</strong></td>
+<td><a href="https://trueinterview.io/jobs/6f71ba74-5306-4657-992c-ba5513b6e06b">System Administrator, IT Experience</a></td>
+<td>Montréal, Quebec, Canada</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/workleap/jobs/5264689007">Apply</a></td>
+<td align="center">16 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ubisoft</strong></td>
+<td><a href="https://trueinterview.io/jobs/b2f816d6-bbd5-4bec-88dc-d900d452a491">Online Programmer (Online Services - Player Identity)</a></td>
+<td>Montreal, QC<br/>Montreal, Québec, Canada</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Ubisoft2/744000154501742-online-programmer-online-services-player-identity-">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Kabam</strong></td>
+<td><a href="https://trueinterview.io/jobs/95a04a93-01aa-4043-995d-970e6dd309a3">Designer UX/UI (Contrat)</a></td>
+<td>Montreal, QC</td>
+<td align="center"><a href="https://jobs.lever.co/kabam/20523f91-a4e9-49f6-ae3b-d41b891ed8d4">Apply</a></td>
+<td align="center">2 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Mattel, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/925353c7-f6d5-4d8d-8485-e5a51d69f249">Designer de produits associé - Contrat de 6 mois</a></td>
+<td>Montréal, Quebec, Canada</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/MattelInc/744000153020883-designer-de-produits-associe-contrat-de-6-mois">Apply</a></td>
+<td align="center">1 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ubisoft</strong></td>
+<td><a href="https://trueinterview.io/jobs/7e4869d2-216b-41b6-8685-6ad5820e1377">Anti-Cheat Programmer (March of Giants)</a></td>
+<td>Montreal, QC<br/>Montreal, Québec, Canada</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Ubisoft2/744000152933157-anti-cheat-programmer-march-of-giants-">Apply</a></td>
+<td align="center">1 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/b098c0bc-c008-4bb9-b62d-15ab926175b4">Software Engineer – MLOPS</a></td>
+<td>Montreal, QC<br/>Montreal, Québec, Canada</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Ubisoft2/744000151789829-software-engineer-mlops">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Xona Space Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/ca288194-2d76-459e-928d-3fd75ec24898">Software Developer / Développeur(euse) logiciel</a></td>
+<td>Montreal, QC<br/>Montreal, Canada</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/xona-space/7ff7f11e-302c-43fa-80d6-245db5695625">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Ubisoft</strong></td>
+<td><a href="https://trueinterview.io/jobs/07d6bd70-4627-4f8a-8225-fdb71250ca8c">3D Programmer - (Assassin's Creed HEXE)</a></td>
+<td>Montreal, QC<br/>Montreal, Québec, Canada</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Ubisoft2/744000151643119-3d-programmer-assassin-s-creed-hexe-">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/2505e410-3e71-4106-80dc-787e810dee0f">Backend Programer - Quality Foundation</a></td>
+<td>Montreal, QC, Canada</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Ubisoft2/744000150775389-backend-programer-quality-foundation?oga=true">Apply</a></td>
+<td align="center">21 Sep 2026</td>
 </tr>
 </tbody>
 </table>

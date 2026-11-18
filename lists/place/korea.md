@@ -2,7 +2,7 @@
 
 # 🇰🇷 Seoul & Korea
 
-**14 open roles.**
+**24 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -116,6 +116,76 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Pangyo (Software Dream Center), South Korea</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/42dot/e7cc48d8-398f-4106-b25b-635e81936721">Apply</a></td>
 <td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SAP IT Business Systeme</strong></td>
+<td><a href="https://trueinterview.io/jobs/4e93a38e-7ee0-48f1-85ed-70ac21b7ec0f">Platform Engineer for HANA Cloud SQL Optimizer</a></td>
+<td>Seoul, Korea, republic of</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000157143970-platform-engineer-for-hana-cloud-sql-optimizer">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>42dot</strong></td>
+<td><a href="https://trueinterview.io/jobs/b9337b87-ed18-47c8-a723-ed6499b722ae">SDV Vehicle Connect Software Engineer (C++ / Rust)</a></td>
+<td>Pangyo (Software Dream Center), South Korea</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/42dot/442d28d0-1c6a-40a1-8729-9e8db1ab14f9">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/05789ee3-2fea-419e-b745-5b15486c9520">Reinforcement Learning Engineer (Autonomous Driving)</a></td>
+<td>Pangyo (Software Dream Center), South Korea</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/42dot/97aa47ac-032b-4ac3-9f68-2f733eab34da">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/d8d375be-b8e8-47d1-b017-a195b35d3fb8">AI Agent Engineer (Autonomous Driving)</a></td>
+<td>Pangyo (Software Dream Center), South Korea</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/42dot/133bd359-f3b9-463d-870b-ae2e6ed9b3b1">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Clo Virtual Fashion</strong></td>
+<td><a href="https://trueinterview.io/jobs/41542fa9-fd35-4064-9425-80c108a1eccf">Backend Developer, Java/Kotlin</a></td>
+<td>Seoul</td>
+<td align="center"><a href="https://jobs.lever.co/clovirtualfashion/d416be5a-0cd9-4e8e-aac1-17432c72a12d">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>42dot</strong></td>
+<td><a href="https://trueinterview.io/jobs/34b8fcb0-585a-4d8a-971f-51b9d71d76d4">SLAM &amp; 3D Reconstruction Engineer (Autonomous Driving)</a></td>
+<td>Pangyo (Software Dream Center), South Korea</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/42dot/385596ca-22fc-4ee2-9083-5c52915f689a">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Rotork</strong></td>
+<td><a href="https://trueinterview.io/jobs/863785f1-5753-4f35-967e-508d208c2c35">Mechanical Engineer (기계설계엔지니어)</a></td>
+<td>Incheon, Incheon, Korea, republic of<br/>Chennai, Tamil Nadu, India</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Rotork1/744000154921869-mechanical-engineer-">Apply</a></td>
+<td align="center">12 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>42dot</strong></td>
+<td><a href="https://trueinterview.io/jobs/3cf72d49-08db-4b19-85c5-2cfc0c22ddd3">Deep Learning Engineer (음성 합성 개발)</a></td>
+<td>Pangyo (Software Dream Center), South Korea</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/42dot/c184cf35-51e2-4e80-87bc-579089f07472">Apply</a></td>
+<td align="center">2 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/136ee095-3f1c-451d-bb50-f39a51732e3e">[집중채용] System Framework Engineer</a></td>
+<td>Pangyo (Software Dream Center), South Korea</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/42dot/0c03a694-6180-4be3-80ff-74c96f5b7dad">Apply</a></td>
+<td align="center">28 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Moloco</strong></td>
+<td><a href="https://trueinterview.io/jobs/3d156b6c-bdf5-4e34-b626-04bada8dfe23">QA Engineer (1-Year Contract)</a></td>
+<td>Seoul, Korea</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/moloco/jobs/8003052003">Apply</a></td>
+<td align="center">23 Sep 2026</td>
 </tr>
 </tbody>
 </table>

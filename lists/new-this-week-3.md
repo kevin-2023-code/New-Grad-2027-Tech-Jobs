@@ -2,11 +2,11 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,201 open roles.** 996 in the United States & Canada · 205 elsewhere in the world. Everything the employers put up this week.
+**1,198 open roles.** 993 in the United States & Canada · 205 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
-<sub>[← Page 2](new-this-week-2.md) · Page 3 of 4 · [Page 4 →](new-this-week-4.md)</sub>
+<sub>[← Page 2](new-this-week-2.md) · Page 3 of 3</sub>
 
 ## United States & Canada
 
@@ -1364,27 +1364,6 @@
 <td><a href="https://trueinterview.io/jobs/760e566d-e0ed-44d9-8027-3271a3bfb8d9">Structural Engineer I</a></td>
 <td>New York, NY<br/>New York, New York, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/AECOM2/744000160939959-structural-engineer-i">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Barr Brands</strong></td>
-<td><a href="https://trueinterview.io/jobs/841c383e-c8ab-42de-9e29-814283d1f4be">Associate Packaging Engineer</a></td>
-<td>Memphis, TN</td>
-<td align="center"><a href="https://barrbrands.rec.pro.ukg.net/BAR1504BABR/JobBoard/72ed5f69-2009-467f-810d-e90ea87d3bef/OpportunityDetail?opportunityId=f77b191c-ec03-4fb6-9572-5298a83afb77&amp;postingId=34219a60-1d6a-45ac-8107-5e00f8994a97">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Textron</strong></td>
-<td><a href="https://trueinterview.io/jobs/b6ffa956-f463-4ca5-85b2-de55375ed3f0">2027 Software Engineer I (Weapons) - Wilmington, MA</a></td>
-<td>Wilmington, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487804405/">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Anagh Technologies Inc</strong></td>
-<td><a href="https://trueinterview.io/jobs/e64e1fd3-7671-482e-acda-7c67839a73ee">Java Developer</a></td>
-<td>New Jersey, United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487804226/">Apply</a></td>
 <td align="center">10 Nov 2026</td>
 </tr>
 </tbody>
@@ -2827,9 +2806,16 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4489667728/">Apply</a></td>
 <td align="center">11 Nov 2026</td>
 </tr>
+<tr>
+<td><strong>Lenovo</strong></td>
+<td><a href="https://trueinterview.io/jobs/533a4e39-f112-458a-9c6d-5d306000c0a6">AI &amp; Business Insights Analyst | Early Career Opportunity</a></td>
+<td>Bratislava, Bratislava, Slovakia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4462988003/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
 </tbody>
 </table>
 
-<sub>[← Page 2](new-this-week-2.md) · Page 3 of 4 · [Page 4 →](new-this-week-4.md)</sub>
+<sub>[← Page 2](new-this-week-2.md) · Page 3 of 3</sub>
 
 [← Every filter](README.md) · [Back to the full list](../README.md)

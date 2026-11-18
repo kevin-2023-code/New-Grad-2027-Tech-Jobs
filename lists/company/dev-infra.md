@@ -2,7 +2,7 @@
 
 # ☁️ Developer tools, cloud & data infrastructure
 
-**51 open roles.** 23 in the United States & Canada · 28 elsewhere in the world. Cloud, CDNs, databases, data platforms, observability and DevOps.
+**76 open roles.** 32 in the United States & Canada · 44 elsewhere in the world. Cloud, CDNs, databases, data platforms, observability and DevOps.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -177,6 +177,69 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Trenton, NJ<br/>Arizona, United States</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/kong/d52fda5c-51b7-44b4-b152-32cc7b8ffcf1">Apply</a></td>
 <td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Bandwidth</strong></td>
+<td><a href="https://trueinterview.io/jobs/6f3ed206-fd2e-470f-89ca-525245f7af10">Applied AI Engineer</a></td>
+<td>Raleigh, NC</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/bandwidth/jobs/8285488">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Snowflake</strong></td>
+<td><a href="https://trueinterview.io/jobs/4b3980e7-3216-4538-b1e0-431f522f735f">Cloud Support Engineer - Japanese Speaking</a></td>
+<td>CA-Ontario-Toronto</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/snowflake/1e128d1a-b3d5-4ff3-8b34-60a81165d27f">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Mirantis</strong></td>
+<td><a href="https://trueinterview.io/jobs/e7de1667-072f-4eea-88b6-36a0fa276655">Cloud Infrastructure Engineer - Kubernetes &amp; KubeVirt (REF1242M)</a></td>
+<td>Austin, TX<br/>Austin, Texas, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Mirantis/744000156759549-cloud-infrastructure-engineer-kubernetes-kubevirt-ref1242m-">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Clickhouse</strong></td>
+<td><a href="https://trueinterview.io/jobs/8aeeed47-22c7-4dbf-97d5-2cd2aff587c4">Full Stack Software Engineer - SQL Console</a></td>
+<td>Europe or US</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/clickhouse/1176ec78-e10d-4acd-8af8-47406af929ee">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/de413b90-2455-4bb4-8125-861f945e5ec5">Database Research Scientist</a></td>
+<td>Canada<br/>United Kingdom<br/>Germany<br/>+1 more</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/clickhouse/962f45f3-d8d3-4073-add2-af763f7c3ffb">Apply</a></td>
+<td align="center">2 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SonarSource</strong></td>
+<td><a href="https://trueinterview.io/jobs/a36d0793-585a-4023-bf91-1354058c2e7c">AI Systems Engineer</a></td>
+<td>Geneva<br/>Austin, TX<br/>Austin, Texas<br/>+1 more</td>
+<td align="center"><a href="https://jobs.lever.co/sonarsource/3cae19c4-144b-41b9-89c1-03203547a8d3">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>GitLab</strong></td>
+<td><a href="https://trueinterview.io/jobs/a837018c-1f6e-4942-ab23-729b40cf9051">Intermediate Security Analyst, Vulnerability Operations  (North America)</a> 🌐</td>
+<td>Remote — Canada, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/gitlab/jobs/8821526002">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f0e49859-c9d2-4550-869b-1ffab2c1a726">Strategic Account Executive - San Francisco</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/gitlab/jobs/8691382002">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Vercel</strong></td>
+<td><a href="https://trueinterview.io/jobs/8655be92-db89-48dc-8905-f7ef035d2cbb">Partner Solutions Engineer</a></td>
+<td>Hybrid - San Francisco</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/vercel/jobs/6201179004">Apply</a></td>
+<td align="center">22 Sep 2026</td>
 </tr>
 </tbody>
 </table>
@@ -385,6 +448,118 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Roubaix, France</td>
 <td align="center"><a href="https://careers.ovhcloud.com/job/ROUBAIX-Software-Developer-Data-Security-FHN-59100/1451553133/">Apply</a></td>
 <td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Supabase</strong></td>
+<td><a href="https://trueinterview.io/jobs/5851407c-d4ff-4695-8d2d-6714adb23ada">Container Engineer</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/supabase/6f7656fc-9983-48be-bbd3-8b40e0e3027a">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Canonical</strong></td>
+<td><a href="https://trueinterview.io/jobs/52d5ee69-ca92-4934-934a-8b5340b96d6c">Support Engineer</a></td>
+<td>Office Based - London, UK</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/canonical/jobs/8280936">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/0b850b13-be84-4f11-92d0-9610f9803777">Ubuntu Security Engineer</a></td>
+<td>Worldwide<br/>Home based - Worldwide</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/canonical/jobs/2925180">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Vercel</strong></td>
+<td><a href="https://trueinterview.io/jobs/dabda944-e0c1-44a1-8bb3-7d3f8f60dc5f">Customer Support Engineer</a> 🌐</td>
+<td>Remote — Australia</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/vercel/jobs/6230763004">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Supabase</strong></td>
+<td><a href="https://trueinterview.io/jobs/dee6d0c8-3307-4951-8261-b495525f1475">SDK Engineer - Python</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/supabase/b65287c7-2071-4bc6-8717-58c090e2a372">Apply</a></td>
+<td align="center">16 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>GitLab</strong></td>
+<td><a href="https://trueinterview.io/jobs/40348e1c-68b7-4bb0-b544-d1b2979c0d77">Site Reliability Engineer, Cells Infrastructure</a></td>
+<td>Bangalore, India</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/gitlab/jobs/8867756002">Apply</a></td>
+<td align="center">15 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Posthog</strong></td>
+<td><a href="https://trueinterview.io/jobs/d63154e0-76d5-4fd9-9bcc-e70ccd157c63">Animator &amp; Motion Graphics Designer</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/PostHog/4a8a1ee5-aa45-447e-a438-919b4577f14d">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Elastic N.V.</strong></td>
+<td><a href="https://trueinterview.io/jobs/4a84bb85-158d-469f-bd2e-f825c22db163">Marketing AI Engineer</a></td>
+<td>Bangalore, India</td>
+<td align="center"><a href="https://jobs.elastic.co/jobs?gh_jid=8265123&amp;gh_jid=8265123">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>GitLab</strong></td>
+<td><a href="https://trueinterview.io/jobs/5523252d-011b-4c65-98b1-a3e6021b038a">People Systems Engineer</a> 🌐</td>
+<td>Remote — India, Poland</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/gitlab/jobs/8861748002">Apply</a></td>
+<td align="center">9 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Supabase</strong></td>
+<td><a href="https://trueinterview.io/jobs/b6095ac5-af48-4f33-a8c6-542dd2edf758">Platform Engineer, Managed Postgres</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/supabase/9073c0cd-2545-473a-b2ac-63e4615c69b5">Apply</a></td>
+<td align="center">9 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Veeam Software</strong></td>
+<td><a href="https://trueinterview.io/jobs/14044769-bc82-472a-a456-cfbb385abd92">QA Engineer</a></td>
+<td>Warsaw, Poland<br/>Lisbon, Portugal<br/>Prague, Czechia</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4999596101">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Posthog</strong></td>
+<td><a href="https://trueinterview.io/jobs/58b05fcd-bfff-4728-86b3-7c3e0054a1c2">Developer Marketer - Sales</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/PostHog/82ef4227-e7a6-4e59-a128-2b3333951e21">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Megaport</strong></td>
+<td><a href="https://trueinterview.io/jobs/f276d9dc-c625-4c04-89dd-e73f73f58624">Network Procurement Officer</a></td>
+<td>Sofia</td>
+<td align="center"><a href="https://jobs.lever.co/megaport/3ba89584-e74d-4d06-8f51-b39e33b37e8f/apply">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Resend</strong></td>
+<td><a href="https://trueinterview.io/jobs/b02a180e-9bae-44f8-83fb-dda3bcd6bca4">Software Engineer, Developer Tools</a></td>
+<td>Americas<br/>Europe</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/resend/53d3710a-2d55-42ac-ba90-cdfd306bf560">Apply</a></td>
+<td align="center">1 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Grafana Labs</strong></td>
+<td><a href="https://trueinterview.io/jobs/6b3b477e-5a90-4d57-9265-34405ca119e9">Solutions Engineer</a> 🌐</td>
+<td>Remote — France</td>
+<td align="center"><a href="https://4dayweek.io/job/solutions-engineer-at-grafana-labs-235ac4d0">Apply</a></td>
+<td align="center">26 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>CircleCI</strong></td>
+<td><a href="https://trueinterview.io/jobs/68123578-fc36-4754-b33c-f3c602026bb2">Strategic Account Executive, EMEA</a> 🌐</td>
+<td>Remote — United Kingdom</td>
+<td align="center"><a href="http://www.circleci.com/careers/jobs/8784501002/?gh_jid=8784501002">Apply</a></td>
+<td align="center">22 Sep 2026</td>
 </tr>
 </tbody>
 </table>

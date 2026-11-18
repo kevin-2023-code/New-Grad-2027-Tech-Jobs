@@ -2,7 +2,7 @@
 
 # 🍑 Atlanta
 
-**225 open roles.**
+**243 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1591,6 +1591,132 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Atlanta, GA</td>
 <td align="center"><a href="https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---GA-Atlanta/Technical-Support-Representative_R57498">Apply</a></td>
 <td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Emory University</strong></td>
+<td><a href="https://trueinterview.io/jobs/0e92b901-d230-414e-b633-a4d37bdab7ce">Postdoctoral Fellowship – AI and Machine Learning for Infectious Disease Modeling</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://faculty-emory.icims.com/jobs/175572/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Procure Analytics</strong></td>
+<td><a href="https://trueinterview.io/jobs/00bafc06-ba50-4059-aff5-f0e1a75bcd07">Software Engineer</a> 🌐</td>
+<td>Remote — United States<br/>Atlanta, GA</td>
+<td align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4614210/Procure-Analytics/Software-Engineer">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ciena</strong></td>
+<td><a href="https://trueinterview.io/jobs/932c379a-4c54-4611-b69e-6d1826365e12">Software Engineer (Security) - New Grad</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Software-Engineer--Security----New-Grad_R031979-1">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Lockheed Martin</strong></td>
+<td><a href="https://trueinterview.io/jobs/35b2d45c-24e6-4b30-9639-ab1a90d202c2">Flight Test Instrumentation Mechanical Design Engineer - Early Career</a></td>
+<td>Marietta, GA</td>
+<td align="center"><a href="https://lockheedmartin.eightfold.ai/careers/job/996477505189?domain=lockheedmartin.com">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/9cb1ba06-ee3e-405a-a2aa-aac2c296128d">Stress Analysis Engineer - Early Career</a></td>
+<td>Marietta, GA</td>
+<td align="center"><a href="https://lockheedmartin.eightfold.ai/careers/job/996477501106?domain=lockheedmartin.com">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e4411706-bacf-4cdf-ae65-565aa87cb1ef">Flight Test Instrumentation Electrical Design Engineer - Early Career</a></td>
+<td>Marietta, GA</td>
+<td align="center"><a href="https://lockheedmartin.eightfold.ai/careers/job/996477476769?domain=lockheedmartin.com">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/30c80538-5f62-4bc7-aa92-c53fc46feea2">Flight Test Discipline Engineer</a></td>
+<td>Marietta, GA</td>
+<td align="center"><a href="https://lockheedmartin.eightfold.ai/careers/job/996477459101?domain=lockheedmartin.com">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Verifone</strong></td>
+<td><a href="https://trueinterview.io/jobs/c2e8d3fc-6416-4199-b801-d56c44d30344">Systems Integration Engineer</a></td>
+<td>Atlanta, GA<br/>Atlanta, Georgia, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/verifone/jobs/8027074003">Apply</a></td>
+<td align="center">16 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Lockheed Martin</strong></td>
+<td><a href="https://trueinterview.io/jobs/a9639f94-1d04-498f-8ad1-b44d68eaba16">Flight Test Discipline Engineer - Early Career</a></td>
+<td>Marietta, GA</td>
+<td align="center"><a href="https://lockheedmartin.eightfold.ai/careers/job/996477383043?domain=lockheedmartin.com">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Pdi Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/55e67a88-d440-43d9-9fee-8491b2bb6749">Product Owner I (Entry-Level)</a> 🌐</td>
+<td>Remote — United States<br/>Alpharetta, GA, Remote US</td>
+<td align="center"><a href="https://jobs.lever.co/pditechnologies/ba03923d-fb60-4203-b85e-5e18bc046a04/apply">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Hermeus</strong></td>
+<td><a href="https://trueinterview.io/jobs/f185f312-a426-4712-8569-70ed6bb54a38">Avionics Electrical Engineer</a></td>
+<td>Atlanta, GA<br/>Los Angeles, CA</td>
+<td align="center"><a href="https://jobs.lever.co/hermeus/483be3c4-99f8-4dba-89f6-b2643cf9aa8e">Apply</a></td>
+<td align="center">9 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>XYZ Reality</strong></td>
+<td><a href="https://trueinterview.io/jobs/d4fc3d1f-2cab-4c79-b5b3-e0ba834c8cd0">Site Engineer - Carterville, Georgia</a></td>
+<td>Atlanta, GA<br/>Atlanta, Georgia</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/xyz-reality/e337a907-dd0d-452e-a689-e89006dd9efe">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Hermeus</strong></td>
+<td><a href="https://trueinterview.io/jobs/e9c70b9f-8e08-4818-8d9f-625e2ca55dc5">Flight Software Engineer – Command &amp; Control</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://jobs.lever.co/hermeus/759a5648-15cb-45aa-9fbe-616b953f9fcf">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CRB</strong></td>
+<td><a href="https://trueinterview.io/jobs/857d7b7e-8608-4836-b881-d47018e6d206">Process Engineer I</a></td>
+<td>Atlanta, GA<br/>Atlanta, Georgia, United States<br/>Conshohocken, Pennsylvania, United States<br/>+4 more</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/CRB/744000153760685-process-engineer-i">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Liberis</strong></td>
+<td><a href="https://trueinterview.io/jobs/62aa9af6-238b-4da0-a9e4-5967fc409d47">Platform Support Engineer</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/liberis/jobs/8258145">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>VetsEZ</strong></td>
+<td><a href="https://trueinterview.io/jobs/5ba3ac52-cdbc-46a6-a291-7ed613c3a551">Windows System Administrator (Remote Opportunity)</a> 🌐</td>
+<td>Remote — United States<br/>Atlanta, GA</td>
+<td align="center"><a href="https://vetsez.breezy.hr/p/c78e9d90197b01-windows-system-administrator-remote-opportunity">Apply</a></td>
+<td align="center">1 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>WSP</strong></td>
+<td><a href="https://trueinterview.io/jobs/d178c5fe-6d70-4347-9425-841c1129eaa0">Early Career Process Water/Plumbing Engineer</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96187">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>NCR</strong></td>
+<td><a href="https://trueinterview.io/jobs/0ea200b2-821e-492e-a0e8-b9b1ef61155b">Cyber Security AI Engineer, Security Operations Center</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://ncr.wd1.myworkdayjobs.com/ext_us/job/ATLANTA-GA-USA/Information-Security-Operations-Analyst_R0156645">Apply</a></td>
+<td align="center">24 Sep 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # 📐 Engineering & architecture firms
 
-**56 open roles.** 29 in the United States & Canada · 27 elsewhere in the world. Civil, structural and environmental engineering and AEC consultancies.
+**139 open roles.** 78 in the United States & Canada · 61 elsewhere in the world. Civil, structural and environmental engineering and AEC consultancies.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -220,6 +220,349 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98366">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
+<tr>
+<td><strong>Olsson</strong></td>
+<td><a href="https://trueinterview.io/jobs/c1935055-9a92-4fe4-af38-57d0c4c93568">Project Engineer - Rail Traffic</a></td>
+<td>North Kansas City, MO<br/>Overland Park, KS<br/>Dallas, TX<br/>+1 more</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5462229008">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/cf7e4447-ffd8-44d7-9a80-21d518b4be1f">Telecom CAD Designer</a></td>
+<td>Overland Park, KS<br/>Des Moines, IA<br/>Lincoln, NE<br/>+4 more</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5462164008">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>WSP</strong></td>
+<td><a href="https://trueinterview.io/jobs/642d07bc-69fd-4aab-aa5a-e1d210a4c8f7">Early Career Civil/Structural Transmission Line Engineer</a></td>
+<td>Overland Park, KS, United States</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98138">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Dlr Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/46e13356-0be7-469f-ac6a-6e4e6cf19885">Electrical Engineer, Entry Level</a></td>
+<td>Overland Park, Kansas, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/dlrgroup/jobs/5449992008">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>WSP</strong></td>
+<td><a href="https://trueinterview.io/jobs/01c98358-df86-49da-8ec3-613373013319">Junior Process Engineer</a></td>
+<td>Vancouver, BC, Canada</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/92316">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e15d623c-4d5b-4d5e-acc3-56c92aedd3c3">Industrial, Mechanical Engineer - Gatineau</a></td>
+<td>Gatineau, QC, Canada</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97966">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/45993842-d5d4-49a2-a8e9-8895004a6781">Intermediate Mechanical Engineer, Mission Critical Buildings</a></td>
+<td>Vancouver, BC, Canada</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97962">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/286d4a3e-93f6-497d-ad69-025ee0afc732">Intermediate Electrical Engineer- Industrial Buildings</a></td>
+<td>Boise, ID, United States<br/>Minneapolis, MN, United States<br/>Overland Park, KS, United States</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97900">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Egis Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/376e3c4e-1f8f-48cb-9a21-b596baa18b26">Entry Roadway Engineer</a></td>
+<td>Harrisburg, PA, United States<br/>Pittsburgh, PA, United States<br/>Harrisburg, Pennsylvania, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/EgisGroup/744000156074949-entry-roadway-engineer?oga=true">Apply</a></td>
+<td align="center">17 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>WSP</strong></td>
+<td><a href="https://trueinterview.io/jobs/7d719e25-a921-47a3-99eb-b7f912dd74dd">Data Center Electrical Engineer, Assistant Consultant</a></td>
+<td>Houston, TX, United States<br/>Dallas, TX, United States<br/>Herndon, VA, United States<br/>+1 more</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97601">Apply</a></td>
+<td align="center">16 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Walker Consultants</strong></td>
+<td><a href="https://trueinterview.io/jobs/c3960dc6-61ea-47a9-bab4-fa42c9988804">Entry-Level Structural Engineer - Restoration</a></td>
+<td>Ann Arbor, MI</td>
+<td align="center"><a href="https://jobs.lever.co/walkerconsultants/336688de-ea08-44cc-ad29-2997889a0526">Apply</a></td>
+<td align="center">15 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Egis Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/261c322b-9fa2-493e-8546-4139b0d778cf">Entry Structural Engineer</a></td>
+<td>Tewksbury, Massachusetts, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/EgisGroup/744000155615291-entry-structural-engineer?oga=true">Apply</a></td>
+<td align="center">15 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>WSP</strong></td>
+<td><a href="https://trueinterview.io/jobs/193311cc-a4c1-4682-a54c-811366064229">Aviation Pavement Engineer</a></td>
+<td>ON, Canada<br/>AB, Canada<br/>BC, Canada<br/>+2 more</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97065">Apply</a></td>
+<td align="center">15 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Egis Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/f6811cc1-4ee7-45a4-baac-02478d94c7c0">Roadway Project Engineer</a></td>
+<td>Raleigh, North Carolina, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/EgisGroup/744000155361849-roadway-project-engineer">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>WSP</strong></td>
+<td><a href="https://trueinterview.io/jobs/f2fd718b-51b0-41e0-bafc-cc165a0f3fcf">Early Career Civil Roadway Engineer</a></td>
+<td>Virginia Beach, VA, United States<br/>Herndon, VA, United States</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97430">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/4ff481d4-1a81-46a0-87c8-4f20745b16f6">Civil &amp; Structural Engineer</a></td>
+<td>Dublin, Co. Dublin, Ireland<br/>Ireland<br/>Belfast, County Antrim, United Kingdom<br/>+1 more</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97422">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/ebd6f457-6cb2-46b9-9ed3-39e6f9609e99">Electrical Substation Design Engineer</a></td>
+<td>Dublin, Co. Dublin, Ireland<br/>Ireland<br/>Naas, Co. Dublin, Ireland<br/>+1 more</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97414">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f0e957ee-f6e1-4515-b7cb-f287754d137b">HV Cable Design Engineer</a></td>
+<td>Dublin, Co. Dublin, Ireland<br/>Ireland<br/>Belfast, County Antrim, United Kingdom<br/>+1 more</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97426">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/231130a0-5c69-4751-97c8-fb0aa9c5e27d">Intermediate Professional, Mechanical Engineering</a></td>
+<td>Houston, TX, United States</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96917">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/0139d3ce-3c83-4eae-ade6-e866e6bc03ea">Primary Design Engineer (Energy)</a></td>
+<td>Dublin, Co. Dublin, Ireland<br/>Ireland<br/>Naas, Co. Dublin, Ireland</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97312">Apply</a></td>
+<td align="center">9 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/2a2b6780-d058-4e27-91ff-8810183fdd5b">Protection &amp; Control Engineer (Energy)</a></td>
+<td>Dublin, Co. Dublin, Ireland<br/>Glasgow, Lanarkshire, United Kingdom<br/>Edinburgh, Midlothian, United Kingdom<br/>+5 more</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97309">Apply</a></td>
+<td align="center">9 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Olsson</strong></td>
+<td><a href="https://trueinterview.io/jobs/a64b3d2e-4c67-417e-8e53-c901be11ea09">Civil Project Engineer - Site Design</a></td>
+<td>Des Moines, IA<br/>Lincoln, NE<br/>Omaha, NE</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5447925008">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>WSP</strong></td>
+<td><a href="https://trueinterview.io/jobs/b5f95206-8f3e-4a34-9968-04184fd03142">Materials Engineer / Materials Testing and Inspection Specialist</a></td>
+<td>Vancouver, BC, Canada</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96521">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Jensen Hughes</strong></td>
+<td><a href="https://trueinterview.io/jobs/0386ed9d-3c44-48a6-8fcb-7c9e3786f5c7">Fire Sprinkler Designer</a></td>
+<td>Phoenix, Arizona, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/jensenhughes/jobs/5446009008">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Olsson</strong></td>
+<td><a href="https://trueinterview.io/jobs/c35139de-698c-498c-9b17-307e3925a9b2">Entry-Level Transportation Engineer - Traffic &amp; ITS</a></td>
+<td>Dallas, TX</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5446368008">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>WSP</strong></td>
+<td><a href="https://trueinterview.io/jobs/fb959bdf-37e9-456f-8e3a-d5cb4c71c836">Early Career Structural Engineer - Transportation</a></td>
+<td>Valhalla, NY, United States<br/>Troy, NY, United States</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97129">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/6d08f4cd-d5f8-45c2-8ca9-5177d80ef103">Temporary Early Career Electrical Engineer</a></td>
+<td>Syracuse, NY, United States<br/>Freeport, MI, United States<br/>Ann Arbor, MI, United States<br/>+1 more</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97079">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Olsson</strong></td>
+<td><a href="https://trueinterview.io/jobs/9d89e092-44a5-46be-9380-234b169898c5">Entry-Level Civil Engineer - Water Resources</a></td>
+<td>Overland Park, KS</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5445167008">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/feb715e3-abf9-4cad-81be-338d11661078">Civil Designer - Site Design</a></td>
+<td>Fayetteville, AR<br/>Springfield, MO</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5444986008">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/0fb03017-20ef-444d-abf0-cdbcd97e8099">Geotechnical Engineer</a></td>
+<td>Fayetteville, AR<br/>Springfield, MO</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5444913008">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>WSP</strong></td>
+<td><a href="https://trueinterview.io/jobs/d9423f45-2211-41b1-ba75-06c278863791">Graduate Project Engineer or Geoscientist</a></td>
+<td>St Catharines, ON, Canada</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96715">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Apex Companies</strong></td>
+<td><a href="https://trueinterview.io/jobs/c259443d-2b94-4082-bf3e-c2041e536e44">Water Resources Engineer</a></td>
+<td>Fort Myers, FL</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/apexcompanies/jobs/5444159008">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Wade Trim</strong></td>
+<td><a href="https://trueinterview.io/jobs/099e474f-66b3-4f74-a9ea-a004341dbbd1">Entry Level Civil/Environmental Engineer - #3068.08</a></td>
+<td>Pittsburgh, PA</td>
+<td align="center"><a href="https://jobs.lever.co/wadetrim/bc096290-b74b-487a-8d3d-0e3369fd8ab2">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Apex Companies</strong></td>
+<td><a href="https://trueinterview.io/jobs/25674cfc-667c-492d-831e-2abdabc312aa">Structural Bridge Engineer</a></td>
+<td>Boise, ID</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/apexcompanies/jobs/5439266008">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Olsson</strong></td>
+<td><a href="https://trueinterview.io/jobs/1286ea3e-9f80-43a6-a501-06916fa2a560">Transportation Engineering Leader - Roadway</a></td>
+<td>Overland Park, KS</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5443315008">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>WSP</strong></td>
+<td><a href="https://trueinterview.io/jobs/86437932-f974-4fc5-8500-a60d592f3f76">Tailings / Geotechnical Engineer</a></td>
+<td>Naas, Co. Kildare, Ireland<br/>United Kingdom</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96562">Apply</a></td>
+<td align="center">1 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cannondesign</strong></td>
+<td><a href="https://trueinterview.io/jobs/ab7747d8-dcc4-41c9-bec3-0a9c2a52dd37">Mechanical - Entry Level</a></td>
+<td>St. Louis, MO</td>
+<td align="center"><a href="http://www.cannondesign.com/careers/?gh_jid=8858861002">Apply</a></td>
+<td align="center">30 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Jensen Hughes</strong></td>
+<td><a href="https://trueinterview.io/jobs/e3497a08-bf65-469f-a3e7-25d62d781056">Associate - Fire Protection Consultant</a></td>
+<td>Concord, California, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/jensenhughes/jobs/5438679008">Apply</a></td>
+<td align="center">30 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>WSP</strong></td>
+<td><a href="https://trueinterview.io/jobs/7ad05f59-1f0b-47ae-84a7-22d2faabf63b">Early Career Structural Engineer in Training</a></td>
+<td>Calgary, AB, Canada<br/>Lethbridge, AB, Canada</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95698">Apply</a></td>
+<td align="center">30 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Olsson</strong></td>
+<td><a href="https://trueinterview.io/jobs/9fc5c46e-9297-48f0-8cec-7130a1520a2f">Associate Technician – Substation Design</a></td>
+<td>Fayetteville, AR</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5439253008">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>WSP</strong></td>
+<td><a href="https://trueinterview.io/jobs/4b186bf9-d900-4d55-9490-ce50d16a80c7">Early Career Electrical Engineer - Buildings</a></td>
+<td>Kansas City, MO, United States<br/>Dallas, TX, United States</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96488">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/a5797f0e-29ec-48a4-90d6-bb63a07544d5">Early Career Civil/Geotechnical Engineer</a></td>
+<td>Reno, NV, United States<br/>Madison, WI, United States<br/>Lakewood, CO, United States</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96445">Apply</a></td>
+<td align="center">28 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/475bbc77-5032-48ec-88d0-7f9e8f19369b">Building Sciences Technologist</a></td>
+<td>Abbotsford, BC, Canada</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95884">Apply</a></td>
+<td align="center">26 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Olsson</strong></td>
+<td><a href="https://trueinterview.io/jobs/4ae3a740-7848-430a-b382-68a71e2f3468">Entry-Level Roadway Engineer</a></td>
+<td>Oklahoma City, OK</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5412422008">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Woolpert</strong></td>
+<td><a href="https://trueinterview.io/jobs/86a505e0-9b41-4107-9104-fe73c6f484e5">Fire Protection Engineer</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/woolpert/jobs/4328828009">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>WSP</strong></td>
+<td><a href="https://trueinterview.io/jobs/5b3a289d-7659-4597-8455-8760b52087a7">Cable Systems Engineer – Ireland (Energy)</a></td>
+<td>Belfast, County Antrim, United Kingdom<br/>Co. Dublin, Ireland<br/>Naas, Co. Carlow, Ireland</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95951">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/c01b21af-f69b-4c9f-b8b3-4a5c345fcbce">Overhead Line (OHL) Engineer – Ireland (Energy)</a></td>
+<td>Dublin, Co. Dublin, Ireland<br/>Belfast, County Antrim, United Kingdom<br/>Naas, Co. Carlow, Ireland</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95952">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/d178c5fe-6d70-4347-9425-841c1129eaa0">Early Career Process Water/Plumbing Engineer</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96187">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Dialog</strong></td>
+<td><a href="https://trueinterview.io/jobs/4254340a-4893-4a28-9220-1c2b2a3980db">Intermediate Electrical Engineer</a></td>
+<td>Calgary, AB<br/>Ottawa, ON</td>
+<td align="center"><a href="https://jobs.lever.co/dialogdesign/ed91084f-712f-4f1b-a267-5e88e5af7e0c/apply">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -420,6 +763,244 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Stockholm, Sweden<br/>Lulea, Norrbotten, Sweden<br/>Kiruna, Norrbotten, Sweden<br/>+2 more</td>
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97090">Apply</a></td>
 <td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/32020426-c1b8-43f4-8b7a-c90f72bd6f4f">AI Engineer - T&amp;I</a></td>
+<td>Bengaluru, Karnataka, India<br/>Mumbai, Maharashtra, India<br/>Noida, Uttar Pradesh, India</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98032">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/8befc1ba-5468-4f03-a894-db521a27c5c6">Primary Design Engineer - Scotland (Energy)</a></td>
+<td>United Kingdom</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98055">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Egis Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/4d294c39-18c2-46de-89f7-f8197879922f">BP141 Design Assurance Engineer</a></td>
+<td>Stafford, England, United Kingdom</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/EgisGroup/744000156761680-bp141-design-assurance-engineer-">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/8b609dce-460c-478e-a046-9fbf7b0a8a35">Structural Designer- Nuclear</a></td>
+<td>Navi Mumbai, Maharashtra, India</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/EgisGroup/744000156734075-structural-designer-nuclear-">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>WSP</strong></td>
+<td><a href="https://trueinterview.io/jobs/f7cf24f9-23ef-4f05-a7b3-6414117ca568">Civil &amp; Structural Engineering Opportunities - All Levels (Energy)</a></td>
+<td>United Kingdom</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91812">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Egis Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/ae82b6e1-bba4-47fb-aeec-42094060a055">Engineer- ELV</a></td>
+<td>Cairo, Cairo Governorate, Egypt</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/EgisGroup/744000156260611-engineer-elv">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/51f8773c-6e7c-460b-a0a4-a57d2dc339d8">Future Opportunities | Engineering, Project Controls, Document Control &amp; Support Services</a></td>
+<td>Dubai, United Arab Emirates</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/EgisGroup/744000156007298-future-opportunities-engineering-project-controls-document-control-support-services">Apply</a></td>
+<td align="center">16 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/9eea069c-f6e6-4f28-85e5-4469367c87ad">Design Engineer</a></td>
+<td>Dublin, County Dublin, Ireland<br/>Bengaluru, Karnataka, India</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/EgisGroup/744000156006238-design-engineer">Apply</a></td>
+<td align="center">16 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Jensen Hughes</strong></td>
+<td><a href="https://trueinterview.io/jobs/70d960bf-1235-4d52-b7cd-ed57a88ccf33">Fire Engineer Graduate</a></td>
+<td>Brisbane, Queensland, Australia, Warrington Fire - Brisbane<br/>Perth, Western Australia, Australia, Perth</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/jensenhughes/jobs/5454802008">Apply</a></td>
+<td align="center">16 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/132c1445-7fc6-4baf-bd9e-c29718e241d3">Fire Protection Graduate</a></td>
+<td>Brisbane, Queensland, Australia, Warrington Fire - Brisbane</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/jensenhughes/jobs/5454783008">Apply</a></td>
+<td align="center">16 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>WSP</strong></td>
+<td><a href="https://trueinterview.io/jobs/b5528731-b4fc-4f7d-afad-a3faa11ddb21">Overhead Line (OHL) Design engineer</a></td>
+<td>Stockholm, Stockholm, Sweden<br/>Sweden</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/86664">Apply</a></td>
+<td align="center">15 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/befea59e-cc5b-4ac6-be4c-d8c89f688a29">AI Engineer Digital Solutions</a></td>
+<td>Bengaluru, Karnataka, India</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95826">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/171fb6c0-b185-4e9b-921e-6b65e97811d8">Lighting Engineer</a></td>
+<td>Manchester, Greater Manchester, United Kingdom<br/>Edinburgh, West Lothian, United Kingdom<br/>United Kingdom<br/>+3 more</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97576">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/2d9f2f33-1ebe-46bd-84d8-096c8886328a">Research Scientist - Pavements and Materials</a></td>
+<td>Lower Hutt, Wellington, New Zealand</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96340">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Egis Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/86723e70-de7f-434b-b0ce-b634e27dbfbd">Graduate Engineer (UAE National)- Electrical or Mechanical</a></td>
+<td>Dubai, Dubai, United Arab Emirates</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/EgisGroup/744000155187714-graduate-engineer-uae-national-electrical-or-mechanical">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Jensen Hughes</strong></td>
+<td><a href="https://trueinterview.io/jobs/e01b006c-20f5-4890-9e0a-745f89c64546">Graduate Fire Engineer 2027 Start - Glasgow</a></td>
+<td>Glasgow, Scotland, United Kingdom</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/jensenhughes/jobs/5419186008">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>WSP</strong></td>
+<td><a href="https://trueinterview.io/jobs/3f6af904-4339-4a9c-9207-f5d2ad51b3a3">Electrical Field Inspection Engineer - Transformers (Energy)</a></td>
+<td>United Kingdom</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97333">Apply</a></td>
+<td align="center">12 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/7c0c74b4-a7ea-44fe-bd9d-d1708c4465cb">Assistant Engineer/Engineer - Bridges</a></td>
+<td>Bristol, Avon, United Kingdom<br/>Exeter, Devon, United Kingdom<br/>Truro, Cornwall, United Kingdom<br/>+4 more</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97205">Apply</a></td>
+<td align="center">9 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/9de48150-daf7-44d6-86e9-d6354058e326">Geospatial Application Developer</a></td>
+<td>Bengaluru, Karnataka, India<br/>Mumbai, Maharashtra, India<br/>Noida, Uttar Pradesh, India</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97195">Apply</a></td>
+<td align="center">9 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Jensen Hughes</strong></td>
+<td><a href="https://trueinterview.io/jobs/8d358e76-45ce-42a4-8522-94c8b974c4e8">Graduate Fire Engineer 2027 Start - Manchester</a></td>
+<td>Manchester, England, United Kingdom</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/jensenhughes/jobs/5419194008">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/691d6e79-6f73-4396-b1df-272cbdb5e4a0">Graduate Fire Engineer 2027 Start - London</a></td>
+<td>London, England, United Kingdom</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/jensenhughes/jobs/5419190008">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/434a820c-53b3-4577-aca6-e92cf9eea2aa">Graduate Fire Engineer 2027 Start - Edinburgh</a></td>
+<td>Edinburgh, Scotland, United Kingdom</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/jensenhughes/jobs/5419182008">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/48842d04-a20d-4642-ab6e-9dd0bfc41175">Graduate Fire Engineer 2027 Start - Birmingham</a></td>
+<td>Birmingham, England, United Kingdom</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/jensenhughes/jobs/5419178008">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/b81364e4-028f-4cac-be68-5fc86f7f0e2c">Graduate Facade Engineer 2027 Start - London</a></td>
+<td>London, England, United Kingdom</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/jensenhughes/jobs/5430985008">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>WSP</strong></td>
+<td><a href="https://trueinterview.io/jobs/8b2ae8be-fdfa-4e3c-bcc3-40d7b9533624">Civil Engineer - Renewables (Energy)</a></td>
+<td>Edinburgh, West Lothian, United Kingdom<br/>Newcastle Upon Tyne, Tyne and Wear, United Kingdom<br/>Glasgow, Lanarkshire, United Kingdom</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97228">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/ef07508c-73c0-4b8b-8c69-a196b6f70d9d">Resident Engineer - Electrical_ Emirati National</a></td>
+<td>Abu Dhabi, Abu Dhabi, United Arab Emirates</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96912">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/d808bd01-a472-40bb-9d28-e6f87930794f">Utilities Engineer (Roads)</a></td>
+<td>London, London, United Kingdom<br/>Cambridge, Cambridgeshire, United Kingdom<br/>Guildford, Surrey, United Kingdom<br/>+2 more</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96564">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Egis Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/3a7b8b4b-c2e9-4490-8bd4-eeb1e9aa845d">Graduate Civil Engineer - Water</a></td>
+<td>Brisbane, Queensland, Australia</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/EgisGroup/744000153660119-graduate-civil-engineer-water">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>WSP</strong></td>
+<td><a href="https://trueinterview.io/jobs/c902a1c4-42c1-4739-aa6b-97dfc884a6cb">Telecommunications Engineer</a></td>
+<td>Bengaluru, Karnataka, India<br/>Noida, Uttar Pradesh, India<br/>Brisbane, Queensland, Australia<br/>+6 more</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96350">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/6e470ba0-25a7-49e0-81c0-44b23e5b425a">Engineer - Structures</a></td>
+<td>Bengaluru, Karnataka, India<br/>Noida, Uttar Pradesh, India</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96485">Apply</a></td>
+<td align="center">1 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/8e5a350c-428b-4b86-81a7-82e539e47eb2">Primary Substation Design Engineer (Energy)</a></td>
+<td>United Kingdom</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96275">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/de7e1b5f-560e-40fd-9b72-3ec092a64493">Geotechnical Engineer - Cardiff</a></td>
+<td>Cardiff, South Glamorgan, United Kingdom</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95960">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f602f048-af7a-4d0e-a39a-bfac993d93f0">Geotechnical Engineer - London</a></td>
+<td>London, United Kingdom</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95955">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/558ff3e0-f8f3-431b-89e8-f5307a200c35">EOI: Join our Power &amp; Energy Group at WSP</a></td>
+<td>Brisbane, Queensland, Australia</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95839">Apply</a></td>
+<td align="center">21 Sep 2026</td>
 </tr>
 </tbody>
 </table>

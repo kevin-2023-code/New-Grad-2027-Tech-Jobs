@@ -2,7 +2,7 @@
 
 # Frontend Engineer
 
-**163 open roles.** 110 in the United States & Canada · 53 elsewhere in the world.
+**182 open roles.** 116 in the United States & Canada · 66 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -787,6 +787,48 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://careers-turn5.icims.com/jobs/3520/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
 <td align="center">27 Oct 2026</td>
 </tr>
+<tr>
+<td><strong>Amazon Web Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/a12bf57b-d0ef-4158-8c7c-f95cc60d77aa">Front-End Engineer, Amazon Connect InterApps (AWS)</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.amazon.jobs/jobs/10595519/frontend-engineer-amazon-connect-interapps-aws?cmpid=DA_INAD200785B">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Konstruct Digital</strong></td>
+<td><a href="https://trueinterview.io/jobs/04f7ecbe-e799-4181-bf38-0ebb9eca7cef">Frontend/Web Developer</a></td>
+<td>Calgary, AB<br/>Calgary, Canada</td>
+<td align="center"><a href="https://konstruct.bamboohr.com/careers/72?postedDate=2026-10-27">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon.com</strong></td>
+<td><a href="https://trueinterview.io/jobs/eb08a19b-292b-48b5-9b21-6643e4f5ffe6">Front End Engineer, Workforce Solutions - Talent Mobility</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://www.amazon.jobs/jobs/10594584/front-end-engineer-workforce-solutions--talent-mobility?cmpid=DA_INAD200785B">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/924dfc11-2a37-4bcb-a38f-31271ff44d36">Frontend Engineer, AI Business Automation, Prime Video</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://www.amazon.jobs/jobs/10586228/frontend-engineer-ai-business-automation-prime-video?cmpid=DA_INAD200785B">Apply</a></td>
+<td align="center">15 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/7affa04c-c701-4dec-8fd0-66c05eeea06e">Front End Web Accessibility Engineer, Retail Engineering</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200684990-3956?board_id=JB001">Apply</a></td>
+<td align="center">4 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Accenture Federal Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/81dbc0d4-309a-472c-b71c-efb438c15e85">UI Developer</a></td>
+<td>Washington, DC<br/>Arlington, VA</td>
+<td align="center"><a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4713342006?gh_jid=4713342006">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -1169,6 +1211,97 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>India</td>
 <td align="center"><a href="https://careers.msg-global.com/job/Bangalore-Front-End-Developer-KA/1451581333/">Apply</a></td>
 <td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Faculty</strong></td>
+<td><a href="https://trueinterview.io/jobs/a3896409-a2fd-4299-ba43-e1a37dafe69d">Frontend Engineer</a></td>
+<td>London</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/faculty/22fcbe11-0e26-420e-a8c6-9b35b2e867b0">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Applus</strong></td>
+<td><a href="https://trueinterview.io/jobs/f820f25a-cda6-4829-817b-6b2ed77e00a4">Front-end Android Developer Pleno</a></td>
+<td>Belo Horizonte, State of Minas Gerais, Brazil</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/ApplusIDIADA1/744000156590182-front-end-android-developer-pleno">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Inetum</strong></td>
+<td><a href="https://trueinterview.io/jobs/21e7483d-fe7c-4437-81f7-41c22b3c8eaa">CSupport - IT BU - Frontend Python Developer - BAD3</a></td>
+<td>Lisbon, Lisbon, Portugal</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Inetum2/744000156567459-csupport-it-bu-frontend-python-developer-bad3">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Colliers</strong></td>
+<td><a href="https://trueinterview.io/jobs/34f52f75-e4c1-404b-a37d-f8bcee9b4a25">Frontend Engineer I (Hybrid)</a></td>
+<td>Madrid, Comunidad de Madrid, Spain</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/ColliersInternationalEMEA/744000156243879-frontend-engineer-i-hybrid-">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Benifex</strong></td>
+<td><a href="https://trueinterview.io/jobs/a363eed6-6b98-4bff-9ae4-8e3ee1a24c15">Frontend Engineer (Brain team)</a></td>
+<td>Southampton, United Kingdom</td>
+<td align="center"><a href="https://careers.benifex.com/jobs/8571324-frontend-engineer-brain-team">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Checkout.com</strong></td>
+<td><a href="https://trueinterview.io/jobs/436262f4-6636-4e6b-844d-9bd698144440">Front end Engineer</a></td>
+<td>London</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/checkout.com/93224ea4-50b2-45b6-b4dc-d878e3f15452">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Encora</strong></td>
+<td><a href="https://trueinterview.io/jobs/571b4222-e60d-4dec-9e7a-b33b90fe1e05">Mid Frontend React Engineer</a></td>
+<td>Bolivia, Cali<br/>Colombia, Cali<br/>Peru, Cali<br/>+1 more</td>
+<td align="center"><a href="https://www.1point3acres.com/jobs/01m4hjw1fxmt59aq4q80smax5n">Apply</a></td>
+<td align="center">10 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>InvestEngine</strong></td>
+<td><a href="https://trueinterview.io/jobs/7fd28e93-1481-43b2-9e52-896a8bc25d3f">Frontend Engineer, Pensions Team (React)</a> 🌐</td>
+<td>Remote — United Kingdom</td>
+<td align="center"><a href="https://careers.investengine.com/jobs/8512146-frontend-engineer-pensions-team-react">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Rtb House</strong></td>
+<td><a href="https://trueinterview.io/jobs/18042030-716c-4cef-b682-ebbacfacc9a8">Creatives Web Developer</a></td>
+<td>Brazil</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/rtbhouse/jobs/4996829101">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SimpleTiger</strong></td>
+<td><a href="https://trueinterview.io/jobs/394bb52e-5ca8-4b54-bb1c-ae3c226e7f9b">Web Developer: WordPress &amp; HubSpot (U.S. Based, Remote Contractor)</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://simpletiger25l.breezy.hr/p/cea6dd6197d0-web-developer-wordpress-hubspot-u-s-based-remote-contractor">Apply</a></td>
+<td align="center">1 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Trading212</strong></td>
+<td><a href="https://trueinterview.io/jobs/b978e4a7-abfd-4bb5-9022-e983d48a347f">Mid Frontend Engineer</a></td>
+<td>Bulgaria</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/trading212/bd9e8f64-77e6-4fc8-93f8-bcd27ac834d3">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Inetum</strong></td>
+<td><a href="https://trueinterview.io/jobs/705066ea-eaff-4dcc-8d9c-c620754928bc">FrontEnd Developer</a></td>
+<td>Lima, Callao Region, Peru</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Inetum2/744000151444848-frontend-developer">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Talan</strong></td>
+<td><a href="https://trueinterview.io/jobs/808eb372-b260-41a6-a254-25c6c1c12daa">Front End developer</a></td>
+<td>London, England, United Kingdom</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Talan/744000151325130-front-end-developer">Apply</a></td>
+<td align="center">23 Sep 2026</td>
 </tr>
 </tbody>
 </table>

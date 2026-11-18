@@ -2,7 +2,7 @@
 
 # ❄️ Stockholm & the Nordics
 
-**64 open roles.** 1 in the United States & Canada · 63 elsewhere in the world.
+**92 open roles.** 3 in the United States & Canada · 89 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -23,6 +23,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Malmö, Skåne län, Sweden</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/SopraSteria1/744000159387213-data-engineer-i-malmo">Apply</a></td>
 <td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>IKEA</strong></td>
+<td><a href="https://trueinterview.io/jobs/46e2e54e-b6cc-4c91-bd70-2c5493a44f6b">Master Thesis – AI-Powered Test Automation for Modern Software Development</a></td>
+<td>Malmö, Skåne County, Sweden</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/InterIKEAGroup/744000157746674-master-thesis-ai-powered-test-automation-for-modern-software-development">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sopra Steria</strong></td>
+<td><a href="https://trueinterview.io/jobs/46bb44e3-e310-4a7f-84c7-8a09ac6339d2">Analytics Engineer Malmö</a></td>
+<td>Malmö, Skåne län, Sweden</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SopraSteria1/744000155668899-analytics-engineer-malmo">Apply</a></td>
+<td align="center">15 Oct 2026</td>
 </tr>
 </tbody>
 </table>
@@ -476,6 +490,188 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Stockholm, Sweden<br/>Lulea, Norrbotten, Sweden<br/>Kiruna, Norrbotten, Sweden<br/>+2 more</td>
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97090">Apply</a></td>
 <td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sopra Steria</strong></td>
+<td><a href="https://trueinterview.io/jobs/61705906-594a-49e7-afa9-2d460bdae75f">Quality Engineer (QE) - Stockholm</a></td>
+<td>Stockholm, Stockholms län, Sweden</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SopraSteria1/744000156784369-quality-engineer-qe-stockholm">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ubiquiti</strong></td>
+<td><a href="https://trueinterview.io/jobs/68af3e74-f2d0-44be-88fe-b1fea811f96d">Enterprise Networking Support Engineer</a></td>
+<td>Stockholm</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/ubiquiti/jobs/4458821009">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ericsson</strong></td>
+<td><a href="https://trueinterview.io/jobs/28a515ae-389b-45d2-a04f-c5a2869a553d">Concepts Researcher: AI in 6G RAN</a></td>
+<td>Stockholm, Sweden</td>
+<td align="center"><a href="https://jobs.ericsson.com/careers/job/563121777476266?domain=ericsson.com">Apply</a></td>
+<td align="center">18 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>LeoVegas</strong></td>
+<td><a href="https://trueinterview.io/jobs/0c9e9fb3-a272-41cc-b13b-6c82fc144255">Data Engineer</a></td>
+<td>Stockholm, Sweden<br/>Sliema, Malta</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/leovegasgroup/29c3eb47-ba86-4eca-a0c5-feca0d6ec8e3">Apply</a></td>
+<td align="center">16 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Wpp Production</strong></td>
+<td><a href="https://trueinterview.io/jobs/a6e55dbc-f5c3-45d3-b702-83614efafcb6">Motion Designer / 3D Artist</a></td>
+<td>Copenhagen, Denmark</td>
+<td align="center"><a href="https://www.wppproduction.com/careers/jobs/6217969004?gh_jid=6217969004">Apply</a></td>
+<td align="center">16 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sopra Steria</strong></td>
+<td><a href="https://trueinterview.io/jobs/9b8f6bc3-3dff-4fc0-894e-ccc3f8bb58bc">AI Engineer Göteborg</a></td>
+<td>Göteborg, Västra Götalands län, Sweden</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SopraSteria1/744000155916869-ai-engineer-goteborg">Apply</a></td>
+<td align="center">16 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/1558c9af-b992-4de9-89d4-31cd6b484841">AI Engineer Stockholm</a></td>
+<td>Stockholm, Stockholms län, Sweden</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SopraSteria1/744000155668616-ai-engineer-stockholm-">Apply</a></td>
+<td align="center">15 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/5e774ca8-0ad1-44e6-9324-1f91618454e0">Analytics Engineer Göteborg</a></td>
+<td>Göteborg, Västra Götalands län, Sweden</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SopraSteria1/744000155668631-analytics-engineer-goteborg">Apply</a></td>
+<td align="center">15 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/7374820b-40e0-4dc4-b41a-ae34aacb74bf">Analytics Engineer Stockholm</a></td>
+<td>Stockholm, Stockholms län, Sweden</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SopraSteria1/744000155668619-analytics-engineer-stockholm">Apply</a></td>
+<td align="center">15 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>WSP</strong></td>
+<td><a href="https://trueinterview.io/jobs/b5528731-b4fc-4f7d-afad-a3faa11ddb21">Overhead Line (OHL) Design engineer</a></td>
+<td>Stockholm, Stockholm, Sweden<br/>Sweden</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/86664">Apply</a></td>
+<td align="center">15 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ericsson</strong></td>
+<td><a href="https://trueinterview.io/jobs/27a7052d-45c3-44bf-abe2-cb9b433547ef">AI Product Engineer</a></td>
+<td>Stockholm, Sweden</td>
+<td align="center"><a href="https://jobs.ericsson.com/careers/job/563121777431846?domain=ericsson.com">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Legora Ab</strong></td>
+<td><a href="https://trueinterview.io/jobs/fa7e9e6f-696a-417c-9e5f-73a3ebf9a8f8">Security Engineer</a></td>
+<td>Stockholm HQ</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/legora/2aa01d17-a182-46d8-82bc-c28ea99124f9">Apply</a></td>
+<td align="center">12 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sopra Steria</strong></td>
+<td><a href="https://trueinterview.io/jobs/68b9bc8f-11de-4f46-ab78-f5024a8091c7">AI Native Developer</a></td>
+<td>Stockholm, Stockholms län, Sweden</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SopraSteria1/744000154921799-ai-native-developer-">Apply</a></td>
+<td align="center">12 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Vusion</strong></td>
+<td><a href="https://trueinterview.io/jobs/0ed7d3c5-d59b-4049-b18c-fa71194b8e58">VIE - Solutions Engineer (Sweden) (H/F)</a></td>
+<td>Stockholm, Stockholms län, Sweden</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/VusionGroupSA/744000154725068-vie-solutions-engineer-sweden-h-f-">Apply</a></td>
+<td align="center">9 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Mentimeter</strong></td>
+<td><a href="https://trueinterview.io/jobs/09ae1c20-3f40-4c1f-8e69-0b686de67cc7">Revenue Operations Engineer</a></td>
+<td>Stockholm</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/mentimeter/jobs/4997064101">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>PA Consulting</strong></td>
+<td><a href="https://trueinterview.io/jobs/cf8f8b4a-78cc-4a17-aafa-c7986f42202b">AI-engineers til praktisk implementering af AI-løsninger</a></td>
+<td>Copenhagen, Denmark</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/PAConsulting/744000154378066-ai-engineers-til-praktisk-implementering-af-ai-l-sninger">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Legora Ab</strong></td>
+<td><a href="https://trueinterview.io/jobs/831279cc-9743-4d8c-b861-c8ac28e4e144">Software Engineer - Internal Tooling</a></td>
+<td>Stockholm HQ</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/legora/ceda582e-2513-46da-b038-946258c035e1">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Mentimeter</strong></td>
+<td><a href="https://trueinterview.io/jobs/2ed9f166-1437-4d1c-a599-fbc811e6af80">Product Engineer</a></td>
+<td>Stockholm</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/mentimeter/jobs/4997702101">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ubiquiti</strong></td>
+<td><a href="https://trueinterview.io/jobs/9054b158-7e60-4d0e-bb51-37e99e7ab16c">Embedded Firmware Engineer - UniFi Protect</a></td>
+<td>Stockholm<br/>Bucharest, Romania</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/ubiquiti/jobs/4429246009">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Qliro</strong></td>
+<td><a href="https://trueinterview.io/jobs/91df10a2-1f5f-452f-a04f-a9d3fff219aa">Software Engineer - Web &amp; App (Fullstack)</a></td>
+<td>Stockholm, Sweden</td>
+<td align="center"><a href="https://career.qliro.com/jobs/8496305-software-engineer-web-app-fullstack">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sopra Steria</strong></td>
+<td><a href="https://trueinterview.io/jobs/d465c028-d3ea-48da-a853-fe54a2629f9f">Digital designer UX/UI</a></td>
+<td>Trondheim, Norway<br/>Oslo, Oslo, Norway</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SopraSteria1/744000152928188-digital-designer-ux-ui-">Apply</a></td>
+<td align="center">1 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/fb7866ee-0ce3-482c-b14f-4bd5af531c44">Data Engineer</a></td>
+<td>Oslo, Norway<br/>Trondheim, Norway<br/>Bergen, Vestland, Norway<br/>+2 more</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SopraSteria1/744000152106769-data-engineer">Apply</a></td>
+<td align="center">28 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/5cce3968-74cb-4923-8045-21cddea53da0">AI Engineer</a></td>
+<td>Oslo, Norway</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SopraSteria1/744000152101399-ai-engineer">Apply</a></td>
+<td align="center">28 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/1bd1537e-5362-43c0-87f9-1b51c7ca4a9c">Data Science / ML Engineer</a></td>
+<td>Oslo, Norway</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SopraSteria1/744000152100869-data-science-ml-engineer">Apply</a></td>
+<td align="center">28 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Legora Ab</strong></td>
+<td><a href="https://trueinterview.io/jobs/17414e35-5152-42e9-af8b-3f435ad3e496">Applied AI Engineer</a></td>
+<td>Stockholm HQ</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/legora/a4ef48af-644d-4d6e-b2eb-74e2bb12c19e">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Neko Health</strong></td>
+<td><a href="https://trueinterview.io/jobs/59104759-0fba-4db8-ac90-4f755f524e03">NPI Engineer, Electronics</a></td>
+<td>Stockholm</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/neko-health/094f94c9-65f3-435a-9419-11266b745afb">Apply</a></td>
+<td align="center">21 Sep 2026</td>
 </tr>
 </tbody>
 </table>

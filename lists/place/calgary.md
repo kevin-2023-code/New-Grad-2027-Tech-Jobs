@@ -2,7 +2,7 @@
 
 # 🐎 Calgary & the Prairies
 
-**42 open roles.**
+**49 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -310,6 +310,55 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Calgary, AB<br/>Calgary, Alberta, Canada</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/GDMSI/744000157889419-systems-engineering-analysts-working-level">Apply</a></td>
 <td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Konstruct Digital</strong></td>
+<td><a href="https://trueinterview.io/jobs/04f7ecbe-e799-4181-bf38-0ebb9eca7cef">Frontend/Web Developer</a></td>
+<td>Calgary, AB<br/>Calgary, Canada</td>
+<td align="center"><a href="https://konstruct.bamboohr.com/careers/72?postedDate=2026-10-27">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>RBC</strong></td>
+<td><a href="https://trueinterview.io/jobs/76896a4a-0e92-4417-8707-ad8269ef2c67">Data Engineer, RBC Amplify 2027, Calgary</a></td>
+<td>Calgary, AB<br/>CALGARY, Alberta, Canada</td>
+<td align="center"><a href="https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/CALGARY-Alberta-Canada/Data-Engineer--RBC-Amplify-2027--Calgary_R-0000191201-2">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>EXP</strong></td>
+<td><a href="https://trueinterview.io/jobs/be2c86fe-21fb-4430-86ff-b0f2ddba1f12">Bridge Design Engineer</a></td>
+<td>Calgary, AB, Canada</td>
+<td align="center"><a href="https://elcn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/113337">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Gdh</strong></td>
+<td><a href="https://trueinterview.io/jobs/cd3d1abb-4c58-4ad6-88fb-c8f3124a0b3f">Waste Management Engineering Graduate</a></td>
+<td>Edmonton, AB, Canada<br/>Calgary, AB, Canada<br/>Waterloo, ON, Canada<br/>+4 more</td>
+<td align="center"><a href="https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/28931">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>WSP</strong></td>
+<td><a href="https://trueinterview.io/jobs/7ad05f59-1f0b-47ae-84a7-22d2faabf63b">Early Career Structural Engineer in Training</a></td>
+<td>Calgary, AB, Canada<br/>Lethbridge, AB, Canada</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95698">Apply</a></td>
+<td align="center">30 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>General Dynamics Missions System International</strong></td>
+<td><a href="https://trueinterview.io/jobs/7eb24a9d-32cd-46b2-9a47-ebac03a880a1">Cybersecurity Engineer (System Engineering) - Multiple level</a></td>
+<td>Calgary, AB<br/>Calgary, Alberta, Canada</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/GDMSI/744000150776994-cybersecurity-engineer-system-engineering-multiple-level-">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Dialog</strong></td>
+<td><a href="https://trueinterview.io/jobs/4254340a-4893-4a28-9220-1c2b2a3980db">Intermediate Electrical Engineer</a></td>
+<td>Calgary, AB<br/>Ottawa, ON</td>
+<td align="center"><a href="https://jobs.lever.co/dialogdesign/ed91084f-712f-4f1b-a267-5e88e5af7e0c/apply">Apply</a></td>
+<td align="center">21 Sep 2026</td>
 </tr>
 </tbody>
 </table>
