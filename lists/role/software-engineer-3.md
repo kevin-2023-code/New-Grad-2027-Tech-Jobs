@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**2,769 open roles.** 2,030 in the United States & Canada · 739 elsewhere in the world.
+**2,419 open roles.** 1,844 in the United States & Canada · 575 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,34 +15,6 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Greek Peak Mountain Resort</strong></td>
-<td><a href="https://trueinterview.io/jobs/c42a9643-25c9-4d75-a7f9-b2d82c60bbf0">Programmer Trainee</a></td>
-<td>Bluefield, VA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486532799/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>AgileGrid Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/4686d852-402e-457f-a508-e15c410b4aab">.Net Angular Developer</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487554077/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>BriScent Global LLC</strong></td>
-<td><a href="https://trueinterview.io/jobs/592be90a-cb5b-491e-bfd8-e9fe749e7ef7">Java Software Engineer</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485536313/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Captivation</strong></td>
-<td><a href="https://trueinterview.io/jobs/6e1c7f62-9733-4d65-a347-9cf2a0fb47b1">Software Engineer 1 - Python/Kotlin/Java/Terraform/Elasticsearch/Opensearch/AWS</a></td>
-<td>Annapolis Junction, MD</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487554684/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>Dominion Energy</strong></td>
 <td><a href="https://trueinterview.io/jobs/7c6bc0a2-fb19-488c-aedf-aa04b1d31948">Software Engineer</a></td>
@@ -2813,6 +2785,34 @@
 <td><a href="https://trueinterview.io/jobs/204bd466-c7e4-4661-9239-831813a6536f">MTS HBM Architecture &amp; Circuit Design Engineer</a></td>
 <td>Richardson, TX</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/45152457">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Monti Incorporated</strong></td>
+<td><a href="https://trueinterview.io/jobs/5806afbd-1675-4dab-bf00-0ab9be88c5f0">BI Developer</a></td>
+<td>Cincinnati, OH</td>
+<td align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/3549231/Monti-Inc/BI-Developer">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Nakisa</strong></td>
+<td><a href="https://trueinterview.io/jobs/3cd231ea-d69a-43a2-b936-87ed928e3d86">Software Developer - Cloud Platform</a></td>
+<td>Montréal, Canada</td>
+<td align="center"><a href="https://grnh.se/rydn55t2teu">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>NCR</strong></td>
+<td><a href="https://trueinterview.io/jobs/79857a0e-fc70-4040-a0ff-2777bfbfe4a5">Software Engineer – NCR Voyix for Department and Specialty Retail</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://ncr.wd1.myworkdayjobs.com/ext_us/job/ATLANTA-GA-USA/Software-Engineer---NCR-Voyix-for-Department-and-Specialty-Retail_R0159033">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Phoenix Technical Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/5874eac2-a2c4-4a57-ab9f-ec552fa6c23a">Software Development Process – Engineer</a></td>
+<td>Boston, MA<br/>Fort Worth, TX<br/>Erie, PA</td>
+<td align="center"><a href="https://phoenixtechsol.bamboohr.com/careers/472?postedDate=2026-11-03">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 </tbody>

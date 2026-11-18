@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**1,617 open roles.** 1,109 in the United States & Canada · 508 elsewhere in the world.
+**1,287 open roles.** 906 in the United States & Canada · 381 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -10,7 +10,7 @@
 
 _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-authorisation restriction._
 
-<sub>Page 1 of 5 · [Page 2 →](hardware-and-engineering-2.md)</sub>
+<sub>Page 1 of 4 · [Page 2 →](hardware-and-engineering-2.md)</sub>
 
 ## United States & Canada
 
@@ -21,9 +21,9 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>AECOM</strong></td>
-<td><a href="https://trueinterview.io/jobs/5e211ed9-0525-4e68-8b50-eab099d7fc1a">Entry Level Highway Civil Engineer</a></td>
-<td>Conshohocken, Pennsylvania, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/AECOM2/744000162176094-entry-level-highway-civil-engineer">Apply</a></td>
+<td><a href="https://trueinterview.io/jobs/78630a1f-1f9d-4348-a8dd-bec69e3099f0">Entry-Level Geotechnical Engineer</a></td>
+<td>Germantown, Maryland, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/AECOM2/744000162172469-entry-level-geotechnical-engineer">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
@@ -146,10 +146,24 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Amazon.com</strong></td>
+<td><a href="https://trueinterview.io/jobs/d5509455-fe7e-4528-aa51-43a9603aafd8">Robotics - Hardware Development Engineer</a></td>
+<td>North Reading, MA</td>
+<td align="center"><a href="https://www.amazon.jobs/jobs/10607546/robotics--hardware-development-engineer?cmpid=DA_INAD200785B">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Chapter 2</strong></td>
 <td><a href="https://trueinterview.io/jobs/59ec86c0-18b2-4e96-be02-2338ecac89cd">Technical Talent Partner, Semiconductor – US</a></td>
 <td>New York, NY</td>
 <td align="center"><a href="https://chapter2.teamtailor.com/jobs/8751256-technical-talent-partner-semiconductor-us">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Chromalloy</strong></td>
+<td><a href="https://trueinterview.io/jobs/48f5a611-e16b-4071-b1c0-bf7288354550">Manufacturing Engineer - Rough Finishing</a></td>
+<td>Tampa, FL</td>
+<td align="center"><a href="https://jobs.dayforcehcm.com/en-US/chromalloy/CANDIDATEPORTAL/jobs/41405">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
@@ -1151,13 +1165,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/860c29da-265b-446f-9cbc-ffca6fc93aef">AI Processor Hardware/Software Integration Engineer (2027 New College Graduate)</a></td>
 <td>Richardson, TX</td>
 <td align="center"><a href="https://careers.gf.com/careers/job/563980770505814">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>topGrads</strong></td>
-<td><a href="https://trueinterview.io/jobs/dc088b82-3e34-4611-ad5e-b1a05c785edd">Entry Level ASIC Engineer</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4488234509/">Apply</a></td>
 <td align="center">11 Nov 2026</td>
 </tr>
 <tr>
@@ -2812,16 +2819,9 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://job-boards.greenhouse.io/machindustries/jobs/4480177009">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
-<tr>
-<td><strong>Form Energy</strong></td>
-<td><a href="https://trueinterview.io/jobs/d82528f4-70e1-41cb-b9b0-6db11c0a8deb">Equipment Reliability Engineer</a></td>
-<td>Weirton, WV</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/formenergy/c110566b-e9ab-4f8b-81a2-2073c4b49524">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
 </tbody>
 </table>
 
-<sub>Page 1 of 5 · [Page 2 →](hardware-and-engineering-2.md)</sub>
+<sub>Page 1 of 4 · [Page 2 →](hardware-and-engineering-2.md)</sub>
 
 [← Every filter](../README.md) · [Back to the full list](../../README.md)

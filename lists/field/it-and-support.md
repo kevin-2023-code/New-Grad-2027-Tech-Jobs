@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**1,267 open roles.** 1,025 in the United States & Canada · 242 elsewhere in the world.
+**1,001 open roles.** 830 in the United States & Canada · 171 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -10,7 +10,7 @@
 
 _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-authorisation restriction._
 
-<sub>Page 1 of 4 · [Page 2 →](it-and-support-2.md)</sub>
+<sub>Page 1 of 3 · [Page 2 →](it-and-support-2.md)</sub>
 
 ## United States & Canada
 
@@ -19,13 +19,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>AGFinancial</strong></td>
-<td><a href="https://trueinterview.io/jobs/e4d08e4d-9fd2-4d94-baf4-04fe53ca01a9">Help Desk Technician</a></td>
-<td>Springfield, MO</td>
-<td align="center"><a href="https://www.indeed.com/viewjob?jk=f292bbf0741520c8">Apply</a></td>
-<td align="center">17 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>Fellowship Health Resources, Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/b0f67be4-7f1c-4926-b180-66a8e65423e8">M - 11/17 - 815768 - IT Asset Management/Technical Support - Richmond, VA (100% on-site &amp; In-Person Interview Required)</a></td>
@@ -97,6 +90,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Agilent Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/4970fd4b-5e29-4d3b-83a1-d209bb86398f">Online Technical Support Engineer -Campus Hire Program</a></td>
+<td>Wilmington, DE</td>
+<td align="center"><a href="https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/US-DE-Wilmington/Online-Technical-Support-Engineer--Campus-Hire-Program_4040676">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Air Force Test Center</strong></td>
 <td><a href="https://trueinterview.io/jobs/b1593d91-a063-4f4a-9a72-dd74c5ea1154">IT Specialist (Customer Support) (NH-2210-02) 412 CS/SCOS</a></td>
 <td>Edwards AFB, CA</td>
@@ -108,6 +108,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a4cfdfbe-749c-4649-8e68-a75110b4c161">Service Desk</a></td>
 <td>United States</td>
 <td align="center"><a href="https://jobs.lever.co/applydigital/752160ec-1531-4908-ad7e-dc5ac109d10b">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Banner Health</strong></td>
+<td><a href="https://trueinterview.io/jobs/4d01bd98-377c-4a18-967b-700f26ea2d1c">IT Technician I</a></td>
+<td>Glendale, AZ</td>
+<td align="center"><a href="https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Banner-Thunderbird-Med-Ctr-5555-W-Thunderbird-Rd/IT-Technician-I_R4461130">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
@@ -136,6 +143,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/b0f0dedd-ca3e-443d-acdb-74dbb36ccfe0">IT Support Engineer L1</a></td>
 <td>Wauwatosa, WI</td>
 <td align="center"><a href="https://brenntag.wd3.myworkdayjobs.com/brenntag_jobs/job/Wauwatosa-Wisconsin-USA/IT-Support-Engineer-L1_JR113500">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Charles Schwab</strong></td>
+<td><a href="https://trueinterview.io/jobs/cb5dda74-4a46-4565-a7c6-cd352bb72934">Desktop Support</a></td>
+<td>Scottsdale, AZ</td>
+<td align="center"><a href="https://www.schwabjobs.com/job/scottsdale/desktop-support/33727/103432800512">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
@@ -192,6 +206,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/439a5d85-5844-409d-b89f-8caa7c597486">Service Desk Specialist - TIER 1</a></td>
 <td>Alexandria, VA, US</td>
 <td align="center"><a href="https://apply.clearcompany.com/inquisitllc?jobId=7c1d9b73-7808-35d3-d318-1b9e42a0f9eb">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Intandem</strong></td>
+<td><a href="https://trueinterview.io/jobs/b7823085-268a-4619-a287-714e32e2b235">IT Helpdesk Specialist - Full Time - Days</a></td>
+<td>Niagara Falls, NY</td>
+<td align="center"><a href="https://jobs.dayforcehcm.com/en-US/intandem/Intandem/jobs/34143">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
@@ -276,6 +297,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/fa6ed898-82e7-49e9-8bfe-309c405f5ed1">Technical Support Representative - Temporary</a></td>
 <td>United States</td>
 <td align="center"><a href="https://careers.viasat.com/jobs/8094?lang=en-us">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Virtual Service Operations</strong></td>
+<td><a href="https://trueinterview.io/jobs/477a42de-b8ee-4085-88e4-dbf1cd7ac916">Desktop Support in North Berwick, Maine</a></td>
+<td>North Berwick, ME</td>
+<td align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/3537690/Desktop-Depot-Support/Desktop-Support-in-North-Berwick-Maine">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
@@ -2791,37 +2819,9 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://careers.henrico.gov/careersmarketplace/PositionDetails?jobId=2301source=Indeed">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
-<tr>
-<td><strong>Hoffman Auto Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/97ac1d80-1d7f-4bf4-991f-58c26ebc2601">IT Specialist</a></td>
-<td>East Hartford, CT<br/>West Simsbury, CT</td>
-<td align="center"><a href="https://www.paycomonline.net/v4/ats/web.php/portal/C987D694EB255190507E75D10D8B72B0/jobs/243175">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>HORN MEMORIAL HOSPITAL</strong></td>
-<td><a href="https://trueinterview.io/jobs/ac3a6488-7352-43e1-8bf1-80b3f96be3a8">IT Help Desk Support Specialist- Full Time</a></td>
-<td>Ida Grove, IA</td>
-<td align="center"><a href="https://hornmemorial.hireclick.com/jb/it-help-desk-support-specialist-full-time/view/271924">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>HTG, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/4380443a-150d-4c57-b0ea-b73bfe7564bd">Service Desk Monitoring</a> 🌐</td>
-<td>Remote — United States, Canada</td>
-<td align="center"><a href="https://htginc.bamboohr.com/careers/223?postedDate=2026-11-04">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Infosys</strong></td>
-<td><a href="https://trueinterview.io/jobs/b6171874-c529-4cda-af8c-d9251240e51b">SD-WAN Network Engineer</a></td>
-<td>Ashburn, VA<br/>Richmond, VA</td>
-<td align="center"><a href="https://digitalcareers.infosys.com/global-careers/company-job/description/reqid/155731BR">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
 </tbody>
 </table>
 
-<sub>Page 1 of 4 · [Page 2 →](it-and-support-2.md)</sub>
+<sub>Page 1 of 3 · [Page 2 →](it-and-support-2.md)</sub>
 
 [← Every filter](../README.md) · [Back to the full list](../../README.md)

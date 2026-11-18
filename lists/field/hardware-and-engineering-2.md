@@ -2,11 +2,11 @@
 
 # 🔧 Hardware & Engineering
 
-**1,617 open roles.** 1,109 in the United States & Canada · 508 elsewhere in the world.
+**1,287 open roles.** 906 in the United States & Canada · 381 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
-<sub>[← Page 1](hardware-and-engineering.md) · Page 2 of 5 · [Page 3 →](hardware-and-engineering-3.md)</sub>
+<sub>[← Page 1](hardware-and-engineering.md) · Page 2 of 4 · [Page 3 →](hardware-and-engineering-3.md)</sub>
 
 ## United States & Canada
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Form Energy</strong></td>
+<td><a href="https://trueinterview.io/jobs/d82528f4-70e1-41cb-b9b0-6db11c0a8deb">Equipment Reliability Engineer</a></td>
+<td>Weirton, WV</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/formenergy/c110566b-e9ab-4f8b-81a2-2073c4b49524">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>CMC</strong></td>
 <td><a href="https://trueinterview.io/jobs/9392862f-c4c1-4b4f-b34d-80d2b6418bd1">Reliability Engineer</a></td>
@@ -1479,13 +1486,6 @@
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>HTC Global Services</strong></td>
-<td><a href="https://trueinterview.io/jobs/6bb1439f-10c9-4356-8f12-52ab20a70ca8">Process Engineer – Manufacturing</a></td>
-<td>Dearborn, MI</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476247177/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Garver</strong></td>
 <td><a href="https://trueinterview.io/jobs/69b9db10-0623-4865-8acb-dd257fa7ca8b">Mechanical Engineer – Buildings</a></td>
 <td>North Little Rock, AR</td>
@@ -2818,6 +2818,6 @@
 </tbody>
 </table>
 
-<sub>[← Page 1](hardware-and-engineering.md) · Page 2 of 5 · [Page 3 →](hardware-and-engineering-3.md)</sub>
+<sub>[← Page 1](hardware-and-engineering.md) · Page 2 of 4 · [Page 3 →](hardware-and-engineering-3.md)</sub>
 
 [← Every filter](../README.md) · [Back to the full list](../../README.md)

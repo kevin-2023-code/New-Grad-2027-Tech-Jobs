@@ -2,11 +2,11 @@
 
 # 💻 Software Engineering
 
-**9,309 open roles.** 6,138 in the United States & Canada · 3,171 elsewhere in the world.
+**7,535 open roles.** 5,196 in the United States & Canada · 2,339 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
-<sub>[← Page 5](software-engineering-5.md) · Page 6 of 24 · [Page 7 →](software-engineering-7.md)</sub>
+<sub>[← Page 5](software-engineering-5.md) · Page 6 of 19 · [Page 7 →](software-engineering-7.md)</sub>
 
 ## United States & Canada
 
@@ -15,41 +15,6 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Garratt-Callahan Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/84d02cf4-f9db-4252-b085-069f6ed4261c">Liquid Cooling Engineer (Data Center)</a></td>
-<td>Amarillo, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487544286/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>New York Technology Partners</strong></td>
-<td><a href="https://trueinterview.io/jobs/899efbdf-3e4e-452c-a403-cad8bcb712cb">Angular/UI Developer</a></td>
-<td>McLean, VA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487536576/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Associa</strong></td>
-<td><a href="https://trueinterview.io/jobs/89f7d3d2-0ffd-4a5d-b83a-6f55f328fdfc">Power BI Developer</a></td>
-<td>Richardson, TX</td>
-<td align="center"><a href="https://careers.associaonline.com/us/en/job/ASSOUS27594EXTERNALENUS/Power-BI-Developer">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>General Medicine</strong></td>
-<td><a href="https://trueinterview.io/jobs/2bdf15c1-e0e2-48d4-b72b-7aec9a06857e">CX Marketing Developer (Email &amp; Web Production)</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/general-medicine/2fc966f0-7854-420e-b5d2-9f2beae96abb">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Sira Consulting, an Inc 5000 company</strong></td>
-<td><a href="https://trueinterview.io/jobs/6fdb5c04-d8d8-46d0-9d51-eb9a01864ad3">Application Security Engineer</a></td>
-<td>Houston, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485522916/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>Livemindz</strong></td>
 <td><a href="https://trueinterview.io/jobs/09a4bf09-918c-4b40-838d-58f3ab1d2535">Cloud-Native Engineer</a></td>
@@ -2815,9 +2780,44 @@
 <td align="center"><a href="https://erecruit.umsystem.edu/psc/tamext/KCITY/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&amp;Action=U&amp;FOCUS=Applicant&amp;SiteId=1&amp;JobOpeningId=61608&amp;PostingSeq=1">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
+<tr>
+<td><strong>University of Toronto</strong></td>
+<td><a href="https://trueinterview.io/jobs/94c794fe-7ae8-4afa-9478-996a8c22de59">Digital Marketing Developer</a></td>
+<td>Toronto, ON<br/>Toronto, Canada</td>
+<td align="center"><a href="https://jobs.utoronto.ca/job/Toronto-Digital-Marketing-Developer-ON/607741717/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>UPS</strong></td>
+<td><a href="https://trueinterview.io/jobs/b6a4a07c-1ba9-476b-85b7-90353077fe35">Union Buildings and Systems Engineering Specialist</a></td>
+<td>Louisville, KY</td>
+<td align="center"><a href="https://www.jobs-ups.com/global/en/job/UPBUPSGLOBALR26040994EXTERNALENGLOBAL/Union-Buildings-and-Systems-Engineering-Specialist">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>US Office of Inspector General</strong></td>
+<td><a href="https://trueinterview.io/jobs/528483d6-407e-4d00-b4b2-c09c93d268ad">IT Specialist (CUSTSPT/INFOSEC)</a></td>
+<td>Washington, DC</td>
+<td align="center"><a href="https://www.usajobs.gov/job/891568800">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Valen Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/999e4d27-d43e-4807-a35c-7a239d46cde5">Wireless Survey Engineer — Ekahau / Passive &amp; Active Site Surveys — Austin, TX</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://valen-solutions.careers-page.com/jobs/80c67104-e1b1-4a41-88c3-7825220f4f1a">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/cdcd982c-a8ab-49f8-9620-7ea8136995ed">Wireless Survey Engineer — Ekahau / Passive &amp; Active Site Surveys — Lehi, UT</a></td>
+<td>Lehi, UT</td>
+<td align="center"><a href="https://valen-solutions.careers-page.com/jobs/a8a5e2c1-10bb-43f6-81e8-2d4a5bb5f936">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
 </tbody>
 </table>
 
-<sub>[← Page 5](software-engineering-5.md) · Page 6 of 24 · [Page 7 →](software-engineering-7.md)</sub>
+<sub>[← Page 5](software-engineering-5.md) · Page 6 of 19 · [Page 7 →](software-engineering-7.md)</sub>
 
 [← Every filter](../README.md) · [Back to the full list](../../README.md)

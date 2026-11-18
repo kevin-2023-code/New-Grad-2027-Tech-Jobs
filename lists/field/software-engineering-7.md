@@ -2,11 +2,11 @@
 
 # 💻 Software Engineering
 
-**9,309 open roles.** 6,138 in the United States & Canada · 3,171 elsewhere in the world.
+**7,535 open roles.** 5,196 in the United States & Canada · 2,339 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
-<sub>[← Page 6](software-engineering-6.md) · Page 7 of 24 · [Page 8 →](software-engineering-8.md)</sub>
+<sub>[← Page 6](software-engineering-6.md) · Page 7 of 19 · [Page 8 →](software-engineering-8.md)</sub>
 
 ## United States & Canada
 
@@ -15,41 +15,6 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>University of Toronto</strong></td>
-<td><a href="https://trueinterview.io/jobs/94c794fe-7ae8-4afa-9478-996a8c22de59">Digital Marketing Developer</a></td>
-<td>Toronto, ON<br/>Toronto, Canada</td>
-<td align="center"><a href="https://jobs.utoronto.ca/job/Toronto-Digital-Marketing-Developer-ON/607741717/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>UPS</strong></td>
-<td><a href="https://trueinterview.io/jobs/b6a4a07c-1ba9-476b-85b7-90353077fe35">Union Buildings and Systems Engineering Specialist</a></td>
-<td>Louisville, KY</td>
-<td align="center"><a href="https://www.jobs-ups.com/global/en/job/UPBUPSGLOBALR26040994EXTERNALENGLOBAL/Union-Buildings-and-Systems-Engineering-Specialist">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>US Office of Inspector General</strong></td>
-<td><a href="https://trueinterview.io/jobs/528483d6-407e-4d00-b4b2-c09c93d268ad">IT Specialist (CUSTSPT/INFOSEC)</a></td>
-<td>Washington, DC</td>
-<td align="center"><a href="https://www.usajobs.gov/job/891568800">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Valen Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/999e4d27-d43e-4807-a35c-7a239d46cde5">Wireless Survey Engineer — Ekahau / Passive &amp; Active Site Surveys — Austin, TX</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://valen-solutions.careers-page.com/jobs/80c67104-e1b1-4a41-88c3-7825220f4f1a">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/cdcd982c-a8ab-49f8-9620-7ea8136995ed">Wireless Survey Engineer — Ekahau / Passive &amp; Active Site Surveys — Lehi, UT</a></td>
-<td>Lehi, UT</td>
-<td align="center"><a href="https://valen-solutions.careers-page.com/jobs/a8a5e2c1-10bb-43f6-81e8-2d4a5bb5f936">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>Voltari Marine Electric</strong></td>
 <td><a href="https://trueinterview.io/jobs/f11f5b55-f0fb-4e7f-846d-ccd3d5d1f04f">Autonomous Systems Engineer</a></td>
@@ -2815,9 +2780,44 @@
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484659212/">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
+<tr>
+<td><strong>Sensient Technologies Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/6327ff1f-35db-4c2f-934e-53ec8fb6d8e5">Process Developer</a></td>
+<td>St Louis, MO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4460069600/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>PIXIE</strong></td>
+<td><a href="https://trueinterview.io/jobs/e2065f84-b09a-4970-a9d2-fa5aba37d4ae">New Business Developer</a></td>
+<td>Plano, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484640935/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Dignifyd</strong></td>
+<td><a href="https://trueinterview.io/jobs/d9b49c82-e815-4174-86a8-423df63d18a0">Salesforce Technical Consultant (Admin + Developer)</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484644713/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>TEKsystems</strong></td>
+<td><a href="https://trueinterview.io/jobs/6a32d468-9ea6-4674-baba-c8d42d7b61a2">Front End Developer</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486826270/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Jobot Consulting</strong></td>
+<td><a href="https://trueinterview.io/jobs/29a5a5e4-76e5-44d6-ada3-a7cd9a9c72c2">CMM Programmer</a></td>
+<td>Bell Gardens, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486834336/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
 </tbody>
 </table>
 
-<sub>[← Page 6](software-engineering-6.md) · Page 7 of 24 · [Page 8 →](software-engineering-8.md)</sub>
+<sub>[← Page 6](software-engineering-6.md) · Page 7 of 19 · [Page 8 →](software-engineering-8.md)</sub>
 
 [← Every filter](../README.md) · [Back to the full list](../../README.md)

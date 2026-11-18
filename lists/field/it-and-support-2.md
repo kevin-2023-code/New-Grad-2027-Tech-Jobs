@@ -2,11 +2,11 @@
 
 # 🧰 IT & Support
 
-**1,267 open roles.** 1,025 in the United States & Canada · 242 elsewhere in the world.
+**1,001 open roles.** 830 in the United States & Canada · 171 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
-<sub>[← Page 1](it-and-support.md) · Page 2 of 4 · [Page 3 →](it-and-support-3.md)</sub>
+<sub>[← Page 1](it-and-support.md) · Page 2 of 3 · [Page 3 →](it-and-support-3.md)</sub>
 
 ## United States & Canada
 
@@ -15,6 +15,34 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Hoffman Auto Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/97ac1d80-1d7f-4bf4-991f-58c26ebc2601">IT Specialist</a></td>
+<td>East Hartford, CT<br/>West Simsbury, CT</td>
+<td align="center"><a href="https://www.paycomonline.net/v4/ats/web.php/portal/C987D694EB255190507E75D10D8B72B0/jobs/243175">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>HORN MEMORIAL HOSPITAL</strong></td>
+<td><a href="https://trueinterview.io/jobs/ac3a6488-7352-43e1-8bf1-80b3f96be3a8">IT Help Desk Support Specialist- Full Time</a></td>
+<td>Ida Grove, IA</td>
+<td align="center"><a href="https://hornmemorial.hireclick.com/jb/it-help-desk-support-specialist-full-time/view/271924">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>HTG, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/4380443a-150d-4c57-b0ea-b73bfe7564bd">Service Desk Monitoring</a> 🌐</td>
+<td>Remote — United States, Canada</td>
+<td align="center"><a href="https://htginc.bamboohr.com/careers/223?postedDate=2026-11-04">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Infosys</strong></td>
+<td><a href="https://trueinterview.io/jobs/b6171874-c529-4cda-af8c-d9251240e51b">SD-WAN Network Engineer</a></td>
+<td>Ashburn, VA<br/>Richmond, VA</td>
+<td align="center"><a href="https://digitalcareers.infosys.com/global-careers/company-job/description/reqid/155731BR">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>International House at UC Berkeley</strong></td>
 <td><a href="https://trueinterview.io/jobs/d3fb8f30-394b-4898-99a9-d496aad55170">Cloud and IT Systems Administrator</a></td>
@@ -2787,37 +2815,9 @@
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4445614755/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
-<tr>
-<td><strong>JR Automation</strong></td>
-<td><a href="https://trueinterview.io/jobs/9a81c693-b812-4c17-b47e-7dffb5fd6f48">Technical Support Engineer, Federal</a></td>
-<td>District of Columbia, United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484962863/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Dematic</strong></td>
-<td><a href="https://trueinterview.io/jobs/1acefb79-8db9-4b03-afff-a6b11b3fe6a3">Controls Engineer Technical Support - Night Shift</a></td>
-<td>Atlanta, GA<br/>Grand Rapids, MI</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4457714573/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>HCLTech</strong></td>
-<td><a href="https://trueinterview.io/jobs/d22a3d3f-829c-47a0-ae93-8ea415355c64">Desktop Support Technician</a></td>
-<td>Cork, County Cork, Ireland<br/>Oklahoma City, OK</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484709524/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Gainwell Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/fe444fce-0037-4eba-9a92-fb022fc878cf">Help Desk Camp Hill, PA (Hybrid)</a></td>
-<td>Camp Hill, PA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4458430751/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
 </tbody>
 </table>
 
-<sub>[← Page 1](it-and-support.md) · Page 2 of 4 · [Page 3 →](it-and-support-3.md)</sub>
+<sub>[← Page 1](it-and-support.md) · Page 2 of 3 · [Page 3 →](it-and-support-3.md)</sub>
 
 [← Every filter](../README.md) · [Back to the full list](../../README.md)
