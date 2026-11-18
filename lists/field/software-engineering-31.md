@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**12,082 open roles.** 7,368 in the United States & Canada · 4,714 elsewhere in the world.
+**12,081 open roles.** 7,368 in the United States & Canada · 4,713 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -583,13 +583,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Milano, Lombardia, Italy</td>
 <td align="center"><a href="https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/24417">Apply</a></td>
 <td align="center">21 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Modus Create</strong></td>
-<td><a href="https://trueinterview.io/jobs/5d53dced-e11c-403d-9e21-4b6cae193a85">AI Platform Engineer</a></td>
-<td>Brazil<br/>Colombia<br/>Costa Rica</td>
-<td align="center"><a href="https://moduscreate.com/careers/7999229003?gh_jid=7999229003">Apply</a></td>
-<td align="center">19 Sep 2026</td>
 </tr>
 </tbody>
 </table>

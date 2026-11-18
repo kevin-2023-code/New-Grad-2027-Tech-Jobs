@@ -2,7 +2,7 @@
 
 # 🧾 IT services & consulting
 
-**476 open roles.** 231 in the United States & Canada · 245 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
+**475 open roles.** 231 in the United States & Canada · 244 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 

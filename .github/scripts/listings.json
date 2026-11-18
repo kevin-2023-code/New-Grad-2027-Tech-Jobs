@@ -6,8 +6,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-18T13:19:21.984Z",
-  "count": 21222,
+  "listingsChangedAt": "2026-11-18T14:19:01.198Z",
+  "count": 21221,
   "listings": [
     {
       "id": "753fd021-f192-4e7a-81e6-3207af7e89ac",
@@ -547870,33 +547870,6 @@
       "url": "https://trueinterview.io/jobs/052ff7e6-b087-4810-958e-d03f4f6451bc",
       "postedAt": "2026-09-20T15:56:30.000Z",
       "updatedAt": "2026-09-20T15:56:30.000Z"
-    },
-    {
-      "id": "5d53dced-e11c-403d-9e21-4b6cae193a85",
-      "company": "Modus Create",
-      "title": "AI Platform Engineer",
-      "locations": [
-        "Brazil",
-        "Colombia",
-        "Costa Rica"
-      ],
-      "cities": [],
-      "countries": [
-        "Brazil"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Platform Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://moduscreate.com/careers/7999229003?gh_jid=7999229003",
-      "url": "https://trueinterview.io/jobs/5d53dced-e11c-403d-9e21-4b6cae193a85",
-      "postedAt": "2026-09-18T13:50:40.000Z",
-      "updatedAt": "2026-09-19T13:48:45.000Z"
     }
   ]
 }

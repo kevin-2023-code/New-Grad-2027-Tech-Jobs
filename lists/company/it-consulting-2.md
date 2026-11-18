@@ -2,7 +2,7 @@
 
 # 🧾 IT services & consulting
 
-**476 open roles.** 231 in the United States & Canada · 245 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
+**475 open roles.** 231 in the United States & Canada · 244 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -541,13 +541,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Toulouse, Occitanie, France</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/SopraSteria1/744000150614209-stage-ux-developpement-react-et-deploiement-de-crimson-pics-solution-numerique-de-gestion-de-crise-defense-securite-toulouse">Apply</a></td>
 <td align="center">21 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Modus Create</strong></td>
-<td><a href="https://trueinterview.io/jobs/5d53dced-e11c-403d-9e21-4b6cae193a85">AI Platform Engineer</a></td>
-<td>Brazil<br/>Colombia<br/>Costa Rica</td>
-<td align="center"><a href="https://moduscreate.com/careers/7999229003?gh_jid=7999229003">Apply</a></td>
-<td align="center">19 Sep 2026</td>
 </tr>
 </tbody>
 </table>
