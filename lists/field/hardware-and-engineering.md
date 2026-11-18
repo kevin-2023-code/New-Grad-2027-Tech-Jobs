@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**994 open roles.** 722 in the United States & Canada · 272 elsewhere in the world.
+**2,186 open roles.** 1,469 in the United States & Canada · 717 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -10,7 +10,7 @@
 
 _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-authorisation restriction._
 
-<sub>Page 1 of 3 · [Page 2 →](hardware-and-engineering-2.md)</sub>
+<sub>Page 1 of 6 · [Page 2 →](hardware-and-engineering-2.md)</sub>
 
 ## United States & Canada
 
@@ -31,13 +31,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/19850eb2-e88f-49bd-b02f-184fd6d1cc51">Associate Product Developer - Robots</a></td>
 <td>Needham, MA, United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4729918006">Apply</a></td>
-<td align="center">17 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>IBM</strong></td>
-<td><a href="https://trueinterview.io/jobs/3c3a5b32-19bc-48ae-9f58-bac829ef4f0f">Quality Engineer-FullStack</a></td>
-<td>Bloomington, IN</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4489796864/">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
@@ -104,13 +97,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Advance Storage Products</strong></td>
-<td><a href="https://trueinterview.io/jobs/4f24c7f6-8891-49e2-892f-9d3f39a8553e">Process Quality Engineer</a></td>
-<td>Piedmont, AL</td>
-<td align="center"><a href="https://recruitingbypaycor.com/career/JobIntroduction.action?id=8a78879ea1ccde3201a1e6e324467f45">Apply</a></td>
-<td align="center">17 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Amazon.com</strong></td>
 <td><a href="https://trueinterview.io/jobs/d5509455-fe7e-4528-aa51-43a9603aafd8">Robotics - Hardware Development Engineer</a></td>
 <td>North Reading, MA</td>
@@ -132,10 +118,24 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Georgia-Pacific</strong></td>
+<td><a href="https://trueinterview.io/jobs/7f354cd5-2d75-4d12-9d80-2a3d05e7c3e7">Remote Asset Process Engineer - Lumber</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://ars2.equest.com/?response_id=a4470ac9ad4dafc48bae30814f3fc3c4">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Metropolitan Transportation Authority</strong></td>
 <td><a href="https://trueinterview.io/jobs/7782a293-eebb-4439-bc46-0ce795cd07f2">Assistant Electrical Engineer</a></td>
 <td>Brooklyn, NY</td>
 <td align="center"><a href="https://careers.mta.org/jobs/18488433-assistant-electrical-engineer?tm_job=18157&amp;tm_event=view&amp;tm_company=47560">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Minth North America</strong></td>
+<td><a href="https://trueinterview.io/jobs/0ee093ec-5527-4bda-869f-bc5773fb4bda">Quality Engineer - German OEM</a></td>
+<td>Lewisburg, TN</td>
+<td align="center"><a href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=fad4e2be-b8f0-4485-a534-2f571cc6d0cd&amp;ccId=19000101_000001&amp;jobId=971280&amp;lang=en_US">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
@@ -2822,6 +2822,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tbody>
 </table>
 
-<sub>Page 1 of 3 · [Page 2 →](hardware-and-engineering-2.md)</sub>
+<sub>Page 1 of 6 · [Page 2 →](hardware-and-engineering-2.md)</sub>
 
 [← Every filter](../README.md) · [Back to the full list](../../README.md)

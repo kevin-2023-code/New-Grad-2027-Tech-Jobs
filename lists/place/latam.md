@@ -2,13 +2,30 @@
 
 # 🌎 México, Brazil & Latin America
 
-**21 open roles.**
+**86 open roles.** 1 in the United States & Canada · 85 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
 > A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page.
 
 _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-authorisation restriction._
+
+## United States & Canada
+
+<table>
+<thead>
+<tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Fanatics Collectibles</strong></td>
+<td><a href="https://trueinterview.io/jobs/070e9cab-41ae-43e7-9fb8-8ebc634809b6">Product Designer</a></td>
+<td>Ciudad de México, Mexico<br/>Los Angeles, CA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4414715009">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+</tbody>
+</table>
 
 ## Elsewhere in the world
 
@@ -165,6 +182,454 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>São Paulo, Brazil</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/c6bank/jobs/4712712005">Apply</a></td>
 <td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Wizeline</strong></td>
+<td><a href="https://trueinterview.io/jobs/c89be31f-bc43-421b-b4cb-fb53c15e056c">Data Scientist - ML Engineering</a></td>
+<td>Mexico City, Mexico<br/>Ciudad de Mexico</td>
+<td align="center"><a href="https://www.wizeline.ai/careers/job?gh_jid=7838717">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Siemens</strong></td>
+<td><a href="https://trueinterview.io/jobs/7f36e14c-b333-466c-8f1d-873362bae4fa">Customer Support Engineer</a></td>
+<td>Mexico City, Mexico</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4447697276/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NOV</strong></td>
+<td><a href="https://trueinterview.io/jobs/d65714e0-d24e-46f8-9c2c-b8e5798ded04">Software Engineer</a></td>
+<td>Monterrey, Mexico<br/>Kochi, Kerala, India</td>
+<td align="center"><a href="https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_xx/job/43995">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/525bb75a-4b26-42a3-a019-184c7dbb4796">Business Engineer, Business Agents</a></td>
+<td>São Paulo, São Paulo, Brazil</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4379308617/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Inetum</strong></td>
+<td><a href="https://trueinterview.io/jobs/6a6a0a44-7971-41ee-adfb-46e1ece66893">Data Analyst</a></td>
+<td>Lima, Callao Region, Peru<br/>Lisbon, Lisbon, Portugal</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Inetum2/744000158485339-data-analyst">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Siemens</strong></td>
+<td><a href="https://trueinterview.io/jobs/90f1de45-73e0-4cd5-9ee4-8209c0b27632">Electrical &amp; Systems Engineer – Rolling Stock</a></td>
+<td>Buenos Aires, Buenos Aires Province, Argentina</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484907635/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/7acc2d1a-dffc-4d8d-9398-525b25f5f092">Practicante Pre Profesional de Business Intelligence - Sales</a></td>
+<td>Lima, Peru</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484913141/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Exame | Saint Paul</strong></td>
+<td><a href="https://trueinterview.io/jobs/a99f3386-e573-482a-8e75-951e3e68f126">Product Owner Pleno</a></td>
+<td>São Paulo, EXAME - SÃO PAULO</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/exame/jobs/6237961004">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Stone</strong></td>
+<td><a href="https://trueinterview.io/jobs/7b6aae5b-458b-4c74-96be-ed3e4dc647b4">[Distribution/REX] Software Engineer Pleno</a></td>
+<td>Sao Paulo, Sao Paulo, Brasil, STONE - TECH</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/stone/jobs/8045173003">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Getnet</strong></td>
+<td><a href="https://trueinterview.io/jobs/a38af26d-3664-4346-8284-cef04d6e7149">AI Deployment Engineer</a></td>
+<td>Mexico - Mexico City</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/getnet/jobs/5019637101">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Expeditors</strong></td>
+<td><a href="https://trueinterview.io/jobs/fdb5ccec-dce7-4594-b9d6-db9d5039f35e">Jovem Aprendiz - IT Support</a></td>
+<td>São Paulo, State of São Paulo, Brazil</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Expeditors/744000158368359-jovem-aprendiz-it-support-">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Google</strong></td>
+<td><a href="https://trueinterview.io/jobs/fd98ef81-72bb-4783-86c3-8788f5444ddd">Cloud AI Engineer, Google Cloud (English)</a></td>
+<td>Ciudad de México, Mexico<br/>Yerevan, Armenia</td>
+<td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/129450735531107014">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sportradar</strong></td>
+<td><a href="https://trueinterview.io/jobs/d8fb5485-6f36-4526-bea2-c1b61c58b8ed">Software Engineer</a></td>
+<td>Montevideo, Uruguay<br/>Mont-Saint-Guibert, Belgium<br/>Ljubljana, Slovenia</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Sportradar/744000158216960-software-engineer">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SGS</strong></td>
+<td><a href="https://trueinterview.io/jobs/e02ddd7f-3944-4f92-86dc-d39f43e65844">Financial Data &amp; Reporting Analyst</a></td>
+<td>Bogotá, Bogotá, Colombia</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SGS/744000158155684-financial-data-reporting-analyst">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Motive</strong></td>
+<td><a href="https://trueinterview.io/jobs/985404f7-1d6f-42f7-a352-4b586d445376">Technical Support Specialist</a></td>
+<td>Mexico City - Hybrid<br/>Pakistan - Islamabad<br/>Pakistan - Lahore<br/>+1 more</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/gomotive/jobs/8906566002">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>1global</strong></td>
+<td><a href="https://trueinterview.io/jobs/bee691ad-7fef-4fd9-ab14-d10142052c71">Fulfilment Specialist</a></td>
+<td>São Paulo, São Paulo, Brazil</td>
+<td align="center"><a href="https://jobs.workable.com/view/mkZjss1JQBbWC16oLidQ5c/hybrid-fulfilment-specialist-in-s%C3%A3o-paulo-at-1global">Apply</a></td>
+<td align="center">24 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Wildlife Studios</strong></td>
+<td><a href="https://trueinterview.io/jobs/85bd9f5e-8938-4d2b-8d4a-e976ccbc261a">Associate Data Engineer</a></td>
+<td>São Paulo, Brazil, Brazil</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/wildlifestudios/jobs/8912839002">Apply</a></td>
+<td align="center">24 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Entain</strong></td>
+<td><a href="https://trueinterview.io/jobs/ecaec1d4-75f1-4723-ae6f-30da5fee5ec9">Football Trader 1</a></td>
+<td>Montevideo, Departamento de Montevideo, Uruguay</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Entain/744000157579319-football-trader-1">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Chubb</strong></td>
+<td><a href="https://trueinterview.io/jobs/26382c92-c2af-4a52-a059-8a2dd6b8bee8">Product Owner Specialist I</a></td>
+<td>Sao Paulo, SP, Brazil</td>
+<td align="center"><a href="https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/37401">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Applus</strong></td>
+<td><a href="https://trueinterview.io/jobs/ff22c149-7a9a-40b3-bc58-5e9b662b6b12">Especialista em Chassis Controls Safety Designer - OPT</a></td>
+<td>Belo Horizonte, State of Minas Gerais, Brazil</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/ApplusIDIADA1/744000156596841-especialista-em-chassis-controls-safety-designer-opt">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f820f25a-cda6-4829-817b-6b2ed77e00a4">Front-end Android Developer Pleno</a></td>
+<td>Belo Horizonte, State of Minas Gerais, Brazil</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/ApplusIDIADA1/744000156590182-front-end-android-developer-pleno">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/85941827-747c-42bd-89a8-923d371a7a33">Analista Dynamics Engineering Advanced</a></td>
+<td>Belo Horizonte, State of Minas Gerais, Brazil</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/ApplusIDIADA1/744000156588911-analista-dynamics-engineering-advanced">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Watchguard Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/4b8c7720-d2de-44c7-9cff-a7457b88be00">DevOps Engineer</a></td>
+<td>São Paulo, Brazil<br/>Santa Rita Do Sapucai, Brazil</td>
+<td align="center"><a href="https://jobs.lever.co/watchguard/b698ed83-2778-4841-893e-a5dd310abd7d">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NOV</strong></td>
+<td><a href="https://trueinterview.io/jobs/686ef46a-7bb1-457c-9896-626ea71ad85f">Development Engineer (Extrusion Process)</a></td>
+<td>Sao Joao da Barra, Rio de Janeiro, Brazil</td>
+<td align="center"><a href="https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_xx/job/42712">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Delivery Hero</strong></td>
+<td><a href="https://trueinterview.io/jobs/e9933ba4-a1a7-402a-affb-4ed723c0d602">Software Engineer IOS</a></td>
+<td>Buenos Aires, Buenos Aires, Argentina</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/DeliveryHero/744000156410272-software-engineer-ios">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Xp Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/a9bbd8cb-11e8-4ac8-a4d1-d9203a361e00">Business Analyst | Segmento Trader</a></td>
+<td>São Paulo, SP</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/xpinc/jobs/8892892002">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Experian</strong></td>
+<td><a href="https://trueinterview.io/jobs/75de85bb-add8-432e-adb9-57b03eacb5aa">Security Reliability &amp; Remediation Engineering Specialist (Java)</a></td>
+<td>São Paulo, Brazil</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Experian/744000156052189-security-reliability-remediation-engineering-specialist-java-">Apply</a></td>
+<td align="center">16 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/06e99677-579e-4d6e-92df-a83dbed2606a">Identity Threat Detection Engineering Specialist</a></td>
+<td>São Paulo, Brazil</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Experian/744000156049014-identity-threat-detection-engineering-specialist">Apply</a></td>
+<td align="center">16 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/d29e0018-ad4d-419e-bc04-8b3874abd888">Product Security Engineering Specialist</a></td>
+<td>São Paulo, Brazil</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Experian/744000156049337-product-security-engineering-specialist">Apply</a></td>
+<td align="center">16 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Capco</strong></td>
+<td><a href="https://trueinterview.io/jobs/689ee340-ce99-4e45-a1e3-b8f57a641c4a">Integration Developer Pleno - COM INGLÊS - Remoto</a></td>
+<td>Brazil - Sao Paulo</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/capco/jobs/8267134">Apply</a></td>
+<td align="center">16 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Applus</strong></td>
+<td><a href="https://trueinterview.io/jobs/3972caa5-e13b-42fe-ac49-d9727df48764">Designer Gráfico Pleno</a></td>
+<td>Belo Horizonte, State of Minas Gerais, Brazil</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/ApplusIDIADA1/744000155333689-designer-grafico-pleno">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Louis Dreyfus Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/cfe5bef6-3c38-4c0d-811c-27aee88b32a1">Solution/Product Analyst (Cybersecurity)</a></td>
+<td>Sao Paulo, State of São Paulo, Brazil</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000154786109-solution-product-analyst-cybersecurity-">Apply</a></td>
+<td align="center">9 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Inter Carreiras</strong></td>
+<td><a href="https://trueinterview.io/jobs/22037430-58e7-441b-9834-a5cbf3ed2db0">DATA ENGINEER III | DATA &amp; AI PLATFORM GLOBAL MG</a></td>
+<td>São Paulo, SP<br/>Belo Horizonte, MG</td>
+<td align="center"><a href="https://boards.greenhouse.io/inter/jobs/4738998005?gh_jid=4738998005">Apply</a></td>
+<td align="center">9 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Wise</strong></td>
+<td><a href="https://trueinterview.io/jobs/63fd2fc3-7f7e-4d6e-add8-b1dc42ca8297">Engineer People Technology</a></td>
+<td>São Paulo, Brazil</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Wise/744000154755059-engineer-people-technology-">Apply</a></td>
+<td align="center">9 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Capco</strong></td>
+<td><a href="https://trueinterview.io/jobs/a0df3bdd-10f7-4b08-88b3-ffeee3f798e0">Integration &amp; Database Developer - COM INGLÊS - Remoto</a></td>
+<td>Brazil - Sao Paulo</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/capco/jobs/8267193">Apply</a></td>
+<td align="center">9 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/946022fc-86a7-4e86-a16d-63ce507f4338">Salesforce Integration Developer - COM INGLÊS - Remoto</a></td>
+<td>Brazil - Sao Paulo</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/capco/jobs/8265701">Apply</a></td>
+<td align="center">9 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Syngenta</strong></td>
+<td><a href="https://trueinterview.io/jobs/d0a37d16-3b92-4ec2-9680-38a550fc9cfe">AI Solution Engineer</a></td>
+<td>Sao Paulo, SÃO PAULO, Brazil</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SyngentaGroup/744000154694638-ai-solution-engineer-">Apply</a></td>
+<td align="center">9 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NOV</strong></td>
+<td><a href="https://trueinterview.io/jobs/712b179f-1249-4afc-9096-3bdb4ce03479">Factories &amp; Installation Engineer - Armours</a></td>
+<td>Sao Joao da Barra, Rio de Janeiro, Brazil</td>
+<td align="center"><a href="https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_xx/job/44104">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Inter Carreiras</strong></td>
+<td><a href="https://trueinterview.io/jobs/0674982b-12b3-4321-8dde-ba698d0dd701">DATA ANALYST I | CREDIT STRATEGY &amp; POLICY SP</a></td>
+<td>São Paulo, SP<br/>BANCO INTER</td>
+<td align="center"><a href="https://boards.greenhouse.io/inter/jobs/4739789005?gh_jid=4739789005">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Inetum</strong></td>
+<td><a href="https://trueinterview.io/jobs/dde51e72-ce1f-4a8e-8c64-e635f50b358a">Backend Developer</a></td>
+<td>Lima, Callao Region, Peru<br/>San Isidro, Lima Province, Peru</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Inetum2/744000154150749-backend-developer">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Inter Carreiras</strong></td>
+<td><a href="https://trueinterview.io/jobs/64acd6c6-4491-4406-94f7-a0b7c3c3776d">PRODUCT DESIGNER SPECIALIST</a></td>
+<td>São Paulo, SP<br/>Belo Horizonte, MG</td>
+<td align="center"><a href="https://boards.greenhouse.io/inter/jobs/4738863005?gh_jid=4738863005">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Emerson</strong></td>
+<td><a href="https://trueinterview.io/jobs/c3a03311-0442-4809-a875-d574252bceae">Application Support Engineer (Fluid and Motion Control Systems)</a></td>
+<td>Escazú, San José, Costa Rica</td>
+<td align="center"><a href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010842">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Xp Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/3c5cdc34-6504-444d-a1d6-71126b77890a">Especialista em Arquitetura de AppSec</a></td>
+<td>São Paulo, SP</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/xpinc/jobs/8867985002">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Bees</strong></td>
+<td><a href="https://trueinterview.io/jobs/8a7295ed-0ae2-47d9-bb1c-06367cfcb372">AI Engineer</a></td>
+<td>Campinas, São Paulo, Brazil</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/bees/jobs/8868236002">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Inetum</strong></td>
+<td><a href="https://trueinterview.io/jobs/e41efd45-fa34-42a5-a218-795137d22a0c">Product Owner - Banca Corporativa</a></td>
+<td>Bogotá, Bogota, Colombia</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Inetum2/744000153247590-product-owner-banca-corporativa">Apply</a></td>
+<td align="center">2 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Experian</strong></td>
+<td><a href="https://trueinterview.io/jobs/01f73101-064c-4148-bb3e-aeb34be617f9">Product Designer - Visual Design</a></td>
+<td>São Paulo, State of São Paulo, Brazil</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Experian/744000152947939-product-designer-visual-design">Apply</a></td>
+<td align="center">1 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/4ae8ab93-ab9a-4b4b-b236-5ff23959be33">Product Designer - UX Research</a></td>
+<td>São Paulo, State of São Paulo, Brazil</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Experian/744000152941981-product-designer-ux-research">Apply</a></td>
+<td align="center">1 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e42e0899-d67b-45da-be53-8407db617a03">Product Designer - Content Design</a></td>
+<td>São Paulo, Brazil</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Experian/744000152940866-product-designer-content-design">Apply</a></td>
+<td align="center">1 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SAP IT Business Systeme</strong></td>
+<td><a href="https://trueinterview.io/jobs/81e87932-fc14-4cd8-8032-3902c59369dc">Next Generation Support Engineer</a></td>
+<td>Monterrey, Mexico</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000152783619-next-generation-support-engineer">Apply</a></td>
+<td align="center">30 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>C6 Bank</strong></td>
+<td><a href="https://trueinterview.io/jobs/bfc24333-63e0-4e3e-9fe9-3b8fe4b9f569">Especialista DevOps | Technology Platform Engineering</a></td>
+<td>São Paulo, Brazil</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/c6bank/jobs/4733325005">Apply</a></td>
+<td align="center">28 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Capco</strong></td>
+<td><a href="https://trueinterview.io/jobs/932dcfbb-ab02-4493-b722-f60281c33bdf">Engenheiro de Poços - Remoto</a></td>
+<td>Brazil - Rio de Janeiro</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/capco/jobs/8234181">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>JPMorgan Chase</strong></td>
+<td><a href="https://trueinterview.io/jobs/42004ab9-6ebc-46f3-9f82-7998b5820fb1">Mainframe SCM Infrastructure Engineer</a></td>
+<td>Buenos Aires, Argentina</td>
+<td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210794992">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Eurofins</strong></td>
+<td><a href="https://trueinterview.io/jobs/7b8098c6-b63e-429b-96f3-982488da9587">DevOps Engineer</a></td>
+<td>Belo Horizonte, State of Minas Gerais, Brazil</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Eurofins/744000151875353-devops-engineer">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Monks</strong></td>
+<td><a href="https://trueinterview.io/jobs/4a9db71d-fc44-4d1a-8d0a-af1333af1010">Visual QA</a></td>
+<td>Buenos Aires<br/>Mexico</td>
+<td align="center"><a href="https://www.monks.com/careers/6207952004/job?gh_jid=6207952004">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Capco</strong></td>
+<td><a href="https://trueinterview.io/jobs/319e981c-f633-42a2-8ac6-cce93f80685d">Técnico de Planejamento e Programação da Manutenção / Híbrido</a></td>
+<td>Brazil - Rio de Janeiro<br/>Brazil - Sao Paulo</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/capco/jobs/8231682">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Xp Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/ddb1a869-1f50-4b97-b486-029dea15d8a9">Especialista em Infraestrutura | SRE</a></td>
+<td>São Paulo, SP</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/xpinc/jobs/8697005002">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Btg Pactual</strong></td>
+<td><a href="https://trueinterview.io/jobs/d6fb9b4a-1564-48dc-8835-e5df49ec71bb">Software Engineer | Collateral &amp; Margin Platform</a></td>
+<td>São Paulo<br/>BR - SAO PAULO</td>
+<td align="center"><a href="https://carreiras.btgpactual.com/vagas?gh_jid=6196645004">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Louis Dreyfus Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/d12a18e4-cf24-4e1c-be86-85799615bace">TRADER ALGODAO</a></td>
+<td>Sao Paulo, State of São Paulo, Brazil</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000151661830-trader-algodao">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Bees</strong></td>
+<td><a href="https://trueinterview.io/jobs/121ca286-3791-4afd-845f-66adc1d43d3a">Technical Product Management</a></td>
+<td>Campinas, São Paulo, Brazil</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/bees/jobs/8503876002">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>QAD, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/574ed733-ea0e-4885-94af-beafc56ff02c">Software Engineer, AI Agent Platform</a></td>
+<td>Monterrey, Nuevo Leon, Mexico</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/QADInc/744000151451019-software-engineer-ai-agent-platform">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Inetum</strong></td>
+<td><a href="https://trueinterview.io/jobs/705066ea-eaff-4dcc-8d9c-c620754928bc">FrontEnd Developer</a></td>
+<td>Lima, Callao Region, Peru</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Inetum2/744000151444848-frontend-developer">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/817e1b15-8cb3-44a4-9908-1092617a6e1c">IA Machine Learning - ML Experto</a></td>
+<td>Bogotá, Bogota, Colombia</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Inetum2/744000151387134-ia-machine-learning-ml-experto">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Capco</strong></td>
+<td><a href="https://trueinterview.io/jobs/08975549-e881-42fc-a714-9a02134a8f61">Engenheiro de Qualidade  - Híbrido - Santos/SP e Rio de Janeiro/RJ</a></td>
+<td>Brazil - Rio de Janeiro</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/capco/jobs/8224389">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Inetum</strong></td>
+<td><a href="https://trueinterview.io/jobs/4686efdd-73d6-4ea5-a3ed-e4a2177a0305">Ingeniero DevOps</a></td>
+<td>Bogotá, Bogota, Colombia</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Inetum2/744000151136339-ingeniero-devops">Apply</a></td>
+<td align="center">22 Sep 2026</td>
 </tr>
 </tbody>
 </table>
