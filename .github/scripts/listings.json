@@ -6,7 +6,7 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-18T22:27:08.353Z",
+  "listingsChangedAt": "2026-11-18T22:34:11.018Z",
   "count": 21377,
   "listings": [
     {
@@ -48103,33 +48103,6 @@
       "updatedAt": "2026-11-07T10:26:00.000Z"
     },
     {
-      "id": "dd5bb628-8206-4b4b-b3de-f2fbbd7ab3ec",
-      "company": "Rakuten",
-      "title": "楽天銀行株式会社 システム本部：Android/iOS ネイティブアプリエンジニア",
-      "locations": [
-        "Tokyo, Japan"
-      ],
-      "cities": [
-        "Tokyo"
-      ],
-      "countries": [
-        "Japan"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Mobile Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4461958121/",
-      "url": "https://trueinterview.io/jobs/dd5bb628-8206-4b4b-b3de-f2fbbd7ab3ec",
-      "postedAt": "2026-11-07T10:22:00.000Z",
-      "updatedAt": "2026-11-07T10:22:00.000Z"
-    },
-    {
       "id": "0a382bed-0bc9-4629-9514-3dcff6b2c93a",
       "company": "Rakuten",
       "title": "楽天カード株式会社（出向）サービス運用部 システム運用本部：サイトリライアビリティーエンジニア（SRE）",
@@ -48153,6 +48126,33 @@
       "source": "linkedin",
       "applyUrl": "https://www.linkedin.com/jobs/view/4461948251/",
       "url": "https://trueinterview.io/jobs/0a382bed-0bc9-4629-9514-3dcff6b2c93a",
+      "postedAt": "2026-11-07T10:22:00.000Z",
+      "updatedAt": "2026-11-07T10:22:00.000Z"
+    },
+    {
+      "id": "dd5bb628-8206-4b4b-b3de-f2fbbd7ab3ec",
+      "company": "Rakuten",
+      "title": "楽天銀行株式会社 システム本部：Android/iOS ネイティブアプリエンジニア",
+      "locations": [
+        "Tokyo, Japan"
+      ],
+      "cities": [
+        "Tokyo"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Mobile Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4461958121/",
+      "url": "https://trueinterview.io/jobs/dd5bb628-8206-4b4b-b3de-f2fbbd7ab3ec",
       "postedAt": "2026-11-07T10:22:00.000Z",
       "updatedAt": "2026-11-07T10:22:00.000Z"
     },
@@ -194510,52 +194510,6 @@
       "updatedAt": "2026-11-02T06:00:00.000Z"
     },
     {
-      "id": "9be539f7-51a9-47f0-9f68-02c4b7650340",
-      "company": "株式会社SAWS",
-      "title": "AI活用・業務改善担当",
-      "locations": [
-        "前原西, 日本"
-      ],
-      "cities": [],
-      "countries": [],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "indeed",
-      "applyUrl": "https://www.hatarakuzo.com/chiba/sheets/detail/412665?feedid=02895360",
-      "url": "https://trueinterview.io/jobs/9be539f7-51a9-47f0-9f68-02c4b7650340",
-      "postedAt": "2026-11-02T06:00:00.000Z",
-      "updatedAt": "2026-11-02T06:00:00.000Z"
-    },
-    {
-      "id": "0fdc4582-83d3-4b24-99d5-b031c9e2bc76",
-      "company": "株式会社ピーティーエス・ジャパン",
-      "title": "AI & Cloud Engineer (Vertex AI/Python/GCP) | AIクラウドエンジニア",
-      "locations": [
-        "日本"
-      ],
-      "cities": [],
-      "countries": [],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "indeed",
-      "applyUrl": "https://www.careercross.com/job/detail-1621037",
-      "url": "https://trueinterview.io/jobs/0fdc4582-83d3-4b24-99d5-b031c9e2bc76",
-      "postedAt": "2026-11-02T06:00:00.000Z",
-      "updatedAt": "2026-11-02T06:00:00.000Z"
-    },
-    {
       "id": "180a3551-2b3a-49fc-ba03-31a4e7eaf560",
       "company": "A&T Systems, Inc",
       "title": "Service Desk Technician (Carlisle Barracks)",
@@ -209465,6 +209419,52 @@
       "source": "indeed",
       "applyUrl": "https://zotecpartners.applytojob.com/apply/lPknbreyc7/Managed-File-Transfer-Engineer-I?%7E=",
       "url": "https://trueinterview.io/jobs/1b569366-683b-45b3-8963-cd84867e85fe",
+      "postedAt": "2026-11-02T06:00:00.000Z",
+      "updatedAt": "2026-11-02T06:00:00.000Z"
+    },
+    {
+      "id": "9be539f7-51a9-47f0-9f68-02c4b7650340",
+      "company": "株式会社SAWS",
+      "title": "AI活用・業務改善担当",
+      "locations": [
+        "前原西, 日本"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://www.hatarakuzo.com/chiba/sheets/detail/412665?feedid=02895360",
+      "url": "https://trueinterview.io/jobs/9be539f7-51a9-47f0-9f68-02c4b7650340",
+      "postedAt": "2026-11-02T06:00:00.000Z",
+      "updatedAt": "2026-11-02T06:00:00.000Z"
+    },
+    {
+      "id": "0fdc4582-83d3-4b24-99d5-b031c9e2bc76",
+      "company": "株式会社ピーティーエス・ジャパン",
+      "title": "AI & Cloud Engineer (Vertex AI/Python/GCP) | AIクラウドエンジニア",
+      "locations": [
+        "日本"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://www.careercross.com/job/detail-1621037",
+      "url": "https://trueinterview.io/jobs/0fdc4582-83d3-4b24-99d5-b031c9e2bc76",
       "postedAt": "2026-11-02T06:00:00.000Z",
       "updatedAt": "2026-11-02T06:00:00.000Z"
     },
@@ -228454,31 +228454,6 @@
       "updatedAt": "2026-10-31T05:02:00.000Z"
     },
     {
-      "id": "070613c4-36ad-4a95-89b9-e3586b2e1664",
-      "company": "賓尼斯工程顧問有限公司 Binnies",
-      "title": "# 駐地盤高級工程師 (岩土) (Ref: DHSR/SRE(G)/359/2026)",
-      "locations": [
-        "Hong Kong"
-      ],
-      "cities": [],
-      "countries": [
-        "Other"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Site Reliability Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "indeed",
-      "applyUrl": "https://www.recruit.com.hk/job-detail/%E8%B3%93%E5%B0%BC%E6%96%AF%E5%B7%A5%E7%A8%8B%E9%A1%A7%E5%95%8F%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8-binnies/%E9%A7%90%E5%9C%B0%E7%9B%A4%E9%AB%98%E7%B4%9A%E5%B7%A5%E7%A8%8B%E5%B8%AB-%E5%B2%A9%E5%9C%9F-ref-dhsr-sre-g-359-2026/L0608831",
-      "url": "https://trueinterview.io/jobs/070613c4-36ad-4a95-89b9-e3586b2e1664",
-      "postedAt": "2026-10-31T05:00:00.000Z",
-      "updatedAt": "2026-10-31T05:00:00.000Z"
-    },
-    {
       "id": "975498b0-db68-4d57-8ad3-e6760f9fa222",
       "company": "Activision",
       "title": "Rotational Engineer, Central Technology",
@@ -230067,6 +230042,31 @@
       "source": "indeed",
       "applyUrl": "https://careers.yash.com/job/Pune-Software-Engineer-AWS-Glue-Job/1369732566/",
       "url": "https://trueinterview.io/jobs/88ab09a1-3abe-4ecc-b853-c01a6b5ac59a",
+      "postedAt": "2026-10-31T05:00:00.000Z",
+      "updatedAt": "2026-10-31T05:00:00.000Z"
+    },
+    {
+      "id": "070613c4-36ad-4a95-89b9-e3586b2e1664",
+      "company": "賓尼斯工程顧問有限公司 Binnies",
+      "title": "# 駐地盤高級工程師 (岩土) (Ref: DHSR/SRE(G)/359/2026)",
+      "locations": [
+        "Hong Kong"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Site Reliability Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://www.recruit.com.hk/job-detail/%E8%B3%93%E5%B0%BC%E6%96%AF%E5%B7%A5%E7%A8%8B%E9%A1%A7%E5%95%8F%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8-binnies/%E9%A7%90%E5%9C%B0%E7%9B%A4%E9%AB%98%E7%B4%9A%E5%B7%A5%E7%A8%8B%E5%B8%AB-%E5%B2%A9%E5%9C%9F-ref-dhsr-sre-g-359-2026/L0608831",
+      "url": "https://trueinterview.io/jobs/070613c4-36ad-4a95-89b9-e3586b2e1664",
       "postedAt": "2026-10-31T05:00:00.000Z",
       "updatedAt": "2026-10-31T05:00:00.000Z"
     },
@@ -277147,31 +277147,6 @@
       "updatedAt": "2026-10-30T04:36:00.000Z"
     },
     {
-      "id": "527556c3-813d-4d19-9501-e53e1081e013",
-      "company": "鈺立微電子股份有限公司 eYs3D Microelectronics, Co.",
-      "title": "Field Application Engineer",
-      "locations": [
-        "San Antonio, Texas Metropolitan Area"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4484818067/",
-      "url": "https://trueinterview.io/jobs/527556c3-813d-4d19-9501-e53e1081e013",
-      "postedAt": "2026-10-30T04:35:00.000Z",
-      "updatedAt": "2026-10-30T04:35:00.000Z"
-    },
-    {
       "id": "c03106cc-ff49-4e2d-9010-d6c282dbd727",
       "company": "Neo.Tax",
       "title": "Solutions Engineer",
@@ -277195,6 +277170,31 @@
       "source": "linkedin",
       "applyUrl": "https://www.linkedin.com/jobs/view/4485299244/",
       "url": "https://trueinterview.io/jobs/c03106cc-ff49-4e2d-9010-d6c282dbd727",
+      "postedAt": "2026-10-30T04:35:00.000Z",
+      "updatedAt": "2026-10-30T04:35:00.000Z"
+    },
+    {
+      "id": "527556c3-813d-4d19-9501-e53e1081e013",
+      "company": "鈺立微電子股份有限公司 eYs3D Microelectronics, Co.",
+      "title": "Field Application Engineer",
+      "locations": [
+        "San Antonio, Texas Metropolitan Area"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484818067/",
+      "url": "https://trueinterview.io/jobs/527556c3-813d-4d19-9501-e53e1081e013",
       "postedAt": "2026-10-30T04:35:00.000Z",
       "updatedAt": "2026-10-30T04:35:00.000Z"
     },
@@ -354086,29 +354086,6 @@
       "updatedAt": "2026-10-29T05:00:00.000Z"
     },
     {
-      "id": "e9f602b1-3683-4360-bdc6-14a4261cb92e",
-      "company": "株式会社 JAC International",
-      "title": "Embedded Software Engineer",
-      "locations": [
-        "日本"
-      ],
-      "cities": [],
-      "countries": [],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Embedded Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "indeed",
-      "applyUrl": "https://www.careercross.com/job/detail-1619583",
-      "url": "https://trueinterview.io/jobs/e9f602b1-3683-4360-bdc6-14a4261cb92e",
-      "postedAt": "2026-10-29T05:00:00.000Z",
-      "updatedAt": "2026-10-29T05:00:00.000Z"
-    },
-    {
       "id": "a2edfe02-0588-448b-8e68-cdc835e5ee7b",
       "company": "ABB",
       "title": "Robotics Applications Engineer",
@@ -366200,6 +366177,29 @@
       "source": "indeed",
       "applyUrl": "https://app.trinethire.com/companies/22866-zymo-research-corporation/jobs/126123-post-doctoral-research-scientist-probes-enrichment-and-dna-methylation",
       "url": "https://trueinterview.io/jobs/915a3cf0-c672-4eec-9486-f3fbc752107a",
+      "postedAt": "2026-10-29T05:00:00.000Z",
+      "updatedAt": "2026-10-29T05:00:00.000Z"
+    },
+    {
+      "id": "e9f602b1-3683-4360-bdc6-14a4261cb92e",
+      "company": "株式会社 JAC International",
+      "title": "Embedded Software Engineer",
+      "locations": [
+        "日本"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Embedded Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://www.careercross.com/job/detail-1619583",
+      "url": "https://trueinterview.io/jobs/e9f602b1-3683-4360-bdc6-14a4261cb92e",
       "postedAt": "2026-10-29T05:00:00.000Z",
       "updatedAt": "2026-10-29T05:00:00.000Z"
     },
@@ -450153,29 +450153,6 @@
       "updatedAt": "2026-10-28T05:00:00.000Z"
     },
     {
-      "id": "669da533-c5e2-40b3-a244-f73a0721aa7e",
-      "company": "株式会社Spider Labs",
-      "title": "Solutions Engineer — Ad Fraud, Cybersecurity & AI Agentic Trust (Japan)",
-      "locations": [
-        "南青山, 日本"
-      ],
-      "cities": [],
-      "countries": [],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "indeed",
-      "applyUrl": "https://herp.careers/v1/spideraf/PF1ISMTEP2Lw",
-      "url": "https://trueinterview.io/jobs/669da533-c5e2-40b3-a244-f73a0721aa7e",
-      "postedAt": "2026-10-28T05:00:00.000Z",
-      "updatedAt": "2026-10-28T05:00:00.000Z"
-    },
-    {
       "id": "ed39b387-39b9-414f-9a9f-3a55cdd4af04",
       "company": "Abbott",
       "title": "Bioinformatics Quality Engineer I",
@@ -461599,6 +461576,29 @@
       "updatedAt": "2026-10-28T05:00:00.000Z"
     },
     {
+      "id": "669da533-c5e2-40b3-a244-f73a0721aa7e",
+      "company": "株式会社Spider Labs",
+      "title": "Solutions Engineer — Ad Fraud, Cybersecurity & AI Agentic Trust (Japan)",
+      "locations": [
+        "南青山, 日本"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://herp.careers/v1/spideraf/PF1ISMTEP2Lw",
+      "url": "https://trueinterview.io/jobs/669da533-c5e2-40b3-a244-f73a0721aa7e",
+      "postedAt": "2026-10-28T05:00:00.000Z",
+      "updatedAt": "2026-10-28T05:00:00.000Z"
+    },
+    {
       "id": "ec33527c-8248-41ec-b317-3a052dc1f54f",
       "company": "Deutsche Post und DHL",
       "title": "IT System Administrator (m/w/d) Schwerpunkt Linux / Container Plattformen",
@@ -468931,52 +468931,6 @@
       "source": "indeed",
       "applyUrl": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Global-Network---Telecom-Services---Full-Stack-Product-Engineer--Network-Automation---AI-Ops-_R01172521",
       "url": "https://trueinterview.io/jobs/6d33578c-0ca1-4a5a-a729-c08564f092d3",
-      "postedAt": "2026-10-27T05:00:00.000Z",
-      "updatedAt": "2026-10-27T05:00:00.000Z"
-    },
-    {
-      "id": "94cd6ff2-b429-4945-9c81-96d8557e760c",
-      "company": "株式会社ネックサス",
-      "title": "Cisco ACI Data Center Network Engineer",
-      "locations": [
-        "日本"
-      ],
-      "cities": [],
-      "countries": [],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "indeed",
-      "applyUrl": "https://www.careercross.com/job/detail-1619381",
-      "url": "https://trueinterview.io/jobs/94cd6ff2-b429-4945-9c81-96d8557e760c",
-      "postedAt": "2026-10-27T05:00:00.000Z",
-      "updatedAt": "2026-10-27T05:00:00.000Z"
-    },
-    {
-      "id": "732070c1-684f-4abf-93d4-f3dcb9a56e5e",
-      "company": "株式会社ネックサス",
-      "title": "Database Engineer",
-      "locations": [
-        "日本"
-      ],
-      "cities": [],
-      "countries": [],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "indeed",
-      "applyUrl": "https://www.careercross.com/job/detail-1619361",
-      "url": "https://trueinterview.io/jobs/732070c1-684f-4abf-93d4-f3dcb9a56e5e",
       "postedAt": "2026-10-27T05:00:00.000Z",
       "updatedAt": "2026-10-27T05:00:00.000Z"
     },
@@ -481985,6 +481939,52 @@
       "updatedAt": "2026-10-27T05:00:00.000Z"
     },
     {
+      "id": "94cd6ff2-b429-4945-9c81-96d8557e760c",
+      "company": "株式会社ネックサス",
+      "title": "Cisco ACI Data Center Network Engineer",
+      "locations": [
+        "日本"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://www.careercross.com/job/detail-1619381",
+      "url": "https://trueinterview.io/jobs/94cd6ff2-b429-4945-9c81-96d8557e760c",
+      "postedAt": "2026-10-27T05:00:00.000Z",
+      "updatedAt": "2026-10-27T05:00:00.000Z"
+    },
+    {
+      "id": "732070c1-684f-4abf-93d4-f3dcb9a56e5e",
+      "company": "株式会社ネックサス",
+      "title": "Database Engineer",
+      "locations": [
+        "日本"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://www.careercross.com/job/detail-1619361",
+      "url": "https://trueinterview.io/jobs/732070c1-684f-4abf-93d4-f3dcb9a56e5e",
+      "postedAt": "2026-10-27T05:00:00.000Z",
+      "updatedAt": "2026-10-27T05:00:00.000Z"
+    },
+    {
       "id": "bbd7032d-38db-4e30-afdf-57db3219884d",
       "company": "Abnormalsecurity",
       "title": "Machine Learning Engineer 1",
@@ -485469,29 +485469,6 @@
       "url": "https://trueinterview.io/jobs/4565a1a9-1466-4259-bfd0-39a9d39efe31",
       "postedAt": "2026-10-26T05:21:32.000Z",
       "updatedAt": "2026-10-26T05:21:32.000Z"
-    },
-    {
-      "id": "cd8cd501-ab9e-427f-94e1-f18fe30d5450",
-      "company": "株式会社LegalOn Technologies",
-      "title": "Software Engineer/SE(Web・オープン系)",
-      "locations": [
-        "桜丘町, 日本"
-      ],
-      "cities": [],
-      "countries": [],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "indeed",
-      "applyUrl": "https://mid-tenshoku.com/job/j-46351948/",
-      "url": "https://trueinterview.io/jobs/cd8cd501-ab9e-427f-94e1-f18fe30d5450",
-      "postedAt": "2026-10-26T05:00:00.000Z",
-      "updatedAt": "2026-10-26T05:00:00.000Z"
     },
     {
       "id": "84dcc4e8-e687-473a-a7b6-f350b41a64b5",
@@ -489060,6 +489037,29 @@
       "source": "indeed",
       "applyUrl": "https://www.mycareersfuture.gov.sg/job/d7798148a82c396f6e9cab314aa92b1e",
       "url": "https://trueinterview.io/jobs/d8f71274-7129-4ebb-9ab9-727c7a0c01ee",
+      "postedAt": "2026-10-26T05:00:00.000Z",
+      "updatedAt": "2026-10-26T05:00:00.000Z"
+    },
+    {
+      "id": "cd8cd501-ab9e-427f-94e1-f18fe30d5450",
+      "company": "株式会社LegalOn Technologies",
+      "title": "Software Engineer/SE(Web・オープン系)",
+      "locations": [
+        "桜丘町, 日本"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://mid-tenshoku.com/job/j-46351948/",
+      "url": "https://trueinterview.io/jobs/cd8cd501-ab9e-427f-94e1-f18fe30d5450",
       "postedAt": "2026-10-26T05:00:00.000Z",
       "updatedAt": "2026-10-26T05:00:00.000Z"
     },
