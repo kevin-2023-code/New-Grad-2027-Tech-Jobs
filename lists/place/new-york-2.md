@@ -2,7 +2,7 @@
 
 # 🗽 New York City
 
-**462 open roles.**
+**461 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -440,13 +440,6 @@
 <td><a href="https://trueinterview.io/jobs/52193b34-ed8b-4423-8744-1d8692615bda">Electrical Engineer</a></td>
 <td>New York, NY</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4402819393/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Baseten</strong></td>
-<td><a href="https://trueinterview.io/jobs/0d3cfc60-5343-491d-891a-ceadf7108daf">IT Support / Operations Engineer (NY)</a></td>
-<td>New York, NY<br/>San Francisco</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/baseten/c07eb44f-b5fa-4808-90b7-03b265d97836">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 </tbody>

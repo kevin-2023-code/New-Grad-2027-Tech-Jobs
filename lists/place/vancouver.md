@@ -2,7 +2,7 @@
 
 # ⛰️ Vancouver & British Columbia
 
-**30 open roles.**
+**32 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -88,6 +88,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Magnet Forensics</strong></td>
+<td><a href="https://trueinterview.io/jobs/73d9cdeb-ccf8-49a4-8764-c77bfd1a585a">Technical Support Engineer</a></td>
+<td>Vancouver, BC<br/>Vancouver, Canada<br/>Calgary, AB<br/>+6 more</td>
+<td align="center"><a href="https://jobs.lever.co/magnetforensics/1aeef597-5f34-4cfa-b913-dd1c302eb9da">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Franz Family Bakery</strong></td>
 <td><a href="https://trueinterview.io/jobs/2a880a39-1688-4305-9b19-4a2245ef386d">Data Governance &amp; Automation Analyst</a></td>
 <td>Vancouver, BC<br/>Vancouver, WA</td>
@@ -141,6 +148,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/f6413365-81ee-40b8-bec9-79d53cbb3b96">Instructor, AI Machine Learning and AI Robotics with Python (Vancouver)</a></td>
 <td>Vancouver, Canada<br/>Toronto, ON<br/>Toronto, Canada<br/>+1 more</td>
 <td align="center"><a href="https://circuitstream.humi.ca/job-board/ontario+summer+camp+staff/51961">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Humanoid</strong></td>
+<td><a href="https://trueinterview.io/jobs/4584dfdd-f41e-43f1-a3a4-dc96f534b50e">Test and Validation Engineer - Contract</a></td>
+<td>Canada, Vancouver, BC</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/humanoid/e5256a33-7ae1-497e-8c44-daa3ebe6e68b">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>

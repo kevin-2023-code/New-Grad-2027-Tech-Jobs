@@ -2,7 +2,7 @@
 
 # Product Manager
 
-**167 open roles.** 95 in the United States & Canada · 72 elsewhere in the world.
+**165 open roles.** 93 in the United States & Canada · 72 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -36,13 +36,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/ecf52536-83f9-4adc-8ac7-d022fc551d21">Product Owner</a></td>
 <td>Austin, TX</td>
 <td align="center"><a href="https://assaabloy.jobs2web.com/job/Austin-Product-Owner-TX-78753/1457764133/">Apply</a></td>
-<td align="center">16 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Schneider Electric</strong></td>
-<td><a href="https://trueinterview.io/jobs/2317c37c-1f31-4b8b-bcca-926d49a87799">A.I. Product Owner</a></td>
-<td>Raleigh, NC</td>
-<td align="center"><a href="https://careers.se.com/jobs/140987/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
 <td align="center">16 Nov 2026</td>
 </tr>
 <tr>
@@ -267,13 +260,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/109f2f43-74e5-4893-b8bc-1dac4c1a304c">Product Owner ERP Dispo</a></td>
 <td>United States</td>
 <td align="center"><a href="https://jobs.srgssr.ch/srg/offene-stellen/product-owner-erp-dispo/9e763722-c5a9-432c-8d19-751dccbe2769">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Centene Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/5f0a2750-f4e6-4460-8611-0188ffa9e0eb">Product Owner - Business Operations</a></td>
-<td>Missouri, United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487082243/">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>

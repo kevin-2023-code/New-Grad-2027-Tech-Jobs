@@ -2,7 +2,7 @@
 
 # 🐎 Calgary & the Prairies
 
-**17 open roles.**
+**18 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -51,6 +51,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Calgary, AB<br/>Canada</td>
 <td align="center"><a href="https://jobs.lever.co/altaml/805a6254-f2e7-4e4c-8cad-fd6665c80f21">Apply</a></td>
 <td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Magnet Forensics</strong></td>
+<td><a href="https://trueinterview.io/jobs/73d9cdeb-ccf8-49a4-8764-c77bfd1a585a">Technical Support Engineer</a></td>
+<td>Calgary, AB<br/>Calgary, Alberta<br/>Vancouver, BC<br/>+6 more</td>
+<td align="center"><a href="https://jobs.lever.co/magnetforensics/1aeef597-5f34-4cfa-b913-dd1c302eb9da">Apply</a></td>
+<td align="center">4 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Convergint</strong></td>
