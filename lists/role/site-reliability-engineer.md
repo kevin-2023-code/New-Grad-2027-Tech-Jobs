@@ -2,7 +2,7 @@
 
 # Site Reliability Engineer
 
-**126 open roles.** 57 in the United States & Canada · 69 elsewhere in the world.
+**177 open roles.** 81 in the United States & Canada · 96 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -415,6 +415,174 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — United States</td>
 <td align="center"><a href="https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/United-States-of-America-New-York-New-York/Site-Reliability-Engineer--Reuters_JREQ204669">Apply</a></td>
 <td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>F5</strong></td>
+<td><a href="https://trueinterview.io/jobs/6e6d1285-c814-4527-ac8c-8cd5432c2274">Site Reliability Engineer</a></td>
+<td>Greater Seattle Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476795042/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Hewlett Packard Enterprise</strong></td>
+<td><a href="https://trueinterview.io/jobs/b9cf5f65-4ba6-4e0b-91e9-763f05f6573d">Site Planning Engineer - Onsite in Chippewa Falls, WI</a></td>
+<td>Chippewa Falls, WI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484761664/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Galaxy</strong></td>
+<td><a href="https://trueinterview.io/jobs/95ed2922-2a11-4377-aa5a-5c7246791715">Site Reliability Engineer (Data Centers)</a></td>
+<td>Afton, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484753300/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Acquire Me</strong></td>
+<td><a href="https://trueinterview.io/jobs/3b141a67-688a-4e9a-8ff5-64a9dcebbe5d">Site Reliability Engineer - Quantitative Trading</a></td>
+<td>New York City Metropolitan Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4429410207/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Hunter Bond</strong></td>
+<td><a href="https://trueinterview.io/jobs/ada0bfba-ef56-4688-8e1e-44dc7a6b0f76">Site Reliability Engineer – Elite Quant - Up to $200,000 CAD Starting base + Exceptional benefits/bonus package Fund</a></td>
+<td>Montreal, QC<br/>Montreal, Quebec, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482539486/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Simpliigence</strong></td>
+<td><a href="https://trueinterview.io/jobs/ab1e9bea-4f61-4810-a4f9-b6291bf0cc0b">Site Reliability Engineer – Distributed Application Support (PCF &amp; GCP)</a></td>
+<td>Dallas, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484110311/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>AAR</strong></td>
+<td><a href="https://trueinterview.io/jobs/a3a1aca5-52aa-4ae1-b2de-d1e9c08d7588">IT Site Reliability &amp; Performance Engineer</a></td>
+<td>Wood Dale, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4422041676/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Croda</strong></td>
+<td><a href="https://trueinterview.io/jobs/64fcee20-9a05-48dc-8209-993e901a9b24">Site IT Engineer</a></td>
+<td>New Castle, DE</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474415401/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cyberobotix</strong></td>
+<td><a href="https://trueinterview.io/jobs/ec3c6a89-305d-443f-a6b9-86c7695593bd">SRE Leader</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483869979/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Employvision Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/6bcc5a03-6dc6-4ce9-a9fb-bdcdaccda093">DevOps / Site Reliability Engineer</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483879600/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>TEKFORTUNE INC</strong></td>
+<td><a href="https://trueinterview.io/jobs/c8ee819d-0574-4d31-b155-f4137af695d2">SRE Agentic AI observability specialist</a></td>
+<td>Tennessee, United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484484054/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sophus IT Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/3437e782-e0a7-4ebf-afd8-1133bbc2a1de">Site Reliability Engineer</a></td>
+<td>Bellevue, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483878509/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Woolpert</strong></td>
+<td><a href="https://trueinterview.io/jobs/dc900f62-5c4f-4227-85bf-34b7f64267e7">Site/Civil Engineer - Energy Group</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/woolpert/jobs/4420278009">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Charles Schwab</strong></td>
+<td><a href="https://trueinterview.io/jobs/6cdda7f3-66d9-430f-870d-b76497b65946">Site Reliability Engineer</a></td>
+<td>Southlake, TX</td>
+<td align="center"><a href="https://www.schwabjobs.com/job/southlake/site-reliability-engineer/33727/102559109600">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>FIS</strong></td>
+<td><a href="https://trueinterview.io/jobs/e73f2462-b049-4d08-8c50-0903f1bee49a">Site Reliability Engineer Leads</a></td>
+<td>Jacksonville, FL</td>
+<td align="center"><a href="https://careers.fisglobal.com/us/en/job/FIGLUSJR0310763EXTERNAL/Site-Reliability-Engineer-Leads">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>National Bank of Canada</strong></td>
+<td><a href="https://trueinterview.io/jobs/f2bcb077-a0b1-4407-81a0-0894dea7f883">Site Reliability Engineer</a></td>
+<td>Montréal, Canada</td>
+<td align="center"><a href="https://emplois.bnc.ca/en_CA/careers/Login?fromDetail=1&amp;jobId=36487">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Total Quality Logistics (TQL)</strong></td>
+<td><a href="https://trueinterview.io/jobs/abfe471d-3e24-402a-83f4-f2c696277c7e">Site Reliability Engineer</a></td>
+<td>Cincinnati, OH</td>
+<td align="center"><a href="https://tql.avature.net/en_US/TQLexternalcareers/JobDetailsPage?jobId=18174">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>XYZ Reality</strong></td>
+<td><a href="https://trueinterview.io/jobs/eb79cd01-4bfa-464d-9d20-e39153ea8954">Site Engineer - Boyce, Louisiana</a></td>
+<td>Boyce, Louisiana</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/xyz-reality/2c730abf-682b-4be3-b8ac-ee4f387ad59c">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/7fc12ba4-17f6-4b0a-b63f-5f65c9f9f6a9">Security Site Reliability Engineer - Apple Service Engineering</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200690706-3337?board_id=JB001">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Digital Realty</strong></td>
+<td><a href="https://trueinterview.io/jobs/12c12606-9d7f-46bd-9ca6-6eefd9355f23">Site Operations Engineer I</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://hdep.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/8994">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/fd376594-b429-44b7-a917-7397bdaf160a">Database Systems SRE, ASE Coordination SRE</a></td>
+<td>Cupertino, CA</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200690343-0836?board_id=JB001">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Thrive Market</strong></td>
+<td><a href="https://trueinterview.io/jobs/9eb1f8cc-38b5-4570-8bc6-d70ffc166962">Site Reliability Engineer</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://thrivemarketjobs.com/job_posting.html?id=4458409009&amp;gh_jid=4458409009">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Pointclickcare</strong></td>
+<td><a href="https://trueinterview.io/jobs/dd96ca4b-9695-4d1e-8c2a-7f7989a36bf6">Intermediate Site Reliability Engineer (SRE)</a></td>
+<td>Salt Lake City, UT</td>
+<td align="center"><a href="https://jobs.lever.co/pointclickcare/37553fe8-a0c4-41db-b0d4-4ad0ca7941af">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ramboll</strong></td>
+<td><a href="https://trueinterview.io/jobs/080db003-51b9-414d-ae42-06a9c3355b60">Site Design Engineer - Water Infrastructure</a></td>
+<td>Arlington, Virginia, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Ramboll3/744000156035854-site-design-engineer-water-infrastructure">Apply</a></td>
+<td align="center">16 Oct 2026</td>
 </tr>
 </tbody>
 </table>
@@ -910,6 +1078,195 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Adelaide, Australia</td>
 <td align="center"><a href="https://jobs.johnholland.com.au/T2D/job/Adelaide-Site-Engineer-Radio-&amp;-Communication-Systems-SA-5000/1369667766/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Parklife Metro</strong></td>
+<td><a href="https://trueinterview.io/jobs/2589ede7-ef7a-4e9a-bf90-5ed6b2be19c7">Site Engineer - Fit Out</a></td>
+<td>Badgerys Creek, New South Wales, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482567817/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Itility</strong></td>
+<td><a href="https://trueinterview.io/jobs/dc96920e-d6b6-444a-8645-0fcfe92a8912">DevOps Engineer / Site Reliability Engineer (SRE)</a></td>
+<td>Eindhoven, North Brabant, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4431703091/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Swisslog</strong></td>
+<td><a href="https://trueinterview.io/jobs/802d9fbc-a909-49ee-9e9d-8979aa3b25f6">Resident Site Engineer</a></td>
+<td>Lutterworth, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484716275/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Hunter Bond</strong></td>
+<td><a href="https://trueinterview.io/jobs/d1b088f5-7b22-48a4-a9c2-18592e7de501">Site Reliability Engineer | Quant Trading Firm | London | up to £250K + Bonus</a></td>
+<td>London Area, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482536645/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/45912246-6a40-40b8-90d7-2cda1ebb5b16">Site Reliability Engineer | Quant Trading Firm | Singapore | up to SGD 250K Base + Bonus</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482529777/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cox Automotive Europe</strong></td>
+<td><a href="https://trueinterview.io/jobs/182b57d7-864b-4809-9f0c-6abed0a634cd">Multi-Skilled Facilities &amp; Site Maintenance Engineer</a></td>
+<td>Wyton, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482535026/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Kuka Systems GMBH Branch Office Paris</strong></td>
+<td><a href="https://trueinterview.io/jobs/47c12733-977c-4569-893e-a21ba2507463">Resident Site Engineer</a></td>
+<td>Lutterworth, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482530092/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Expedia Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/9c29854e-9823-440b-b265-d54b9edb0348">Site Reliability Engineer</a></td>
+<td>Prague, Czechia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474982863/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>IMC Trading</strong></td>
+<td><a href="https://trueinterview.io/jobs/683cbada-94ca-448d-9382-ebfa0d56aec5">Site Reliability Engineer - Data Platform</a></td>
+<td>Amsterdam, North Holland, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466580395/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>株式会社ｓｐｏｎｔｏ</strong></td>
+<td><a href="https://trueinterview.io/jobs/3ea67561-573f-4ae2-9e7e-16aa81e2d08a">SREエンジニア 監視基盤強化 自動化整備 SaaS</a></td>
+<td>—</td>
+<td align="center"><a href="https://arwrk.net/recruit/j0omcchfax4yrkx/13816803">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>XYZ Reality</strong></td>
+<td><a href="https://trueinterview.io/jobs/bff0cadc-56ab-4cfb-9fe0-752b84363515">Site Engineer - Hutto, Texas</a></td>
+<td>Hutto</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/xyz-reality/21b98767-2bdb-4cce-8c07-0344242b833e">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>GEM Partners 株式会社</strong></td>
+<td><a href="https://trueinterview.io/jobs/c2ea4193-ae57-422e-ac77-cd1dc9210ebb">【映画・アニメ・IP】SRE(データ・AIプロダクトのインフラと信頼性の向上)</a></td>
+<td>—</td>
+<td align="center"><a href="https://gempartners.recruitment.jp/cr_job_detail/?id=667&amp;topics_id=667">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ALTEN</strong></td>
+<td><a href="https://trueinterview.io/jobs/067e82ee-2d11-439c-ac81-74c84dcd51f7">Site Reliability Engineer (expérimenté, CDI)</a></td>
+<td>Valbonne, Provence-Alpes-Côte d'Azur, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/ALTEN/744000157984436-site-reliability-engineer-experimente-cdi-">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ELLIOTT MOSS CONSULTING PTE. LTD.</strong></td>
+<td><a href="https://trueinterview.io/jobs/f3566570-916b-4941-9553-ad44c8893cb9">DevOps SRE (Java/React/Middleware)</a></td>
+<td>City Hall, Singapore</td>
+<td align="center"><a href="https://www.mycareersfuture.gov.sg/job/dfe8aec496904c059cbb906fbfb7ba68">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>XYZ Reality</strong></td>
+<td><a href="https://trueinterview.io/jobs/bc892846-b58b-4f80-95cd-24aa1f52b4d4">Site Engineer</a></td>
+<td>Bismarck</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/xyz-reality/08cd4a75-a57a-49eb-bfcb-5139ef656062">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NEP Australia</strong></td>
+<td><a href="https://trueinterview.io/jobs/342b5ca9-ff1d-4851-94a7-3c807a9b956b">Site Reliability Engineer</a></td>
+<td>Southbank, Australia</td>
+<td align="center"><a href="https://nepaustralia.hrmdirect.com/employment/view.php?req=3849854&amp;jbsrc=1014&amp;location=d65429d1-6992-0de4-cb16-77a6d927888c">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Experian</strong></td>
+<td><a href="https://trueinterview.io/jobs/ddd0efaf-336a-4eb5-b9ba-06d728844d16">Cloud Site Reliability Engineer</a></td>
+<td>Sofia, Bulgaria</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Experian/744000157405899-cloud-site-reliability-engineer">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Digital Realty</strong></td>
+<td><a href="https://trueinterview.io/jobs/316c4cd0-c723-45aa-a0a0-2b1c1fb4dd41">Operations Site Engineer (m/f/d)</a></td>
+<td>Wien, Austria</td>
+<td align="center"><a href="https://hdep.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/8616">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Nokia</strong></td>
+<td><a href="https://trueinterview.io/jobs/f9c99d55-6d9a-48d0-8b08-72c36398b827">Site Engineer, Test Capability</a></td>
+<td>India<br/>Malaysia</td>
+<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41153">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Purse</strong></td>
+<td><a href="https://trueinterview.io/jobs/2e2d86bf-3a30-492a-8074-02d2c953575b">SRE - Site Reliability Engineer F/H</a></td>
+<td>Lille, France</td>
+<td align="center"><a href="https://jobs.purse.eu/jobs/8588049-sre-site-reliability-engineer-f-h">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/8158e61e-382d-4f30-9683-841d10cccd7a">Site Reliability Engineer</a></td>
+<td>London, England, United Kingdom<br/>San Diego, CA</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200681759">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>OCTO Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/f229acf4-bc8b-47cc-b6cf-6420925fc47e">Consultant DevOps SRE sénior - F/H/N</a></td>
+<td>Paris, Île-de-France, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/OCTOTechnology/744000156730366-consultant-devops-sre-senior-f-h-n">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Deepjudge</strong></td>
+<td><a href="https://trueinterview.io/jobs/c374e419-33cd-4d1a-b615-c8c75acc95c4">Site Reliability Engineer</a></td>
+<td>Zurich HQ</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/deepjudge/d8c13d9c-57b5-4079-9335-ab205a2071c6">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sopra Steria</strong></td>
+<td><a href="https://trueinterview.io/jobs/716c7ceb-395c-4b51-838c-f843e5c03022">Site Reliability Engineer - SRE - Lille</a></td>
+<td>Villeneuve-d'Ascq, Hauts-de-France, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SopraSteria1/744000156034068-site-reliability-engineer-sre-lille">Apply</a></td>
+<td align="center">16 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>GitLab</strong></td>
+<td><a href="https://trueinterview.io/jobs/40348e1c-68b7-4bb0-b544-d1b2979c0d77">Site Reliability Engineer, Cells Infrastructure</a></td>
+<td>Bangalore, India</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/gitlab/jobs/8867756002">Apply</a></td>
+<td align="center">15 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Bet365</strong></td>
+<td><a href="https://trueinterview.io/jobs/a2f74d6f-f5a0-4df0-8b61-c2d8095e6593">Site Reliability Engineer</a></td>
+<td>Stoke-on-Trent, England, United Kingdom</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Bet3651/744000155464574-site-reliability-engineer">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Blockdaemon</strong></td>
+<td><a href="https://trueinterview.io/jobs/6ba0a009-dda5-4514-986d-637141e3493c">Site Reliability Engineer</a></td>
+<td>Galway, Ireland<br/>Dublin, Ireland</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/blockdaemon/1f155fd0-0db0-4174-aa78-d31c049ebea7">Apply</a></td>
+<td align="center">12 Oct 2026</td>
 </tr>
 </tbody>
 </table>

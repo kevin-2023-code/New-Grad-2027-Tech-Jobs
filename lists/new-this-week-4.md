@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,214 open roles.** 1,003 in the United States & Canada · 211 elsewhere in the world. Everything the employers put up this week.
+**1,209 open roles.** 1,000 in the United States & Canada · 209 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -19,27 +19,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tbody>
 <tr>
 <td><strong>TikTok</strong></td>
-<td><a href="https://trueinterview.io/jobs/4b5c9779-9b61-41a2-8651-a5362b822fc4">AI Agent Machine Learning Engineer Graduate (Global E-Commerce, Supply Chain and Logistics) - 2027 Start</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4447675702/">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/0142e43a-4a75-4b67-9088-bb6babb3ec40">LLM &amp; Agent Algorithm Graduate (Search) - 2027 Start (PhD)</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4447985888/">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/80637fe8-dcf2-4552-bd8f-dc1de61f7181">Machine Learning Research Scientist Graduate (Business Integrity) - 2026 Start (PhD)</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4284141412/">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/c8c2d548-611a-4140-b2f1-7db476ce1e7b">Site Reliability Engineer Graduate (Video &amp; Edge Global Engineering) - 2027 Start (BS/MS)</a></td>
 <td>Sydney, New South Wales, Australia</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4392192609/">Apply</a></td>
@@ -99,20 +78,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/85d3a6fc-d889-48fa-a777-14565d3b243c">(Junior) Software Developer – Compilerbau &amp; TTCN-3 (m/w/d)</a></td>
 <td>Frankfurt am Main, Hesse, Germany</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Devoteam/744000160868784--junior-software-developer-compilerbau-ttcn-3-m-w-d-">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>SAP IT Business Systeme</strong></td>
-<td><a href="https://trueinterview.io/jobs/30c9b88b-08e2-4ee2-8a7c-290a7999ca68">Working Student (f/m/d) – Product Management: AI and Innovation</a></td>
-<td>Walldorf, Baden-Württemberg, Germany</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000160854378-working-student-f-m-d-product-management-ai-and-innovation-">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>RTE - Réseau de Transport d'Electricité</strong></td>
-<td><a href="https://trueinterview.io/jobs/431c6ba6-d4dc-4381-ba6a-5aab1a0d9b0e">Stage PFE - Ingénieur IT - Optimisation IA F/H</a></td>
-<td>Lyon, Auvergne-Rhône-Alpes, France</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/RTE1/744000160853549-stage-pfe-ingenieur-it-optimisation-ia-f-h">Apply</a></td>
 <td align="center">10 Nov 2026</td>
 </tr>
 </tbody>

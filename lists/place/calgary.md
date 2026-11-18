@@ -2,7 +2,7 @@
 
 # 🐎 Calgary & the Prairies
 
-**32 open roles.**
+**45 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -240,6 +240,97 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Edmonton, Canada</td>
 <td align="center"><a href="https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/Canada---Edmonton-AB/Software-Development-Engineer_REQ36962?locations=06e4ddafd2f3100211b29c0a69f30000">Apply</a></td>
 <td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Beyond Energy Services and Technology Corp.</strong></td>
+<td><a href="https://trueinterview.io/jobs/615ae8e6-2bd2-4df1-a239-7a08ba412dbf">Technical Support Specialist</a></td>
+<td>Calgary, AB<br/>Calgary, Alberta, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484782224/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ATB Financial</strong></td>
+<td><a href="https://trueinterview.io/jobs/fdd849c8-7c33-4057-af4a-da457a530f49">Full Stack Software Developer</a></td>
+<td>Calgary, AB<br/>Calgary, Canada<br/>Calgary, Alberta, Canada</td>
+<td align="center"><a href="https://careers.atb.com/careers/job/1125899907737356">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Verito Solutions Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/83529685-4193-46ed-8af6-34ac434aa891">Java AWS Developer|| CALGARY, CN (Onsite)</a></td>
+<td>Calgary, AB<br/>Calgary, Alberta, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482557341/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>WSP in Canada</strong></td>
+<td><a href="https://trueinterview.io/jobs/ab46d577-104b-494d-a638-d855b214585a">Hydrotechnical Engineer</a></td>
+<td>Winnipeg, Manitoba, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4439865497/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>MVP Talent Corp</strong></td>
+<td><a href="https://trueinterview.io/jobs/e54d1264-2e2b-4efa-8a61-92a1dc2c9329">Full Stack Engineer</a></td>
+<td>Calgary, AB<br/>Calgary, Alberta, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484489994/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Lavergne Draward &amp; Associates Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/516235f2-03ec-49c4-a7a2-0b2671d09bea">Structural Engineer / E.I.T</a></td>
+<td>Winnipeg, Manitoba, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483890421/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Tata Consultancy Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/5cec3ad2-2ed0-4117-bde7-9a53fc27ecc4">AWS / TIBCO Integration Engineer</a></td>
+<td>Calgary, AB<br/>Calgary, Alberta, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483888423/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Government Of Alberta</strong></td>
+<td><a href="https://trueinterview.io/jobs/e199112b-1829-4dd2-a4ef-4c989ce06c72">Full Stack Developer</a></td>
+<td>Edmonton, Canada</td>
+<td align="center"><a href="https://jobpostings.alberta.ca/job/Edmonton-Full-Stack-Developer/607441817/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Hubbell</strong></td>
+<td><a href="https://trueinterview.io/jobs/5899e9e7-ea0e-463a-b52b-af0a4fa71432">P&amp;C Engineer</a></td>
+<td>Edmonton, Canada</td>
+<td align="center"><a href="https://careers.hubbell.com/job-invite/106666/?locale=en_US">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>General Dynamics Missions System International</strong></td>
+<td><a href="https://trueinterview.io/jobs/850c2c55-36ef-44fb-9f3d-e83260c3fdf2">Systems Engineering Analysts - Working level</a></td>
+<td>Calgary, AB<br/>Calgary, Alberta, Canada</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/GDMSI/744000157889419-systems-engineering-analysts-working-level">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Konstruct Digital</strong></td>
+<td><a href="https://trueinterview.io/jobs/04f7ecbe-e799-4181-bf38-0ebb9eca7cef">Frontend/Web Developer</a></td>
+<td>Calgary, AB<br/>Calgary, Canada</td>
+<td align="center"><a href="https://konstruct.bamboohr.com/careers/72?postedDate=2026-10-27">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>RBC</strong></td>
+<td><a href="https://trueinterview.io/jobs/76896a4a-0e92-4417-8707-ad8269ef2c67">Data Engineer, RBC Amplify 2027, Calgary</a></td>
+<td>Calgary, AB<br/>CALGARY, Alberta, Canada</td>
+<td align="center"><a href="https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/CALGARY-Alberta-Canada/Data-Engineer--RBC-Amplify-2027--Calgary_R-0000191201-2">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>EXP</strong></td>
+<td><a href="https://trueinterview.io/jobs/be2c86fe-21fb-4430-86ff-b0f2ddba1f12">Bridge Design Engineer</a></td>
+<td>Calgary, AB, Canada</td>
+<td align="center"><a href="https://elcn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/113337">Apply</a></td>
+<td align="center">20 Oct 2026</td>
 </tr>
 </tbody>
 </table>

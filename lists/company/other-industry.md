@@ -2,7 +2,7 @@
 
 # 💼 Other industries
 
-**25 open roles.** 9 in the United States & Canada · 16 elsewhere in the world. A real classification that none of the other sectors covers.
+**50 open roles.** 14 in the United States & Canada · 36 elsewhere in the world. A real classification that none of the other sectors covers.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -79,6 +79,41 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Austin, TX<br/>Reno, Nevada, United States<br/>Austin, Texas, United States<br/>+1 more</td>
 <td align="center"><a href="https://corbins.us/careers?gh_jid=4662733008">Apply</a></td>
 <td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Holder Construction</strong></td>
+<td><a href="https://trueinterview.io/jobs/09a4bb11-6d5d-471b-8b7a-fab86ebea644">Office Engineer - Entry Level</a></td>
+<td>Pittsburgh, PA<br/>Shippingport, PA<br/>Ohio</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/holderconstruction/jobs/4472151009">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>FanDuel</strong></td>
+<td><a href="https://trueinterview.io/jobs/c5237b63-e298-4c61-8dd0-ccc422544d53">Sports Trader (NBA/WNBA)</a></td>
+<td>Jersey City, NJ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482545597/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Arc'teryx</strong></td>
+<td><a href="https://trueinterview.io/jobs/de723d35-09cd-4e8e-94af-576bfe183109">Design Developer 1</a></td>
+<td>North Vancouver, BC (Corporate)</td>
+<td align="center"><a href="https://jobs.lever.co/arcteryx.com/e19c8228-c1c7-46a4-becb-75ad9f5aa680">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Gonetspeed</strong></td>
+<td><a href="https://trueinterview.io/jobs/bfec10a3-b82e-443f-af1d-c6c6b6b8d9af">Technical Support Technician</a></td>
+<td>Rochester, New York</td>
+<td align="center"><a href="https://jobs.lever.co/gonetspeed/ecb0cd76-1ec9-4feb-b2fd-25b6bc69a0f3">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Michels Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/543f396c-5833-42ca-b3d7-3526478674ed">Associate Project Engineer, Trenchless</a></td>
+<td>Tulsa, OK, Tulsa</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/michelscorporation/jobs/5003806101">Apply</a></td>
+<td align="center">13 Oct 2026</td>
 </tr>
 </tbody>
 </table>
@@ -203,6 +238,146 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Chennai, India</td>
 <td align="center"><a href="https://www.wppproduction.com/careers/jobs/6239212004?gh_jid=6239212004">Apply</a></td>
 <td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>McCain Foods</strong></td>
+<td><a href="https://trueinterview.io/jobs/6626962b-11bc-4441-b4e5-c752d2dd193a">Security Engineer AI Cloud</a></td>
+<td>Gurgaon, Haryana, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4440030724/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Bet365</strong></td>
+<td><a href="https://trueinterview.io/jobs/c3d32c95-2d60-4669-b808-0d48f1ee68cb">Quantitative Analyst, Sports</a></td>
+<td>Stoke-On-Trent, England, United Kingdom</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Bet3651/744000158268769-quantitative-analyst-sports">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/926d0c09-14b4-4022-bf84-31c79cc091c7">Software Developer, Sports Content</a></td>
+<td>Manchester, England, United Kingdom</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Bet3651/744000158266784-software-developer-sports-content">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/fa61a90f-906b-4ca8-ab1f-452b07006924">Software Developer, Gaming</a></td>
+<td>Stoke-on-Trent, England, United Kingdom</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Bet3651/744000158247040-software-developer-gaming">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/67a8311d-ec18-4ed7-aa7c-defd133a3fb2">Infrastructure Engineer, Systems</a></td>
+<td>Stoke-on-Trent, England, United Kingdom</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Bet3651/744000158243704-infrastructure-engineer-systems">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/eae0f05e-e4e8-4156-8013-a22cac849cb9">IT Operations Engineer</a></td>
+<td>Stoke-on-Trent, England, United Kingdom</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Bet3651/744000158072339-it-operations-engineer">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/deb47f1e-186e-4498-820d-ec153713e58f">SharePoint Developer (FTC)</a></td>
+<td>Manchester, United Kingdom<br/>Stoke-on-Trent, England, United Kingdom</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Bet3651/744000158025948-sharepoint-developer-ftc-">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/27649ed9-1f9b-49dc-babd-eba4a82ec6f0">Data Warehouse Developer</a></td>
+<td>Stoke-on-Trent, England, United Kingdom</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Bet3651/744000157840849-data-warehouse-developer">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Wpp</strong></td>
+<td><a href="https://trueinterview.io/jobs/b3e9cbb9-39bd-4b4b-97f9-32767aecb15e">Back End Engineer</a></td>
+<td>Gurgaon<br/>India</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/wpp/jobs/8890962002">Apply</a></td>
+<td align="center">24 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>1global</strong></td>
+<td><a href="https://trueinterview.io/jobs/bee691ad-7fef-4fd9-ab14-d10142052c71">Fulfilment Specialist</a></td>
+<td>São Paulo, São Paulo, Brazil</td>
+<td align="center"><a href="https://jobs.workable.com/view/mkZjss1JQBbWC16oLidQ5c/hybrid-fulfilment-specialist-in-s%C3%A3o-paulo-at-1global">Apply</a></td>
+<td align="center">24 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Entain</strong></td>
+<td><a href="https://trueinterview.io/jobs/ecaec1d4-75f1-4723-ae6f-30da5fee5ec9">Football Trader 1</a></td>
+<td>Montevideo, Departamento de Montevideo, Uruguay</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Entain/744000157579319-football-trader-1">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Bet365</strong></td>
+<td><a href="https://trueinterview.io/jobs/5ed01226-e3a7-44d2-91c1-2cd48b1d3f3a">Plumbing and Mechanical Engineer, Residential</a></td>
+<td>Stoke-on-Trent, England, United Kingdom</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Bet3651/744000157123093-plumbing-and-mechanical-engineer-residential">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/86bffc67-ed17-4189-b5f7-d2afb270f8fc">IT Specialist</a></td>
+<td>Stoke-on-Trent, England, United Kingdom</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Bet3651/744000156828447-it-specialist">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Entain</strong></td>
+<td><a href="https://trueinterview.io/jobs/096ec6ac-dbbb-4922-a435-b2d0f25667f8">Midweight Designer</a></td>
+<td>London, England, United Kingdom</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Entain/744000156494554-midweight-designer">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Tegna Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/06374ec2-b1d0-4095-b105-2561ab05ce47">Broadcast IT Engineer</a></td>
+<td>WZDX-TV Huntsville</td>
+<td align="center"><a href="https://boards.greenhouse.io/tegnainc/jobs/5257423007?gh_jid=5257423007">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Wpp Production</strong></td>
+<td><a href="https://trueinterview.io/jobs/a6e55dbc-f5c3-45d3-b702-83614efafcb6">Motion Designer / 3D Artist</a></td>
+<td>Copenhagen, Denmark</td>
+<td align="center"><a href="https://www.wppproduction.com/careers/jobs/6217969004?gh_jid=6217969004">Apply</a></td>
+<td align="center">16 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/1efa3aa6-1321-488a-abdd-4d5663566ec8">SDET (Software Development Engineer in Test)</a></td>
+<td>Hyderabad, India</td>
+<td align="center"><a href="https://www.wppproduction.com/careers/jobs/6223927004?gh_jid=6223927004">Apply</a></td>
+<td align="center">15 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Bet365</strong></td>
+<td><a href="https://trueinterview.io/jobs/a2f74d6f-f5a0-4df0-8b61-c2d8095e6593">Site Reliability Engineer</a></td>
+<td>Stoke-on-Trent, England, United Kingdom</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Bet3651/744000155464574-site-reliability-engineer">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/af93ad5f-346b-4eae-96a4-30de0fdf4987">Data Lake Developer</a></td>
+<td>Manchester, England, United Kingdom</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Bet3651/744000155463271-data-lake-developer">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/30b99ed0-f831-48cf-b993-d382f8f1da1f">Software Tester, PAY</a></td>
+<td>Stoke-on-Trent, England, United Kingdom</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Bet3651/744000155020162-software-tester-pay">Apply</a></td>
+<td align="center">12 Oct 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # 🧠 AI labs & AI infrastructure
 
-**114 open roles.** 87 in the United States & Canada · 27 elsewhere in the world. Foundation-model labs, AI products, evaluation and data vendors, GPU clouds.
+**145 open roles.** 104 in the United States & Canada · 41 elsewhere in the world. Foundation-model labs, AI products, evaluation and data vendors, GPU clouds.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -626,6 +626,125 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://jobs.ashbyhq.com/openai/33acf0e2-5c11-46d7-9dc9-417f5537139b">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/d42086c9-2bc1-4871-b4af-64f9047c0601">Data Scientist, Cloud Distribution &amp; Growth</a></td>
+<td>San Francisco, CA<br/>Seattle, WA<br/>San Francisco, Seattle</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/openai/b82699a2-5819-4276-a402-fd88f56f9246/application">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/dcd977de-9a27-43c2-a798-4dcd7a252504">Research Engineer / Research Scientist, Human Flourishing</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/openai/0f600ed1-d70a-4648-820f-a1d1da3f7617/application">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Field AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/c8627839-8059-4992-b852-7a8fc091e3ec">Research / Software Engineer - Humanoid Whole Body Learning</a></td>
+<td>Boston, MA<br/>Pittsburgh, PA</td>
+<td align="center"><a href="https://jobs.lever.co/field-ai/09def7d8-26bf-451f-a4f2-bd8fd4c5f5cf">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cognition</strong></td>
+<td><a href="https://trueinterview.io/jobs/26821a38-d44f-42ff-9737-66a2297f319e">IT Support Engineer</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/cognition/1f3ff659-8106-4041-ab28-56713c1860d0">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Field AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/95f26cef-8f53-4bbd-ae06-1fbbe892d063">Field Application Engineer</a></td>
+<td>Remote - US</td>
+<td align="center"><a href="https://jobs.lever.co/field-ai/3a115140-cbee-4d96-b61d-7403596b77ca">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Mercor</strong></td>
+<td><a href="https://trueinterview.io/jobs/9bb6196c-4907-4892-91d8-ea84f9189fee">AI Infrastructure Engineer</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/mercor/799ecfcc-4258-4075-8b11-12fc64fb2868">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Baseten</strong></td>
+<td><a href="https://trueinterview.io/jobs/49d935aa-33e2-4cf7-8699-542fb13b1087">Software Engineer - Storage Systems (Agent Infra)</a></td>
+<td>San Francisco, CA<br/>New York, NY</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/baseten/ed8ab178-e7a4-4524-8714-7ef55d574c7d">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>OpenAI</strong></td>
+<td><a href="https://trueinterview.io/jobs/d3958b95-2603-402e-9831-cdde8159f393">Software Engineer, Physical Engineering</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/openai/2c646ef9-6f93-4124-9d51-964d2c5aa783/application">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Deepgram</strong></td>
+<td><a href="https://trueinterview.io/jobs/4518f067-3297-4448-bae7-2707c536330a">Marketing &amp; GTM Data Analyst</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/Deepgram/f428c615-65e8-4d4d-84dd-ba0da64f1a9b">Apply</a></td>
+<td align="center">24 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>OpenAI</strong></td>
+<td><a href="https://trueinterview.io/jobs/b726c083-8fe7-4356-a6d1-c0a2cc46229a">Product Designer, Growth</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/openai/3d71df2d-7d19-4ca9-97c4-b361c8a362f9">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Baseten</strong></td>
+<td><a href="https://trueinterview.io/jobs/e1dc36d2-526b-4850-84cd-29a4ea25d20c">Product Platform - Product Engineer</a></td>
+<td>San Francisco, CA<br/>New York, NY<br/>Seattle, WA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/baseten/7428d7cc-36d7-4d02-b19a-bd558fba6751">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Lila Sciences</strong></td>
+<td><a href="https://trueinterview.io/jobs/2b7ffe58-dfac-492a-933b-9b64aa1a7432">Research Scientist / Research Engineer, Automated Safety</a></td>
+<td>Cambridge, MA USA<br/>London, UK<br/>San Francisco, CA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/lilasciences/jobs/4423488009">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>C3.ai</strong></td>
+<td><a href="https://trueinterview.io/jobs/8d206df6-e53a-4a13-887c-15af6f6e5b5f">Forward Deployed Engineer - Federal, New Grad 2027</a></td>
+<td>Tysons, Virginia, United States, Tysons, Virginia</td>
+<td align="center"><a href="https://c3.ai/job-description/8900477002?gh_jid=8900477002">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Field AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/716733b3-02c2-473c-889e-3a920308f657">Robotics Software Engineer, Multimodal Inspection</a></td>
+<td>Irvine, CA</td>
+<td align="center"><a href="https://jobs.lever.co/field-ai/0a93ca47-2272-465f-8b33-110fbd313e1e">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/4a56b22f-74d6-4ba4-a768-18a9961745a3">Robotics Release Engineer, System Validation</a></td>
+<td>Irvine, CA</td>
+<td align="center"><a href="https://jobs.lever.co/field-ai/9e451b91-7633-4b86-bf64-38cd7bd6a8dc">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Anthropic</strong></td>
+<td><a href="https://trueinterview.io/jobs/2c2dae32-73ad-4809-822c-906c6a43ad62">IT Systems Engineer, M&amp;A</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5450479008">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Suno</strong></td>
+<td><a href="https://trueinterview.io/jobs/9b267c73-180d-4e13-ac40-033272fee4c7">Software Engineer, Internal Tools</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://www.1point3acres.com/jobs/01m4hhrrm8eg16vbsbay8qt2jn">Apply</a></td>
+<td align="center">10 Oct 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -826,6 +945,104 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Remote</td>
 <td align="center"><a href="https://jobs.micro1.ai/post/8c0ddeba-5240-4059-9e61-544dd2c8292f?first_page=/careers&amp;last_page=/careers">Apply</a></td>
 <td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Mistral AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/9026d387-6f09-4f6e-99e7-3b951b1ca0a1">People Tech &amp; Analytics Engineer</a></td>
+<td>Paris, France<br/>London</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/mistral.ai/38140494-a26d-4b24-a777-3dd944215732">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/2871eb40-69a8-4e59-8fea-6810697dd3ed">Data Center Hardware Engineer</a></td>
+<td>Paris<br/>Bessé-sur-Braye, Pays de la Loire<br/>Borlänge, Dalarna</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/mistral.ai/df585c2e-bd15-4a7e-bf10-02e30a57323c">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Granica</strong></td>
+<td><a href="https://trueinterview.io/jobs/dc3c6f46-9675-4c1d-ac37-77ee4512e180">Software Engineer, Data Platform (Bengaluru)</a></td>
+<td>Bengaluru Urban</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/granica/8712e354-0bd6-4706-8d30-45b6ff4bf7d4">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Mistral AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/df144372-8f0a-437a-8632-2f85f81aa6ac">Software Engineer (Golang), Sandbox</a></td>
+<td>Paris</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/mistral.ai/d23aec52-d08e-4a99-bc17-b7f98a6be0d4">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/a157a345-d209-4129-82eb-9dfd1bb45dbc">Software Engineer (Golang), Storage</a></td>
+<td>Paris</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/mistral.ai/60468d75-a3b9-4efa-ad9d-41f61592f427">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/b12db4b4-6340-407c-8e45-460cf2674bc7">Software Engineer (Golang), Managed K8s</a></td>
+<td>Paris</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/mistral.ai/037f507d-f369-4d2a-a939-45bb740df644">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/6b5cd3ac-624e-4709-9359-c1a92fa95af7">Software Engineer (Golang), Fleet Delivery</a></td>
+<td>Paris</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/mistral.ai/926f9306-c524-4161-8b06-21a85cd3bfd5">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/2d37151b-4095-493f-b8e2-8c120ce69eda">Software Engineer (Golang), Serverless Containers</a></td>
+<td>Paris</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/mistral.ai/a94943c7-632f-4ae6-8076-1d7d57e2a3a5">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ElevenLabs</strong></td>
+<td><a href="https://trueinterview.io/jobs/936a7897-f8af-47d0-9788-d472da2f24f6">IT Engineer</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/ElevenLabs/9aca205e-b2bc-405b-85d6-3d2aadbe49b1">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Faculty</strong></td>
+<td><a href="https://trueinterview.io/jobs/a3896409-a2fd-4299-ba43-e1a37dafe69d">Frontend Engineer</a></td>
+<td>London</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/faculty/22fcbe11-0e26-420e-a8c6-9b35b2e867b0">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Mistral AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/dca2d8db-8553-45f0-99b5-270a4c097be9">Applied Scientist - Formal Methods, EMEA</a></td>
+<td>Paris<br/>London</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/mistral.ai/d722e1e1-dcc6-489b-a3b5-ecc6813ca374">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/184eed00-c37b-459f-88df-700446904eb2">Research Engineer, Latency &amp; Throughput</a></td>
+<td>Paris<br/>London</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/mistral.ai/8d384b55-6341-40a7-ba37-6ab362e9b303">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f308991b-96fc-4fa9-a9e5-1449faef12bb">Research Engineer, Sandboxes</a></td>
+<td>Paris<br/>Zurich<br/>Warsaw<br/>+1 more</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/mistral.ai/736b11b6-a4f3-4ea8-b126-4d8e14fc0220">Apply</a></td>
+<td align="center">16 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/37d047e8-dc45-4d21-96d0-e60d8c5a346b">Research Engineer, GPU Performance</a></td>
+<td>Paris</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/mistral.ai/de9344e8-cba8-4855-9272-c3a1711b85ca">Apply</a></td>
+<td align="center">14 Oct 2026</td>
 </tr>
 </tbody>
 </table>

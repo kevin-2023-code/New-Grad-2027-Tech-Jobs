@@ -2,7 +2,7 @@
 
 # ⛰️ Vancouver & British Columbia
 
-**46 open roles.**
+**74 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -338,6 +338,202 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Vancouver, BC<br/>Vancouver, WA</td>
 <td align="center"><a href="https://cityofvancouver.wd5.myworkdayjobs.com/en-US/COV/job/LOC0157-Fire-Station-5/Data-Analyst_26-0303">Apply</a></td>
 <td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>J&amp;M Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/ffa4df66-e77a-401d-9a4c-6e12dc848578">Data Scientist</a></td>
+<td>Vancouver, BC<br/>Vancouver, British Columbia, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484745284/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>EA SPORTS</strong></td>
+<td><a href="https://trueinterview.io/jobs/38a492cd-896e-480e-8add-c7fe6b23c1a0">Audio Software Engineer - EA SPORTS™ NHL</a></td>
+<td>Vancouver, BC<br/>Vancouver, British Columbia, Canada<br/>Victoria, British Columbia, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4460403014/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>BCAA</strong></td>
+<td><a href="https://trueinterview.io/jobs/c90c4cc7-d62a-4e3c-ab9c-f8fee27c21a0">Quality Assurance Engineer, Marketplace</a></td>
+<td>Burnaby, British Columbia, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482544658/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Polaris Motion</strong></td>
+<td><a href="https://trueinterview.io/jobs/efed3c4a-c147-4912-af34-7d4699aaec28">.NET Applications Software Developer</a></td>
+<td>Victoria, British Columbia, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483892686/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>EA SPORTS</strong></td>
+<td><a href="https://trueinterview.io/jobs/0d8f0e0b-c76d-4e2f-8935-ffc206f4fc50">Gameplay Software Engineer - EA SPORTS™ FC</a></td>
+<td>Vancouver, BC<br/>Vancouver, British Columbia, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482531566/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>WSP in Canada</strong></td>
+<td><a href="https://trueinterview.io/jobs/cd3ef584-f4be-4827-83d8-d37104ff4c60">Geotechnical Engineer</a></td>
+<td>Vancouver, BC<br/>Vancouver, British Columbia, Canada<br/>City of Langley, British Columbia, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4465249413/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Snap Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/869481e9-0466-4d11-b7eb-1a9b644dbeec">Custom IC Layout Engineer</a></td>
+<td>Vancouver, BC<br/>Vancouver, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476712410/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Shermco Industries</strong></td>
+<td><a href="https://trueinterview.io/jobs/6a4a14cb-264b-458f-b323-d8591ea247ff">New Grad P&amp;C Field Engineer - 1</a></td>
+<td>Burnaby, British Columbia, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467219953/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Mott MacDonald</strong></td>
+<td><a href="https://trueinterview.io/jobs/337cfdde-d8c8-4692-96bc-134c4c2fc98f">Graduate Geotechnical Engineer - 2027</a></td>
+<td>Vancouver, BC<br/>Vancouver, British Columbia, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476516067/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Fortiv Technical Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/2b7d2a6c-72e7-4461-afe6-3a1c33f5b362">DevSecops Engineer</a></td>
+<td>Vancouver, BC<br/>Vancouver, British Columbia, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484464988/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Vanderlande</strong></td>
+<td><a href="https://trueinterview.io/jobs/72401408-99f4-4205-a14e-857b93043931">IT Solution Support Engineer</a></td>
+<td>Vancouver, BC<br/>Vancouver, British Columbia, Canada<br/>Veghel, North Brabant, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482298768/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Advanced Energy</strong></td>
+<td><a href="https://trueinterview.io/jobs/ad0d0500-8d02-40cc-a46e-6eeb57958f05">Agency - Test Engineer</a></td>
+<td>Vancouver, BC<br/>Vancouver, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475117840/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Qualcomm</strong></td>
+<td><a href="https://trueinterview.io/jobs/ea5c51cf-a4d1-4b93-b015-ad88bc35d16b">Camera Frontend Implementation Engineer</a></td>
+<td>Vancouver, BC<br/>Vancouver, British Columbia, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474957626/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Rivian</strong></td>
+<td><a href="https://trueinterview.io/jobs/bcc8e100-f330-498e-b141-b10d4871fe57">Early Career - Cybersecurity Application Security Engineer</a></td>
+<td>Vancouver, BC<br/>Vancouver, British Columbia, Canada<br/>Vancouver, Canada</td>
+<td align="center"><a href="https://careers.rivian.com/jobs/31067/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ALS Global</strong></td>
+<td><a href="https://trueinterview.io/jobs/f4cb6a6a-190f-4a18-80e4-ae23cc897696">Database Developer (Oracle PL/SQL)</a></td>
+<td>Vancouver, BC<br/>Vancouver, Canada</td>
+<td align="center"><a href="https://alsglobal.wd103.myworkdayjobs.com/en-US/External/job/North-Vancouver-British-Columbia-Canada/Database-Developer--Oracle-PL-SQL-_R10247">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Conmet</strong></td>
+<td><a href="https://trueinterview.io/jobs/685a19f1-c103-45ad-b14d-39b95115ba86">EAM System Engineer</a></td>
+<td>Vancouver, BC<br/>Vancouver, WA</td>
+<td align="center"><a href="https://recruiting2.ultipro.com/AMS1003AMSII/JobBoard/331f4ac6-5e4b-42db-aed0-5bf0b3f0acdb/OpportunityDetail?opportunityId=54ce2952-7e9d-4d15-b4eb-58716f60f65d&amp;postingId=40ba011d-e367-4973-a0bc-7f2ffa8d2729">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cytiva</strong></td>
+<td><a href="https://trueinterview.io/jobs/4dddeab2-90cd-4150-8ceb-ab21dcd4b7a5">Automation Engineer</a></td>
+<td>Burnaby, Canada</td>
+<td align="center"><a href="https://jobs.danaher.com/global/en/job/DANAGLOBALR1320747EXTERNALENGLOBAL/Automation-Engineer">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>RBC</strong></td>
+<td><a href="https://trueinterview.io/jobs/88c35fde-a790-4a5d-a7ba-fb81ae70bf86">Developer, RBC Amplify 2027, Vancouver</a></td>
+<td>Vancouver, BC<br/>VANCOUVER, British Columbia, Canada</td>
+<td align="center"><a href="https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/VANCOUVER-British-Columbia-Canada/Developer--RBC-Amplify-2027--Vancouver_R-0000191199-2">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon.com</strong></td>
+<td><a href="https://trueinterview.io/jobs/9f666934-56c0-48c2-9af2-3f69a1d51b18">Software Development Engineer, Agent Labs</a></td>
+<td>Vancouver, BC<br/>Vancouver, Canada</td>
+<td align="center"><a href="https://www.amazon.jobs/jobs/10593550/software-development-engineer-agent-labs?cmpid=DA_INAD200785B">Apply</a></td>
+<td align="center">24 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Trail Appliances</strong></td>
+<td><a href="https://trueinterview.io/jobs/5f43663d-95ed-4d56-9b3e-1bbce5b66645">Product Owner - Data &amp; Business Intelligence</a></td>
+<td>3388 Sweden Way, Richmond, BC</td>
+<td align="center"><a href="https://jobs.lever.co/trailappliances/6f5ea21d-f17d-42f6-87cf-88b2799e2e8f">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/3726fd89-58fa-4295-af0f-bae264836c45">Product Owner - AI &amp; Power Platform</a></td>
+<td>3388 Sweden Way, Richmond, BC</td>
+<td align="center"><a href="https://jobs.lever.co/trailappliances/13a0c27a-2d8a-4114-af9c-ff13fe688fdc">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>WSP</strong></td>
+<td><a href="https://trueinterview.io/jobs/01c98358-df86-49da-8ec3-613373013319">Junior Process Engineer</a></td>
+<td>Vancouver, BC, Canada</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/92316">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/45993842-d5d4-49a2-a8e9-8895004a6781">Intermediate Mechanical Engineer, Mission Critical Buildings</a></td>
+<td>Vancouver, BC, Canada</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97962">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon.com</strong></td>
+<td><a href="https://trueinterview.io/jobs/abf2e9dc-4405-4f08-8bb4-4069f22fc478">Applied Scientist, ITA-Global Hiring Science</a></td>
+<td>Vancouver, BC<br/>Vancouver, Canada</td>
+<td align="center"><a href="https://www.amazon.jobs/jobs/10593710/applied-scientist-itaglobal-hiring-science?cmpid=DA_INAD200785B">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Gdh</strong></td>
+<td><a href="https://trueinterview.io/jobs/a1adbbdf-22c3-4057-991a-2abd82bf579e">Environmental Engineering or Sciences Graduate (Contaminated Site Assessment &amp; Remediation)</a></td>
+<td>Vancouver, BC, Canada</td>
+<td align="center"><a href="https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/28583">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Trail Appliances</strong></td>
+<td><a href="https://trueinterview.io/jobs/8af4fe13-ef36-483d-bc15-4d553dc5c109">Product Owner - Business Systems (1026)</a></td>
+<td>3388 Sweden Way, Richmond, BC</td>
+<td align="center"><a href="https://jobs.lever.co/trailappliances/09e543c6-0570-467c-b1f0-3514243de2ea">Apply</a></td>
+<td align="center">16 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Fortinet</strong></td>
+<td><a href="https://trueinterview.io/jobs/14892176-4b41-4e24-be21-b1097b3c583d">Software QA Specialist – FortiGate Cloud</a></td>
+<td>Burnaby, BC, Canada</td>
+<td align="center"><a href="https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/24658">Apply</a></td>
+<td align="center">16 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Humanoid</strong></td>
+<td><a href="https://trueinterview.io/jobs/7cf71cac-c0bc-4ee5-80c1-f1f885672f26">Mechanical Design Engineer - Robotic Hand</a></td>
+<td>Canada, Vancouver, BC</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/humanoid/433fadd1-b71c-4523-a909-8aae4f000c94">Apply</a></td>
+<td align="center">14 Oct 2026</td>
 </tr>
 </tbody>
 </table>

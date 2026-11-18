@@ -2,7 +2,7 @@
 
 # 🔒 Cybersecurity
 
-**29 open roles.** 22 in the United States & Canada · 7 elsewhere in the world. Security products, detection, identity and offensive-security vendors.
+**53 open roles.** 30 in the United States & Canada · 23 elsewhere in the world. Security products, detection, identity and offensive-security vendors.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -171,6 +171,62 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://jobs.ashbyhq.com/outtake/b4b30206-10ef-4a1d-8df5-73386b36c628">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
+<tr>
+<td><strong>Extrahop Networks</strong></td>
+<td><a href="https://trueinterview.io/jobs/bae4e215-4359-4c87-9ec0-9add907dc129">Software Engineer I | Cloud</a></td>
+<td>Seattle, WA, 500 Seattle Corporate</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/extrahopnetworks/jobs/6119816004">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>BlackBerry</strong></td>
+<td><a href="https://trueinterview.io/jobs/bb5dfc26-e77c-4f94-963f-d88759dd7309">QNX Systems Software Developer</a></td>
+<td>Ottawa, Ontario, Canada<br/>Ottawa, Canada</td>
+<td align="center"><a href="https://bb.wd3.myworkdayjobs.com/en-US/BlackBerry/job/Ottawa-Ontario/QNX-Systems-Software-Developer_20260323-2">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Rubrik</strong></td>
+<td><a href="https://trueinterview.io/jobs/2362a2d6-10aa-41e6-b310-90c5e9b8940b">Software Engineer - Product Platform Security</a></td>
+<td>Palo Alto, CA</td>
+<td align="center"><a href="https://www.rubrik.com/company/careers/departments/job.8243737?gh_jid=8243737">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Tailscale</strong></td>
+<td><a href="https://trueinterview.io/jobs/8f737afa-2bbc-44ec-8ffa-4129506a9e37">Analytics Engineer, Data</a></td>
+<td>Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4465215918/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ThreatDown</strong></td>
+<td><a href="https://trueinterview.io/jobs/da5e95ce-ba36-40e1-a335-d4377f2213d7">Technical Support Engineer (11am - 8pm) - Remote Florida</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://ats.rippling.com/threatdown/jobs/c6018159-4cdc-4e6e-93a0-d8b4d4a0c16c?jobSite=Indeed">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Oneleet</strong></td>
+<td><a href="https://trueinterview.io/jobs/1a0a70a1-76ce-4d8c-b6a9-b98f6db92991">Penetration Testing Coordinator</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/oneleet/61208670-918f-4b8e-b70a-6d86da715f48">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Abnormalsecurity</strong></td>
+<td><a href="https://trueinterview.io/jobs/be319e92-04f6-47b9-a9dc-3c433fddbf74">Software Engineer 1 - Cloud Infrastructure</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://abnormal.ai/careers/jobs/8015179003?gh_jid=8015179003">Apply</a></td>
+<td align="center">17 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Fortinet</strong></td>
+<td><a href="https://trueinterview.io/jobs/14892176-4b41-4e24-be21-b1097b3c583d">Software QA Specialist – FortiGate Cloud</a></td>
+<td>Burnaby, BC, Canada</td>
+<td align="center"><a href="https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/24658">Apply</a></td>
+<td align="center">16 Oct 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -231,6 +287,118 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Dubai, Dubai, United Arab Emirates</td>
 <td align="center"><a href="https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/23305">Apply</a></td>
 <td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Darktrace</strong></td>
+<td><a href="https://trueinterview.io/jobs/95eb9129-4c89-4b47-ba5b-9863cb55b5cc">Cybersecurity Solutions Engineer</a></td>
+<td>München, Deutschland</td>
+<td align="center"><a href="https://darktrace.wd3.myworkdayjobs.com/en-US/DarktaceExternal/job/Munich-Office/Cybersecurity-Solutions-Engineer_JR102583">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CrowdStrike</strong></td>
+<td><a href="https://trueinterview.io/jobs/2b848e23-6dc3-4a43-8968-1b700ee23292">Technical Support Engineer - Windows OS (Remote, GBR)</a></td>
+<td>United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482521081/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Abnormalsecurity</strong></td>
+<td><a href="https://trueinterview.io/jobs/bbd7032d-38db-4e30-afdf-57db3219884d">Machine Learning Engineer 1</a> 🌐</td>
+<td>Remote — Singapore</td>
+<td align="center"><a href="https://abnormal.ai/careers/jobs/8002099003?gh_jid=8002099003">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Fortinet</strong></td>
+<td><a href="https://trueinterview.io/jobs/47d03563-d622-4514-82b7-925f1bb601ad">Systems Engineer - Territory</a></td>
+<td>Italy</td>
+<td align="center"><a href="https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/24766">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/2ec1cadc-6ac5-4f9f-b35f-4dc85432a221">Network Security QA Engineer</a></td>
+<td>Sophia Antipolis, Alpes-Maritimes, France</td>
+<td align="center"><a href="https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/24733">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e5823d61-46cc-4192-8e2a-07f3e306c5c3">Presales Systems Engineer – Region Basel / Bern</a></td>
+<td>Switzerland</td>
+<td align="center"><a href="https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/23963">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Rubrik</strong></td>
+<td><a href="https://trueinterview.io/jobs/fbee3dce-68af-4c69-8013-cda39156942a">Software Engineer Product Infra: Core Services</a></td>
+<td>Bengaluru</td>
+<td align="center"><a href="https://www.rubrik.com/company/careers/departments/job.8282005?gh_jid=8282005">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Fortinet</strong></td>
+<td><a href="https://trueinterview.io/jobs/cf37dc85-68f3-41ef-bcf0-aea00e914ff3">Systems Engineer (Channel) - SADC</a></td>
+<td>Johannesburg, Gauteng, South Africa</td>
+<td align="center"><a href="https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/24674">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/5c2fec06-40ab-4747-a750-4ad76dae0c5f">Systems Engineer, Project Management &amp; PS - Spain</a></td>
+<td>Madrid, Comunidad de Madrid, Spain</td>
+<td align="center"><a href="https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/24719">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e0452fc8-f62c-44d0-a91f-6d760e26aa23">Network Security Engineer</a></td>
+<td>Frankfurt, Hessen, Germany</td>
+<td align="center"><a href="https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/21947">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/94175dc1-c40e-4100-873f-f82db55e947a">Systems Engineer, Project Management &amp; PS - France</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/24688">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Verkada</strong></td>
+<td><a href="https://trueinterview.io/jobs/be9e995c-c781-4b7d-941e-17967f9c4083">Enterprise Solutions Engineer, Melbourne</a></td>
+<td>Melbourne, Australia</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/verkada/jobs/5266264007">Apply</a></td>
+<td align="center">16 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sonicwall</strong></td>
+<td><a href="https://trueinterview.io/jobs/4f1f8231-b304-4958-85f5-5b672023ba08">Platform Engineer- GCP and Kubernetes experience is a must</a></td>
+<td>Pune, Maharashtra, India</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/sonicwall/jobs/8282577">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Fortinet</strong></td>
+<td><a href="https://trueinterview.io/jobs/2ddf2959-f806-4ea9-9630-227900d5b015">Systems Engineer - CZ</a></td>
+<td>Praha, Hlavní město Praha, Czech Republic</td>
+<td align="center"><a href="https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/24454">Apply</a></td>
+<td align="center">12 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e724f12d-245c-42c0-9648-9bd7f53ac369">Systems Engineer - OT - CZ</a></td>
+<td>Praha, Hlavní město Praha, Czech Republic</td>
+<td align="center"><a href="https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/24462">Apply</a></td>
+<td align="center">12 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e575e78a-f233-4a6d-9e11-1f7768e993b1">Systems Engineer - SASE - CZ</a></td>
+<td>Praha, Hlavní město Praha, Czech Republic</td>
+<td align="center"><a href="https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/24461">Apply</a></td>
+<td align="center">12 Oct 2026</td>
 </tr>
 </tbody>
 </table>

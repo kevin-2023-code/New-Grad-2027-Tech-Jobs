@@ -2,7 +2,7 @@
 
 # 🌵 Phoenix & Arizona
 
-**148 open roles.** 146 in the United States & Canada · 2 elsewhere in the world.
+**202 open roles.** 200 in the United States & Canada · 2 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1038,6 +1038,384 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Chandler, AZ</td>
 <td align="center"><a href="https://stiorg.applicantstack.com/x/detail/a2jv0tkm329y/aaac">Apply</a></td>
 <td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Grand Canyon University</strong></td>
+<td><a href="https://trueinterview.io/jobs/02246639-f62c-46fa-a7e2-b9dd2bf6dfa3">Electrical Design Principles II &amp; Lab – Adjunct Faculty – Traditional Campus (Spring 2027) – College of Engineering and Technology</a></td>
+<td>Phoenix, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484420582/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>GTI Fabrication</strong></td>
+<td><a href="https://trueinterview.io/jobs/ad2e1e7d-5efd-4740-ac1e-b31c8411fbc7">Service Desk Technician I</a></td>
+<td>Tempe, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484746969/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Onsemi</strong></td>
+<td><a href="https://trueinterview.io/jobs/35f66a84-4eb8-4f64-97dc-0c87e1d6a1e7">Failure Analysis Engineer</a></td>
+<td>Tempe, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482558804/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Consor</strong></td>
+<td><a href="https://trueinterview.io/jobs/6a6877b9-65dc-4772-9293-2a879649124b">Roadway - Drainage Engineer-in-Training</a></td>
+<td>Tucson, AZ<br/>Phoenix, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482554901/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/0026c344-5749-4684-9e2c-d938666ed718">Entry Level QA/Test Engineer- Tucson, AZ</a></td>
+<td>Tucson, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482554836/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Actalent</strong></td>
+<td><a href="https://trueinterview.io/jobs/ad200bfd-7311-4aba-9772-8405277e042b">Data Scientist</a></td>
+<td>Tucson, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484737862/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Bright Matrix Global</strong></td>
+<td><a href="https://trueinterview.io/jobs/2eb2af80-f956-4f83-96ac-0c686f383bcd">Profisee MDM Engineer / Consultant</a></td>
+<td>Phoenix, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482546973/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>TYR Tactical</strong></td>
+<td><a href="https://trueinterview.io/jobs/7a232b36-d5a7-4672-90b3-b502ee98e6c9">Mechanical Engineer</a></td>
+<td>Peoria, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484727732/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Transdev North America</strong></td>
+<td><a href="https://trueinterview.io/jobs/cd8de371-082e-4d5c-bfa2-8b90e338cfc9">Data Analyst</a></td>
+<td>Phoenix, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484410916/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Renaissance Personnel Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/4c2a2468-a06f-43dc-b126-1be2fd44b093">Civil Engineer</a></td>
+<td>Tempe, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484736144/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ashurst Perkins Coie</strong></td>
+<td><a href="https://trueinterview.io/jobs/e91036a7-da00-4077-91b4-19dcd955b76a">Service Desk Support Technician</a></td>
+<td>Phoenix, AZ<br/>Seattle, WA<br/>Portland, OR<br/>+1 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476523652/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Honeywell Aerospace</strong></td>
+<td><a href="https://trueinterview.io/jobs/bddd6ca0-da71-4cc6-8b4e-6ce8263dfcb1">Embedded Avionics Systems Engineer</a></td>
+<td>Phoenix, AZ</td>
+<td align="center"><a href="https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/126288">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Choice Hotels International</strong></td>
+<td><a href="https://trueinterview.io/jobs/7ae07969-67a8-436c-9419-25a6c91911cb">Software Engineer 1, Mobile Apps - Kotlin exposure required</a></td>
+<td>Scottsdale, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4458581381/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>R.E. Darling Co</strong></td>
+<td><a href="https://trueinterview.io/jobs/71fbfe9d-5b17-40ab-aa59-ab72c29fdf19">IT Data Analyst</a></td>
+<td>Tucson, AZ</td>
+<td align="center"><a href="https://recruiting2.ultipro.com/RED1019REDA/JobBoard/2a0fcf19-e3f6-4626-a8e0-3000b2381cc9/OpportunityDetail?opportunityId=e1b38963-6008-4567-867d-57cc3138b697&amp;postingId=2cd5ec70-87a2-4bf3-b82e-a6bf68fb33bb">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cranial Technologies, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/25e89bbf-57c9-476e-978a-0b7cabe5466a">IT Help Desk Technician</a></td>
+<td>Tempe, AZ</td>
+<td align="center"><a href="https://grnh.se/djoqn69g2us">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Smart IT Frame LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/43238970-c160-4b55-b96d-3338bcd86d32">Service Desk Engineer</a></td>
+<td>Scottsdale, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483883928/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>KPMG US</strong></td>
+<td><a href="https://trueinterview.io/jobs/beba8cfd-887b-44de-b775-ed82e59f60ff">Temporary System Administrator Shift Work (Disaster Recovery)</a></td>
+<td>Tempe, AZ<br/>Phoenix, AZ<br/>Atlanta, GA<br/>+58 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484107318/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Consumer Cellular, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/055c9b2e-59e6-48ad-9ffa-cd9202d13ffe">Data Privacy Analyst</a></td>
+<td>Scottsdale, AZ</td>
+<td align="center"><a href="https://aa328.taleo.net/careersection/corpex/jobdetail.ftl?job=260862&amp;tz=GMT-05%3A00&amp;tzname=America%2FChicago">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>AMERICAN SYSTEMS</strong></td>
+<td><a href="https://trueinterview.io/jobs/9d451db0-09d2-4989-87e4-c70437eff0c4">Java Developer l</a></td>
+<td>Phoenix, AZ<br/>Billings, MT<br/>Folsom, CA</td>
+<td align="center"><a href="https://careers-americansystems.icims.com/jobs/5163/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Maxonic Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/3621bcd7-efc2-4ca8-af5a-716fb81c4d4b">Mechanical Engineer- EPI</a></td>
+<td>Phoenix, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484112364/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Viasat</strong></td>
+<td><a href="https://trueinterview.io/jobs/5a010a57-ab7c-4acb-8436-8503230ae7e9">RF Design Engineer</a></td>
+<td>Tempe, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4478013918/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Exponent</strong></td>
+<td><a href="https://trueinterview.io/jobs/607686b7-d412-4995-b401-aca59311cc91">Metallurgical and Corrosion Engineer (Ph.D)</a></td>
+<td>Phoenix, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4371530679/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SSOE Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/911ef816-b31d-478c-bbbf-4fd2c4f9d297">Electrical Engineer — Electrical Pre-Assignment</a></td>
+<td>Chandler, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484702447/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Smart IT Frame LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/cd128ec8-6f42-47dc-91c0-df4c5224e6a7">Service Desk Engineer -Windows, AD, Network, ITSM</a></td>
+<td>Phoenix, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483894742/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Raytheon</strong></td>
+<td><a href="https://trueinterview.io/jobs/2cfec468-2fbf-4df3-9ffa-16137d6b9650">FPGA/ Digital Design Engineer I - Onsite</a></td>
+<td>Tucson, AZ<br/>McKinney, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475886129/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/c317bd8e-b538-4c8f-85da-11fb2e107df6">Systems Engineer I - Guidance, Navigation, and Control (Onsite)</a></td>
+<td>Tucson, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467288504/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Akkodis</strong></td>
+<td><a href="https://trueinterview.io/jobs/e594989e-3b8d-4ff3-ac5e-58aa000678f7">Electrical Engineer</a></td>
+<td>Tempe, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4480265179/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Komatsu</strong></td>
+<td><a href="https://trueinterview.io/jobs/cb2427bd-90bc-44ad-a32f-ef142e5e4a43">Software Engineer I</a></td>
+<td>Mesa, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467954206/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Moove</strong></td>
+<td><a href="https://trueinterview.io/jobs/9f950395-c0c5-41a6-8851-67aa16a571ed">IT Systems Administrator</a></td>
+<td>Phoenix, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475129305/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Strategic Systems Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/0fd02de9-4722-4e57-aacd-5aa290215ab7">System Administrator</a></td>
+<td>Phoenix, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483891098/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Koch Engineered Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/3e68ae8a-fd6b-4f5f-bccf-77f4660f6f3a">Project Development Engineer, Repowering and Restoration</a></td>
+<td>Scottsdale, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475155994/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Droisys</strong></td>
+<td><a href="https://trueinterview.io/jobs/87ffa2b3-610c-43bf-ae25-8e11f7953432">Desktop Support Engineer</a></td>
+<td>Scottsdale, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483689563/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Farnsworth Group, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/a0b64f38-842e-4f04-ae3d-c156e64e6e4f">Facilities Mechanical Engineer</a></td>
+<td>Phoenix, AZ<br/>Boise, ID</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475416693/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>KMM Technologies, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/b45d47cc-c383-461e-ba1d-b8088b91cf55">Mainframe CICS System Administrator</a></td>
+<td>Phoenix, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4473948779/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Kimley-Horn</strong></td>
+<td><a href="https://trueinterview.io/jobs/8348b5c8-6577-4713-8e33-381f99d1e72d">Transmission Engineer EIT</a></td>
+<td>Phoenix, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475118020/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Robert Half</strong></td>
+<td><a href="https://trueinterview.io/jobs/f39c2036-7ab7-4bf3-b39d-28e42c4a7473">Part Time IT Support</a></td>
+<td>Phoenix, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484476052/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Blue Signal Search</strong></td>
+<td><a href="https://trueinterview.io/jobs/73b90074-eb47-4522-b873-f72fe81f3967">Civil Stormwater Engineer</a></td>
+<td>Phoenix, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4464549010/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Tata Consultancy Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/f72b5669-78bb-4cb0-b3d6-d1b5d37fa342">Kafka developer</a></td>
+<td>Chandler, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466105270/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Mipac</strong></td>
+<td><a href="https://trueinterview.io/jobs/8b020956-b8d8-47f8-9a9d-16883b8a7fbf">Instrumentation and Control Systems Engineer</a></td>
+<td>Tucson, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467494245/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Honeywell Aerospace</strong></td>
+<td><a href="https://trueinterview.io/jobs/46284727-60d5-4ede-a72a-bf2011efebce">Systems Engineer I</a></td>
+<td>Tempe, AZ<br/>Torrance, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476501878/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cognizant</strong></td>
+<td><a href="https://trueinterview.io/jobs/ea16661a-e08f-4e4f-a989-32e4a6cd7b35">SDET / QA Automation Engineer – Playwright, Selenium, Java &amp; Functional Testing</a> 🌐</td>
+<td>Remote — United States<br/>Phoenix, AZ</td>
+<td align="center"><a href="https://careers.cognizant.com/global-en/jobs/00070912531/sdet-qa-automation-engineer-playwright-selenium-java-functional-testing/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Moveras</strong></td>
+<td><a href="https://trueinterview.io/jobs/87137e6e-4692-412a-b28c-46c439eadbf6">Tech Support Representative</a></td>
+<td>Phoenix, AZ</td>
+<td align="center"><a href="https://phx.us-west.paycomonline.net/v4/ats/web.php/portal/A6E30B38C2E263102372636C923C823F/jobs/46808">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Transdev</strong></td>
+<td><a href="https://trueinterview.io/jobs/4c1a6ba0-6154-4a28-95ea-fab50513c006">Data Analyst</a></td>
+<td>Phoenix, AZ</td>
+<td align="center"><a href="https://transdevna.jobs/19F3674AEA4A4B8CAC3DE64D46D799BA/job?vs=1554">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>WSP</strong></td>
+<td><a href="https://trueinterview.io/jobs/e17a5b50-d977-48b4-96c9-c384b9004013">Data Center Mechanical Engineer, Assistant Consultant</a></td>
+<td>Tempe, AZ, United States<br/>Herndon, VA, United States<br/>Troy, NY, United States<br/>+1 more</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98366">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Onsemi</strong></td>
+<td><a href="https://trueinterview.io/jobs/b187d9f8-7e5c-4d4d-bdb5-07496a4c8ca7">AI Engineer</a></td>
+<td>Scottsdale, AZ</td>
+<td align="center"><a href="https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/preview/2506767">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>JDP</strong></td>
+<td><a href="https://trueinterview.io/jobs/0fd6e47a-b1c3-48f3-a29b-6c460e4c98af">Electrical Engineer</a></td>
+<td>Phoenix, Arizona, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/TessenderloGroup/744000157920919-electrical-engineer">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon.com</strong></td>
+<td><a href="https://trueinterview.io/jobs/e64afb93-c356-4d2e-b640-82ebbde4d31b">Software Development Engineer, Selling Partner Trust</a></td>
+<td>Tempe, AZ</td>
+<td align="center"><a href="https://www.amazon.jobs/jobs/10593526/software-development-engineer-selling-partner-trust?cmpid=DA_INAD200785B">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Boeing</strong></td>
+<td><a href="https://trueinterview.io/jobs/21c08bd3-5eb2-4505-8b2c-943a2b08a7b8">Entry Level or Associate Aerospace Safety Engineer</a></td>
+<td>Mesa, AZ</td>
+<td align="center"><a href="https://jobs.boeing.com/job/mesa/entry-level-or-associate-aerospace-safety-engineer/185/102446753664">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>General Dynamics Mission Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/5fe9f99b-2d5d-4616-949d-cf63454e7274">Systems Test Engineer – Entry Level</a></td>
+<td>Scottsdale, AZ</td>
+<td align="center"><a href="https://careers-gdms.icims.com/jobs/75785/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Waabi</strong></td>
+<td><a href="https://trueinterview.io/jobs/919ecf9f-9704-4bf6-9767-9c429a781d47">Systems Engineer - Behavior Verification</a> 🌐</td>
+<td>Remote — United States, Canada<br/>Phoenix, AZ</td>
+<td align="center"><a href="https://jobs.lever.co/waabi/5964c6a7-8232-4ee5-b20d-3309ccd67d6f">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Tenet Healthcare Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/85b9e9cd-36b9-4878-885b-35a3ea89ca6c">Stationary Engineer</a></td>
+<td>Phoenix, AZ, United States<br/>San Ramon, CA, United States<br/>Palm Springs, CA, United States</td>
+<td align="center"><a href="https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2603022317">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Mpsw</strong></td>
+<td><a href="https://trueinterview.io/jobs/bb1bbd62-623a-4e2e-8d9c-c86f59cb3be3">Project Engineer</a></td>
+<td>Tucson, AZ</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/mpsw/jobs/5451248008">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Analog Devices</strong></td>
+<td><a href="https://trueinterview.io/jobs/c87b8345-786b-4d61-bbd8-1c940ff4d66c">Associate Test Engineer - Product Development</a></td>
+<td>US, AZ, Chandler, East Elliot, United States of America</td>
+<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-AZ-Chandler-East-Elliot/Product-Development_R265969">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Applied Materials</strong></td>
+<td><a href="https://trueinterview.io/jobs/00dd7d7b-17ac-4643-885c-7ec8a38992ea">Field Applications Engineer New College Grad- Master's/PhD (Santa Clara, Austin, Gloucester, Phoenix)</a></td>
+<td>Phoenix, AZ, US<br/>Santa Clara, CA, US</td>
+<td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790318861343">Apply</a></td>
+<td align="center">12 Oct 2026</td>
 </tr>
 </tbody>
 </table>

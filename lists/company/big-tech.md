@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**787 open roles.** 396 in the United States & Canada · 391 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**1,089 open roles.** 583 in the United States & Canada · 506 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -10,7 +10,7 @@
 
 _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-authorisation restriction._
 
-<sub>Page 1 of 2 · [Page 2 →](big-tech-2.md)</sub>
+<sub>Page 1 of 3 · [Page 2 →](big-tech-2.md)</sub>
 
 ## United States & Canada
 
@@ -2757,6 +2757,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/8e93b4a3-3272-407d-9a22-9c07d813f43c">Software Engineer, Safari Extensions</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200676418-3543?board_id=JB001">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/96dd7880-4a64-4a9d-95c0-f7324f275e27">Software Quality Automation Engineer - Phone, FaceTime and Contacts</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200673871-3543?board_id=JB001">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Applied Materials</strong></td>
 <td><a href="https://trueinterview.io/jobs/0646843f-3ad9-4c49-84d9-c0fecf1e91d2">RF Electrical Engineer New College Grad- Master's (Santa Clara, CA)</a></td>
 <td>Santa Clara, CA</td>
@@ -2791,49 +2805,23 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/United-States-of-America-New-York-New-York/Site-Reliability-Engineer--Reuters_JREQ204669">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
-</tbody>
-</table>
-
-## Elsewhere in the world
-
-_Roles outside the United States & Canada, and roles whose country the catalog could not read._
-
-<table>
-<thead>
-<tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
-</thead>
-<tbody>
 <tr>
-<td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/44b77793-ddee-4155-a6ac-5f4dcf6e577c">ASIC Engineer, Networking Chip Design - New College Grad 2027</a></td>
-<td>Shanghai, Shanghai, China</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483288200/">Apply</a></td>
-<td align="center">17 Nov 2026</td>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/79b6ce7b-b741-4f96-aec9-bc4eaa384133">Hardware Systems Engineer</a></td>
+<td>Cupertino, California, United States</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200691110">Apply</a></td>
+<td align="center">29 Oct 2026</td>
 </tr>
 <tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/fcba25b8-84e7-48ad-ac0d-2daa0bfbe8b4">ASIC Physical Design Engineer - New College Grad 2027</a></td>
-<td>Shanghai, Shanghai, China</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483266875/">Apply</a></td>
-<td align="center">17 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>NXP Semiconductors</strong></td>
-<td><a href="https://trueinterview.io/jobs/819dfe9b-fd96-4e76-be67-e955f89f82b1">Design Verification Engineer</a></td>
-<td>Pune Division, Maharashtra, India</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4491179179/">Apply</a></td>
-<td align="center">17 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/7e8826a8-4a6e-4602-a6a3-606d950ca38e">Software Embedded Engineer (m/f/d)</a></td>
-<td>Brno, South Moravia, Czechia</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4491178725/">Apply</a></td>
-<td align="center">17 Nov 2026</td>
+<td><strong>LinkedIn</strong></td>
+<td><a href="https://trueinterview.io/jobs/62786e39-4434-4486-b761-f7da771bb292">Software Engineer - AI Platform</a></td>
+<td>Mountain View, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4465588693/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
 </table>
 
-<sub>Page 1 of 2 · [Page 2 →](big-tech-2.md)</sub>
+<sub>Page 1 of 3 · [Page 2 →](big-tech-2.md)</sub>
 
 [← Every filter](../README.md) · [Back to the full list](../../README.md)

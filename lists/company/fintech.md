@@ -2,7 +2,7 @@
 
 # 💳 Fintech, payments & crypto
 
-**34 open roles.** 17 in the United States & Canada · 17 elsewhere in the world. Payments, neobanks, lending, trading apps, crypto and financial infrastructure.
+**65 open roles.** 26 in the United States & Canada · 39 elsewhere in the world. Payments, neobanks, lending, trading apps, crypto and financial infrastructure.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -136,6 +136,69 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://boards.greenhouse.io/chime/jobs/8868948002?gh_jid=8868948002">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
+<tr>
+<td><strong>BJAK</strong></td>
+<td><a href="https://trueinterview.io/jobs/cfc9f08d-3afd-495f-9c7c-b998dcdddb57">Android Developer</a></td>
+<td>London Area, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484780734/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Clearstreet</strong></td>
+<td><a href="https://trueinterview.io/jobs/76931616-2dda-40b4-bb60-b16c16072338">Security Operations Engineer</a></td>
+<td>New York, NY, New York</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/clearstreet/jobs/8331641">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Robinhood</strong></td>
+<td><a href="https://trueinterview.io/jobs/310bd671-4237-4f88-8e45-f7d9a495115f">AI Operations Engineer</a></td>
+<td>Bellevue, WA<br/>New York, NY<br/>Menlo Park, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482536221/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Upstart</strong></td>
+<td><a href="https://trueinterview.io/jobs/74cd78e3-538d-4a99-998e-16e4717109f1">Software Engineer, Upstart Bank</a></td>
+<td>Remote</td>
+<td align="center"><a href="https://careers.upstart.com/jobs?gh_jid=8060056">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Next Insurance</strong></td>
+<td><a href="https://trueinterview.io/jobs/4e92033d-1dc6-4187-8d42-5b82fe4a2c75">Data Scientist, Growth – Partnerships &amp; Customer Experience</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://grnh.se/28bzdj2n3us">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ramp</strong></td>
+<td><a href="https://trueinterview.io/jobs/30f2cbd4-a46a-4102-8d10-1b805b47abd0">Backend Engineer | AI Spend Management</a> 🌐</td>
+<td>Remote — United States, Canada</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/ramp/b7514711-8a29-4bd2-a97a-967be14e336f">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/b96a6970-39ba-49ae-87ff-5b6b93699bca">Backend Engineer | Accounts Receivable</a> 🌐</td>
+<td>Remote — United States, Canada</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/ramp/47a75895-24af-49b7-9858-1be0ec0e7c71">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Raisin</strong></td>
+<td><a href="https://trueinterview.io/jobs/9c23fdf8-0c88-4387-ac23-877881a5f8e4">Digital Designer, Growth</a></td>
+<td>New York, NY<br/>New York, New York, United States</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/raisin/jobs/5008476101">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Meridianlink</strong></td>
+<td><a href="https://trueinterview.io/jobs/c19457f0-3080-4cd5-9dc2-8e33c502b717">Associate Implementation Analyst</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/meridianlink/2e5f59c7-7e34-4392-8ced-1964c68bc78a/application">Apply</a></td>
+<td align="center">15 Oct 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -266,6 +329,160 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4468616224/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Getnet</strong></td>
+<td><a href="https://trueinterview.io/jobs/a38af26d-3664-4346-8284-cef04d6e7149">AI Deployment Engineer</a></td>
+<td>Mexico - Mexico City</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/getnet/jobs/5019637101">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Starling</strong></td>
+<td><a href="https://trueinterview.io/jobs/b5327ac1-4371-489f-be3c-90631e867aaa">Infrastructure Engineer</a></td>
+<td>London, England, United Kingdom<br/>Manchester, England, United Kingdom<br/>Cardiff, Wales, United Kingdom<br/>+3 more</td>
+<td align="center"><a href="https://apply.workable.com/j/AA46C1B42F">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Wise</strong></td>
+<td><a href="https://trueinterview.io/jobs/b88a0a5d-f1ad-4062-919e-0f420c996970">Technical Support Engineer (Enterprise)</a></td>
+<td>Tallinn, Harjumaa, Estonia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4448284270/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Starling</strong></td>
+<td><a href="https://trueinterview.io/jobs/88a75768-2ccf-40fe-a504-c9a2d5f468c4">Content Designer</a></td>
+<td>London, United Kingdom</td>
+<td align="center"><a href="https://apply.workable.com/j/F86ED8EDBA">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Nickel</strong></td>
+<td><a href="https://trueinterview.io/jobs/c85ba4e0-5362-4aaa-aa98-89aa6e6675d0">Analytics Engineer F/H</a></td>
+<td>Charenton-le-Pont, France</td>
+<td align="center"><a href="https://nickel-jobs.my.salesforce-sites.com/postulateFr?id=a10Sm00000HmoryIAB">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Airwallex</strong></td>
+<td><a href="https://trueinterview.io/jobs/88836ead-5f3b-4453-8842-28457b49b9a8">Software Engineer Backend, Billing</a></td>
+<td>SG - Singapore</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/airwallex/f4d64c0e-2425-409c-a296-4c4c6b9fe824">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Binance</strong></td>
+<td><a href="https://trueinterview.io/jobs/91cebfbe-a507-4d16-bbb9-fa650ca816de">Binance Acceleration Program - Product Data Analyst</a></td>
+<td>Singapore<br/>Hong Kong<br/>Taiwan</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/binance/jobs/5013528101">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>FIS Global</strong></td>
+<td><a href="https://trueinterview.io/jobs/2e388dcd-f8bc-4f0a-81c5-79131095a755">Python Developer</a></td>
+<td>IND NOID C-25 SEC-62 TWR 1</td>
+<td align="center"><a href="https://fis.wd5.myworkdayjobs.com/SearchJobs/job/IND-NOID-C-25-SEC-62-TWR-1/Python-Developer_JR0308903">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Wise</strong></td>
+<td><a href="https://trueinterview.io/jobs/a27c0237-e779-4d48-abb6-945aeb701d17">Fullstack Engineer - Scam Prevention</a></td>
+<td>Budapest, Hungary</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Wise/744000156541999-fullstack-engineer-scam-prevention">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Binance</strong></td>
+<td><a href="https://trueinterview.io/jobs/4ae1a0ab-9e8b-4768-9636-7cbc96b1a210">LLM Data Scientist/Algorithm Engineer (Top Talent Program)</a></td>
+<td>Singapore<br/>Australia<br/>Hong Kong<br/>+2 more</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/binance/jobs/5009522101">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Teya</strong></td>
+<td><a href="https://trueinterview.io/jobs/48415e7a-154f-4ce3-9a68-ff1260a5e467">Data Scientist</a></td>
+<td>London</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/teya/ee402538-d23e-47b8-8da8-69e6b1d35e1a/application">Apply</a></td>
+<td align="center">17 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Binance</strong></td>
+<td><a href="https://trueinterview.io/jobs/b1a51f63-6c3f-451a-a126-87216d9d6233">Pioneer Talent Program - Research Data Scientist (APAC Remote)</a></td>
+<td>Singapore<br/>Hong Kong<br/>Taiwan</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/binance/jobs/5002565101">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/3b89d78c-974f-4463-b1fe-304f10e9f82c">Data Analyst (12 months contract)</a></td>
+<td>Singapore<br/>Hong Kong<br/>Malaysia</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/binance/jobs/5004445101">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/a93b765c-5b06-44ff-a9aa-4888512bfd8e">Binance Accelerator Program - Research On Chain Data Analyst</a></td>
+<td>Singapore<br/>Hong Kong<br/>Malaysia</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/binance/jobs/5002563101">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e99ab741-d64d-4c00-b002-a22811d46781">Graphic Designer Contractor - Gulf Binance</a></td>
+<td>Thailand</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/binance/jobs/5002539101">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/7b6d19d5-0e35-4a37-9861-abb19236451c">Pioneer Talent Program - Applied Data Scientist</a></td>
+<td>Singapore<br/>Hong Kong<br/>Taiwan</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/binance/jobs/5002729101">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/66967a7e-6056-429e-9e92-b94543673716">LLM Applied Data Scientist (RAG/ NLP)</a></td>
+<td>Singapore<br/>Hong Kong</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/binance/jobs/5002635101">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/88133818-edf5-4af4-b163-365048034f4c">Java Backend Engineer, Global Travel Rule (GTR)</a></td>
+<td>Singapore<br/>Hong Kong</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/binance/jobs/5002673101">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Checkout.com</strong></td>
+<td><a href="https://trueinterview.io/jobs/436262f4-6636-4e6b-844d-9bd698144440">Front end Engineer</a></td>
+<td>London</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/checkout.com/93224ea4-50b2-45b6-b4dc-d878e3f15452">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Kin Insurance</strong></td>
+<td><a href="https://trueinterview.io/jobs/4c6a1a06-9592-41b7-b55d-d127aca8dc4e">Pricing &amp; Risk Analyst</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/kin/99967c4f-e3cc-42b3-90d0-0f4499140c22/application">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Affirm</strong></td>
+<td><a href="https://trueinterview.io/jobs/8ed2cc2a-572e-47ab-9e29-faa5e3505c30">Software Engineer I, Early Career (London)</a></td>
+<td>London</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/affirm/jobs/8011718003">Apply</a></td>
+<td align="center">12 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Okx</strong></td>
+<td><a href="https://trueinterview.io/jobs/5c699423-9c33-407b-b899-aa1d443af6dd">Software Engineer, Mobile Core (Compliance)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/okx/jobs/8026443003">Apply</a></td>
+<td align="center">12 Oct 2026</td>
 </tr>
 </tbody>
 </table>

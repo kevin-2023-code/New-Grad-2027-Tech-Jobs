@@ -2,7 +2,7 @@
 
 # 🇬🇧 London & the UK
 
-**459 open roles.** 17 in the United States & Canada · 442 elsewhere in the world.
+**739 open roles.** 23 in the United States & Canada · 716 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -137,6 +137,48 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>London, United Kingdom<br/>New York, NY</td>
 <td align="center"><a href="https://natilik.teamtailor.com/jobs/8637739-networking-engineer">Apply</a></td>
 <td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>BJAK</strong></td>
+<td><a href="https://trueinterview.io/jobs/cfc9f08d-3afd-495f-9c7c-b998dcdddb57">Android Developer</a></td>
+<td>London Area, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484780734/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cellebrite</strong></td>
+<td><a href="https://trueinterview.io/jobs/21283a2f-4864-492f-b6b1-e68fe7f1b089">iOS Vulnerability Researcher (Remote)</a></td>
+<td>London, England, United Kingdom<br/>Tysons Corner, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4412918174/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Lila Sciences</strong></td>
+<td><a href="https://trueinterview.io/jobs/2b7ffe58-dfac-492a-933b-9b64aa1a7432">Research Scientist / Research Engineer, Automated Safety</a></td>
+<td>London, UK<br/>Cambridge, MA USA<br/>San Francisco, CA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/lilasciences/jobs/4423488009">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>WSP</strong></td>
+<td><a href="https://trueinterview.io/jobs/4ff481d4-1a81-46a0-87c8-4f20745b16f6">Civil &amp; Structural Engineer</a></td>
+<td>Belfast, County Antrim, United Kingdom<br/>Dublin, Co. Dublin, Ireland<br/>Ireland<br/>+1 more</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97422">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/ebd6f457-6cb2-46b9-9ed3-39e6f9609e99">Electrical Substation Design Engineer</a></td>
+<td>Belfast, County Antrim, United Kingdom<br/>Dublin, Co. Dublin, Ireland<br/>Ireland<br/>+1 more</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97414">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f0e957ee-f6e1-4515-b7cb-f287754d137b">HV Cable Design Engineer</a></td>
+<td>Belfast, County Antrim, United Kingdom<br/>Dublin, Co. Dublin, Ireland<br/>Ireland<br/>+1 more</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97426">Apply</a></td>
+<td align="center">13 Oct 2026</td>
 </tr>
 </tbody>
 </table>
@@ -2787,48 +2829,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/ffd6ad69-72ca-48d9-82b3-a19f6879b731">Release, Environments, and Change Engineer (C2)</a></td>
 <td>London, UK</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/kaluza/fed99cdc-0f3f-4eb3-af16-b07a3d390b3e">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Avacone</strong></td>
-<td><a href="https://trueinterview.io/jobs/8ef8779b-1e6b-4c85-b57a-5c74e8e24399">ServiceNow Developer - Professional Level</a></td>
-<td>London, United Kingdom</td>
-<td align="center"><a href="https://apply.workable.com/j/9FC3EC5FAE">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Arup</strong></td>
-<td><a href="https://trueinterview.io/jobs/5ef64fe0-3ae1-4be7-9d36-e52eb295aa40">Electrical Building Services Engineer – Intermediate Level</a></td>
-<td>Birmingham, England, United Kingdom<br/>Nottingham, England, United Kingdom</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477145186/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/4f95fbe1-2eed-4254-9cb3-772d1ba73cc3">Graduate Power Systems Engineer - HV Networks - Birmingham or Manchester</a></td>
-<td>Manchester, England, United Kingdom</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468287817/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>FFE Ltd</strong></td>
-<td><a href="https://trueinterview.io/jobs/857fddaf-d3d8-45ed-a381-9643f48f02f0">Development Engineer</a></td>
-<td>Cambridge, England, United Kingdom</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476912699/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Harrington Starr</strong></td>
-<td><a href="https://trueinterview.io/jobs/7b9f2406-aaf6-4c69-b52f-7e2a8c332681">Software Engineer</a></td>
-<td>London Area, United Kingdom<br/>Dublin, County Dublin, Ireland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484450270/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Legora</strong></td>
-<td><a href="https://trueinterview.io/jobs/967cd17d-2cbe-40ab-ad5d-7e76929b6d2b">Legal Engineer - Applied AI Knowledge</a></td>
-<td>London, England, United Kingdom</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4465540377/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

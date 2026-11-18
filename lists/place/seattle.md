@@ -2,13 +2,15 @@
 
 # 🌲 Seattle & Puget Sound
 
-**339 open roles.**
+**457 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
 > A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in WA: Seattle, Redmond, Issaquah, Sammamish, Bellevue, Kirkland, Renton, Bothell, Everett, Tacoma.
 
 _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-authorisation restriction._
+
+<sub>Page 1 of 2 · [Page 2 →](seattle-2.md)</sub>
 
 ## United States & Canada
 
@@ -2357,6 +2359,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Amazon.com</strong></td>
+<td><a href="https://trueinterview.io/jobs/b46b979f-3ccc-4821-850c-3d4a650d1d83">Business Intelligence Engineer, Advertising Finance</a></td>
+<td>Seattle, WA<br/>New York, NY</td>
+<td align="center"><a href="https://www.amazon.jobs/jobs/10593878/business-intelligence-engineer-advertising-finance?cmpid=DA_INAD200785B">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/2a8a0c99-cbe8-4b1d-8dba-57d4d9bb7865">Lab Engineer, LEO - Plexus Lab</a> 🌐</td>
+<td>Remote — United States<br/>Redmond, WA</td>
+<td align="center"><a href="https://www.amazon.jobs/jobs/10603824/lab-engineer-leo--plexus-lab?cmpid=DA_INAD200785B">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f459b694-9348-41d0-af56-9af2666fe394">Network Development Engineer, Amazon Customer Service</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://www.amazon.jobs/jobs/10596649/network-development-engineer-amazon-customer-service-?cmpid=DA_INAD200785B">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/65893b21-0c71-4254-89f9-998809ef8f68">Network Support Engineer, OISL</a></td>
+<td>Redmond, WA</td>
+<td align="center"><a href="https://www.amazon.jobs/jobs/10599505/network-support-engineer-oisl?cmpid=DA_INAD200785B">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/36427ef0-d3cc-4c81-a5c2-2a55466e7b13">Optical Network Engineer, Inter-satellite Link Avionics</a></td>
 <td>Redmond, WA</td>
 <td align="center"><a href="https://www.amazon.jobs/jobs/10593130/optical-network-engineer-intersatellite-link-avionics-?cmpid=DA_INAD200785B">Apply</a></td>
@@ -2367,6 +2397,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/471ab31a-fe43-4e44-a37e-04bf115b5e28">Security Engineer, Security for Employee and Legal Systems (SEALS)</a></td>
 <td>Seattle, WA</td>
 <td align="center"><a href="https://www.amazon.jobs/jobs/10593802/security-engineer-security-for-employee-and-legal-systems-seals?cmpid=DA_INAD200785B">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f6f7592c-7e57-45ae-baab-68faea928ada">Software Development Engineer, Customer Experience and Business Trends</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://www.amazon.jobs/jobs/10601961/software-development-engineer-customer-experience-and-business-trends?cmpid=DA_INAD200785B">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/9152a41b-91ba-4247-aa17-2c16fb1d515a">Software Development Engineer, WW Stores FinTech</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://www.amazon.jobs/jobs/10595040/software-development-engineer-ww-stores-fintech?cmpid=DA_INAD200785B">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/d3717ecd-3e26-43f5-b098-69dc7f8ae80a">SSL Production Lab Engineer, Space Simulation Lab</a></td>
+<td>Redmond, WA</td>
+<td align="center"><a href="https://www.amazon.jobs/jobs/10593946/ssl-production-lab-engineer-space-simulation-lab?cmpid=DA_INAD200785B">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -2390,7 +2441,387 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://jobs.dayforcehcm.com/en-US/pacsci/CANDIDATEPORTAL/jobs/2881">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
+<tr>
+<td><strong>Evlo AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/e25f6885-8b0d-401a-a611-0070e1470164">Technical Support Engineer</a></td>
+<td>Seattle, WA<br/>Dallas, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483671711/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon Web Services (AWS)</strong></td>
+<td><a href="https://trueinterview.io/jobs/d39054f1-52c3-47d9-933e-1793fc9d2e36">UX Designer, AWS Applied AI Solutions</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467917163/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Extrahop Networks</strong></td>
+<td><a href="https://trueinterview.io/jobs/bae4e215-4359-4c87-9ec0-9add907dc129">Software Engineer I | Cloud</a></td>
+<td>Seattle, WA, 500 Seattle Corporate</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/extrahopnetworks/jobs/6119816004">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>OpenAI</strong></td>
+<td><a href="https://trueinterview.io/jobs/d42086c9-2bc1-4871-b4af-64f9047c0601">Data Scientist, Cloud Distribution &amp; Growth</a></td>
+<td>Seattle, WA<br/>San Francisco, Seattle<br/>San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/openai/b82699a2-5819-4276-a402-fd88f56f9246/application">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>GSK</strong></td>
+<td><a href="https://trueinterview.io/jobs/1e3f0cfc-31bc-47d3-8c2c-67cec221d803">AI/ML Engineer</a></td>
+<td>Seattle, WA<br/>San Francisco, CA</td>
+<td align="center"><a href="https://jobs.gsk.com/gb/en/job/450418">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>3Vi</strong></td>
+<td><a href="https://trueinterview.io/jobs/db67cad4-5fe7-4264-82f0-16b51cf6e6fe">Project Engineer (Electrical)</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484747763/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>KGS Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/13323284-9bb8-4feb-b6fa-e5a7f8355c10">Structural Engineer</a></td>
+<td>Bellevue, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484762154/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ExtraHop</strong></td>
+<td><a href="https://trueinterview.io/jobs/c6adbc32-deec-43ee-a060-a4781749116f">Software Engineer I | Cloud</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484747194/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Par Pacific Holdings, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/f68da4dc-9d9f-47f6-9d67-755655bfa8a2">Optimization Planning Engineer</a></td>
+<td>Tacoma, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484733707/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Akraya, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/ba2b0d1c-ac04-4d77-a12d-78b6cbb050e1">Software Dev Engineer II: 26-02821</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482116336/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/7bad8d72-4386-4e36-a21c-239a2a614d37">Embedded Software Engineer, Amazon Leo Satellite Broadband Terminals</a></td>
+<td>Redmond, WA<br/>Sunnyvale, CA<br/>San Diego, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484735234/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/09ebacbf-ecb4-4537-8bc3-ac9353940278">SDE-II, Supply Chain</a></td>
+<td>Bellevue, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484719827/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/b1c7a608-f255-4ab6-b446-fd42de5f5259">Application Security Engineer, ASSET</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484728376/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ashurst Perkins Coie</strong></td>
+<td><a href="https://trueinterview.io/jobs/e91036a7-da00-4077-91b4-19dcd955b76a">Service Desk Support Technician</a></td>
+<td>Seattle, WA<br/>Portland, OR<br/>Phoenix, AZ<br/>+1 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476523652/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>BCforward</strong></td>
+<td><a href="https://trueinterview.io/jobs/18fa2291-ae7a-4d61-9c51-2c29cf246578">Azure DevOps Engineer</a></td>
+<td>Redmond, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484706919/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Auger</strong></td>
+<td><a href="https://trueinterview.io/jobs/8b457fcd-1732-4003-ab18-812c62ff5af4">Software Development Engineer in Test</a></td>
+<td>Bellevue, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484722098/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/55b270cc-9c69-4764-80ac-9b26a36f2ac3">Software Development Engineer, Piezo</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476513286/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>T-Mobile</strong></td>
+<td><a href="https://trueinterview.io/jobs/32c3ef17-0352-46d2-a57e-e933c80c5260">Software Engineer- Billing Platform</a></td>
+<td>Bellevue, WA<br/>Atlanta, GA<br/>Overland Park, KS<br/>+1 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484703375/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/efa5958f-0a50-4052-bb5c-cc64c0ae85b3">Embedded Software Engineer - Broadband CPE</a></td>
+<td>Bellevue, WA<br/>Denver, CO<br/>Overland Park, KS</td>
+<td align="center"><a href="https://careers.t-mobile.com/embedded-software-engineer-broadband-cpe/job/A8C4C0B4771F37B0D2E280962F98F9BF">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>US Tech Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/f9d9c506-93e3-4671-a95b-16ca2ec46490">GenAI / Conversational AI Assistant Designer &amp; Content Strategist - #26-27364</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484104488/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Addison Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/5587cee5-a7ce-4806-b0c2-2a1c0b5cc14f">Database Administrator</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484102504/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/68f44aac-3e0f-402f-9c83-053ff1ee532d">Software Development Engineer, Platform Engineering and Services (AFT Labor Insights)</a></td>
+<td>Bellevue, WA<br/>Austin, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476355097/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>PACCAR</strong></td>
+<td><a href="https://trueinterview.io/jobs/b7f9ac26-91e9-4ecc-a169-715532084994">Electronic Architecture Engineer</a></td>
+<td>Bellevue, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467439217/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Robinhood</strong></td>
+<td><a href="https://trueinterview.io/jobs/310bd671-4237-4f88-8e45-f7d9a495115f">AI Operations Engineer</a></td>
+<td>Bellevue, WA<br/>New York, NY<br/>Menlo Park, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482536221/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>King County Sheriff's Office</strong></td>
+<td><a href="https://trueinterview.io/jobs/48035df9-6ca7-4a29-aa8d-90b756479f5b">TLT/SDA Data Technical Analyst (PPM I)</a></td>
+<td>Renton, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484488518/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/a64bb572-8673-4036-89a3-fe986a73d85e">System Dev Engineer - Power , Amazon Leo</a></td>
+<td>Redmond, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476501884/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Covetus</strong></td>
+<td><a href="https://trueinterview.io/jobs/4a5ae445-c434-48b2-b7fb-c49d7c452fcf">SAP Data Quality Analyst</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4481790060/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Annapurna Labs</strong></td>
+<td><a href="https://trueinterview.io/jobs/1285906e-ae3c-4109-886f-f63595a27456">Applied Scientist, Neuron ARG</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484487232/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>iSoftStone</strong></td>
+<td><a href="https://trueinterview.io/jobs/4a2c18d0-d199-4740-86a6-540f9e9356b9">IT Support Engineer</a></td>
+<td>Bellevue, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4356632296/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>HonorVet Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/a2e9e5c5-4e57-4d52-bb2c-cddb32095290">IT Technician</a></td>
+<td>Everett, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484490078/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/b9b14058-63df-4eed-b7d9-44d9fbcd76ec">Software Development Engineer, Inventory Genealogy</a></td>
+<td>Bellevue, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467401654/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon Web Services (AWS)</strong></td>
+<td><a href="https://trueinterview.io/jobs/96fd76e5-5678-4449-95af-cb0b78ddea11">Software Development Engineer, Amazon DynamoDB</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476714428/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/2c08bfcb-6327-418d-b25b-5083a956a772">Software Dev Engineer, AWS CX - Cloudscape</a></td>
+<td>Seattle, WA<br/>East Palo Alto, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467407590/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/b2480603-930c-4751-951e-2800ed18710a">System Development Engineer, Secure Endpoint Connectivity, CS Security</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467413522/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sophus IT Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/3437e782-e0a7-4ebf-afd8-1133bbc2a1de">Site Reliability Engineer</a></td>
+<td>Bellevue, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483878509/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Mott MacDonald</strong></td>
+<td><a href="https://trueinterview.io/jobs/c4aef99a-8c6f-42bf-8283-83a50e51da49">Graduate Rail Systems Engineer - 2027</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467420163/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Tata Consultancy Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/45dd6a75-fbe3-4c92-878b-1fe837f09ace">Azure Fabric Data Engineer</a></td>
+<td>Bellevue, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4457609522/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon Web Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/1562702e-e5ce-4036-807c-fdd6cc301844">Software Engineer, AWS Applied AI Solutions</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://www.amazon.jobs/jobs/10599517/software-engineer-aws-applied-ai-solutions?cmpid=DA_INAD200785B">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon.com</strong></td>
+<td><a href="https://trueinterview.io/jobs/e34bfafb-0cd8-401a-bf15-17ee46d31816">Application Security Engineer, ASSET</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://www.amazon.jobs/jobs/10591156/application-security-engineer-asset?cmpid=DA_INAD200785B">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/6bd5dfc2-5d69-401a-94dd-409d31d4450c">Salesforce Developer &amp; Administrator, Ads Services</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://www.amazon.jobs/jobs/10598403/salesforce-developer--administrator-ads-services?cmpid=DA_INAD200785B">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/528934a3-0bcd-4a2e-88ba-fc88767751a6">Software Development Engineer, Kinesis Data Streams</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://www.amazon.jobs/jobs/10597835/software-development-engineer-kinesis-data-streams?cmpid=DA_INAD200785B">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/d4f47796-adc7-445b-ab17-d6284138344a">Software Privacy Engineer, Trust Platform &amp; Automation, Devices &amp; Services Trust, Privacy, and Accessibility (TPA)</a></td>
+<td>Bellevue, WA</td>
+<td align="center"><a href="https://www.amazon.jobs/jobs/10592045/software-privacy-engineer-trust-platform--automation-devices--services-trust-privacy-and-accessibility-tpa?cmpid=DA_INAD200785B">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>AMD</strong></td>
+<td><a href="https://trueinterview.io/jobs/f4046ff6-e6b1-4b61-9f30-d18646ab0921">Software Development Engineer - AI Workload Optimization</a></td>
+<td>Bellevue, WA<br/>Austin, TX</td>
+<td align="center"><a href="https://careers.amd.com/jobs/94505/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>King County, WA</strong></td>
+<td><a href="https://trueinterview.io/jobs/e2575887-8d97-4a5b-ace2-848a55b7ec6b">Quality Assurance Engineer</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://www.governmentjobs.com/careers/kingcounty/jobs/5528922/quality-assurance-engineer">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Reliable Robotics Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/bc344db0-87aa-44e4-aff7-ef7cd6f29ba8">FPGA Design Engineer, Radar</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/reliable-robotics/ee57defe-9a6f-4518-8b9d-6d74cc787d5f">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/20408abf-c4ca-418b-b0d2-ba7699360362">Data Engineer I , WW Ops Finance S&amp;A</a></td>
+<td>Bellevue, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476106310/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Read AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/dd8ef96b-d63f-46af-a48a-89f811820048">Product Designer - Enterprise</a></td>
+<td>Seattle, WA<br/>Read AI - Seattle HQ</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/read-ai/1047b7e6-3f50-40eb-aae7-b5d6f7bb607b">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon Web Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/4c7686fd-02ad-4c27-af0e-6f1e05723797">Applied Scientist, AWS Identity Threat</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://www.amazon.jobs/jobs/10601001/applied-scientist-aws-identity-threat?cmpid=DA_INAD200785B">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/efe8c8a2-2614-46b1-9847-8430fb47a08c">Design Technologist, AWS Solutions Design</a></td>
+<td>Seattle, WA<br/>Sunnyvale, CA</td>
+<td align="center"><a href="https://www.amazon.jobs/jobs/10598336/design-technologist-aws-solutions-design?cmpid=DA_INAD200785B">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon.com</strong></td>
+<td><a href="https://trueinterview.io/jobs/7819db43-c16d-414b-9ca6-eccc1d7487a6">Hardware Development Engineer I, Relay Fleet &amp; Yard Devices</a></td>
+<td>Bellevue, WA</td>
+<td align="center"><a href="https://www.amazon.jobs/jobs/10591735/hardware-development-engineer-i-relay-fleet--yard-devices?cmpid=DA_INAD200785B">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/42435989-8ca9-452e-95eb-76e801d0a896">Hardware Development Engineer, Amazon Key</a></td>
+<td>Bellevue, WA<br/>Sunnyvale, CA</td>
+<td align="center"><a href="https://www.amazon.jobs/jobs/10592411/hardware-development-engineer-amazon-key?cmpid=DA_INAD200785B">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/45aa297d-d3ae-4770-a429-bcb67d3e950f">Software Development Engineer, Amazon Cloud Management Foundations</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://www.amazon.jobs/jobs/10591860/software-development-engineer-amazon-cloud-management-foundations?cmpid=DA_INAD200785B">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e51dfeb3-22e6-4142-9113-f13573ce0c2f">Software Development Engineer, Amazon Leo Live</a></td>
+<td>Redmond, WA</td>
+<td align="center"><a href="https://www.amazon.jobs/jobs/10591365/software-development-engineer-amazon-leo-live?cmpid=DA_INAD200785B">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/55855f6b-67a9-40c7-8091-b1ab8dff801a">Software Development Engineer, Amazon Leo Networking Software</a></td>
+<td>Redmond, WA</td>
+<td align="center"><a href="https://www.amazon.jobs/jobs/10590854/software-development-engineer-amazon-leo-networking-software-?cmpid=DA_INAD200785B">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
 </tbody>
 </table>
+
+<sub>Page 1 of 2 · [Page 2 →](seattle-2.md)</sub>
 
 [← Every filter](../README.md) · [Back to the full list](../../README.md)

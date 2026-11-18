@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,214 open roles.** 1,003 in the United States & Canada · 211 elsewhere in the world. Everything the employers put up this week.
+**1,209 open roles.** 1,000 in the United States & Canada · 209 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -1415,27 +1415,6 @@
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4455453920/">Apply</a></td>
 <td align="center">10 Nov 2026</td>
 </tr>
-<tr>
-<td><strong>Hylenr Technologies Private Limited</strong></td>
-<td><a href="https://trueinterview.io/jobs/0b474a07-72e5-471d-bdc1-a5640801b5ef">AI/ML engineer</a></td>
-<td>Detroit, MI</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4488320498/">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Shiro Technologies LLC</strong></td>
-<td><a href="https://trueinterview.io/jobs/e274eb1c-39f4-4b61-a829-bd889a45516b">AI/ML &amp; Generative AI Engineer</a></td>
-<td>Texas City, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487472648/">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Boom Supersonic</strong></td>
-<td><a href="https://trueinterview.io/jobs/1a9c93e1-0d48-4755-9afe-82e9870dfc82">Electrical or Embedded Controls Engineer (Early Career, Exceptional Talent)</a></td>
-<td>Englewood, CO</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4452245706/">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -2825,6 +2804,27 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/0d81ae9c-bf20-4bd7-8273-7147cc1025a2">Multimedia Engineer Graduate (Multimedia Platform) - 2027 Start (BS/MS)</a></td>
 <td>Sydney, New South Wales, Australia</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4439160074/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/4b5c9779-9b61-41a2-8651-a5362b822fc4">AI Agent Machine Learning Engineer Graduate (Global E-Commerce, Supply Chain and Logistics) - 2027 Start</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4447675702/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/0142e43a-4a75-4b67-9088-bb6babb3ec40">LLM &amp; Agent Algorithm Graduate (Search) - 2027 Start (PhD)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4447985888/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/80637fe8-dcf2-4552-bd8f-dc1de61f7181">Machine Learning Research Scientist Graduate (Business Integrity) - 2026 Start (PhD)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4284141412/">Apply</a></td>
 <td align="center">11 Nov 2026</td>
 </tr>
 </tbody>

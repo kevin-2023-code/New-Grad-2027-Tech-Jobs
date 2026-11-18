@@ -2,7 +2,7 @@
 
 # 🚗 Autonomy, automotive & mobility
 
-**103 open roles.** 90 in the United States & Canada · 13 elsewhere in the world. Self-driving, automotive, drones, eVTOL and transport technology.
+**156 open roles.** 126 in the United States & Canada · 30 elsewhere in the world. Self-driving, automotive, drones, eVTOL and transport technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -642,10 +642,262 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Tesla</strong></td>
+<td><a href="https://trueinterview.io/jobs/c74d3faf-c062-4f6f-916b-b2657b7bc5ea">Manufacturing Quality Engineer</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://www.tesla.com/careers/search/job/288090">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/a78e7402-e848-464a-9917-54a828236d25">Quality Engineer, LFP Cell Manufacturing</a></td>
 <td>Sparks, NV</td>
 <td align="center"><a href="https://www.tesla.com/careers/search/job/288059">Apply</a></td>
 <td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Zoox</strong></td>
+<td><a href="https://trueinterview.io/jobs/dc7afaf8-dc1d-4bf4-88f9-044497946aa1">Mechatronics Engineer - Closures</a></td>
+<td>Foster City, CA</td>
+<td align="center"><a href="https://jobs.lever.co/zoox/e6a4bbe1-20ab-4f1f-af07-f06fabedeabd/apply">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Tesla</strong></td>
+<td><a href="https://trueinterview.io/jobs/2de33104-4623-43e3-b280-b53998027bfd">Data Analyst, New Product Introduction, Energy</a></td>
+<td>Sparks, NV</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484784169/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Applied Intuition</strong></td>
+<td><a href="https://trueinterview.io/jobs/6817059d-7fa0-494f-9bae-ba72754f795e">UX Test Engineer - New Grad (2027)</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/applied/c222bb2f-893d-455b-8dd2-f585205632e4">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ford Motor Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/bfde40b1-8d24-44f2-b2f5-2a277fa57778">Product Development Engineer - Air Induction Systems Applications</a></td>
+<td>Dearborn, MI, United States</td>
+<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71621">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Wayve</strong></td>
+<td><a href="https://trueinterview.io/jobs/b19ecd3c-2d18-4f0e-85a5-a1c7c9fef1fe">Systems Engineer, Robotaxi</a></td>
+<td>Detroit, MI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474083869/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Applied Intuition</strong></td>
+<td><a href="https://trueinterview.io/jobs/bb8a38ea-daa3-4ab9-8fc5-c394b590fc44">Perception Engineer, Autonomy (Air Domain)</a></td>
+<td>Fort Walton Beach, FL</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/applied/7edcde77-bf0c-4ee3-a7cc-77f3a60f1036">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Skydio</strong></td>
+<td><a href="https://trueinterview.io/jobs/eee62c3e-bf0b-45b7-a132-bb319cffbf9d">Autonomy Engineer - Fixed Wing Planning &amp; Controls</a></td>
+<td>San Mateo, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4381145472/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/668e0967-d499-4a50-b263-fdfcbbfa03e0">Wireless Software Engineer</a></td>
+<td>San Mateo, California, United States</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/skydio/c0c38168-badc-4dd7-96ed-99deb22149fc">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Magna International</strong></td>
+<td><a href="https://trueinterview.io/jobs/040805f4-4fcb-4c53-bd80-8385d1c4a4c3">Gearbox and Mechatronics Engineering Student</a></td>
+<td>Troy, MI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476508353/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/5846bc96-ea48-456a-a5a4-a9abf9105a37">Process Engineer</a></td>
+<td>Bowling Green, KY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4448659232/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/81ace283-5052-4747-a12b-0c4bca255a46">Vehicle Verification Engineering Student</a></td>
+<td>Troy, MI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466550727/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Applied Intuition</strong></td>
+<td><a href="https://trueinterview.io/jobs/df64d165-58c9-4498-809b-aa30553b0d57">Build &amp; Release Engineer - New Grad (2027)</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/applied/9534b49a-9feb-4063-ac33-a9c4d94a1352">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/8d813b8d-bb73-49e9-b808-937b4966cd7e">OTA/Cloud Validation Engineer - New Grad (2027)</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/applied/e5ec6599-5ae4-4f0f-b0fd-cd6f4cad8d95">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/aba23fe5-f237-4270-b05a-edc3e7c549e8">Software Engineer - Calibration Platform</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/applied/ef03d63c-eb77-4a71-b299-de55f74ac94b">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Zoox</strong></td>
+<td><a href="https://trueinterview.io/jobs/22ae2735-ae44-4773-b8a1-e4359f83ceee">CAE Engineer - Safety occupant</a></td>
+<td>Foster City, CA</td>
+<td align="center"><a href="https://jobs.lever.co/zoox/5569d46e-0af8-4f07-93ea-b635c7403f7d">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/2a16af4f-bc28-4fe3-9e0c-e00eda3df424">Program Tooling &amp; Analytics Developer</a></td>
+<td>Foster City, CA</td>
+<td align="center"><a href="https://jobs.lever.co/zoox/7bf2a9b3-8aa5-4950-b8b8-14306ef1069f">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Tesla</strong></td>
+<td><a href="https://trueinterview.io/jobs/f950a248-7540-4038-8e80-34c9b9db6c51">Equipment Engineer, Subfab Systems, Terafab</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484427519/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e51e7ceb-4625-49f8-b51b-c4247fe8409c">Manufacturing Equipment Engineer, Energy (Night Shift)</a></td>
+<td>Buffalo, NY</td>
+<td align="center"><a href="https://www.tesla.com/careers/search/job/288137">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Reliable Robotics Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/bc344db0-87aa-44e4-aff7-ef7cd6f29ba8">FPGA Design Engineer, Radar</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/reliable-robotics/ee57defe-9a6f-4518-8b9d-6d74cc787d5f">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ford Motor Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/df92d972-4d63-4f1f-a0cd-724bee6658c4">Autonomous Mobility Solutions Engineer</a></td>
+<td>Redford, MI, United States</td>
+<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72724">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/2cb307a7-03dd-46e3-9de0-03412115d5ab">VME Manufacturing Engineer- Final Assembly</a></td>
+<td>Dearborn, MI, United States</td>
+<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72347">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Harbinger Motors Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/67510243-4913-426f-81fe-2feaee3737fa">Associate Design Engineer, LV Devices</a></td>
+<td>Garden Grove, CA, Garden Grove</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/harbingermotors/jobs/5275723007">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Tesla</strong></td>
+<td><a href="https://trueinterview.io/jobs/4ce275e2-9fc5-4e84-aca5-91daf3549953">Balance of Plant Performance Engineer, Industrial</a></td>
+<td>Palo Alto, CA</td>
+<td align="center"><a href="https://www.tesla.com/careers/search/job/287808">Apply</a></td>
+<td align="center">24 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Zoox</strong></td>
+<td><a href="https://trueinterview.io/jobs/53d43f4b-005d-4b53-9bf8-3bf94d72a827">Systems Test Engineer</a></td>
+<td>Foster City, CA</td>
+<td align="center"><a href="https://jobs.lever.co/zoox/cc60a930-5343-4e56-8e13-b7bce71e9945/apply">Apply</a></td>
+<td align="center">24 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Waabi</strong></td>
+<td><a href="https://trueinterview.io/jobs/919ecf9f-9704-4bf6-9767-9c429a781d47">Systems Engineer - Behavior Verification</a> 🌐</td>
+<td>Remote — United States, Canada</td>
+<td align="center"><a href="https://jobs.lever.co/waabi/5964c6a7-8232-4ee5-b20d-3309ccd67d6f">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ford Motor Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/acf04546-50b1-450e-a997-9e55e0220465">Process Specialist-Tooling Engineer</a></td>
+<td>Sterling Heights, MI, United States</td>
+<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72859">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/fd9a8f48-cd35-475e-b1b9-a3fa03da2802">Process Engineering Specialist (LAP)</a></td>
+<td>Louisville, KY, United States</td>
+<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71139">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f990b31a-c1db-4ead-a37a-98498e0ae9b0">Project Electrical Engineer</a></td>
+<td>Dearborn, MI, United States</td>
+<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70247">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/5fc29ffa-ffe9-474e-ab66-fb6a5d8570d5">Powertrain Manufacturing Engineer</a></td>
+<td>Dearborn, MI, United States</td>
+<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73117">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/bf8ea2dc-80e6-4b4e-a74c-516190eb277d">Engine Control System Engineer</a></td>
+<td>Dearborn, MI, United States</td>
+<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72782">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/ec169e9c-6ab6-4fc4-916d-8bbdc7f69709">Studio Design Engineer</a></td>
+<td>Long Beach, CA, United States</td>
+<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72694">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Skydio</strong></td>
+<td><a href="https://trueinterview.io/jobs/5ef062be-cd78-4e0f-a2d9-aacc0ec3e947">Product Design Engineer (Early Career)</a></td>
+<td>San Mateo, California, United States</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/skydio/ba62805c-ebe7-4b99-85af-f58c807b4dd1/application">Apply</a></td>
+<td align="center">16 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Waymo</strong></td>
+<td><a href="https://trueinterview.io/jobs/5ea4d436-a626-478b-a201-96fd9b917736">Field Safety Engineer</a></td>
+<td>Mountain View, CA, USA, Mountain View (US-MTV-EMF680), San Francisco</td>
+<td align="center"><a href="https://careers.withwaymo.com/jobs?gh_jid=8248373">Apply</a></td>
+<td align="center">15 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ford Motor Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/d5d244fc-d412-4635-ba80-25ce2c4f1bb3">BMS Embedded Software Development Engineer</a></td>
+<td>Dearborn, MI, United States</td>
+<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72570">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/7d606072-e3ad-4940-a84d-1281e49c0bae">Dimensional Engineer</a></td>
+<td>Kansas City, MO, United States</td>
+<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72506">Apply</a></td>
+<td align="center">12 Oct 2026</td>
 </tr>
 </tbody>
 </table>
@@ -749,6 +1001,125 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Valencia, Spain</td>
 <td align="center"><a href="https://www.tesla.com/careers/search/job/288249">Apply</a></td>
 <td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>42dot</strong></td>
+<td><a href="https://trueinterview.io/jobs/b975e4ac-8c34-4bb1-b719-ad1b234c9c0e">Test Automation Engineer (IVI System)</a></td>
+<td>Pangyo (Software Dream Center), South Korea</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/42dot/32a4e2ab-89b6-4a26-887f-698e0189b55f">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/b4e0b099-b290-47e3-9eef-e14647b35609">[집중채용] Media Framework Engineer</a></td>
+<td>Pangyo (Software Dream Center), South Korea</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/42dot/786b39ee-2ab6-45bf-b048-40ba86e71a65">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e12d451a-9b37-4e0f-8887-91338f80567d">SW Test Engineer (편의)</a></td>
+<td>Pangyo (Software Dream Center), South Korea</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/42dot/1cfd36d5-26ce-4928-be2a-712c125d6d71">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ford Motor Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/0e4bc63e-3c45-439c-af57-61bf4c27c396">Controls Engineer - Machining (T. Plant H/C)</a></td>
+<td>Chihuahua, CHIH, Mexico</td>
+<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73374">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/246099d2-3b4d-43e7-9c94-ddac18923ab6">Engineering Specialist - Process (T. Plant H/C)</a></td>
+<td>Chihuahua, CHIH, Mexico</td>
+<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73375">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>42dot</strong></td>
+<td><a href="https://trueinterview.io/jobs/950a5614-56a5-45b9-b360-5ded6680978e">[집중채용] System Test Engineer (System Verification)</a></td>
+<td>Pangyo (Software Dream Center), South Korea</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/42dot/403e89b4-fdf4-4168-a115-163706830174">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Woven By Toyota</strong></td>
+<td><a href="https://trueinterview.io/jobs/13c7836f-b47b-41f9-8d4f-48171dfcb0a1">ML Platform Engineer, AD/ADAS</a></td>
+<td>Tokyo</td>
+<td align="center"><a href="https://jobs.lever.co/woven-by-toyota/91b6634f-8266-4861-b6ca-573028b0f4a4">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>42dot</strong></td>
+<td><a href="https://trueinterview.io/jobs/28257d59-321b-4c5d-af9a-3ec8e927e187">[집중채용] Software Engineer (AD Framework)</a></td>
+<td>Pangyo (Software Dream Center), South Korea</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/42dot/e7cc48d8-398f-4106-b25b-635e81936721">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ford Motor Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/8aa22b95-27aa-4599-a296-32fcd1288218">IT Business Planner &amp; TPM</a></td>
+<td>Madrid, Spain</td>
+<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73127">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Woven By Toyota</strong></td>
+<td><a href="https://trueinterview.io/jobs/48e7ce3e-5f41-46eb-a5d3-f26886542f28">データサイエンティスト（ML・認識技術・データ基盤）</a></td>
+<td>—</td>
+<td align="center"><a href="https://jobs.lever.co/woven-by-toyota/61d37c69-6a4a-4fc7-8645-f73b911e03c4">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ford Motor Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/ea94ba45-88f1-4ecd-b008-96d246dcefcf">Hotline/Trainer/Field Engineer</a></td>
+<td>Szentendre, Kozep-Magyarorszag, Hungary</td>
+<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72757">Apply</a></td>
+<td align="center">15 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/c195011d-260e-44d5-8bdc-f42956bfcc6a">Manufacturing Data Scientist</a></td>
+<td>Dunton, Essex, United Kingdom</td>
+<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/68055">Apply</a></td>
+<td align="center">15 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>42dot</strong></td>
+<td><a href="https://trueinterview.io/jobs/b9337b87-ed18-47c8-a723-ed6499b722ae">SDV Vehicle Connect Software Engineer (C++ / Rust)</a></td>
+<td>Pangyo (Software Dream Center), South Korea</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/42dot/442d28d0-1c6a-40a1-8729-9e8db1ab14f9">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ford Motor Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/0189514b-2b1f-4280-9a16-e86995e535a3">EDS Low Voltage Industrialization Engineer</a></td>
+<td>Naucalpan de Juarez, MEX, Mexico</td>
+<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/67875">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>42dot</strong></td>
+<td><a href="https://trueinterview.io/jobs/05789ee3-2fea-419e-b745-5b15486c9520">Reinforcement Learning Engineer (Autonomous Driving)</a></td>
+<td>Pangyo (Software Dream Center), South Korea</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/42dot/97aa47ac-032b-4ac3-9f68-2f733eab34da">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/d8d375be-b8e8-47d1-b017-a195b35d3fb8">AI Agent Engineer (Autonomous Driving)</a></td>
+<td>Pangyo (Software Dream Center), South Korea</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/42dot/133bd359-f3b9-463d-870b-ae2e6ed9b3b1">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/34b8fcb0-585a-4d8a-971f-51b9d71d76d4">SLAM &amp; 3D Reconstruction Engineer (Autonomous Driving)</a></td>
+<td>Pangyo (Software Dream Center), South Korea</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/42dot/385596ca-22fc-4ee2-9083-5c52915f689a">Apply</a></td>
+<td align="center">13 Oct 2026</td>
 </tr>
 </tbody>
 </table>

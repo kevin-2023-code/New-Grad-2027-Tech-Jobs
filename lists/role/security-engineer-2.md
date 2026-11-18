@@ -2,11 +2,203 @@
 
 # Security Engineer
 
-**445 open roles.** 334 in the United States & Canada · 111 elsewhere in the world.
+**601 open roles.** 426 in the United States & Canada · 175 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
 <sub>[← Page 1](security-engineer.md) · Page 2 of 2</sub>
+
+## United States & Canada
+
+<table>
+<thead>
+<tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>IPT Associates</strong></td>
+<td><a href="https://trueinterview.io/jobs/1ce40da1-36d6-46b8-9f03-b3b58a3cfc5b">Information System Security Engineer (ISSE)</a></td>
+<td>Wright-Patterson AFB, OH</td>
+<td align="center"><a href="https://ipta.isolvedhire.com/jobs/1893343-368848.html">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Integrated Dermatology</strong></td>
+<td><a href="https://trueinterview.io/jobs/7470b91c-6dd6-4bc4-b631-106418b5d08d">Security Engineer</a></td>
+<td>Boca Raton, Florida, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/IntegratedDermatology/744000158127419-security-engineer">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Anavation</strong></td>
+<td><a href="https://trueinterview.io/jobs/6ac802ca-71d9-4bb0-b5fa-42e14d501e20">Cybersecurity Engineer (ISSO)</a></td>
+<td>San Antonio, TX</td>
+<td align="center"><a href="https://jobs.lever.co/anavationllc/abc2d32a-34c7-4d96-9d06-d29ae95d7458">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>COLSA</strong></td>
+<td><a href="https://trueinterview.io/jobs/8aeb61f8-4f0f-4f42-83d4-cc85f95e4a23">Cybersecurity Analyst IAM I - Basic</a></td>
+<td>Huntsville, AL</td>
+<td align="center"><a href="https://jobs.silkroad.com/Colsa/Careers/jobs/9846/">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Duck River Electric Membership Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/9f2523b2-a9ad-4c5b-a833-847a539ca628">IT Cybersecurity Specialist</a></td>
+<td>Shelbyville, TN</td>
+<td align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4619857/Duck-River-Electric-Membership-Corporation/IT-Cybersecurity-Specialist">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Intercontinental Exchange</strong></td>
+<td><a href="https://trueinterview.io/jobs/38bf00b2-80ad-4947-b18b-0441037c7226">Analyst, Cybersecurity DFIR</a></td>
+<td>Provo, UT</td>
+<td align="center"><a href="https://careers-ice.icims.com/jobs/14156/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Martello Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/6953ac9f-9e24-4a98-9347-568e22da3d7e">DevOps &amp; Security Engineer</a></td>
+<td>Kanata, Canada</td>
+<td align="center"><a href="https://martello.bamboohr.com/careers/211?postedDate=2026-10-27">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>RDR, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/1466d7d6-b774-4cda-a3e6-bd73b816a16b">Information Systems Security Engineer (ISSE)</a></td>
+<td>Chantilly, VA</td>
+<td align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4618352/RDR-Inc/Information-Systems-Security-Engineer-ISSE">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Xcel Energy</strong></td>
+<td><a href="https://trueinterview.io/jobs/24f110dc-1ec2-46ea-aa1b-14ba0e7c4aa5">Security Engineer - Application Security</a></td>
+<td>Denver, CO</td>
+<td align="center"><a href="https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/Security-Engineer---Application-Security_JR116921-2">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Constellation Technologies, Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/aaa1a124-ed62-493f-8823-86c1786d5bf3">Penetration Tester- FULLY CLEARED with POLYGRAPH REQUIRED</a></td>
+<td>Linthicum Heights, MD</td>
+<td align="center"><a href="https://jobs.lever.co/cti-md/c668fcbc-0cdc-43bd-905f-08864f16fefa">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon Web Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/d58b3db7-6ba5-4c31-a5be-9255f85ee7eb">Security Incident Response, Security Engineer, US Amazon Dedicated Cloud Security</a></td>
+<td>Herndon, VA</td>
+<td align="center"><a href="https://www.amazon.jobs/jobs/10594442/security-incident-response-security-engineer-us-amazon-dedicated-cloud-security?cmpid=DA_INAD200785B">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Lockheed Martin</strong></td>
+<td><a href="https://trueinterview.io/jobs/f287f8e4-a59a-4adf-a8f0-f56712bf6ae4">Information System Security Engineer (ISSE)</a></td>
+<td>Elkridge, MD</td>
+<td align="center"><a href="https://lockheedmartin.eightfold.ai/careers/job/996477571145?domain=lockheedmartin.com">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon.com</strong></td>
+<td><a href="https://trueinterview.io/jobs/bd745c27-b311-48c2-be4a-f942d34ff776">AI Security Engineer, US ADC Security</a></td>
+<td>Herndon, VA<br/>Arlington, VA</td>
+<td align="center"><a href="https://www.amazon.jobs/jobs/10599329/ai-security-engineer-us-adc-security?cmpid=DA_INAD200785B">Apply</a></td>
+<td align="center">25 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Oneleet</strong></td>
+<td><a href="https://trueinterview.io/jobs/1a0a70a1-76ce-4d8c-b6a9-b98f6db92991">Penetration Testing Coordinator</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/oneleet/61208670-918f-4b8e-b70a-6d86da715f48">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon.com</strong></td>
+<td><a href="https://trueinterview.io/jobs/58daa510-fb20-4024-964d-f3d4502c2fed">AWS Security Operations/Incident Response Engineer, US Amazon Dedicated Cloud Security</a></td>
+<td>Herndon, VA</td>
+<td align="center"><a href="https://www.amazon.jobs/jobs/10589826/aws-security-operationsincident-response-engineer-us-amazon-dedicated-cloud-security?cmpid=DA_INAD200785B">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/866a785a-4add-4f38-ab7d-cab6bf52b7fd">Network Security Engineer, ADC Security</a></td>
+<td>Herndon, VA</td>
+<td align="center"><a href="https://www.amazon.jobs/jobs/10598873/network-security-engineer-adc-security?cmpid=DA_INAD200785B">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>DOT Security</strong></td>
+<td><a href="https://trueinterview.io/jobs/9a8b0952-50c4-4d82-a617-c973569f1a7a">Cybersecurity Engineer</a></td>
+<td>Lake Forest, IL</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/dotsecurity/c3a83dcf-585b-4242-b460-5489a362fc7d">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/36e980e5-6cd2-497d-b64f-0d7bea13cbbd">AI Security Engineer - Red Team</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200690601-3337?board_id=JB001">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Traversal</strong></td>
+<td><a href="https://trueinterview.io/jobs/305b23ed-b3c9-4596-a98b-810e1bde3708">Security Engineer</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/traversal/eb92071c-71b2-4281-8d31-37cc0ecc457a">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Northrop Grumman</strong></td>
+<td><a href="https://trueinterview.io/jobs/8aa4f0d6-5e24-42d8-8ed8-5f5a36017c85">Classified Cybersecurity Analyst - TS/SCI</a></td>
+<td>Aurora, CO</td>
+<td align="center"><a href="https://jobs.northropgrumman.com/careers/job/1340074855284?code=JB-17946&amp;domain=ngc.com">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cisco</strong></td>
+<td><a href="https://trueinterview.io/jobs/306858f0-7c38-4fc6-97bb-64a8e093d4c4">Information Security Engineer II (Full-Time) – United States</a></td>
+<td>RTP, North Carolina, US, United States of America</td>
+<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Information-Security-Engineer-II--Full-Time----United-States_2028339">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Covista</strong></td>
+<td><a href="https://trueinterview.io/jobs/075b71f6-eb3e-4ca7-a1f9-54953a0919f1">Graduate IT Program - Information Technology, Cybersecurity and Data Science - Faculty</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Covista/744000156041935-graduate-it-program-information-technology-cybersecurity-and-data-science-faculty">Apply</a></td>
+<td align="center">16 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Base Power</strong></td>
+<td><a href="https://trueinterview.io/jobs/2fd1d694-4a11-4b72-b565-5a224b3c50b8">Product Security Engineer</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/base-power/095df108-3edd-44d5-818e-86283d98705f">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Computer World Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/e37c8e09-96eb-4ede-a4e2-cb26a1a5f5a9">Network Operations Center Technician I - Monitoring Cell (Sensor)</a></td>
+<td>Lackland AFB, TX</td>
+<td align="center"><a href="https://jobs.lever.co/cwsc/6650a135-2dba-447b-9890-1a78c59643fe/apply">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Agile Defense</strong></td>
+<td><a href="https://trueinterview.io/jobs/0b94d841-d948-4c7d-aec5-f75c4dba215b">Cyber Systems Administrator – Control Systems Cybersecurity</a></td>
+<td>Columbus, OH</td>
+<td align="center"><a href="https://jobs.lever.co/agile-defense/fc1b53be-7095-406b-b2ff-3313985bff86">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/404b3701-2ffc-48da-9967-a1448aa0ff61">Cybersecurity Engineer / RMF Specialist</a></td>
+<td>Columbus, OH</td>
+<td align="center"><a href="https://jobs.lever.co/agile-defense/fa2d1054-655b-416b-ad2a-4518902334e3">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
+</tbody>
+</table>
 
 ## Elsewhere in the world
 
@@ -17,6 +209,468 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Siemens</strong></td>
+<td><a href="https://trueinterview.io/jobs/a6fe131d-3704-48cb-8aa1-dd45097870b8">Werkstudent:in Smart Grids und Cybersecurity (f/m/d)</a></td>
+<td>Vienna, Vienna, Austria</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490695965/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Reaxiomatic</strong></td>
+<td><a href="https://trueinterview.io/jobs/cf877c5b-21ae-4488-9bf0-cad7da7ff101">IT &amp; Security Engineer</a></td>
+<td>San Diego Metropolitan Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490924858/">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>TikTok</strong></td>
+<td><a href="https://trueinterview.io/jobs/1ce8e561-3870-456a-946a-f77dd7759431">AI Security Analysis Engineer Graduate (TikTok Shop-Security) - 2027 Start</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4447996627/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f27f458a-1058-4e1b-a69d-909840e3a72b">Security Engineer, Risk Adversary and Intel Discovery - TikTok BRIC</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487672033/">Apply</a></td>
+<td align="center">8 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Siemens</strong></td>
+<td><a href="https://trueinterview.io/jobs/7110a3a1-3271-4ead-9a89-cfa5334dc2bf">Cybersecurity &amp; Network Infrastructure Engineer (m/f/d)</a></td>
+<td>Letohrad, Pardubice, Czechia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4434358938/">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Google</strong></td>
+<td><a href="https://trueinterview.io/jobs/c91c7514-c2a8-4c3c-aaf6-06e4339e9129">Security Engineer, Operational Technology, Google Cloud CISO</a></td>
+<td>Zurich, Zurich, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4479375159/">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Samsara</strong></td>
+<td><a href="https://trueinterview.io/jobs/d478cc85-365d-44a7-bc0d-d811c4092608">Security Operations Engineer</a> 🌐</td>
+<td>Remote — United Kingdom</td>
+<td align="center"><a href="https://www.samsara.com/company/careers/roles/8355097?gh_jid=8355097">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Qualcomm</strong></td>
+<td><a href="https://trueinterview.io/jobs/9694b916-a9ed-44ae-814c-622a46131511">Embedded Software Security Engineer - Cork, IRL</a></td>
+<td>Cork, County Cork, Ireland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487304460/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Mission Technologies, a division of HII</strong></td>
+<td><a href="https://trueinterview.io/jobs/faf54a78-9c87-4200-a578-876018a5ccbb">ISSO - Cybersecurity Engineer (Engineer Info Assurance 2) - 30188</a></td>
+<td>Greater Orlando</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4469632050/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/9cc50865-528a-4395-8903-d4d40c834f74">Application Security Engineer, AppSTAR</a></td>
+<td>London, England, United Kingdom</td>
+<td align="center"><a href="https://www.amazon.jobs/en/jobs/10598435/application-security-engineer-appstar">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Mistral</strong></td>
+<td><a href="https://trueinterview.io/jobs/a2d51cc8-d590-4638-8cb2-bc16b48db1f1">Platform Security Engineer: Secure AI Infra &amp; Pipelines</a></td>
+<td>Paris, Île-de-France, France</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486219103/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Sopra Steria</strong></td>
+<td><a href="https://trueinterview.io/jobs/40f3cdfc-5f2f-4362-88a8-f5d4e715b08d">Penetration Tester</a></td>
+<td>Katowice, Województwo Śląskie, Poland</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SopraSteria1/744000160144990-penetration-tester">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Egis Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/647c791f-ba73-4177-a639-eca8ddb7d38a">Cybersecurity Consultant</a></td>
+<td>London, England, United Kingdom</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/EgisGroup/744000160142614-cybersecurity-consultant">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/5f302fa1-d026-4777-b05d-49f05dc6ad16">Software Security Research Engineer - Browser Technologies</a></td>
+<td>Cheltenham, England, United Kingdom</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200693385">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/9ba36140-3e8c-4c41-8f83-fe85962aa403">Application Security Engineer, Amazon Application Security</a></td>
+<td>London, England, United Kingdom</td>
+<td align="center"><a href="https://www.amazon.jobs/en/jobs/10598436/application-security-engineer-amazon-application-security">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/7dddf694-6d8a-4897-9a4f-fe499ca8f0d7">Security Operations Engineer, AWS Security Cloud Response</a></td>
+<td>Dublin, Ireland</td>
+<td align="center"><a href="https://www.amazon.jobs/en/jobs/10598634/security-operations-engineer-aws-security-cloud-response">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Resilience Care</strong></td>
+<td><a href="https://trueinterview.io/jobs/c25d4f9e-f85a-43fa-a4ca-a26abedf28fc">Security Engineer</a> 🌐</td>
+<td>Remote — France</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/Resilience%20Care/030e36fe-16b4-483a-bd3d-a16d2dc678cf">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Bosch</strong></td>
+<td><a href="https://trueinterview.io/jobs/12268404-3a9a-45a1-9de9-47b8bcb138ab">[GS] Cybersecurity - Penetration Test Engineer</a></td>
+<td>Thành phố Hồ Chí Minh, Hồ Chí Minh, Vietnam</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000159774359--gs-cybersecurity-penetration-test-engineer">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon Web Services (AWS)</strong></td>
+<td><a href="https://trueinterview.io/jobs/1fe104cc-094b-401c-8c8a-fa90dced7fd2">Security Engineer, AWS Cloud Response</a></td>
+<td>Sydney, New South Wales, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4479235301/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>MediaTek</strong></td>
+<td><a href="https://trueinterview.io/jobs/c24f7bfc-346b-4800-bc1b-0d456694cd1c">Embedded System And Product Security Software Engineer</a></td>
+<td>Hsinchu County, Taiwan, Taiwan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4442025721/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>SIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/7d79211c-2e93-40c5-a54f-34d40f1c75c4">Consultant - Cybersecurity &amp; AI Trust</a></td>
+<td>Paris, Île-de-France, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Sia/744000159669349-consultant-cybersecurity-ai-trust-">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>AKTIOS</strong></td>
+<td><a href="https://trueinterview.io/jobs/cd811474-e547-4f61-8b93-6e6114480fb1">Security Engineer</a></td>
+<td>Viladecans, Spain</td>
+<td align="center"><a href="https://es.indeed.com/viewjob?jk=773f89125269316f">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ByteDance</strong></td>
+<td><a href="https://trueinterview.io/jobs/d33841b2-5ec5-4740-bc35-f4bb7b37e3e3">Data Security Engineer - GEC - Singapore</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486357327/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/ac14bc8c-525c-4216-8cbd-24dd264517a0">Application Security Engineer - GEC - Singapore</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486340667/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Mercari, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/3544a2aa-2901-420b-ac76-99bff6937b8f">Class of 2028 / New graduate Security Engineer - Mercari Group</a></td>
+<td>Minato, Tokyo, Japan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487218752/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Farmers Insurance Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/653cb80b-8123-40b0-be14-95b93400fe31">FBS (Mexico) - Application Security Engineer</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://jobs.farmersinsurance.com/job/MX-Remote-Work-FBS-%28Mexico%29-Application-Security-Engineer/1376594657/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Olix</strong></td>
+<td><a href="https://trueinterview.io/jobs/f86ef2b4-e54b-4ca4-94e4-5cbc3f7427ad">Security Engineer</a></td>
+<td>London, UK</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/olix/1dfe5f74-f411-49fd-94c9-672daad0952d">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Lenovo</strong></td>
+<td><a href="https://trueinterview.io/jobs/7a86cc60-f703-421f-a986-0a628057491a">Privacy and Cybersecurity Counsel - Europe and META</a></td>
+<td>Budapest, Budapest, Hungary</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4460051539/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/5c1bd428-084d-44d7-b5c2-56438990c28e">Security Engineer-Pentest, Continuous Security Testing</a></td>
+<td>East Lothian, Scotland, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4478556973/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Kyivstar</strong></td>
+<td><a href="https://trueinterview.io/jobs/a2343845-2fca-441c-88ac-187141446b2a">Security Engineer</a></td>
+<td>All</td>
+<td align="center"><a href="https://jobs.lever.co/kyivstar/cc2fc445-947b-49a1-89b0-999718b98ed3">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>The Marlin Alliance, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/7d805c54-a0b5-4a84-94e0-73d1caa80d18">Cybersecurity Specialist/Analyst</a></td>
+<td>San Diego Metropolitan Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486044760/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ByteDance</strong></td>
+<td><a href="https://trueinterview.io/jobs/748d6969-c2a6-4c52-af73-1900f3a9dd55">Application Security Engineer - Global Monetization - Singapore</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486032861/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/d79bb348-cb55-46c8-8c82-1cbece00a8b1">Data Security Engineer - Global Monetization - Singapore</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486052067/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>One Big Circle</strong></td>
+<td><a href="https://trueinterview.io/jobs/c4bd191b-3a98-40d9-b7ee-1c67711a3845">Product Security Engineer</a></td>
+<td>Bristol, United Kingdom</td>
+<td align="center"><a href="https://uk.indeed.com/viewjob?jk=af44b10e518dc6e7">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Bosch</strong></td>
+<td><a href="https://trueinterview.io/jobs/59367343-8e39-432c-9244-b7aa7801182d">Cybersecurity development</a></td>
+<td>bangalore, India</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000159347028-cybersecurity-development">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>SIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/a364ff89-085d-4eb8-8afe-66eeeaa83928">Cybersecurity Consultant - GRC</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Sia/744000159300794-cybersecurity-consultant-grc">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Siemens</strong></td>
+<td><a href="https://trueinterview.io/jobs/744a60bc-5b1d-4bbd-b3a4-f46238b51154">OT Cybersecurity &amp; Networking Engineer</a></td>
+<td>Milan, Lombardy, Italy</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486018755/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Coronic GmbH</strong></td>
+<td><a href="https://trueinterview.io/jobs/ab8354b2-6479-42fb-b7a0-074389744035">C++-Entwickler / Security Engineer in Vollzeit</a></td>
+<td>Kiel, Deutschland</td>
+<td align="center"><a href="https://www.coronic.de/jobs/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>IMDEA Networks Institute</strong></td>
+<td><a href="https://trueinterview.io/jobs/c566bab4-4023-46c9-a87c-9abef4db994f">Research Engineer &amp; Support: [Project Administrator] [Cybersecurity, Network Data Science and Distributed Systems and Networks research groups] [2026]</a></td>
+<td>Madrid, Spain</td>
+<td align="center"><a href="https://networks.imdea.org/job/research-engineer-support-project-administrator-cybersecurity-network-data-science-and-distributed-systems-and-networks-research-groups-2026/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>IMPACT Technology Recruiting</strong></td>
+<td><a href="https://trueinterview.io/jobs/fd29b3ca-396a-4eac-bdf2-13d2062bdc59">Information Security Engineer</a></td>
+<td>Greater Phoenix Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475711062/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Lockheed Martin</strong></td>
+<td><a href="https://trueinterview.io/jobs/7095b4e6-5196-4dfa-b59b-19d77459bae6">Information Security Engineer</a></td>
+<td>Ampthill, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474040525/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/5e36278b-609c-4d5d-b92f-ea0449ce1f7f">Cybersecurity Remediation Engineer - Japan</a></td>
+<td>Tokyo, Japan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4458838967/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Toogeza</strong></td>
+<td><a href="https://trueinterview.io/jobs/5fb9a42e-a11b-422f-8121-8fc0e937322c">Security Engineer / DevSecOps</a></td>
+<td>Eu, France<br/>Europe</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/toogeza/619eb18a-958b-44e9-a357-c5f708666265">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Allium</strong></td>
+<td><a href="https://trueinterview.io/jobs/e2ffadc8-a481-44f7-b343-111117e2705c">Security Engineer</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/allium/ffa65512-ae82-432f-a079-c17faf3ec636">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Okta Resourcing</strong></td>
+<td><a href="https://trueinterview.io/jobs/86cd77fb-fe5f-43f3-a9b5-3625942fcfd4">Cyber Security Engineer</a></td>
+<td>Scotland, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486146613/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>SGS</strong></td>
+<td><a href="https://trueinterview.io/jobs/f7c99d00-9d1d-4f5b-96ef-d01b66e19607">Cybersecurity Engineer</a></td>
+<td>Hanoi, Vietnam</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SGS/744000159091829-cybersecurity-engineer">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>CrowdStrike</strong></td>
+<td><a href="https://trueinterview.io/jobs/20099780-fe8f-434e-b122-707f4f1d7b7d">Security Engineer (Hybrid, Bucharest)</a></td>
+<td>Bucharest, Bucharest, Romania</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4448767473/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>NEC Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/940dada1-dac4-40d0-b26e-2468489d8758">Networks Cyber Security Engineer</a></td>
+<td>Hybrid, Hemel Hempstead, England, United Kingdom</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/NECSWS/744000159073119-networks-cyber-security-engineer">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>FORMAT Software Service GmbH</strong></td>
+<td><a href="https://trueinterview.io/jobs/a18f224a-da5c-44fd-acf4-70b3705e3732">Network &amp; Security Engineer (m/w/d)</a></td>
+<td>Dreieich, Deutschland</td>
+<td align="center"><a href="https://formatsoftware.onlyfy.jobs/candidate/widget/bn9umnfq/job/l3flu3p2lvowrtrlg00w4eixhi6ddns?display_length=10&amp;page=1&amp;sort=date&amp;sort_dir=DESC&amp;search=">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Saaki Argus And Averil Consulting</strong></td>
+<td><a href="https://trueinterview.io/jobs/be9db87e-58f7-4952-9488-ec351d2d31c7">Azure Network Security Engineer (Contract)</a> 🌐</td>
+<td>Remote — India</td>
+<td align="center"><a href="http://jobs.saaconsulting.co.in/apply/job/detail?jid=12396408&amp;sid=56827cf47f551cc15507e4cb&amp;cpid=1239&amp;uid=151237">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Shopee</strong></td>
+<td><a href="https://trueinterview.io/jobs/a83e0eac-d979-4c5c-b3d1-1c02733654f5">Cybersecurity Engineer (Web Security) - Information Security (2027 Graduate)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4446762748/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Siemens</strong></td>
+<td><a href="https://trueinterview.io/jobs/e726a8be-a28f-4ba4-83d8-ab2633339c16">Working Student Cybersecurity &amp; AI Automation 50-60%</a></td>
+<td>Zug, Zug, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484101664/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>TikTok</strong></td>
+<td><a href="https://trueinterview.io/jobs/cdba47d6-61fd-4ced-88f7-ea89cf2cf09a">Application/Product Security Engineer Graduate (Security BP) - 2027 Start</a></td>
+<td>Sydney, New South Wales, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467887159/">Apply</a></td>
+<td align="center">1 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Atlassian</strong></td>
+<td><a href="https://trueinterview.io/jobs/c2f0d7db-7619-4ce5-9308-4d246f88f1d0">Security Testing Engineer - Penetration Tester</a></td>
+<td>Bengaluru, Karnataka, India<br/>Greater Kolkata Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4459682816/">Apply</a></td>
+<td align="center">1 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Warwick Nub News</strong></td>
+<td><a href="https://trueinterview.io/jobs/7f7e822f-b894-427c-a633-cc2aeb48e5df">Cloud Security Engineer</a></td>
+<td>Warwick, United Kingdom</td>
+<td align="center"><a href="https://warwick.nub.news/jobs/it-communications/cloud-security-engineer-3204702305">Apply</a></td>
+<td align="center">1 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Kanton Aargau</strong></td>
+<td><a href="https://trueinterview.io/jobs/942c395a-9c27-4243-b0de-7cf2d816d0f6">IT Security Operations Engineer Windows und Linux Server 80-100%</a></td>
+<td>Unterentfelden, Switzerland</td>
+<td align="center"><a href="https://jobs.ag.ch/offene-stellen/it-security-operations-engineer-windows-und-linux-server/4e631720-fc8c-425c-b38e-af58253423b3">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Gurobi Optimization</strong></td>
+<td><a href="https://trueinterview.io/jobs/e1564a1a-7464-48d1-a88f-e77c5d18a89e">Security Engineer (EU Remote)</a> 🌐</td>
+<td>Remote — Spain, United Kingdom, Germany</td>
+<td align="center"><a href="https://jobs.lever.co/GurobiOptimization/c53dc331-6d26-42ab-9c39-d1097628767d">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Gazelle Global</strong></td>
+<td><a href="https://trueinterview.io/jobs/4210a4f4-d0c1-4c47-b339-bb356da259e9">Cybersecurity Awareness &amp; Culture Specialist - AI Threats</a></td>
+<td>Amsterdam, North Holland, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483430874/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Assurity Trusted Solutions Pte Ltd</strong></td>
+<td><a href="https://trueinterview.io/jobs/e866d79a-b54d-4291-a1de-49d2afe94e8e">Cybersecurity Operations Engineer (CIO Office)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485312788/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Mploy Associates</strong></td>
+<td><a href="https://trueinterview.io/jobs/dcc9302d-2c98-4fd1-b8fd-dd04568369e8">IT Security Engineer | Talent Program</a></td>
+<td>Utrecht, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4461650658/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Capco</strong></td>
+<td><a href="https://trueinterview.io/jobs/5936b9f6-7931-4a22-8e95-92fd6e34f762">Security Engineer</a></td>
+<td>Bengaluru, Karnataka, India<br/>India - Bengaluru</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/capco/jobs/8333547">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Comaen. Find your Spark.</strong></td>
+<td><a href="https://trueinterview.io/jobs/2a69cb15-4c63-46e2-bb52-fea7b2a47b7d">OT Cybersecurity Engineer</a></td>
+<td>Rotterdam, South Holland, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483429490/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>noris network AG</strong></td>
+<td><a href="https://trueinterview.io/jobs/f465ab35-0061-47fb-9ca5-9c33e0989136">IT Security Engineer PKI (m/w/d)</a></td>
+<td>Nuremberg, Bavaria, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4463350709/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Peoplebank</strong></td>
+<td><a href="https://trueinterview.io/jobs/1197b5fb-21a9-481b-b56c-982f285729db">Cybersecurity Engineer</a></td>
+<td>Brisbane, Queensland, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485283834/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>100ms</strong></td>
+<td><a href="https://trueinterview.io/jobs/146855e8-9696-4c44-8446-150437a0290d">Security Engineer - AI Agents (Healthcare)</a></td>
+<td>India</td>
+<td align="center"><a href="https://jobs.lever.co/100ms/ead8e630-35ce-4aae-b535-76a07a989bf1">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Planned Systems International</strong></td>
+<td><a href="https://trueinterview.io/jobs/bb7ba079-306e-4d74-9a7b-10ef82d22031">Cybersecurity SME</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://careers-plansys.icims.com/jobs/12156/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>YGO GmbH</strong></td>
 <td><a href="https://trueinterview.io/jobs/c0a3ae49-1030-4d16-b96c-0057946d5c04">Cloud Security Engineer</a> 🌐</td>
@@ -319,6 +973,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>AGL Energy</strong></td>
+<td><a href="https://trueinterview.io/jobs/095295fd-5c0e-4349-bced-612f7b29ee40">Cyber Security Engineer</a></td>
+<td>Melbourne, Australia</td>
+<td align="center"><a href="https://agl.wd3.myworkdayjobs.com/en-US/AGL_Recruitment/job/Melbourne-Corporate/Cyber-Security-Engineer_R-0023906">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Darktrace</strong></td>
+<td><a href="https://trueinterview.io/jobs/95eb9129-4c89-4b47-ba5b-9863cb55b5cc">Cybersecurity Solutions Engineer</a></td>
+<td>München, Deutschland</td>
+<td align="center"><a href="https://darktrace.wd3.myworkdayjobs.com/en-US/DarktaceExternal/job/Munich-Office/Cybersecurity-Solutions-Engineer_JR102583">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Places for People</strong></td>
 <td><a href="https://trueinterview.io/jobs/99317547-1c6c-49be-92eb-49dda2bf16bb">Network &amp; Security Engineer</a></td>
 <td>Northwich, United Kingdom</td>
@@ -331,6 +999,440 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Sydney, Australia<br/>Los Angeles</td>
 <td align="center"><a href="https://jobs.lever.co/q-ctrl/ad82ad19-2d01-4c4b-89a7-4c02ad1ec2ef">Apply</a></td>
 <td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>10 Xer</strong></td>
+<td><a href="https://trueinterview.io/jobs/e2d75316-d070-4da2-b48a-a26847a0d9d9">Information Security Engineer</a></td>
+<td>Dubai, UAE</td>
+<td align="center"><a href="https://app.taraki.co/home/jobs?view=information-security-engineer-10-xer-1">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Rolls-Royce Power Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/ad24acde-b6e8-4e40-a4e7-336207674d7c">Product Security Engineer (m/w/d) Cybersecurity Conformity &amp; Assurance</a></td>
+<td>Friedrichshafen, Baden-Württemberg, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484782060/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ATIX AG</strong></td>
+<td><a href="https://trueinterview.io/jobs/9b895fbe-5bd8-4fef-a005-5424d6750b0a">Security Engineer (m/w/d)</a></td>
+<td>Garching, Bavaria, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484766191/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Referment</strong></td>
+<td><a href="https://trueinterview.io/jobs/1af67e80-d594-45dc-bf98-a1728a3e57fc">Security Operations Engineer (9B0754D)</a></td>
+<td>Manchester, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484720580/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Hollander Techniek B.V.</strong></td>
+<td><a href="https://trueinterview.io/jobs/744dca6b-5378-4b80-b7ac-bac38a6f9356">Security Engineer</a></td>
+<td>Apeldoorn, Gelderland, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484742061/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>EY</strong></td>
+<td><a href="https://trueinterview.io/jobs/7a11bb03-82a0-49d4-9bb2-a650ce0cb17f">Cybersecurity Consultant, (VAPT Attack &amp; Penetration), Technology Consulting</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475406093/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>BAE Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/2b76d5e4-9c34-40a9-9088-79a3b5e62031">Technical Security Engineer</a></td>
+<td>London, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484722366/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>BAE Systems Digital Intelligence</strong></td>
+<td><a href="https://trueinterview.io/jobs/62287821-7175-4a0f-9f4f-1a01d7447faa">Technical Security Engineer</a></td>
+<td>London, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484719135/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Axians NL</strong></td>
+<td><a href="https://trueinterview.io/jobs/e74bb27d-8eba-4f38-93ba-e6aef37de090">Security Engineer</a></td>
+<td>Capelle aan den IJssel, South Holland, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4230959650/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Rijksoverheid</strong></td>
+<td><a href="https://trueinterview.io/jobs/c9bb811c-c931-4f96-aa14-ea04549c1ad7">De Rijksoverheid zoekt: Cybersecurity adviseur</a></td>
+<td>Delft, South Holland, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484700828/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Instaffo</strong></td>
+<td><a href="https://trueinterview.io/jobs/57f9bfd2-ccca-46b6-9678-9e091f48568f">Product Security Engineer (m/w/d)</a></td>
+<td>Herten, North Rhine-Westphalia, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484494481/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Buro Happold</strong></td>
+<td><a href="https://trueinterview.io/jobs/37dd00ff-d91a-41b6-9d3e-812a8cbe7e00">Security Systems Engineer</a></td>
+<td>Bengaluru, Karnataka, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475411739/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Hastings Direct</strong></td>
+<td><a href="https://trueinterview.io/jobs/9204f4a7-265b-408e-84c8-cc8b7b5355d5">Cloud Security Engineer</a></td>
+<td>Leicester, England, United Kingdom<br/>Bexhill, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467764231/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amadeus Fire</strong></td>
+<td><a href="https://trueinterview.io/jobs/7a674be4-0fb4-485f-899c-2ddc984ee57c">IAM Security Engineer (m/w/d)</a></td>
+<td>Hannover, Lower Saxony, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484704518/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Barrington James</strong></td>
+<td><a href="https://trueinterview.io/jobs/7d73fc95-1d46-4b49-8145-35847e9bd686">Microsoft 365 &amp; IT Security Engineer | Germany</a></td>
+<td>Rostock, Mecklenburg-West Pomerania, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484498757/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Siemens</strong></td>
+<td><a href="https://trueinterview.io/jobs/03919a2d-c176-498c-aefc-8f6ae34b678d">Security Commissioning Engineer</a></td>
+<td>Kilkenny, County Kilkenny, Ireland<br/>Louth, County Louth, Ireland<br/>Kildare, Ireland</td>
+<td align="center"><a href="https://jobs.siemens.com/externaljobs/JobDetail/527414">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>TEKsystems</strong></td>
+<td><a href="https://trueinterview.io/jobs/93999f13-8b9c-44c3-8750-709f967f287e">AI Security Engineer</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475194672/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Thales</strong></td>
+<td><a href="https://trueinterview.io/jobs/99bbc00c-8f12-4783-91f4-14d37f8facf0">Cybersecurity Consultant</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476542648/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Robert Walters</strong></td>
+<td><a href="https://trueinterview.io/jobs/ad8516ff-af5e-48a1-8ca6-21b31519911e">Infrastructure Security Operations Engineer (AVP) - Banking</a></td>
+<td>Dublin, County Dublin, Ireland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483869402/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Huxley</strong></td>
+<td><a href="https://trueinterview.io/jobs/b10c4878-443b-4a67-ad9b-a3da27c55d41">Freelance: Security Engineer</a></td>
+<td>Amsterdam, North Holland, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484488947/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Nederlandse Spoorwegen</strong></td>
+<td><a href="https://trueinterview.io/jobs/4eacaa04-3864-4969-a4e0-25a52ca9ac60">Cybersecurity AI Compliance specialist</a></td>
+<td>Utrecht, Utrecht, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484114060/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>San Diego State University</strong></td>
+<td><a href="https://trueinterview.io/jobs/0f7e4514-745e-40e2-82f3-d72a8b1078e3">Assistant Professor of Hardware Cybersecurity</a></td>
+<td>San Diego Metropolitan Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474998876/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ventula Consulting</strong></td>
+<td><a href="https://trueinterview.io/jobs/7fd94171-8769-494d-9672-caab034642a4">Security Engineer</a></td>
+<td>Amsterdam, North Holland, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483889767/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/e02e2379-3097-4ef4-99d3-2c09b0fb7e03">Security Engineer, SDO AppSec</a></td>
+<td>London, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467987629/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Microsoft</strong></td>
+<td><a href="https://trueinterview.io/jobs/836f6f73-adec-45bf-a0aa-51d03a97861f">Security Solution Engineer</a></td>
+<td>Finland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484486439/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>San Diego State University</strong></td>
+<td><a href="https://trueinterview.io/jobs/9adb4f86-5dc1-456a-ae17-3d8dec786cb7">Assistant Professor of Cybersecurity &amp; A.I.</a></td>
+<td>San Diego Metropolitan Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475107606/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>BAE Systems Digital Intelligence</strong></td>
+<td><a href="https://trueinterview.io/jobs/0683d033-053d-4684-980d-4ff8ff501415">Security Testing Consultant (Penetration Tester) Hybrid</a></td>
+<td>Frimley, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467210830/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>BAE Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/d9f7166f-7af6-45c0-9107-064a05ed14ea">Security Testing Consultant (Penetration Tester) Hybrid</a></td>
+<td>Frimley, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467245273/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>McCain Foods</strong></td>
+<td><a href="https://trueinterview.io/jobs/6626962b-11bc-4441-b4e5-c752d2dd193a">Security Engineer AI Cloud</a></td>
+<td>Gurgaon, Haryana, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4440030724/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CyberCX</strong></td>
+<td><a href="https://trueinterview.io/jobs/cc3fb069-82e9-4aa8-bb3d-1768c387b6c8">CyberCX - Network Security Engineer</a></td>
+<td>Sydney, New South Wales, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474992137/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Expleo Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/bf7e655a-e629-4281-bc97-7b05cf1b459a">Automotive Cybersecurity Engineer</a></td>
+<td>Derby, England, United Kingdom<br/>Preston, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467734240/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Wavestone</strong></td>
+<td><a href="https://trueinterview.io/jobs/8f9ee89c-e94a-46d5-b75c-e68ecfde554e">Management Consultant (IT Advisory/Cybersecurity)</a></td>
+<td>Singapore, Singapore<br/>Central, Hong Kong Island, Hong Kong</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Wavestone1/744000158286305-management-consultant-cybersecurity-and-digital-risk-">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Energiebauern GmbH</strong></td>
+<td><a href="https://trueinterview.io/jobs/d3e75c07-e674-48f3-8b42-763022896cc1">Microsoft 365 Security Engineer*</a></td>
+<td>Aichach, Bavaria, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482522115/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Rocken®</strong></td>
+<td><a href="https://trueinterview.io/jobs/9b0b19a3-295a-4759-8c1a-b0c70aca8f59">Azure Platform &amp; Security Engineer (m/w/d)</a></td>
+<td>Zurich, Zurich, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483881263/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/99d11c15-1ca7-4188-afc7-6ebc7569883a">Cyber Security &amp; SOC Operations Engineer (m/w/d)</a></td>
+<td>Cham, Zug, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483888106/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/5279b17e-263a-453f-b27a-d12ddfe47ec0">IT Security Engineer (m/w/d)</a></td>
+<td>Lucerne, Lucerne, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483879312/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/9d121370-2808-47eb-a79e-028762006527">Cloud Infrastructure Security Engineer</a></td>
+<td>London, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482515024/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Techne IT Consulting</strong></td>
+<td><a href="https://trueinterview.io/jobs/2d8530ee-1da8-438c-af09-0341d1be737a">Penetration Tester</a></td>
+<td>Canberra, Australian Capital Territory, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4480458495/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Siemens Energy</strong></td>
+<td><a href="https://trueinterview.io/jobs/c31ad569-fb38-4c84-9bca-cb6abd25dee4">Security Engineer</a></td>
+<td>Bucharest, Bucharest, Romania</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474990282/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ACTICO</strong></td>
+<td><a href="https://trueinterview.io/jobs/8a907e9e-9448-498c-a144-4beda57d3b49">Operational Security Engineer (w|m|d)</a></td>
+<td>Friedrichshafen, Deutschland</td>
+<td align="center"><a href="https://www.actico.com/de/jobs/operational-security-engineer-wmd/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Alithya</strong></td>
+<td><a href="https://trueinterview.io/jobs/5232a7e1-34f5-486f-b6c1-dc7ea7dc8bf1">Cybersecurity Consultant, Vulnerability Management</a></td>
+<td>Sophia Antipolis, France</td>
+<td align="center"><a href="https://effx.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/requisitions/preview/2322">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/2fec6f59-ff53-41c2-b4fa-83ba3b4c3b5d">Cybersecurity Engineer, WAF/WAAP</a></td>
+<td>Sophia Antipolis, France</td>
+<td align="center"><a href="https://effx.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/requisitions/preview/2321">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>HDI AG</strong></td>
+<td><a href="https://trueinterview.io/jobs/cc53264a-81f2-4727-a555-f279a06beb1a">Cloud Security Engineer</a></td>
+<td>Hannover, Deutschland</td>
+<td align="center"><a href="https://job.hdi.group/job/Hannover-Cloud-Security-Engineer/1435233233/?feedId=436633">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Inetum</strong></td>
+<td><a href="https://trueinterview.io/jobs/c74865b8-a488-468c-88fc-a9e6696307fa">Information Security Engineer</a></td>
+<td>Brussels, Brussels, Belgium</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Inetum2/744000158122500-information-security-engineer">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/acbf43df-ae2d-45ca-8c35-0789a6d2e8f7">Security Engineer</a></td>
+<td>Brussels, Brussels, Belgium</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Inetum2/744000158123128-security-engineer">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Citi</strong></td>
+<td><a href="https://trueinterview.io/jobs/3e29da5b-abbe-4bd5-a356-fe9570a090e8">Cyber Security Engineer</a></td>
+<td>Warszawa, Poland</td>
+<td align="center"><a href="https://jobs.citi.com/job/warsaw/cyber-security-engineer/287/102509205488">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Network Box Corp Ltd</strong></td>
+<td><a href="https://trueinterview.io/jobs/73376e44-1141-4292-8aed-f369e61a738f">IT Security Engineer (5 days shift work)</a></td>
+<td>Hong Kong</td>
+<td align="center"><a href="https://www.recruit.com.hk/job-detail/network-box-corp-ltd/it-security-engineer-5-days-shift-work/L060873718">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Orange</strong></td>
+<td><a href="https://trueinterview.io/jobs/6a2c3d5e-5e7a-48af-a362-55f9cca92e41">System Security Engineer (all genders)</a></td>
+<td>Morges, Switzerland</td>
+<td align="center"><a href="https://orange.phenompeople.net/fr/fr/job/TMT-8624042">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Siemens</strong></td>
+<td><a href="https://trueinterview.io/jobs/9befd1da-a9c8-4844-98ea-c42b05a8d3c2">Hardware Security Software Engineer</a></td>
+<td>Cambridge, United Kingdom</td>
+<td align="center"><a href="https://jobs.siemens.com/externaljobs/JobDetail/527244">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>シスコ</strong></td>
+<td><a href="https://trueinterview.io/jobs/c20cf6d5-0286-4f2a-965a-7403d8eac7e0">Security Consulting Engineer</a></td>
+<td>—</td>
+<td align="center"><a href="https://careers.cisco.com/global/en/job/2022443">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sarvam</strong></td>
+<td><a href="https://trueinterview.io/jobs/e4adb111-edd9-46d3-8457-8b2b0b016b35">SDE3, Infrastructure Security Engineer (DevSecOps)</a></td>
+<td>Bengaluru</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/sarvam/1dd07b8b-0c0b-422a-8ff4-c99bdc5add68">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Deutsche Glasfaser</strong></td>
+<td><a href="https://trueinterview.io/jobs/e0ae96f4-0b4d-4460-a8ff-4d6e034c60e2">Cyber Security Engineer (w/m/d)</a></td>
+<td>Düsseldorf, North Rhine-Westphalia, Germany</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/DeutscheGlasfaser/744000157059909-cyber-security-engineer-w-m-d-">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Canonical</strong></td>
+<td><a href="https://trueinterview.io/jobs/0b850b13-be84-4f11-92d0-9610f9803777">Ubuntu Security Engineer</a></td>
+<td>Worldwide<br/>Home based - Worldwide</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/canonical/jobs/2925180">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Proxima Fusion</strong></td>
+<td><a href="https://trueinterview.io/jobs/74284317-7dcc-4b13-ac3e-432290c8ed10">Security Engineer</a></td>
+<td>Munich</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/proxima-fusion/565b740e-c1ac-4a17-9bda-f9ffd2a2417d">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Inter Carreiras</strong></td>
+<td><a href="https://trueinterview.io/jobs/481622e6-35e5-4088-b5d0-86727a2d6c06">CYBER SECURITY ANALYST I | APPSEC</a></td>
+<td>Belo Horizonte, MG</td>
+<td align="center"><a href="https://boards.greenhouse.io/inter/jobs/4744451005?gh_jid=4744451005">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Fortinet</strong></td>
+<td><a href="https://trueinterview.io/jobs/e0452fc8-f62c-44d0-a91f-6d760e26aa23">Network Security Engineer</a></td>
+<td>Frankfurt, Hessen, Germany</td>
+<td align="center"><a href="https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/21947">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Shipmonk</strong></td>
+<td><a href="https://trueinterview.io/jobs/f164b8c4-2db5-41c6-be86-94090b067e70">Security Engineer</a></td>
+<td>Prague<br/>Czechia<br/>Poland</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/shipmonk/jobs/5004995101">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NCS</strong></td>
+<td><a href="https://trueinterview.io/jobs/8c7541cc-5f77-45bb-8259-8b2976665ec3">Network &amp; Security Engineer</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/NCS3/6000000001498209-network-security-engineer">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Inetum</strong></td>
+<td><a href="https://trueinterview.io/jobs/acedb8a3-a9fb-4118-9761-3b8a3420f859">Functional Administrator / Business Analyst - Cybersecurity</a></td>
+<td>Bucharest, Bucharest, Romania</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Inetum2/744000155529759-functional-administrator-business-analyst-cybersecurity">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NCS</strong></td>
+<td><a href="https://trueinterview.io/jobs/bd4e0b35-fa19-48c3-9b98-69263d0baf73">CyberSecurity Consultant (Day 1, SIEM, SOAR)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/NCS3/6000000001484448-cybersecurity-consultant-day-1-siem-soar-">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>R+V Versicherung AG</strong></td>
+<td><a href="https://trueinterview.io/jobs/acb0ff09-5eb9-4bc4-a7df-ef9b39b1dbac">Information Security Engineer (m/w/d)</a></td>
+<td>Wiesbaden, Hesse, Germany</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/RVAllgemeineVersicherungenAG/744000155169890-information-security-engineer-m-w-d-">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Legora Ab</strong></td>
+<td><a href="https://trueinterview.io/jobs/fa7e9e6f-696a-417c-9e5f-73a3ebf9a8f8">Security Engineer</a></td>
+<td>Stockholm HQ</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/legora/2aa01d17-a182-46d8-82bc-c28ea99124f9">Apply</a></td>
+<td align="center">12 Oct 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # 🚀 Aerospace & defence
 
-**93 open roles.** 72 in the United States & Canada · 21 elsewhere in the world. Space, satellites, defence primes and defence technology.
+**142 open roles.** 110 in the United States & Canada · 32 elsewhere in the world. Space, satellites, defence primes and defence technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -521,6 +521,272 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8904356002?gh_jid=8904356002">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
+<tr>
+<td><strong>Rocket Lab Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/ffe40dfb-8bbc-497d-b6cb-2334544550af">RF Engineer I</a></td>
+<td>Long Beach, CA, RL Headquarters</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/8008866003">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Two Six Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/866b02ff-497d-43af-a953-077017ee1a66">Cybersecurity Researcher</a></td>
+<td>Herndon, Virginia, TST Main Office (13865 Sunrise Valley Dr) - Herndon, VA<br/>Herndon, VA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/twosixtechnologies/jobs/6237744004">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Anduril Industries</strong></td>
+<td><a href="https://trueinterview.io/jobs/f23870b3-c849-4802-938a-c57fcdee3313">Data Analyst, Quality</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484746937/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/4c1302dc-946e-4878-a342-a98eda7a4edf">GNC Engineer, Space Emerging Talent</a></td>
+<td>Costa Mesa, California, United States</td>
+<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5236635007?gh_jid=5236635007">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/d29a40fa-5cae-4272-9e35-af22eee95bcc">2027 New Grad GNC Engineer</a></td>
+<td>Costa Mesa, California, United States</td>
+<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5270855007?gh_jid=5270855007">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SpaceX</strong></td>
+<td><a href="https://trueinterview.io/jobs/9c3efd02-bfae-4985-82ba-99a9ab268f7e">Launch Engineer, Control &amp; Flight Operations (Falcon Launch Ops)</a></td>
+<td>Vandenberg Village, CA<br/>Vandenberg, CA</td>
+<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8922688002?gh_jid=8922688002">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Hermeus</strong></td>
+<td><a href="https://trueinterview.io/jobs/52eec500-0905-4150-a6ab-b2e256db8d0d">Build Engineer</a></td>
+<td>Los Angeles, CA</td>
+<td align="center"><a href="https://jobs.lever.co/hermeus/9c529fa7-d59f-4ad3-9f38-bf9e35334a55">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Varda Space Industries</strong></td>
+<td><a href="https://trueinterview.io/jobs/665e1d70-49d2-4003-820e-96f11a291393">Vehicle Systems, Integration, &amp; Test Engineer</a></td>
+<td>El Segundo, California, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/vardaspace/jobs/6485429003">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SpaceX</strong></td>
+<td><a href="https://trueinterview.io/jobs/be67fce6-1783-4a91-8cc5-906337101a7b">Manufacturing Engineer, Solar Cell Factory (Starlink)</a></td>
+<td>Bastrop, TX</td>
+<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8919834002?gh_jid=8919834002">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>True Anomaly</strong></td>
+<td><a href="https://trueinterview.io/jobs/13c75f19-a18f-4146-ad83-eff201ef3b98">Software Engineer I, Data Science (New Grad)</a></td>
+<td>Long Beach, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4459043313/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/1166b68f-9004-4edc-9d89-2d30a5c518ec">Software Engineer I, Full Stack (New Grad)</a></td>
+<td>Denver, CO<br/>Long Beach, CA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/trueanomalyinc/jobs/5092069007">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Two Six Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/4588f2de-6668-4b2e-bf92-2c6444fc9577">Technical Operations Engineer</a></td>
+<td>Herndon, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4458258804/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Anduril Industries</strong></td>
+<td><a href="https://trueinterview.io/jobs/4c94fc7e-2db8-43b3-b920-b90f520c77af">Industrial Engineer, Maritime Manufacturing</a></td>
+<td>Santa Ana, California, United States</td>
+<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5259842007?gh_jid=5259842007">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/2b2b17d2-50f9-4b95-815e-d4083bb237e0">2027 Early Career Industrial Engineer</a></td>
+<td>Ashville, Ohio, United States</td>
+<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5236921007?gh_jid=5236921007">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e2fc2ba9-54f5-464b-9a8e-a2d5a3e05e45">Modeling and Simulation Engineer, Space</a></td>
+<td>Costa Mesa, California, United States</td>
+<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/4984579007?gh_jid=4984579007">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Neros Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/01d50671-0bbc-4ea5-aa8d-e24b05e1649c">Quality Engineer (Electronics)</a></td>
+<td>Torrance, California, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/nerostechnologies/jobs/5258875007">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Relativity Space</strong></td>
+<td><a href="https://trueinterview.io/jobs/1f86a4a3-3674-48fe-a81b-14f623f1fd77">GNC Performance Engineer I</a></td>
+<td>Long Beach, California, United States</td>
+<td align="center"><a href="https://boards.greenhouse.io/relativity/jobs/8920809002?gh_jid=8920809002">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>TrellisWare Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/131a6a7a-5c0e-42b5-984c-86f82dfb1bcc">Product Systems Engineer - Unmanned Aircraft Systems</a></td>
+<td>San Diego, California</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/trelliswaretechnologies/jobs/4435528009">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>True Anomaly</strong></td>
+<td><a href="https://trueinterview.io/jobs/3fbd6d41-0e5d-4954-9ff5-20f3a3bc03bb">Harness Engineer I</a></td>
+<td>Denver, CO<br/>Long Beach, CA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/trueanomalyinc/jobs/5272878007">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SpaceX</strong></td>
+<td><a href="https://trueinterview.io/jobs/188a13a9-513b-4dd1-a3e4-11c9c3e66900">Tooling Design Engineer, Solar Cell Factory (Starlink)</a></td>
+<td>Bastrop, TX</td>
+<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8919792002?gh_jid=8919792002">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/1021876e-e983-4247-9d8e-52f09399bc8b">Starship Engineer</a></td>
+<td>Starbase, TX</td>
+<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8919699002?gh_jid=8919699002">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Relativity Space</strong></td>
+<td><a href="https://trueinterview.io/jobs/30b70702-e122-40c5-ac4a-98a2e71bb9ef">Manufacturing Engineer I, Composites</a></td>
+<td>Long Beach, California, United States</td>
+<td align="center"><a href="https://boards.greenhouse.io/relativity/jobs/8917953002?gh_jid=8917953002">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Anduril Industries</strong></td>
+<td><a href="https://trueinterview.io/jobs/f634143f-5630-4198-b450-cc4ab823ada8">Optical Test &amp; Calibration Engineer, EagleEye</a></td>
+<td>Bellevue, Washington, United States</td>
+<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5275156007?gh_jid=5275156007">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>E-Space</strong></td>
+<td><a href="https://trueinterview.io/jobs/386fbb16-b898-4bac-a057-4377346dc1f1">Mechanical Test Engineer, Deployable Antenna Structures</a></td>
+<td>Arlington, TX</td>
+<td align="center"><a href="https://jobs.lever.co/espace/862b8754-0edf-4908-96d8-9ad625007f2d">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/5109593f-1726-4ff5-9b83-0b7813002ed0">Electrical Test Engineer, EGSE &amp; Instrumentation</a></td>
+<td>Arlington, TX</td>
+<td align="center"><a href="https://jobs.lever.co/espace/3c5917b0-999a-4ca3-b8af-5eb7a045b8fb">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CHAOS Industries</strong></td>
+<td><a href="https://trueinterview.io/jobs/6daa15a0-48ee-4766-8335-f85e9d4f8b2c">Modeling &amp; Simulation Engineer, Radars</a></td>
+<td>El Segundo, California, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/chaosindustries/jobs/5257592007">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>True Anomaly</strong></td>
+<td><a href="https://trueinterview.io/jobs/d160322e-5e6d-45cf-a0d6-a954b96313d2">Propulsion Engineer I (New Grad)</a></td>
+<td>Denver, CO</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/trueanomalyinc/jobs/5271680007">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Relativity Space</strong></td>
+<td><a href="https://trueinterview.io/jobs/4dd8268e-3ba4-4bc0-b95d-736f4639ebf2">Offshore Recovery Electrical Engineer I</a></td>
+<td>Cape Canaveral, Florida, United States</td>
+<td align="center"><a href="https://boards.greenhouse.io/relativity/jobs/8907614002?gh_jid=8907614002">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>True Anomaly</strong></td>
+<td><a href="https://trueinterview.io/jobs/8cbc285e-0232-455e-a857-509e59b87cfa">Software Engineer (II-III), Full Stack</a></td>
+<td>Denver, CO<br/>Long Beach, CA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/trueanomalyinc/jobs/5271710007">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Anduril Industries</strong></td>
+<td><a href="https://trueinterview.io/jobs/607b3bf1-f510-41fd-8d53-e84a001c6066">2027 Early Career Supply Chain Engineer</a></td>
+<td>Costa Mesa, California, United States</td>
+<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5268564007?gh_jid=5268564007">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Relativity Space</strong></td>
+<td><a href="https://trueinterview.io/jobs/8be7740f-353c-490f-a2f6-1bf2f7ef8a62">Manufacturing Engineer I  - Test &amp; Launch Structures</a></td>
+<td>Cape Canaveral, Florida, United States, Launch Complex 16 (FL)</td>
+<td align="center"><a href="https://boards.greenhouse.io/relativity/jobs/8891947002?gh_jid=8891947002">Apply</a></td>
+<td align="center">17 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SpaceX</strong></td>
+<td><a href="https://trueinterview.io/jobs/c097a4e9-13a7-4dd2-b7ea-73e061c74261">New Graduate Engineer, Infrastructure</a></td>
+<td>Starbase, TX<br/>Brownsville, TX, United States</td>
+<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8893406002?gh_jid=8893406002">Apply</a></td>
+<td align="center">16 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Mach Industries</strong></td>
+<td><a href="https://trueinterview.io/jobs/ef7243dc-bd17-4bd8-9a69-9931e570d36e">Mechanical Design Engineer, Ground Systems</a></td>
+<td>Huntington Beach, California, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/machindustries/jobs/4455036009">Apply</a></td>
+<td align="center">15 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/da5fd2de-a00f-465a-ad97-b71df9440f52">Mechanical Design Engineer, Avionics Integration</a></td>
+<td>Huntington Beach, California, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/machindustries/jobs/4455005009">Apply</a></td>
+<td align="center">15 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/38810bee-52f6-46d7-a091-847147f25f4e">Mechanical Design Engineer, Structures</a></td>
+<td>Huntington Beach, California, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/machindustries/jobs/4454978009">Apply</a></td>
+<td align="center">15 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Anduril Industries</strong></td>
+<td><a href="https://trueinterview.io/jobs/cad8c576-b66c-4dde-ae12-1f39e89993a7">Mechanical Launch Integration Engineer, Space</a></td>
+<td>Costa Mesa, California, United States</td>
+<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5236381007?gh_jid=5236381007">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/99445755-3c6d-4a8b-b18b-108210d899f1">Production Mechanical Engineer, Space</a></td>
+<td>Costa Mesa, California, United States</td>
+<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5136367007?gh_jid=5136367007">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/0cfe8416-6ec5-456b-899c-5ee4148684e7">Integration and Test Engineer, Electrical</a></td>
+<td>Costa Mesa, California, United States</td>
+<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5235374007?gh_jid=5235374007">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -679,6 +945,83 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>London, England, United Kingdom</td>
 <td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5255914007?gh_jid=5255914007">Apply</a></td>
 <td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>The Exploration Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/e3dabb97-ba26-4972-a2d9-60fc6de61441">Software Engineer – Mission Control Software</a></td>
+<td>Munich, Bavaria, Germany<br/>Munich, Germany</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/the-exploration-company/ea754862-55ec-4677-bd8c-fdc3e9e9b3ea">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Helsing</strong></td>
+<td><a href="https://trueinterview.io/jobs/fb1b8e21-01c3-45bc-875b-730c2e5ba4f3">Camera Engineer</a></td>
+<td>Munich, Bavaria, Germany<br/>Berlin, Berlin, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4445539475/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/11d079e8-7be2-45f5-91f7-3256c2bd249d">Hardware Engineer - Physical Products</a></td>
+<td>London, England, United Kingdom<br/>Oxford</td>
+<td align="center"><a href="https://helsing.ai/jobs/4856801101?gh_jid=4856801101">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e97ba176-75da-4ed2-8dfd-c1e2f7dca84b">Multimodal Sensing and Fusion Engineer</a></td>
+<td>London, England, United Kingdom<br/>Berlin<br/>Munich</td>
+<td align="center"><a href="https://helsing.ai/jobs/4938743101?gh_jid=4938743101">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/7f566975-898e-4741-82f2-8aa17d2dd0a0">Production Engineer - Software Integration</a></td>
+<td>Munich, Bavaria, Germany</td>
+<td align="center"><a href="https://helsing.ai/jobs/4788891101?gh_jid=4788891101">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Isar Aerospace Se</strong></td>
+<td><a href="https://trueinterview.io/jobs/a7815712-4ae3-4456-87e9-e7b10778e6d8">Propulsion Test Design Engineer (m/f/d)</a></td>
+<td>Kiruna, Norrbotten, Sweden</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5017349101">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e35288de-3853-4f1c-89c0-060a2552cdf1">Propulsion Test Operations Engineer (m/f/d)</a></td>
+<td>Kiruna, Norrbotten, Sweden</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5016367101">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CHAOS Industries</strong></td>
+<td><a href="https://trueinterview.io/jobs/81ebe476-5006-44e2-b16d-d8b541fc1f31">Forward Deployed Engineer - Software</a></td>
+<td>London, England, United Kingdom</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/chaosindustries/jobs/5253700007">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Isar Aerospace Se</strong></td>
+<td><a href="https://trueinterview.io/jobs/3a56244d-8a0b-4bc3-8187-ca5f5cca3703">Fluid Systems Engineer, Propulsion (m/f/d)</a></td>
+<td>Parsdorf, Bavaria, Germany</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5012604101">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Anduril Industries</strong></td>
+<td><a href="https://trueinterview.io/jobs/b7a57aea-059c-486b-ac7d-1f3300b77487">2027 Early Career Test &amp; Quality Engineer</a></td>
+<td>Dublin, Dublin, Ireland</td>
+<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5266291007?gh_jid=5266291007">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>The Exploration Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/8311b3bd-5a34-4d44-b026-a6990d800675">Avionics System Engineer (Flight Computer System)</a></td>
+<td>Munich, Germany</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/the-exploration-company/fc241b43-5ad5-49c7-b26d-f0ca7c15ffa0">Apply</a></td>
+<td align="center">20 Oct 2026</td>
 </tr>
 </tbody>
 </table>

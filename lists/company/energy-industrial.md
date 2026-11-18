@@ -2,7 +2,7 @@
 
 # ⚡ Energy, climate & industrial
 
-**12 open roles.** 10 in the United States & Canada · 2 elsewhere in the world. Energy, climate technology, utilities, manufacturing and industrials.
+**20 open roles.** 17 in the United States & Canada · 3 elsewhere in the world. Energy, climate technology, utilities, manufacturing and industrials.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -87,6 +87,55 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://jobs.ashbyhq.com/t1energy/50d8f39c-62f4-440f-8467-193655157017">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
+<tr>
+<td><strong>Re:Build Manufacturing</strong></td>
+<td><a href="https://trueinterview.io/jobs/21980753-2555-4c53-b63a-2231dd360bba">Quality Systems &amp; Process Improvement Engineer</a></td>
+<td>New Kensington, PA</td>
+<td align="center"><a href="https://100hires.com/j/NrykFKK">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Valar Atomics</strong></td>
+<td><a href="https://trueinterview.io/jobs/dfad7b25-6f43-464a-9026-8ec0a5a67be7">Electrical Engineer – LV Power Distribution</a></td>
+<td>Orangeville, Utah, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/valaratomics/jobs/4458439009">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Oldcastle Buildingenvelope</strong></td>
+<td><a href="https://trueinterview.io/jobs/ea878a14-b350-476b-8eea-d5ed723a987c">Manufacturing Engineer Technician</a></td>
+<td>Terrell, TX</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/oldcastlebuildingenvelope/jobs/4465380009">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Re:build Manufacturing</strong></td>
+<td><a href="https://trueinterview.io/jobs/5c30d0b3-ae92-4d0e-b577-35c98f7bf3aa">Controls Engineer</a></td>
+<td>Rochester, NY</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/rebuildmanufacturing/jobs/4743404005">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Kairos Power</strong></td>
+<td><a href="https://trueinterview.io/jobs/1df2fbde-05e8-4916-bfa9-1644e031be64">Applications Integration Engineer</a></td>
+<td>Oak Ridge, TN</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/kairospower/jobs/6206174004">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Re:build Manufacturing</strong></td>
+<td><a href="https://trueinterview.io/jobs/8b88465c-7595-449e-82d4-0192ed0a3882">Advanced Manufacturing Engineer</a></td>
+<td>Kalamazoo, MI</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/rebuildmanufacturing/jobs/4743326005">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Redwood Materials</strong></td>
+<td><a href="https://trueinterview.io/jobs/d11db5d8-14ef-4f70-987b-61a1c765e380">Supplier Industrialization Engineer, Mechanical Components</a></td>
+<td>San Francisco, California, United States</td>
+<td align="center"><a href="https://boards.greenhouse.io/redwoodmaterials/jobs/6219628004?gh_jid=6219628004">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -112,6 +161,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Bad Schwartau, Deutschland</td>
 <td align="center"><a href="https://wir-sind-voltus.de/2026/09/17/e-commerce-data-engineer-m-w-d/">Apply</a></td>
 <td align="center">1 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Protolabs</strong></td>
+<td><a href="https://trueinterview.io/jobs/be5713a2-eb58-49a2-b854-a3499ceb911a">Manufacturing Engineer</a></td>
+<td>Telford, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4446310500/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
 </tr>
 </tbody>
 </table>

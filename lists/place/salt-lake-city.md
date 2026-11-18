@@ -2,7 +2,7 @@
 
 # 🏜️ Salt Lake City & Utah
 
-**39 open roles.**
+**60 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -289,6 +289,153 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Salt Lake City, UT</td>
 <td align="center"><a href="https://wgu.wd5.myworkdayjobs.com/en-US/External/job/Salt-Lake-City-UT/Instructional-Designer_JR-026476">Apply</a></td>
 <td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Paramify</strong></td>
+<td><a href="https://trueinterview.io/jobs/691a2544-ef31-4d2c-a9b3-54f988c4da67">Security Engineer</a></td>
+<td>Lehi, UT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4465060422/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>HEICO</strong></td>
+<td><a href="https://trueinterview.io/jobs/38a654f8-2a02-4052-9290-5fae10260a4e">Electrical Engineer</a></td>
+<td>Provo, UT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484761325/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Red Cat Holdings</strong></td>
+<td><a href="https://trueinterview.io/jobs/a8902a68-188b-4d85-97b3-79085db9c20f">Applications Engineer</a></td>
+<td>Salt Lake City, UT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484726105/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Largeton Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/db019b5e-72da-4088-9bf3-072e4752f083">Java Full Stack Developer</a></td>
+<td>Salt Lake City, UT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484498464/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ICE</strong></td>
+<td><a href="https://trueinterview.io/jobs/9062d4fe-3db7-45fd-8bc9-9cf1fff6d11d">Engineer, Cybersecurity</a></td>
+<td>Provo, UT<br/>Jacksonville, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476520178/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>KPMG US</strong></td>
+<td><a href="https://trueinterview.io/jobs/beba8cfd-887b-44de-b775-ed82e59f60ff">Temporary System Administrator Shift Work (Disaster Recovery)</a></td>
+<td>Salt Lake City, UT<br/>Atlanta, GA<br/>Denver, CO<br/>+58 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484107318/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Angel</strong></td>
+<td><a href="https://trueinterview.io/jobs/5345b1d3-b395-4391-b220-8fe71647a55a">UX Researcher</a></td>
+<td>Provo, UT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482542277/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Deseret Book Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/2228f1ae-3f7b-4d5e-a898-35742b8325ed">Full Stack Engineer</a></td>
+<td>Salt Lake City, UT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483892335/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CHG Healthcare</strong></td>
+<td><a href="https://trueinterview.io/jobs/6753b9b8-a479-4978-bb59-f6643d9e192d">AI Product Engineer</a></td>
+<td>Salt Lake City, UT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482175413/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>RAPSYS TECHNOLOGIES PTE LTD</strong></td>
+<td><a href="https://trueinterview.io/jobs/180ad67c-a0a7-43de-982a-e67bd371ba44">Calypso Developer</a></td>
+<td>Salt Lake City, UT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483887416/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>The Haskell Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/59ad51dd-1ff3-4959-ac6e-d79335aacbab">Entry-Level Civil Engineer - Site Design</a></td>
+<td>Salt Lake City, UT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4465249747/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Strong &amp; Hanni</strong></td>
+<td><a href="https://trueinterview.io/jobs/e9ff6ae9-0d20-4838-bf66-a62ef03a232e">IT Systems Administrator</a></td>
+<td>Salt Lake City, UT</td>
+<td align="center"><a href="https://strongandhanni.isolvedhire.com/jobs/1893840-628336.html">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Adobe</strong></td>
+<td><a href="https://trueinterview.io/jobs/6eaecded-772d-48e4-95ea-8e7dc853cf30">Forward Deployed Engineer</a></td>
+<td>Lehi, UT</td>
+<td align="center"><a href="https://careers.adobe.com/us/en/job/ADOBUSR173252EXTERNALENUS/Forward-Deployed-Engineer">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>HDR</strong></td>
+<td><a href="https://trueinterview.io/jobs/88e65c70-e6f0-49fe-ae5a-5187532985da">Telecommunications/Low Voltage Designer 1</a></td>
+<td>Salt Lake City, UT</td>
+<td align="center"><a href="https://hdr.taleo.net/careersection/ex/jobdetail.ftl?job=197479&amp;tz=GMT-05%3A00&amp;tzname=America%2FChicago">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Western Governors University</strong></td>
+<td><a href="https://trueinterview.io/jobs/e0280c5c-a25f-4bf5-8eff-1cc12f545f25">Data Engineer</a></td>
+<td>Salt Lake City, UT</td>
+<td align="center"><a href="https://wgu.wd5.myworkdayjobs.com/en-US/External/job/Salt-Lake-City-UT/Data-Engineer_JR-026442">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Intercontinental Exchange</strong></td>
+<td><a href="https://trueinterview.io/jobs/38bf00b2-80ad-4947-b18b-0441037c7226">Analyst, Cybersecurity DFIR</a></td>
+<td>Provo, UT</td>
+<td align="center"><a href="https://careers-ice.icims.com/jobs/14156/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>US Department of Labor</strong></td>
+<td><a href="https://trueinterview.io/jobs/cd9875b8-4863-44aa-85f7-10e151c2bdfe">Supervisory General Engineer</a></td>
+<td>Sandy, UT</td>
+<td align="center"><a href="https://www.usajobs.gov/job/890238900">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>BD</strong></td>
+<td><a href="https://trueinterview.io/jobs/bdd8e1f9-8e70-4f5c-9609-cc2a347e29d4">Quality Engineer 1, EU MDR</a></td>
+<td>Salt Lake City, UT</td>
+<td align="center"><a href="https://jobs.bd.com/en/job/salt-lake-city/quality-engineer-1-eu-mdr/159/102478743312">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Texas Instruments</strong></td>
+<td><a href="https://trueinterview.io/jobs/2a92c1de-f5b9-4070-acc1-b5c9f7e500ca">Mfg Product Engineer - Lehi, UT</a></td>
+<td>Lehi, UT, United States</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25019362">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Pointclickcare</strong></td>
+<td><a href="https://trueinterview.io/jobs/dd96ca4b-9695-4d1e-8c2a-7f7989a36bf6">Intermediate Site Reliability Engineer (SRE)</a></td>
+<td>Salt Lake City, UT</td>
+<td align="center"><a href="https://jobs.lever.co/pointclickcare/37553fe8-a0c4-41db-b0d4-4ad0ca7941af">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Lilt- Lega Italiana per la Lotta contro i Tumori</strong></td>
+<td><a href="https://trueinterview.io/jobs/c36c4cc1-49c9-4e7d-8508-91c8cb407d3f">Customer Support Engineer</a></td>
+<td>Salt Lake City, UT<br/>Seattle, WA<br/>Denver, CO<br/>+2 more</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/lilt-corporate/d4401b79-ddc8-4e03-906f-f83a028f17dd">Apply</a></td>
+<td align="center">15 Oct 2026</td>
 </tr>
 </tbody>
 </table>

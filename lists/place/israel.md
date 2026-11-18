@@ -2,7 +2,7 @@
 
 # 🇮🇱 Tel Aviv & Israel
 
-**9 open roles.**
+**13 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -81,6 +81,34 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Haifa, Haifa District, Israel<br/>Tel Aviv, Tel-Aviv District, Israel</td>
 <td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/140302021944058566">Apply</a></td>
 <td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SAP</strong></td>
+<td><a href="https://trueinterview.io/jobs/274ec04e-82ca-4b5b-ba86-c030c5ef942f">Student Software Engineer – Cloud, Big Data, Billing &amp; AI</a></td>
+<td>Raanana, Center District, Israel</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476596020/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Taboola</strong></td>
+<td><a href="https://trueinterview.io/jobs/5a891131-ce31-4f34-89ca-97273d4f7ff4">Bid Ops Optimization Engineer (Maternity Leave Cover)</a></td>
+<td>Tel Aviv, Israel</td>
+<td align="center"><a href="https://www.taboola.com/careers/job/8264354?gh_jid=8264354">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Google</strong></td>
+<td><a href="https://trueinterview.io/jobs/c7e515cd-a3f3-4c8d-bbff-899009c56bb0">Software Engineer lll, Cloud Machine Learning Compute Services</a></td>
+<td>Tel Aviv, Tel-Aviv District, Israel</td>
+<td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/113828324567851718">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/e4b8d21c-c81c-41c7-95c2-79f1f6a629b9">Machine Learning Ph.D Student - Agentic AI</a></td>
+<td>Herzliya, Tel-Aviv District, Israel</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200691529">Apply</a></td>
+<td align="center">28 Oct 2026</td>
 </tr>
 </tbody>
 </table>

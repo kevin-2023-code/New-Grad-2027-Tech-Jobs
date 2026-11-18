@@ -2,7 +2,7 @@
 
 # 🏰 Warsaw, Kraków & Central Europe
 
-**89 open roles.** 1 in the United States & Canada · 88 elsewhere in the world.
+**154 open roles.** 1 in the United States & Canada · 153 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -651,6 +651,461 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Warszawa, Poland</td>
 <td align="center"><a href="https://sorigo.recruitify.ai/job/c9169411-29b5-4d68-b1b1-6c5da23c5355">Apply</a></td>
 <td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Emerson</strong></td>
+<td><a href="https://trueinterview.io/jobs/95ae95cf-7b4f-4de1-a2d0-dd3fdba07bc0">Graduate Engineer</a></td>
+<td>Warsaw, Mazovia Province, Poland</td>
+<td align="center"><a href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011055">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SAP</strong></td>
+<td><a href="https://trueinterview.io/jobs/3c29020c-293e-4858-b1f6-54d25aabeb8c">Platform Engineer for SAP Business AI Platform - Unified Customer Landscape</a></td>
+<td>Sofia, Sofia City, Bulgaria</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4448288275/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Wise</strong></td>
+<td><a href="https://trueinterview.io/jobs/b88a0a5d-f1ad-4062-919e-0f420c996970">Technical Support Engineer (Enterprise)</a></td>
+<td>Tallinn, Harjumaa, Estonia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4448284270/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>LG Electronics</strong></td>
+<td><a href="https://trueinterview.io/jobs/4690de31-7f52-4e0a-9e6e-1252c88cb429">Eco Solutions Product Management Trainee</a></td>
+<td>Budapest, Budapest, Hungary</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475424740/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/95dd91ba-c60d-413e-a321-350f05d49e2f">Home Solutions Product Management Trainee</a></td>
+<td>Budapest, Budapest, Hungary</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474986871/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Flix</strong></td>
+<td><a href="https://trueinterview.io/jobs/787d3712-cfc9-437e-b193-fd1653ef21db">DevOps / Cloud Infrastructure Engineer</a></td>
+<td>Warsaw</td>
+<td align="center"><a href="https://flix.careers/job/8432987002?gh_jid=8432987002">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Expedia Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/9c29854e-9823-440b-b265-d54b9edb0348">Site Reliability Engineer</a></td>
+<td>Prague, Czechia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474982863/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Siemens Energy</strong></td>
+<td><a href="https://trueinterview.io/jobs/c31ad569-fb38-4c84-9bca-cb6abd25dee4">Security Engineer</a></td>
+<td>Bucharest, Bucharest, Romania</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474990282/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ALIOR BANK</strong></td>
+<td><a href="https://trueinterview.io/jobs/b5cff622-799d-4532-bd3e-b682f0072f30">Devops Platform Engineer (Kubernetes) (K/M)</a></td>
+<td>Kraków, Poland</td>
+<td align="center"><a href="https://www.aliorbank.pl/dodatkowe-informacje/kariera/aktualne-oferty-pracy/oferta/3596304-6.html">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Diverse Consulting Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/53e31ee7-3551-41f5-bd4e-86f82e000b4e">Data Engineer</a></td>
+<td>Warszawa, Poland</td>
+<td align="center"><a href="https://dcg.pl/data-engineer,7119,pl">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Flix SE</strong></td>
+<td><a href="https://trueinterview.io/jobs/251fa6db-1492-4b04-8255-341d6f013743">DevOps / Cloud Infrastructure Engineer</a></td>
+<td>Warszawa, Poland</td>
+<td align="center"><a href="https://flix.careers/job/?jobid=8432987002">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Kuehne+Nagel</strong></td>
+<td><a href="https://trueinterview.io/jobs/2143cdec-8f78-432b-a99e-37d11acdbfbd">Full Stack Software Engineer</a></td>
+<td>Wrocław, Poland</td>
+<td align="center"><a href="https://jobs.kuehne-nagel.com/global/en/job/19697">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Scalo</strong></td>
+<td><a href="https://trueinterview.io/jobs/00cec2df-e8af-4832-aa44-bdc704065d2b">Data Engineer</a></td>
+<td>Warszawa, Poland</td>
+<td align="center"><a href="https://scalo.traffit.com/public/an/901f04f7bfa1b14c0a7d564a6099374b706d537a76773d3d">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/87175972-527c-4899-adbc-9ca2479f8d58">DevSecOps Engineer</a></td>
+<td>Warszawa, Poland</td>
+<td align="center"><a href="https://scalo.traffit.com/public/an/a8719906519825491aa11749ee7052c74e30554475413d3d">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/4105f965-2fc6-4b50-838b-167a3e6fab82">Product Owner (BPM/Process Automation)</a></td>
+<td>Warszawa, Poland</td>
+<td align="center"><a href="https://scalo.traffit.com/public/an/6c75e23b92a615afe3397aa061b63f54444f2b6831673d3d">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Emag</strong></td>
+<td><a href="https://trueinterview.io/jobs/9da0a13d-bc5a-4133-8f3c-a06a74e37175">Data Engineer (Data RND Team)</a> 🌐</td>
+<td>Remote<br/>Bucharest, Bucharest, Romania</td>
+<td align="center"><a href="https://teams.emag.ro/jobs/?gh_jid=5017387101">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ubisoft</strong></td>
+<td><a href="https://trueinterview.io/jobs/44f575d7-cf21-4ddf-85ad-284323c751ab">Technical Level Designer</a></td>
+<td>Sofia, Sofia City Province, Bulgaria</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Ubisoft2/744000158059069-technical-level-designer">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Bosch</strong></td>
+<td><a href="https://trueinterview.io/jobs/d54b76f8-3e1e-47f6-99a1-6a4fb0f3ee9d">Working Student UI/UX Design for Connected Services</a></td>
+<td>Cluj-Napoca, Cluj, Romania</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000157985180-working-student-ui-ux-design-for-connected-services">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ALIOR BANK</strong></td>
+<td><a href="https://trueinterview.io/jobs/0f4ac380-48d2-4572-a110-47bba10f4b79">Cloud Engineer (K/M)</a></td>
+<td>Kraków, Poland</td>
+<td align="center"><a href="https://www.aliorbank.pl/dodatkowe-informacje/kariera/aktualne-oferty-pracy/oferta/3595500-6.html">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/7b343dcb-dc5d-4a36-a7fc-c8cb3a1eca15">DevOps Engineer (K/M)</a></td>
+<td>Warszawa, Poland</td>
+<td align="center"><a href="https://www.aliorbank.pl/dodatkowe-informacje/kariera/aktualne-oferty-pracy/oferta/3595375-7.html">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Allegro</strong></td>
+<td><a href="https://trueinterview.io/jobs/ce4163db-e6cd-43f4-887b-223acfffc3eb">Software Engineer 1 (Java/Kotlin)</a></td>
+<td>Poznań, Poland</td>
+<td align="center"><a href="https://careers.allegro.eu/job-invite/4209?locale=en_US">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Baxter</strong></td>
+<td><a href="https://trueinterview.io/jobs/65c547d8-cb5c-49ac-8e59-1795217b6563">Global Pharmacovigilance Data Analyst</a></td>
+<td>Warszawa, Poland</td>
+<td align="center"><a href="https://jobs.baxter.com/en/job/warsaw/global-pharmacovigilance-data-analyst/152/102499174144">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Citi</strong></td>
+<td><a href="https://trueinterview.io/jobs/3e29da5b-abbe-4bd5-a356-fe9570a090e8">Cyber Security Engineer</a></td>
+<td>Warszawa, Poland</td>
+<td align="center"><a href="https://jobs.citi.com/job/warsaw/cyber-security-engineer/287/102509205488">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Bosch</strong></td>
+<td><a href="https://trueinterview.io/jobs/3e78850d-6d82-4c5c-bfac-fa08bd8dbc84">UX/UI tervező gyakornok</a></td>
+<td>Budapest, Hungary</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000157741581-ux-ui-tervezo-gyakornok">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Dbeaver</strong></td>
+<td><a href="https://trueinterview.io/jobs/8fac0a84-0363-4164-ba77-bae3de83da1b">DevSecOps Engineer</a></td>
+<td>Budapest, Hungary<br/>Belgrade, Serbia</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/dbeaver/jobs/5462583008">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Inetum</strong></td>
+<td><a href="https://trueinterview.io/jobs/42c943d6-5de3-46dc-874f-37c77d70a63c">AI Engineer / 1</a></td>
+<td>Warsaw, Masovian Voivodeship, Poland</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Inetum2/744000157517030-ai-engineer-1">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/d2daa62e-3dea-4132-be8b-af82e022af69">Fullstack Software Engineer (Java, React, Typescript) / 1</a></td>
+<td>Warsaw, Masovian Voivodeship, Poland</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Inetum2/744000157519359-fullstack-software-engineer-java-react-typescript-1-">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Bosch</strong></td>
+<td><a href="https://trueinterview.io/jobs/59567662-02f6-4216-af24-5c7e52792126">Cloud DevOps Engineer (API &amp; Front-End Integration) F/M</a></td>
+<td>Warszawa, Województwo mazowieckie, Poland</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000157445049-cloud-devops-engineer-api-front-end-integration-f-m">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Pure Storage</strong></td>
+<td><a href="https://trueinterview.io/jobs/b234ca3d-a73f-4a27-8b30-fc0a960b3f80">DevOps Engineer</a></td>
+<td>Prague, Czech Republic</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/purestorage/jobs/8179659">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/7aee898b-e8ea-46cc-ba34-15bc0fea68d9">Golang Engineer, 1touch</a></td>
+<td>Prague, Czech Republic</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/purestorage/jobs/8245915">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Experian</strong></td>
+<td><a href="https://trueinterview.io/jobs/ddd0efaf-336a-4eb5-b9ba-06d728844d16">Cloud Site Reliability Engineer</a></td>
+<td>Sofia, Bulgaria</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Experian/744000157405899-cloud-site-reliability-engineer">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>PLAYTECH</strong></td>
+<td><a href="https://trueinterview.io/jobs/d806c8fb-5f20-4618-a06f-3b5465ffcdf2">Poker Data Analyst</a></td>
+<td>Sofia, Bulgaria</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Playtech/744000157145739-poker-data-analyst">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Inetum</strong></td>
+<td><a href="https://trueinterview.io/jobs/686a90a4-f31d-4430-abd5-a7d6beac335c">C++ Software Engineer | Q</a></td>
+<td>Warsaw, Masovian Voivodeship, Poland</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Inetum2/744000157144808-c-software-engineer-q">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Nord Security</strong></td>
+<td><a href="https://trueinterview.io/jobs/e1c02860-a57d-477a-a58f-6793193834a9">iOS Engineer | Mid | NordVPN Apps Team</a></td>
+<td>Vilnius<br/>Kaunas<br/>Poland</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/nord-security/0f6bbde0-ccc8-46af-ab02-ce59f6772fad">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>PLAYTECH</strong></td>
+<td><a href="https://trueinterview.io/jobs/07b79a8e-c29c-4ff0-b381-eec82c487714">AI Engineer</a></td>
+<td>Tartu /Tallinn, Estonia</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Playtech/744000156783249-ai-engineer">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Axon</strong></td>
+<td><a href="https://trueinterview.io/jobs/527ce9f0-14bc-4ac8-a4c6-c52c1907a1fe">Technical Support Representative</a></td>
+<td>Bucharest, Bucharest, Romania<br/>Australia</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/axon/jobs/8034280003">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ubisoft</strong></td>
+<td><a href="https://trueinterview.io/jobs/434ffa60-5025-4a33-9c26-8f1ad08e2e81">.Net Full-Stack Developer</a></td>
+<td>Bucharest, Bucharest, Romania</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Ubisoft2/744000156722629--net-full-stack-developer">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Skelar</strong></td>
+<td><a href="https://trueinterview.io/jobs/24890213-8ff1-4576-aea2-66a889854010">Middle Creative Designer</a> 🌐</td>
+<td>Remote — Poland<br/>Warsaw</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/SKELAR/fe15c246-30ab-4c63-a1ba-c563cce40e11">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Inetum</strong></td>
+<td><a href="https://trueinterview.io/jobs/0ff1d031-1fbd-48d2-9502-438a674bf147">Mainframe Production Engineer</a></td>
+<td>Bucharest, Bucharest, Romania</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Inetum2/744000156584601-mainframe-production-engineer">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e1210a44-ddab-4efd-aa9d-94ddcb00316d">Mobile Developer - iOS</a></td>
+<td>Bucharest, Bucharest, Romania</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Inetum2/744000156591407-mobile-developer-ios">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sportradar</strong></td>
+<td><a href="https://trueinterview.io/jobs/56960a60-ec90-428f-9995-fcba4279338b">Fullstack Developer (FTC)</a></td>
+<td>Warsaw, Poland</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Sportradar/744000156559989-fullstack-developer-ftc-">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Gameloft</strong></td>
+<td><a href="https://trueinterview.io/jobs/17969d22-10fc-4990-aa2f-a2dbe6dd293b">Video Editor &amp; Motion Designer</a></td>
+<td>Bucharest, Bucharest, Romania</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Gameloft/744000156541495-video-editor-motion-designer">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Wise</strong></td>
+<td><a href="https://trueinterview.io/jobs/a27c0237-e779-4d48-abb6-945aeb701d17">Fullstack Engineer - Scam Prevention</a></td>
+<td>Budapest, Hungary</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Wise/744000156541999-fullstack-engineer-scam-prevention">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Capco</strong></td>
+<td><a href="https://trueinterview.io/jobs/1e6074b2-b8ca-49d7-9c29-bd9a30a5cfba">Back-End Engineer - Java (Payments)</a></td>
+<td>Poland - Warsaw</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/capco/jobs/8302963">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>PLAYTECH</strong></td>
+<td><a href="https://trueinterview.io/jobs/09e73106-34f1-4b29-9898-85028b816dd0">Business Intelligence Analyst and Developer</a></td>
+<td>Sofia, Bulgaria</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Playtech/744000156520479-business-intelligence-analyst-and-developer">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Flix</strong></td>
+<td><a href="https://trueinterview.io/jobs/4c378521-bcc5-46d4-849b-b7410501ab88">ERP Integration Engineer</a></td>
+<td>Warsaw</td>
+<td align="center"><a href="https://flix.careers/job/8894719002?gh_jid=8894719002">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Bosch</strong></td>
+<td><a href="https://trueinterview.io/jobs/024188b9-87ba-499c-9c19-ecc6b0f3afa5">Business &amp; Data Analyst (f/m)</a></td>
+<td>Warszawa, Województwo mazowieckie, Poland</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000156491225-business-data-analyst-f-m-">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Flix</strong></td>
+<td><a href="https://trueinterview.io/jobs/122db310-eef3-41be-a4bd-4e8a975acfbf">Software Engineer</a></td>
+<td>Warsaw</td>
+<td align="center"><a href="https://flix.careers/job/8870347002?gh_jid=8870347002">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Bosch</strong></td>
+<td><a href="https://trueinterview.io/jobs/b6cd125e-df19-47b4-aa0e-170a7d2897f9">Working Student in Manufacturing Engineering Support</a></td>
+<td>Cluj, Jucu, Romania</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000156335389-working-student-in-manufacturing-engineering-support">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>PLAYTECH</strong></td>
+<td><a href="https://trueinterview.io/jobs/00127573-df9a-479b-ad31-f16256d34f5d">Risk and Payments Data Analyst</a></td>
+<td>Sofia, Bulgaria</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Playtech/744000156316769-risk-and-payments-data-analyst">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Shipmonk</strong></td>
+<td><a href="https://trueinterview.io/jobs/f164b8c4-2db5-41c6-be86-94090b067e70">Security Engineer</a></td>
+<td>Prague<br/>Czechia<br/>Poland</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/shipmonk/jobs/5004995101">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Skelar</strong></td>
+<td><a href="https://trueinterview.io/jobs/444cf579-0e01-4a60-bf3b-fe558d58f226">Full-stack Marketing Designer</a> 🌐</td>
+<td>Remote — Poland<br/>Warsaw</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/SKELAR/097f08ad-4d39-4f63-8308-7c73b9b45a5e">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ubisoft</strong></td>
+<td><a href="https://trueinterview.io/jobs/8f737b9a-1061-45e5-8de6-3fc797a4f09d">AI Engineer</a></td>
+<td>Bucharest, Bucharest, Romania</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Ubisoft2/744000156277044-ai-engineer">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Riverty</strong></td>
+<td><a href="https://trueinterview.io/jobs/33dfee0b-1857-4861-9537-b6e8f8745c8a">Android Developer</a></td>
+<td>Poznań, Poland</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000155991205-android-developer">Apply</a></td>
+<td align="center">16 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ICEYE</strong></td>
+<td><a href="https://trueinterview.io/jobs/cb87ba70-fa85-4e27-936d-65ef5822c476">System Engineer</a></td>
+<td>Warsaw<br/>Espoo</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/iceye/d9af7181-4e5c-4ab4-9bca-db371c5c19d6">Apply</a></td>
+<td align="center">15 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>PLAYTECH</strong></td>
+<td><a href="https://trueinterview.io/jobs/0867fbf2-ebdd-4e94-985b-f16289dc30bc">Composer / Sound Designer</a></td>
+<td>Sofia, Bulgaria</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Playtech/744000155730880-composer-sound-designer">Apply</a></td>
+<td align="center">15 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Inetum</strong></td>
+<td><a href="https://trueinterview.io/jobs/acedb8a3-a9fb-4118-9761-3b8a3420f859">Functional Administrator / Business Analyst - Cybersecurity</a></td>
+<td>Bucharest, Bucharest, Romania</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Inetum2/744000155529759-functional-administrator-business-analyst-cybersecurity">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>E2b</strong></td>
+<td><a href="https://trueinterview.io/jobs/a060c1a8-61ce-4871-b7c6-e2d7217e0ff2">Support Engineer</a></td>
+<td>Prague, Czech Republic</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/e2b/4779efbf-7f43-4b8d-97df-85c9f3b1db99">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SIGMA SOFTWARE</strong></td>
+<td><a href="https://trueinterview.io/jobs/b60aed00-fc7d-4689-8021-283795a1099d">Forward AI Deployment Engineer (FDE)</a></td>
+<td>Kraków, Lesser Poland Voivodeship, Poland</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SigmaSoftware2/744000155228789-forward-ai-deployment-engineer-fde-">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Awin</strong></td>
+<td><a href="https://trueinterview.io/jobs/2fc2395d-aea7-414c-9bf4-6831e0b4a759">IT Support Specialist (f/m/d)</a></td>
+<td>Warsaw, Masovian Voivodeship, Poland</td>
+<td align="center"><a href="https://boards.greenhouse.io/awin/jobs/8030105003?gh_jid=8030105003">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Inetum</strong></td>
+<td><a href="https://trueinterview.io/jobs/bd0aa483-e394-4d2c-a571-f298e3f2b5a5">Kubernetes Platform Engineer / 1</a></td>
+<td>Warsaw, Masovian Voivodeship, Poland</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Inetum2/744000155001299-kubernetes-platform-engineer-1">Apply</a></td>
+<td align="center">12 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SAP IT Business Systeme</strong></td>
+<td><a href="https://trueinterview.io/jobs/03e5b5b9-351e-4f74-84cd-19d77082e3b1">Application AI Engineer</a></td>
+<td>Sofia, Bulgaria</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000154993348-application-ai-engineer-">Apply</a></td>
+<td align="center">12 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Fortinet</strong></td>
+<td><a href="https://trueinterview.io/jobs/2ddf2959-f806-4ea9-9630-227900d5b015">Systems Engineer - CZ</a></td>
+<td>Praha, Hlavní město Praha, Czech Republic</td>
+<td align="center"><a href="https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/24454">Apply</a></td>
+<td align="center">12 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e724f12d-245c-42c0-9648-9bd7f53ac369">Systems Engineer - OT - CZ</a></td>
+<td>Praha, Hlavní město Praha, Czech Republic</td>
+<td align="center"><a href="https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/24462">Apply</a></td>
+<td align="center">12 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e575e78a-f233-4a6d-9e11-1f7768e993b1">Systems Engineer - SASE - CZ</a></td>
+<td>Praha, Hlavní město Praha, Czech Republic</td>
+<td align="center"><a href="https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/24461">Apply</a></td>
+<td align="center">12 Oct 2026</td>
 </tr>
 </tbody>
 </table>

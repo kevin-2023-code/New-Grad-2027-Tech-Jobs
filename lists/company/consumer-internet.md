@@ -2,7 +2,7 @@
 
 # 📱 Consumer internet & media
 
-**136 open roles.** 75 in the United States & Canada · 61 elsewhere in the world. Social, search, streaming, messaging and consumer subscription apps.
+**155 open roles.** 84 in the United States & Canada · 71 elsewhere in the world. Social, search, streaming, messaging and consumer subscription apps.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -542,6 +542,69 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/79768134398943942">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
+<tr>
+<td><strong>LinkedIn</strong></td>
+<td><a href="https://trueinterview.io/jobs/62786e39-4434-4486-b761-f7da771bb292">Software Engineer - AI Platform</a></td>
+<td>Mountain View, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4465588693/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Google</strong></td>
+<td><a href="https://trueinterview.io/jobs/2fd13c25-4630-4d52-b0b9-cf08208ca643">Hardware Validation Engineer, Data Center Engineering Labs</a></td>
+<td>Mountain View, California, United States</td>
+<td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/79455804377178822">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Snap Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/869481e9-0466-4d11-b7eb-1a9b644dbeec">Custom IC Layout Engineer</a></td>
+<td>Vancouver, BC<br/>Vancouver, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476712410/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Google</strong></td>
+<td><a href="https://trueinterview.io/jobs/bc78d328-667b-483c-93bd-57fbcd6dba72">Software Engineer, Embedded Systems/Firmware, DNN Frameworks</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474970889/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/30817cae-9671-45d7-80a8-05782f4b86e8">Software Engineer, ML, Search Ads Creatives</a></td>
+<td>Mountain View, CA</td>
+<td align="center"><a href="https://careers.google.com/jobs/results/88064267458093766-software-engineer/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ByteDance</strong></td>
+<td><a href="https://trueinterview.io/jobs/212756ed-1325-44fd-8f49-3e1efa32496c">Research scientist - AI Infra - Global Frontier Tech Recruitment Program - 2027 Start (PhD)</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476354369/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Google</strong></td>
+<td><a href="https://trueinterview.io/jobs/bfe836dd-a76f-4440-97f4-67c463750135">Software Engineer, Agentic AI and LLMs, Google Ads</a></td>
+<td>Irvine, CA</td>
+<td align="center"><a href="https://careers.google.com/jobs/results/89777444013122246-software-engineer/">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Netflix</strong></td>
+<td><a href="https://trueinterview.io/jobs/370517cd-f140-4732-aa9f-43a29aa4ae48">Machine Learning Engineer (L4/L5) - Studio Media Algorithms</a></td>
+<td>Los Angeles, CA</td>
+<td align="center"><a href="https://explore.jobs.netflix.net/careers/job/790319186617">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/77a9fa0d-abce-4972-b267-ec6381f67262">Software Engineer, Machine Learning - AI Solutions and Automation + Support</a></td>
+<td>Menlo Park, CA</td>
+<td align="center"><a href="https://www.metacareers.com/jobs/1391474166393379/">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -980,6 +1043,76 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Ho Chi Minh City, Vietnam</td>
 <td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/112660162182816454">Apply</a></td>
 <td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/5eb0dfe2-3b04-4292-8bcc-0c7e4da72ca4">Research Engineer, Bioresilience, DeepMind</a></td>
+<td>London, England, United Kingdom</td>
+<td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/121101044229776070">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/fd98ef81-72bb-4783-86c3-8788f5444ddd">Cloud AI Engineer, Google Cloud (English)</a></td>
+<td>Yerevan, Armenia<br/>Ciudad de México, Mexico</td>
+<td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/129450735531107014">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/b1837a39-71c6-43f0-a203-54f0e35dc5c2">Software Engineer, Google Could</a></td>
+<td>Bengaluru, Karnataka, India<br/>India</td>
+<td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/122644758555173574">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/c7e515cd-a3f3-4c8d-bbff-899009c56bb0">Software Engineer lll, Cloud Machine Learning Compute Services</a></td>
+<td>Tel Aviv, Tel-Aviv District, Israel</td>
+<td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/113828324567851718">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ByteDance</strong></td>
+<td><a href="https://trueinterview.io/jobs/0fe60228-cc19-4ab4-ac1f-f861e6bb2651">Backend Software Engineer Graduate (Global Payment) - Singapore 2027 Start</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476187264/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/c18ea7e6-367b-42e1-91e1-54559b67fca0">Data Analyst - Global Payment - Singapore Open - Global Payment</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483846890/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Google</strong></td>
+<td><a href="https://trueinterview.io/jobs/8a53bc11-9266-4bc3-add5-81b3e8a8e5fb">SoC Constraints Design Engineer, Silicon</a></td>
+<td>Bengaluru, Karnataka, India</td>
+<td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/127895175685907142">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/db39245a-4ea6-4bc4-a03b-b1b63e190223">Data and AI Engineer</a></td>
+<td>India</td>
+<td align="center"><a href="https://careers.google.com/jobs/results/101488204921610950-data-and-ai-engineer/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Match Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/5a4b9b31-6166-4e6a-8b17-733b834235a6">ML Ops Engineer, AI Platform</a></td>
+<td>Tokyo</td>
+<td align="center"><a href="https://jobs.lever.co/matchgroup/a5c7d9c1-c8ef-47d1-aef0-af6bc111ea6e">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/63902fbc-778b-4398-be77-2da922ffb191">Research Scientist</a></td>
+<td>London, United Kingdom</td>
+<td align="center"><a href="https://www.metacareers.com/jobs/1412172437306781/">Apply</a></td>
+<td align="center">27 Oct 2026</td>
 </tr>
 </tbody>
 </table>

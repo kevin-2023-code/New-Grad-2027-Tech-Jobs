@@ -2,7 +2,7 @@
 
 # 📈 Quant trading & hedge funds
 
-**51 open roles.** 27 in the United States & Canada · 24 elsewhere in the world. Market makers, proprietary trading firms and quantitative funds.
+**59 open roles.** 31 in the United States & Canada · 28 elsewhere in the world. Market makers, proprietary trading firms and quantitative funds.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -206,6 +206,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://job-boards.greenhouse.io/drweng/jobs/8256605">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
+<tr>
+<td><strong>Two Sigma</strong></td>
+<td><a href="https://trueinterview.io/jobs/d200beae-f81c-4b02-9104-cafa5dc5ce28">Data Scientist - Campus Full-Time</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466200161/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/ad7010c9-3727-4d9b-8ee1-f58420d4cced">Software Engineer, Technology Security &amp; Risk</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4309293741/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>IMC</strong></td>
+<td><a href="https://trueinterview.io/jobs/78819b0a-1347-4332-835e-2dd2b1c42905">Systems Engineer - Global Development Platform</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/imc/jobs/5004989101">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Schonfeld Strategic Advisors</strong></td>
+<td><a href="https://trueinterview.io/jobs/44de1b27-d11d-47f8-80c2-a9017868d097">Software Engineer</a></td>
+<td>New York, NY<br/>New York, New York, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/schonfeld/jobs/8285213">Apply</a></td>
+<td align="center">15 Oct 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -385,6 +413,34 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>London, England, United Kingdom</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/drweng/jobs/7912433">Apply</a></td>
 <td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Man Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/2475c904-77d3-46d5-b42b-de9181c23ad4">Technical Support Engineer</a></td>
+<td>London</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/mangroup/jobs/5008805101">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>DRW</strong></td>
+<td><a href="https://trueinterview.io/jobs/2660d0ba-b765-4cb9-9354-b8aa333dd490">Equity Trader</a></td>
+<td>London, England, United Kingdom</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/drweng/jobs/8223253">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Schonfeld Strategic Advisors</strong></td>
+<td><a href="https://trueinterview.io/jobs/06138ef1-a274-4307-ad3c-3a772100d60e">AI Platform Engineer</a></td>
+<td>Singapore, Central, Singapore<br/>Hong Kong, Hong Kong</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/schonfeld/jobs/8303536">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Jane Street</strong></td>
+<td><a href="https://trueinterview.io/jobs/cdd88bd6-a1ef-49dc-a20a-924b111b322d">AV Engineer</a></td>
+<td>Hong Kong, Hong Kong</td>
+<td align="center"><a href="https://www.janestreet.com/join-jane-street/apply/7979592002?gh_jid=7979592002">Apply</a></td>
+<td align="center">21 Oct 2026</td>
 </tr>
 </tbody>
 </table>

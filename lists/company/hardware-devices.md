@@ -2,7 +2,7 @@
 
 # 🖥️ Hardware, devices & networking
 
-**170 open roles.** 100 in the United States & Canada · 70 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
+**298 open roles.** 197 in the United States & Canada · 101 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -711,11 +711,690 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/8e93b4a3-3272-407d-9a22-9c07d813f43c">Software Engineer, Safari Extensions</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200676418-3543?board_id=JB001">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td>↳</td>
+<td><a href="https://trueinterview.io/jobs/96dd7880-4a64-4a9d-95c0-f7324f275e27">Software Quality Automation Engineer - Phone, FaceTime and Contacts</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200673871-3543?board_id=JB001">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Nokia</strong></td>
 <td><a href="https://trueinterview.io/jobs/186b909f-ef09-4cdf-aae1-74b098cb7d72">Product Launch &amp; Technical Support Engineer</a></td>
 <td>United States</td>
 <td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41706">Apply</a></td>
 <td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/79b6ce7b-b741-4f96-aec9-bc4eaa384133">Hardware Systems Engineer</a></td>
+<td>Cupertino, California, United States</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200691110">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Extreme Networks</strong></td>
+<td><a href="https://trueinterview.io/jobs/df668872-81e3-4af7-ba88-6dc3cca654be">MANUFACTURING ENGINEER</a></td>
+<td>Salem, OR</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482566636/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Hewlett Packard Enterprise</strong></td>
+<td><a href="https://trueinterview.io/jobs/b9cf5f65-4ba6-4e0b-91e9-763f05f6573d">Site Planning Engineer - Onsite in Chippewa Falls, WI</a></td>
+<td>Chippewa Falls, WI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484761664/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/8fcf03ad-0649-41fc-bb70-9f3312a4310a">Substrate Technologist</a></td>
+<td>Irvine, California, United States<br/>San Diego, California, United States<br/>California, United States</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200692273">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/5425e755-91bc-4fcf-a5fe-6c38a6f43d20">Product RF Design Engineer</a></td>
+<td>Austin, TX<br/>Austin, Texas, United States</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200692243">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/68a65ba2-6b63-41b8-95f9-4f9f51741768">Hardware Systems Design and Integration Engineer - AirPods</a></td>
+<td>Cupertino, California, United States</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200692338">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/2bf6cd8f-aa77-48e8-af23-11170d004775">InfoSec Development Program (ISDP), Full-Time Opportunities</a></td>
+<td>Austin, TX<br/>Cupertino, California, United States<br/>Austin, Texas, United States</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200691684">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cisco</strong></td>
+<td><a href="https://trueinterview.io/jobs/00d7be4e-6857-49e5-9d10-6c4d0162eb9a">Solutions Engineer-US Commercial, Albuquerque, NM</a></td>
+<td>Santa Fe, NM</td>
+<td align="center"><a href="https://careers.cisco.com/global/en/job/2029875">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/2be74d97-c8c4-40da-96e2-d0ec5bc00ee0">Physical Failure Analysis Engineer</a></td>
+<td>Austin, TX<br/>Austin, Texas, United States</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200692295">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/eeda719f-40fd-48b5-967d-ae72ed3ceb5f">Data Engineer, Apple Ads</a></td>
+<td>Austin, TX<br/>Austin, Texas, United States</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200692322">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/7a280489-4b5e-4199-a02e-f52b30b470c2">Applied AI Engineer</a></td>
+<td>Cupertino, California, United States</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200689594">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/30031830-0f75-497f-9b5b-932d7944bf74">Machine Learning Engineer, Computer Vision</a></td>
+<td>Cupertino, California, United States</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200691173">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/86c0bbfc-d7bc-4ca4-9c78-01f012266481">Physical Design Methodology CAD Engineer</a></td>
+<td>Austin, TX<br/>Cupertino, California, United States<br/>Santa Clara, California, United States<br/>+3 more</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200692170">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Formlabs</strong></td>
+<td><a href="https://trueinterview.io/jobs/4ddd041c-c0d3-45f7-8666-4d145b72a4c1">Electrical Engineer - Entry Level</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://careers.formlabs.com/job/8331686/apply/?gh_jid=8331686">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Lumentum</strong></td>
+<td><a href="https://trueinterview.io/jobs/c78b7ca4-6bb2-4da4-a81e-9959723ee11e">Automation and Test Engineer - Photonics</a></td>
+<td>Ottawa, Ontario, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482531920/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cisco</strong></td>
+<td><a href="https://trueinterview.io/jobs/1b154f0d-26fc-4fc9-b6a0-f39325fad712">Data Science Analyst I (Full Time) – United States GSC/SCT ETR</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://careers.cisco.com/global/en/job/2028889">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Formlabs</strong></td>
+<td><a href="https://trueinterview.io/jobs/4a05f90e-0ec6-4819-b63a-62d120f73c5c">3D Print Optimization Engineer</a></td>
+<td>Boston, MA<br/>Somerville, MA</td>
+<td align="center"><a href="https://careers.formlabs.com/job/8331423/apply/?gh_jid=8331423">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/8927e0ec-7362-4f20-8ba0-ccb7f470d487">Custom CAD Engineer</a></td>
+<td>San Diego, California, United States</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200691947">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Motorola Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/e27cef64-ee09-4751-a2c3-ab3e55ed71c2">Service Desk Representative (Hybrid)</a></td>
+<td>Schaumburg, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484480801/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/dae75af2-1456-40a7-8ff6-fda3eae74aef">Technical Support Analyst (Hybrid)</a></td>
+<td>Allen, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476358853/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Garmin</strong></td>
+<td><a href="https://trueinterview.io/jobs/b4f94e20-20f1-4842-b83d-eb96be26ea98">Aviation Programs Engineer - General Aviation</a></td>
+<td>Olathe, KS</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467931296/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/a5289f6c-230b-4897-b68e-861bc480ff58">Applied Research Engineer/Scientist, Siri Labs</a></td>
+<td>Cupertino, CA</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200691389-0836?board_id=JB001">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/457a1f39-fd30-4a99-bc09-4c2a6c8324bd">Software Engineer, Information Systems &amp; Technology</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200685188-0157?board_id=JB001">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ciena</strong></td>
+<td><a href="https://trueinterview.io/jobs/c3efc658-b1b7-4f86-a693-28848558873f">Routing/IP Software Engineer - New Grad</a></td>
+<td>Ottawa, Ontario, Canada<br/>Ottawa, Canada</td>
+<td align="center"><a href="https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Routing-IP-Software-Engineer----New-Grad_R032006">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cisco</strong></td>
+<td><a href="https://trueinterview.io/jobs/0492f929-81ba-4699-8501-5c44d8b0324f">Desktop Applications Engineer, Duo Desktop</a></td>
+<td>Syracuse, NY</td>
+<td align="center"><a href="https://careers.cisco.com/global/en/job/2029917">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/53ba98ae-bbf2-4f27-aa33-4a432c61463c">Solutions Engineer, APO - Bay Area</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://careers.cisco.com/global/en/job/2029394">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/09e25907-08d9-433b-87de-b134c1d6723b">RFIC System Engineer</a></td>
+<td>California, United States</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200691818">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/ef0ffe81-316c-46d6-8569-a85a2c25149c">iOS Software Engineer</a></td>
+<td>Cupertino, CA</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200692106-0836/ios-software-engineer?board_id=JB001&amp;team=SFTWR">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/9402605f-da85-4fd4-8a03-106d1682f654">Circuit Design Engineer - Library/Process Monitor</a></td>
+<td>Santa Clara, CA</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200692081-3760/circuit-design-engineer-library-process-monitor?board_id=JB001&amp;team=HRDWR">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/d6471d42-d09c-44db-b51e-005f0c114bb2">DevOps / Infrastructure Engineer — Firmware Validation</a></td>
+<td>Cupertino, CA</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200691580-0836?board_id=JB001">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/5ec58603-5103-4e9b-a802-046893039d4d">GPU Drivers &amp; Metal Test Engineer - Media, Graphics, Games, Compute, &amp; Machine Learning Technologies</a></td>
+<td>Cupertino, CA</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200691445-0836/gpu-drivers-metal-test-engineer-media-graphics-games-compute-machine-learning-technologies?board_id=JB001&amp;team=SFTWR">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/c596833e-9013-49e7-94cb-55270c3af77a">Low Power Design Engineer</a></td>
+<td>Sunnyvale, CA<br/>Irvine, CA<br/>San Diego, CA</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200690907-3956/low-power-design-engineer?board_id=JB001&amp;team=HRDWR">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/db5fef24-8656-43e9-97c7-8be632f8e20b">RFIC Layout Engineer</a></td>
+<td>Austin, TX<br/>San Diego, CA<br/>Sunnyvale, CA<br/>+2 more</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200691821-1697/rfic-layout-engineer?board_id=JB001&amp;team=HRDWR">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f084d7ed-08dd-4ad6-85e6-589ede75a721">SoC System Level Test Product Development Engineer</a></td>
+<td>Cupertino, CA</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200690210-0836/soc-system-level-test-product-development-engineer?board_id=JB001&amp;team=HRDWR">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/56fa4748-fd9d-42f3-91fa-58b5705f73fc">Software Development Engineer in Test - Retail &amp; Marcom</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200687965-0157/software-development-engineer-in-test-retail-marcom?board_id=JB001&amp;team=SFTWR">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/c4a1254f-d351-477a-88bf-7b0cdeca4ebe">Tools and Automation Engineer - Media, Graphics, and Compute Technologies</a></td>
+<td>Cupertino, CA</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200691445-0836?board_id=JB001">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ciena</strong></td>
+<td><a href="https://trueinterview.io/jobs/932c379a-4c54-4611-b69e-6d1826365e12">Software Engineer (Security) - New Grad</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Software-Engineer--Security----New-Grad_R031979-1">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Nokia</strong></td>
+<td><a href="https://trueinterview.io/jobs/7155b8c4-a409-41ee-9aaf-f2a0258cdd71">Associate Sales Engineer</a></td>
+<td>United States</td>
+<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41089">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/93af0e39-4a90-4f04-bc08-e71684bb92c2">Customer Engineering Associate</a></td>
+<td>United States</td>
+<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41464">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/26c7ade0-8239-4e67-a219-074f8fee197b">Applied AI Engineer, Apple Ads</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200691639-0836/applied-ai-engineer-apple-ads?board_id=JB001&amp;team=MLAI">Apply</a></td>
+<td align="center">25 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/2933dccd-acfc-47e3-a659-45ff77e10da0">Software Engineer, System Services &amp; Daemons, Core OS</a></td>
+<td>Beaverton, OR</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200691490-0505/software-engineer-system-services-daemons-core-os?board_id=JB001&amp;team=SFTWR">Apply</a></td>
+<td align="center">25 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/580f1c1d-319f-4ee1-aff9-110c47c83699">SRAM Circuit Design Engineer</a></td>
+<td>Austin, TX<br/>San Diego, CA<br/>Beaverton, OR<br/>+1 more</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200691686-0157/sram-circuit-design-engineer?board_id=JB001&amp;team=HRDWR">Apply</a></td>
+<td align="center">25 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/7fc12ba4-17f6-4b0a-b63f-5f65c9f9f6a9">Security Site Reliability Engineer - Apple Service Engineering</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200690706-3337?board_id=JB001">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Arista</strong></td>
+<td><a href="https://trueinterview.io/jobs/939e89a4-d842-481e-8a2b-54a75e72828c">Thermal Test Engineer</a></td>
+<td>Santa Clara, California, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/AristaNetworks/744000157230186-thermal-test-engineer">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Motorola Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/598e6f18-7a83-4185-89ce-9e3f495e34e9">Android Applications Developer</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Android-Applications-Developer_R68135">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Formlabs</strong></td>
+<td><a href="https://trueinterview.io/jobs/5a554930-43de-4846-94bf-d217ce431859">Software Engineer, API &amp; Automation</a></td>
+<td>Somerville, MA</td>
+<td align="center"><a href="https://careers.formlabs.com/job/8312364/apply/?gh_jid=8312364">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/ec90b4ed-23e0-4800-a4b4-edb2a36240da">Acoustics DSP Engineer</a></td>
+<td>Cupertino, CA</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200691335-0836?board_id=JB001">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/36e980e5-6cd2-497d-b64f-0d7bea13cbbd">AI Security Engineer - Red Team</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200690601-3337?board_id=JB001">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Hewlett Packard Enterprise</strong></td>
+<td><a href="https://trueinterview.io/jobs/0b9d6aaa-cd4a-49ba-bd7b-6c6787d56b79">Graduate Electrical Hdwr Engineer I</a></td>
+<td>Chippewa Falls, Wisconsin, United States of America</td>
+<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/Graduate-Electrical-Hdwr-Engineer-I_1213433">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Samsung</strong></td>
+<td><a href="https://trueinterview.io/jobs/6109d8d8-2fc3-4a6f-88f9-d7bfdca0cd2e">Photo Equipment Engineer</a></td>
+<td>12100 Samsung Blvd, Austin, TX, USA, United States of America</td>
+<td align="center"><a href="https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/Photo-Equipment-Engineer_R121561">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/39c3583e-5740-4c7c-a0a5-b13d8f2fb72e">Cellular Performance Engineer</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200690759-3956?board_id=JB001">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/724aa037-2fba-4080-b4f5-5d68f6aa4b69">Machine Learning Researcher, Foundation Models</a></td>
+<td>Cupertino, CA</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200636174-0836?board_id=JB001">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sharkninja</strong></td>
+<td><a href="https://trueinterview.io/jobs/27be5c9e-1c1a-484c-ab41-44ea9e7609c3">Forward Deployed Engineer</a></td>
+<td>Needham, MA, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4723152006">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/fd376594-b429-44b7-a917-7397bdaf160a">Database Systems SRE, ASE Coordination SRE</a></td>
+<td>Cupertino, CA</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200690343-0836?board_id=JB001">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/8065c1fa-f22f-4886-aa49-0a850f07eca9">Software Engineer - Generative AI &amp; ML, Customer Systems</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200643421-0157?board_id=JB001">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/c69acd4f-dba1-4dee-a038-8cac9464b8bd">Learning Analytics Data Scientist, Employee Experience &amp; Productivity, IS&amp;T</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200672814-3956?board_id=JB001">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/de8c7025-a026-4245-a6a7-f461b3a6b7ce">Product Data Analyst, Employee Experience &amp; Productivity, IS&amp;T</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200677976-3956?board_id=JB001">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/88e917de-e721-4702-b420-3311ca0e72f3">Support Operations Data Analyst, Employee Experience &amp; Productivity, IS&amp;T</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200669063-3956?board_id=JB001">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/ffca5532-90d4-4487-b01f-f22f99d94a05">WiFi Software Systems Analysis Engineer, Wireless Technologies &amp; Ecosystems</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200690299-3543?board_id=JB001">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cisco</strong></td>
+<td><a href="https://trueinterview.io/jobs/306858f0-7c38-4fc6-97bb-64a8e093d4c4">Information Security Engineer II (Full-Time) – United States</a></td>
+<td>RTP, North Carolina, US, United States of America</td>
+<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Information-Security-Engineer-II--Full-Time----United-States_2028339">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/9a6b54a3-cbbe-4e1f-b9f2-a5a42dc680d6">AI Quality &amp; Test Automation Engineer</a></td>
+<td>Cupertino, CA</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200680981-0836?board_id=JB001">Apply</a></td>
+<td align="center">18 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Hewlett Packard Enterprise</strong></td>
+<td><a href="https://trueinterview.io/jobs/791a6ba7-71c6-4267-8fa2-4b683dcf27ef">Technology Consultant Graduate</a></td>
+<td>Spring, Texas, United States of America</td>
+<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Technology-Consultant-Graduate_1217412-1">Apply</a></td>
+<td align="center">18 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Robust.ai</strong></td>
+<td><a href="https://trueinterview.io/jobs/208a51de-efb1-487c-aac5-5cf8ce1bfec2">Mechanical Engineer</a></td>
+<td>San Carlos, CA</td>
+<td align="center"><a href="https://jobs.lever.co/robust-ai/8b8b4a1a-62eb-45e9-bf84-b1cbff0bdfd7">Apply</a></td>
+<td align="center">16 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/4fbd2ad4-93c1-4610-ac86-85480e93b94c">Software Development Engineer - Security, Core OS</a></td>
+<td>Cupertino, CA</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200689992-0836?board_id=JB001">Apply</a></td>
+<td align="center">16 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/681cd1ec-9dd9-443c-a345-aa6296695dbc">Platform Engineer, Privacy Preserving ML</a></td>
+<td>Seattle, Washington, United States<br/>Cupertino, California, United States</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200658504">Apply</a></td>
+<td align="center">16 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cisco</strong></td>
+<td><a href="https://trueinterview.io/jobs/69c78412-496d-4f86-bd59-9aa9a8a02f00">Hardware Engineer III (Full-Time) - United States</a></td>
+<td>San Jose, California, US, United States of America</td>
+<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineer-III--Full-Time----United-States_2027793">Apply</a></td>
+<td align="center">16 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Nimble Robotics</strong></td>
+<td><a href="https://trueinterview.io/jobs/3e1b1099-889c-46d3-9766-aa7a24a1dd6b">Robotics Field Engineer</a></td>
+<td>Cypress, TX<br/>Haslet, TX</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/nimblerobotics/jobs/4453394009">Apply</a></td>
+<td align="center">15 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/e9c50342-ce04-42e2-b1a3-7951ffe811d4">Cellular Power Systems Engineer</a></td>
+<td>Sunnyvale, CA<br/>San Diego, CA</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200688522-3543?board_id=JB001">Apply</a></td>
+<td align="center">15 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/0a418098-23f1-4388-926c-a4fe4018cb84">Multimodal AI Applied Scientist, SIML - ISE</a></td>
+<td>Cupertino, CA</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200689528-0836?board_id=JB001">Apply</a></td>
+<td align="center">15 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/ddbd940c-08b0-414d-8a40-a3a645f7cb2c">Software Engineer, Apple Streaming Platform and Solutions</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200688626-3337?board_id=JB001">Apply</a></td>
+<td align="center">15 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Formlabs</strong></td>
+<td><a href="https://trueinterview.io/jobs/61cba311-faeb-4b24-91ab-1ebcc7ba463b">Supplier Industrialization Engineer - Core Technologies</a></td>
+<td>Somerville, MA</td>
+<td align="center"><a href="https://careers.formlabs.com/job/8281470/apply/?gh_jid=8281470">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/f8a2decb-f914-452d-a00c-b859b45fb846">Backend Engineer, QoS Apple Services Engineering</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200689191-3543?board_id=JB001">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/3c3ff4fd-7f35-4143-bb4a-0a9d58eb67db">Gate-level SigEM/SEB/FIT CAD Engineer</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200689481-3956?board_id=JB001">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/aaa78643-f21a-453a-8639-d8396c6cf3f5">Graphics Software Content Engineer</a></td>
+<td>Orlando, FL</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200689345-2907?board_id=JB001">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/025352e5-1222-4168-9571-e1f7d8c14944">Software Engineer, Watch Software, Sensing &amp; Connectivity</a></td>
+<td>Cupertino, CA</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200689576-0836?board_id=JB001">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/9d358990-14f8-41e0-9ff3-f8ba60d6f98b">Software QA Engineer, Fitness+ Team</a></td>
+<td>Cupertino, CA</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200689338-0836?board_id=JB001">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/6b091ad9-67cf-477e-a4f8-099a6d1f6b67">Touch HW EE Validation Engineer</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200658959-3543?board_id=JB001">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Hewlett Packard Enterprise</strong></td>
+<td><a href="https://trueinterview.io/jobs/fe42eeb5-1df4-4d8d-bb05-fc0e1ca43ffa">Engineering Resolution Team Engineer Graduate</a></td>
+<td>Spring, Texas, United States of America</td>
+<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Engineering-Resolution-Team-Engineer-Graduate_1216553-1">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/b97d9583-c1a1-471a-80ce-2f56e3a9c451">iOS Software Engineer, Shortcuts Actions - Proactive</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200689259-3337?board_id=JB001">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/7eb51a42-58ef-43bc-bc6b-e7496004d8a2">RF/Analog Mixed Signal Design Engineer</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200688296-3956?board_id=JB001">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/ad95c1d7-841e-4a97-b7e5-a17efd450c16">Security Platform Automation Engineer</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200685550-3337?board_id=JB001">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/fa09dd9b-4620-49bc-b2b0-1e255cb9bd19">Software Engineer - Systems Performance, CoreOS</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200687817-3543?board_id=JB001">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/417af975-d1d9-4b4f-b4fc-1ef814ca20c3">Software Engineer, ASE Commerce Engineering</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200688902-2459?board_id=JB001">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Robust.ai</strong></td>
+<td><a href="https://trueinterview.io/jobs/786eb811-ae46-4bf2-85c9-f1a25bd8a330">Solutions Engineer</a></td>
+<td>San Carlos, CA</td>
+<td align="center"><a href="https://jobs.lever.co/robust-ai/7ebd6e84-e5fb-4677-91e2-423976f10d79">Apply</a></td>
+<td align="center">12 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/ab8501a9-40b1-434c-b4a5-ae814175f01b">Product Design Lab Engineer</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200688652-3956?board_id=JB001">Apply</a></td>
+<td align="center">12 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f59f12b8-ae00-4045-8f79-aebbd6476a12">Software Development Engineer in Test - Kernel Quality Engineering, Core OS</a></td>
+<td>Cupertino, CA</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200688785-0836?board_id=JB001">Apply</a></td>
+<td align="center">12 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Hewlett Packard Enterprise</strong></td>
+<td><a href="https://trueinterview.io/jobs/792d5765-7b22-4eac-a952-452b8c0a9566">HPE Technical Support Engineer I</a></td>
+<td>Andover, Massachusetts, United States of America</td>
+<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Andover-Massachusetts/HPE-Technical-Support-Engineer-I_1216554">Apply</a></td>
+<td align="center">12 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/57ab1d33-17d6-4556-902a-c8ea529496f4">ASIC Design Engineer – Fabric/Interconnect</a></td>
+<td>Austin, TX<br/>Santa Clara, CA</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200688304-0157?board_id=JB001">Apply</a></td>
+<td align="center">11 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/3b2d7161-54ab-4f95-a369-839ccb57f753">Data Engineer (Data Products - Apple Ads)</a></td>
+<td>Cupertino, CA</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200687054-0836?board_id=JB001">Apply</a></td>
+<td align="center">11 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/2d3ccebc-bc2a-4b7d-918b-5c7a13f2318f">OS Software Engineer, Evaluation</a></td>
+<td>Cupertino, CA</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200688625-0836?board_id=JB001">Apply</a></td>
+<td align="center">11 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e41c3fe8-576f-4a81-837e-34593967bf6e">Research Scientist/ Engineer - Photorealism</a></td>
+<td>Santa Clara, CA</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200631299-3760?board_id=JB001">Apply</a></td>
+<td align="center">11 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/6cff49c5-b898-45fd-9d4f-1945eecef2ec">Research Scientist/Engineer - Agentic Workflows</a></td>
+<td>Santa Clara, CA</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200631338-3760?board_id=JB001">Apply</a></td>
+<td align="center">11 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/cce413e4-bd65-4e97-9baa-74a096203292">Research Scientist/Engineer - LLM Efficiency</a></td>
+<td>Santa Clara, CA</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200631342-3760?board_id=JB001">Apply</a></td>
+<td align="center">11 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/2d518096-cd8d-4e47-a287-b4027a5e35b5">Special Projects - Research Scientist/Engineer (Robotics)</a></td>
+<td>Santa Clara, CA</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200663675-3760?board_id=JB001">Apply</a></td>
+<td align="center">11 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/c7aab398-4045-42a9-b299-096a37541b62">System Software Engineer - Debug Technologies</a></td>
+<td>Beaverton, OR</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200688603-0505?board_id=JB001">Apply</a></td>
+<td align="center">11 Oct 2026</td>
 </tr>
 </tbody>
 </table>
@@ -1218,6 +1897,223 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Taipei, Taiwan</td>
 <td align="center"><a href="https://jobs.apple.com/en-us/details/200690950">Apply</a></td>
 <td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Samsara</strong></td>
+<td><a href="https://trueinterview.io/jobs/7c6a3fce-2874-4e53-86d4-83a95342a797">Software Engineer I (New Grad)</a></td>
+<td>Harrow, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482568658/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/08078ec0-0254-4b43-8649-36a9bbae1128">Thermal Engineer</a></td>
+<td>Shanghai, Shanghai, China</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200692133">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Motorola Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/dde6355c-63b0-4ee4-8e78-beaa8db4c659">Software Quality Assurance Analyst (12 month FTC)</a></td>
+<td>Cork, County Cork, Ireland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477185631/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/bb8df726-1275-43f3-8716-d43702501e49">iPhone System HW Electrical Engineer</a></td>
+<td>Shanghai, Shanghai, China</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200692168">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Extreme Networks</strong></td>
+<td><a href="https://trueinterview.io/jobs/b3153d5f-0fd1-4004-a6df-59c7ba7ed226">QA SW ENGINEER</a></td>
+<td>Chennai, Tamil Nadu, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482548241/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/2b292cae-27e2-45c1-99e0-2fb1a5d1135b">Network Engineer, Core Services Network Operations</a></td>
+<td>Cork, Munster, Ireland<br/>Cork, Ireland</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200691270">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>QuantWare</strong></td>
+<td><a href="https://trueinterview.io/jobs/01e7adc3-ff2f-4d5f-9aeb-1511a1d258e8">Experimental Quantum Engineer</a></td>
+<td>Delft, South Holland, Netherlands</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/quantware/738371f8-f19b-493c-ba96-688233073259">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/b4f67b9b-8174-4a2a-9f2a-336937d13bf1">Performance Engineer, Radar Engineering</a></td>
+<td>Cork, County Cork, Ireland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483883903/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cisco</strong></td>
+<td><a href="https://trueinterview.io/jobs/1c671a5a-f9c0-4cd7-b36b-95fada15e0fb">Board Design Engineer</a></td>
+<td>Caesarea, Haifa District, Israel</td>
+<td align="center"><a href="https://careers.cisco.com/global/en/job/2030168">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Nokia</strong></td>
+<td><a href="https://trueinterview.io/jobs/0b1a14d3-3a58-4569-a8fe-7548f6f41fbc">Optical CM Support Engineer - Operations Engineering Team</a></td>
+<td>Bengaluru, Karnataka, India<br/>India<br/>Thailand</td>
+<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40510">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/51ef216c-920a-4991-bf51-90305feb81ff">Cellular 5G /4G Physical Layer Firmware Engineer</a></td>
+<td>Bengaluru, Karnataka, India</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200692176">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e4b8d21c-c81c-41c7-95c2-79f1f6a629b9">Machine Learning Ph.D Student - Agentic AI</a></td>
+<td>Herzliya, Tel-Aviv District, Israel</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200691529">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ciena</strong></td>
+<td><a href="https://trueinterview.io/jobs/6a4e7a56-4451-40cb-89fb-ad882a54d6b3">Network Solutions Engineer - Fort Meade, MD</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Remote-US/Network-Solutions-Engineer---Fort-Meade--MD_R031944">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Western Digital</strong></td>
+<td><a href="https://trueinterview.io/jobs/861a093b-3efc-4106-bdc8-3b80c633ccce">Manufacturing Engineering Technician - Equipment</a></td>
+<td>Pasir Gudang, Johor, Malaysia</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/WesternDigital/744000157989750-manufacturing-engineering-technician-equipment">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/5d87ef42-6c4b-4129-8120-c3312977e7d8">AIML - Machine Learning Research (Speech-to-Speech Translation) - TMI</a></td>
+<td>Cambridge, United Kingdom</td>
+<td align="center"><a href="https://jobs.apple.com/en-gb/details/200691875-1251/aiml-machine-learning-research-speech-to-speech-translation-tmi?board_id=JB001&amp;team=MLAI">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/8668e650-692e-46f6-8d41-6e414bdcb9b2">Media Intelligence Quality Engineer</a></td>
+<td>Barcelona, Spain</td>
+<td align="center"><a href="https://jobs.apple.com/es-es/details/200691897-0215/media-intelligence-quality-engineer?board_id=JB001&amp;team=SFTWR">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Nokia</strong></td>
+<td><a href="https://trueinterview.io/jobs/07f4f733-4d19-4115-9213-5df2f739fb65">Digital HW Engineer</a></td>
+<td>Italy</td>
+<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39197">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Pure Storage</strong></td>
+<td><a href="https://trueinterview.io/jobs/b234ca3d-a73f-4a27-8b30-fc0a960b3f80">DevOps Engineer</a></td>
+<td>Prague, Czech Republic</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/purestorage/jobs/8179659">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/7aee898b-e8ea-46cc-ba34-15bc0fea68d9">Golang Engineer, 1touch</a></td>
+<td>Prague, Czech Republic</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/purestorage/jobs/8245915">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Nokia</strong></td>
+<td><a href="https://trueinterview.io/jobs/f9c99d55-6d9a-48d0-8b08-72c36398b827">Site Engineer, Test Capability</a></td>
+<td>India<br/>Malaysia</td>
+<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41153">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/cd34ba11-57b3-4259-bfda-3c88170785fd">Audio &amp; Acoustic Instrumentation Systems Engineer</a></td>
+<td>Shenzhen, Guangdong, China<br/>Shanghai, Shanghai, China</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200659325">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/8158e61e-382d-4f30-9683-841d10cccd7a">Site Reliability Engineer</a></td>
+<td>London, England, United Kingdom<br/>San Diego, CA</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200681759">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Axon</strong></td>
+<td><a href="https://trueinterview.io/jobs/527ce9f0-14bc-4ac8-a4c6-c52c1907a1fe">Technical Support Representative</a></td>
+<td>Australia<br/>Bucharest, Bucharest, Romania</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/axon/jobs/8034280003">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Neura Robotics</strong></td>
+<td><a href="https://trueinterview.io/jobs/0564036c-d12c-4f7e-9a44-f9aacbc24817">RT &amp; Kernel Engineer (Mensch)</a></td>
+<td>Zurich<br/>Munich / Freising<br/>Metzingen / Riederich</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/neura-robotics-gmbh/dd7c93d3-8d20-4173-b331-91305f6b85f2">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Coates Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/37e44848-09ea-4d43-a57f-3421b955d6cf">Experience Designer, Future Experience</a></td>
+<td>Sydney</td>
+<td align="center"><a href="https://jobs.lever.co/coatesgroup/fc4dde06-58e0-49a7-b256-bb977940af01">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Nokia</strong></td>
+<td><a href="https://trueinterview.io/jobs/18005b5e-acac-473e-a665-1df0fdb0ca37">Thermo-Mechanical CM Support Engineer - Operations Engineering Team</a></td>
+<td>India<br/>Thailand</td>
+<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40511">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/3368fc3d-2488-4eb1-bd4e-4d331cbf03b4">Electrical CM Support Engineer - Operations Engineering Team</a></td>
+<td>India<br/>Thailand</td>
+<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40508">Apply</a></td>
+<td align="center">15 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Western Digital</strong></td>
+<td><a href="https://trueinterview.io/jobs/4aa4b878-9250-4a73-b940-1881c2e137df">Shift Engineer, Manufacturing Engineering</a></td>
+<td>Bayan Lepas, Penang, Malaysia</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/WesternDigital/744000155450889-shift-engineer-manufacturing-engineering">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Netgear</strong></td>
+<td><a href="https://trueinterview.io/jobs/e97be6ec-1356-40f4-9525-2d4e1bf7e55a">Graduate Mobile Software Engineer (Android/iOS)</a></td>
+<td>Cork, Ireland</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/netgear/415ee500-8f36-4766-a9e9-a565827e52c2/application">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Western Digital</strong></td>
+<td><a href="https://trueinterview.io/jobs/c2f03688-6af8-4197-be63-f07a3149fc70">Testing Engineering, Manufacturing (AI)</a></td>
+<td>Shenzhen, Guangdong Province, China</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/WesternDigital/744000155156589-testing-engineering-manufacturing-ai-">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/fd9af509-c397-4e45-9483-e968ccb63236">Analog IC Product Engineer (m/f/d)</a></td>
+<td>München, Deutschland</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200688192-1731?board_id=JB001">Apply</a></td>
+<td align="center">11 Oct 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # 🌱 Startups (under 200)
 
-**57 open roles.** 44 in the United States & Canada · 13 elsewhere in the world. Early-stage technology companies.
+**76 open roles.** 58 in the United States & Canada · 18 elsewhere in the world. Early-stage technology companies.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -325,6 +325,104 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://jobs.ashbyhq.com/baseten/68328a94-f785-463b-a3d7-b0dfc11839b5">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
+<tr>
+<td><strong>Field AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/c8627839-8059-4992-b852-7a8fc091e3ec">Research / Software Engineer - Humanoid Whole Body Learning</a></td>
+<td>Boston, MA<br/>Pittsburgh, PA</td>
+<td align="center"><a href="https://jobs.lever.co/field-ai/09def7d8-26bf-451f-a4f2-bd8fd4c5f5cf">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ashby</strong></td>
+<td><a href="https://trueinterview.io/jobs/a75377de-1b23-4057-a506-36098dc2fed6">Software Engineer – 2027 Graduate Program (August Start)</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483876684/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Field AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/95f26cef-8f53-4bbd-ae06-1fbbe892d063">Field Application Engineer</a></td>
+<td>Remote - US</td>
+<td align="center"><a href="https://jobs.lever.co/field-ai/3a115140-cbee-4d96-b61d-7403596b77ca">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Tailscale</strong></td>
+<td><a href="https://trueinterview.io/jobs/8f737afa-2bbc-44ec-8ffa-4129506a9e37">Analytics Engineer, Data</a></td>
+<td>Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4465215918/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Baseten</strong></td>
+<td><a href="https://trueinterview.io/jobs/49d935aa-33e2-4cf7-8699-542fb13b1087">Software Engineer - Storage Systems (Agent Infra)</a></td>
+<td>San Francisco, CA<br/>New York, NY</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/baseten/ed8ab178-e7a4-4524-8714-7ef55d574c7d">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Deepgram</strong></td>
+<td><a href="https://trueinterview.io/jobs/4518f067-3297-4448-bae7-2707c536330a">Marketing &amp; GTM Data Analyst</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/Deepgram/f428c615-65e8-4d4d-84dd-ba0da64f1a9b">Apply</a></td>
+<td align="center">24 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Oneleet</strong></td>
+<td><a href="https://trueinterview.io/jobs/1a0a70a1-76ce-4d8c-b6a9-b98f6db92991">Penetration Testing Coordinator</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/oneleet/61208670-918f-4b8e-b70a-6d86da715f48">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Baseten</strong></td>
+<td><a href="https://trueinterview.io/jobs/e1dc36d2-526b-4850-84cd-29a4ea25d20c">Product Platform - Product Engineer</a></td>
+<td>San Francisco, CA<br/>New York, NY<br/>Seattle, WA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/baseten/7428d7cc-36d7-4d02-b19a-bd558fba6751">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Normal Computing Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/65482cb3-ef37-42bb-a02c-74d14dd329da">Runtime Engineer</a></td>
+<td>Mountain View, CA<br/>New York, NY</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/NormalComputing/2d03f84a-5b39-44e5-8010-39be87eb2e2f">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Field AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/716733b3-02c2-473c-889e-3a920308f657">Robotics Software Engineer, Multimodal Inspection</a></td>
+<td>Irvine, CA</td>
+<td align="center"><a href="https://jobs.lever.co/field-ai/0a93ca47-2272-465f-8b33-110fbd313e1e">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Robust.ai</strong></td>
+<td><a href="https://trueinterview.io/jobs/208a51de-efb1-487c-aac5-5cf8ce1bfec2">Mechanical Engineer</a></td>
+<td>San Carlos, CA</td>
+<td align="center"><a href="https://jobs.lever.co/robust-ai/8b8b4a1a-62eb-45e9-bf84-b1cbff0bdfd7">Apply</a></td>
+<td align="center">16 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Field AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/4a56b22f-74d6-4ba4-a768-18a9961745a3">Robotics Release Engineer, System Validation</a></td>
+<td>Irvine, CA</td>
+<td align="center"><a href="https://jobs.lever.co/field-ai/9e451b91-7633-4b86-bf64-38cd7bd6a8dc">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Robust.ai</strong></td>
+<td><a href="https://trueinterview.io/jobs/786eb811-ae46-4bf2-85c9-f1a25bd8a330">Solutions Engineer</a></td>
+<td>San Carlos, CA</td>
+<td align="center"><a href="https://jobs.lever.co/robust-ai/7ebd6e84-e5fb-4677-91e2-423976f10d79">Apply</a></td>
+<td align="center">12 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Suno</strong></td>
+<td><a href="https://trueinterview.io/jobs/9b267c73-180d-4e13-ac40-033272fee4c7">Software Engineer, Internal Tools</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://www.1point3acres.com/jobs/01m4hhrrm8eg16vbsbay8qt2jn">Apply</a></td>
+<td align="center">10 Oct 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -427,6 +525,41 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Remote</td>
 <td align="center"><a href="https://jobs.micro1.ai/post/8c0ddeba-5240-4059-9e61-544dd2c8292f?first_page=/careers&amp;last_page=/careers">Apply</a></td>
 <td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>QuantWare</strong></td>
+<td><a href="https://trueinterview.io/jobs/01e7adc3-ff2f-4d5f-9aeb-1511a1d258e8">Experimental Quantum Engineer</a></td>
+<td>Delft, South Holland, Netherlands</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/quantware/738371f8-f19b-493c-ba96-688233073259">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Supabase</strong></td>
+<td><a href="https://trueinterview.io/jobs/5851407c-d4ff-4695-8d2d-6714adb23ada">Container Engineer</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/supabase/6f7656fc-9983-48be-bbd3-8b40e0e3027a">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Granica</strong></td>
+<td><a href="https://trueinterview.io/jobs/dc3c6f46-9675-4c1d-ac37-77ee4512e180">Software Engineer, Data Platform (Bengaluru)</a></td>
+<td>Bengaluru Urban</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/granica/8712e354-0bd6-4706-8d30-45b6ff4bf7d4">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Supabase</strong></td>
+<td><a href="https://trueinterview.io/jobs/dee6d0c8-3307-4951-8261-b495525f1475">SDK Engineer - Python</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/supabase/b65287c7-2071-4bc6-8717-58c090e2a372">Apply</a></td>
+<td align="center">16 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Posthog</strong></td>
+<td><a href="https://trueinterview.io/jobs/d63154e0-76d5-4fd9-9bcc-e70ccd157c63">Animator &amp; Motion Graphics Designer</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/PostHog/4a8a1ee5-aa45-447e-a438-919b4577f14d">Apply</a></td>
+<td align="center">14 Oct 2026</td>
 </tr>
 </tbody>
 </table>

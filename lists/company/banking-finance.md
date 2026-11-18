@@ -2,7 +2,7 @@
 
 # 🏦 Banks, insurers & asset managers
 
-**40 open roles.** 10 in the United States & Canada · 30 elsewhere in the world. Banks, card networks, exchanges, insurers and asset managers.
+**67 open roles.** 18 in the United States & Canada · 49 elsewhere in the world. Banks, card networks, exchanges, insurers and asset managers.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -81,11 +81,67 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Manulife</strong></td>
+<td><a href="https://trueinterview.io/jobs/10e4296a-aa84-4cac-b731-eeb81d8786d1">Digital Product Owner</a></td>
+<td>Waterloo, ON<br/>Waterloo, Canada</td>
+<td align="center"><a href="https://careers.manulife.com/global/en/job/JR26101297/Digital-Product-Owner">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Société Générale</strong></td>
 <td><a href="https://trueinterview.io/jobs/f3f0083b-fdd2-4a1b-b564-d23315378eb9">Fixed Income Electronic Trading- Programmer Analyst</a></td>
 <td>New York, NY</td>
 <td align="center"><a href="https://careers.societegenerale.com/en/job-offers/fixed-income-electronic-trading-programmer-analyst-26000D8N-en">Apply</a></td>
 <td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Goldman Sachs</strong></td>
+<td><a href="https://trueinterview.io/jobs/1040cf73-8048-4fc0-be75-6eaf8d24b415">Asset &amp; Wealth Management, QIS, Quantitative Equity Portfolio Construction Analyst - New York</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3002/job/186423">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/d5dedd95-80c0-4398-a1be-2ec780c0e649">Asset &amp; Wealth Management, QIS, Quantitative Liquid Alternatives Portfolio Construction Analyst - New York</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3002/job/186424">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Desjardins</strong></td>
+<td><a href="https://trueinterview.io/jobs/c5c2dfd3-8013-4bcf-9b3f-bae6b4337f4b">Programmer analyst, System and infrastructure operations, maintenance and development</a></td>
+<td>Lévis, Canada</td>
+<td align="center"><a href="https://desjardins-workplace.relevance.studio/en/job-detail/1-c41c3bcf2f27100330d7c46851e80000-programmer-analyst-system-and-infrastructure-operations-maintenance-and-development-levis-montreal">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Goldman Sachs</strong></td>
+<td><a href="https://trueinterview.io/jobs/7baf5724-b3eb-4ef5-b2c8-aadf0aeef0d3">The Core Engineering-Associate, Quantitative Strategist, Core Planning and Analysis Strats</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3002/job/176151">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>BMO</strong></td>
+<td><a href="https://trueinterview.io/jobs/c1b2ea51-e681-4d20-b69c-cc0b405471f2">Specialist II-IC Infrastructure Engineering (New or Recent Graduate)</a></td>
+<td>Barrie, ON, CAN</td>
+<td align="center"><a href="https://bmo.wd3.myworkdayjobs.com/External/job/Barrie-ON-CAN/Specialist-II-IC-Infrastructure-Engineering--New-or-Recent-Graduate-_R260028509-1">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>JPMorgan Chase</strong></td>
+<td><a href="https://trueinterview.io/jobs/3e5b8cab-90d1-4ca3-96ca-8ad33d3867db">Data Integrity &amp; Governance, Analyst</a></td>
+<td>Newark, DE, United States</td>
+<td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800566">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/b05bfc04-302c-4dfd-b629-6aec3a07d673">Instructional Designer - Leadership Development</a></td>
+<td>Columbus, OH, United States<br/>Jersey City, NJ, United States<br/>Wilmington, DE, United States</td>
+<td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210793808">Apply</a></td>
+<td align="center">16 Oct 2026</td>
 </tr>
 </tbody>
 </table>
@@ -297,6 +353,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td>↳</td>
+<td><a href="https://trueinterview.io/jobs/afee0091-a814-449c-bf01-be5967363a74">Front Office Software Engineer – FIC Automated Trading</a></td>
+<td>Hong Kong</td>
+<td align="center"><a href="https://careers.societegenerale.com/en/job-offers/front-office-software-engineer-fic-automated-trading-26000I3I-en">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/94b9ecb5-dbd1-4730-8cc8-d02d772059e3">Market Access Developer</a></td>
 <td>Hong Kong</td>
 <td align="center"><a href="https://careers.societegenerale.com/en/job-offers/market-access-developer-26000G7V-en">Apply</a></td>
@@ -308,6 +371,132 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Hong Kong</td>
 <td align="center"><a href="https://careers.societegenerale.com/en/job-offers/securities-financing-application-developer-26000GU8-en">Apply</a></td>
 <td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Jefferies Financial Group Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/ca936dba-c00a-43c0-8739-ac5d1958c450">AVP - C# (.net) Developer - Equity Technology</a></td>
+<td>Pune, India</td>
+<td align="center"><a href="https://hdid.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3977">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Bloomberg</strong></td>
+<td><a href="https://trueinterview.io/jobs/36564488-8721-4457-83b0-f89e76fd901b">User Support - Bloomberg Technical Support (Bahasa Indonesia Speaker) - Singapore</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4452343967/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/1fec3d6b-5d71-425b-8e2c-60823076a24f">Data Support Analyst (Japanese Speaker), Tokyo</a></td>
+<td>Tokyo, Tokyo, Japan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4463978366/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/ff03d43a-0f62-4d7e-b622-e54fb1200b6c">Bloomberg Technical Support Specialist - French, Spanish or Portuguese Speaking</a></td>
+<td>London, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4441086611/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>JPMorgan Chase</strong></td>
+<td><a href="https://trueinterview.io/jobs/d71b7bb3-fd0e-4def-b002-10d2222b72bf">Applied AI and Data Science Specialist – Global Research Modernization</a></td>
+<td>Mumbai, Maharashtra, India</td>
+<td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803316">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>AXA</strong></td>
+<td><a href="https://trueinterview.io/jobs/59115408-37ac-4db4-b0f9-db9fefa65cba">Data Analyst Omnichannel Kampagnenmanagement (all genders)</a></td>
+<td>Winterthur, Switzerland</td>
+<td align="center"><a href="https://careers.axa.com/jobs/28586/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Société Générale</strong></td>
+<td><a href="https://trueinterview.io/jobs/895b0252-bca2-49f0-b6d4-57660c5f2ba8">Software Engineer - Python Developer</a></td>
+<td>India</td>
+<td align="center"><a href="https://careers.societegenerale.com/en/job-offers/software-engineer-python-developer-26000G16-en">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Experian</strong></td>
+<td><a href="https://trueinterview.io/jobs/ddd0efaf-336a-4eb5-b9ba-06d728844d16">Cloud Site Reliability Engineer</a></td>
+<td>Sofia, Bulgaria</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Experian/744000157405899-cloud-site-reliability-engineer">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Société Générale</strong></td>
+<td><a href="https://trueinterview.io/jobs/e4410ce5-b81d-4c0c-a5c5-3beb6f6fabd6">Post Trade Application Developer (Contract)</a></td>
+<td>Hong Kong</td>
+<td align="center"><a href="https://careers.societegenerale.com/en/job-offers/post-trade-application-developer-contract-26000MFN-en">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Experian</strong></td>
+<td><a href="https://trueinterview.io/jobs/178553da-bbc9-4b5a-8d2a-d7efcb2a6364">Data Scientist (Contract)</a></td>
+<td>Cyberjaya, Selangor, Malaysia</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Experian/744000156473699-data-scientist-contract-">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/b5d56b2f-a986-409c-8777-864734777eb1">End User Experience Engineer</a></td>
+<td>Cyberjaya, Selangor, Malaysia</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Experian/744000156456700-end-user-experience-engineer">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/c0a2571c-44a3-4440-8999-3a40a50041ca">Developer (C#)</a></td>
+<td>Cyberjaya, Selangor, Malaysia</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Experian/744000156326789-developer-c-">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/8fdcb9a7-36bb-47f3-a37c-dd5d5bbe5105">System Engineer (Contract)</a></td>
+<td>Cyberjaya, Selangor Darul Ehsan, Malaysia</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Experian/744000156276149-system-engineer-contract-">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/75de85bb-add8-432e-adb9-57b03eacb5aa">Security Reliability &amp; Remediation Engineering Specialist (Java)</a></td>
+<td>São Paulo, Brazil</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Experian/744000156052189-security-reliability-remediation-engineering-specialist-java-">Apply</a></td>
+<td align="center">16 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/06e99677-579e-4d6e-92df-a83dbed2606a">Identity Threat Detection Engineering Specialist</a></td>
+<td>São Paulo, Brazil</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Experian/744000156049014-identity-threat-detection-engineering-specialist">Apply</a></td>
+<td align="center">16 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/d29e0018-ad4d-419e-bc04-8b3874abd888">Product Security Engineering Specialist</a></td>
+<td>São Paulo, Brazil</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Experian/744000156049337-product-security-engineering-specialist">Apply</a></td>
+<td align="center">16 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Pear Vc</strong></td>
+<td><a href="https://trueinterview.io/jobs/fb48b80d-4aab-4389-be27-3f2e6e856325">Customer Support Engineer (UK) — Phaselaw</a></td>
+<td>London</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/Pear-VC/fc578cd2-471b-4ca8-82ab-0d1822ff36cc">Apply</a></td>
+<td align="center">15 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Experian</strong></td>
+<td><a href="https://trueinterview.io/jobs/ed9f7613-da28-482a-92c1-676dfd912bbd">Business Intelligence &amp; Data Engineering Analyst - FTC</a></td>
+<td>Nottingham, United Kingdom</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Experian/744000155702409-business-intelligence-data-engineering-analyst-ftc">Apply</a></td>
+<td align="center">15 Oct 2026</td>
 </tr>
 </tbody>
 </table>

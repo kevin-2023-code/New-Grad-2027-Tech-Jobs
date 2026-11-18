@@ -2,7 +2,7 @@
 
 # Quantitative Trader
 
-**45 open roles.** 20 in the United States & Canada · 25 elsewhere in the world.
+**61 open roles.** 30 in the United States & Canada · 31 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -156,6 +156,76 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Houston, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484982132/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CWP Energy</strong></td>
+<td><a href="https://trueinterview.io/jobs/52b58d2d-59d4-4326-8a38-92071369ee0c">Power Trader</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4472786725/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Brownstone Investment Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/5afed8cf-5264-4829-8830-5b574115e74a">Emerging Markets Trader</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484727521/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>FanDuel</strong></td>
+<td><a href="https://trueinterview.io/jobs/c5237b63-e298-4c61-8dd0-ccc422544d53">Sports Trader (NBA/WNBA)</a></td>
+<td>Jersey City, NJ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482545597/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Louis Dreyfus Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/80547772-f52a-45bb-88ce-b41d2d63c43c">US Refined Soybean Oil Trader</a></td>
+<td>Wilton, CT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482538593/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CHEManager International</strong></td>
+<td><a href="https://trueinterview.io/jobs/916d52d8-1ba8-4031-962e-8224c2c23638">Equity Trader and Research Analyst</a></td>
+<td>Cincinnati, OH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484113366/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Old Mission</strong></td>
+<td><a href="https://trueinterview.io/jobs/37b63748-f750-4cf3-8d81-a8ee79e51f78">Quantitative Trader (Options)</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483880526/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f9c13a05-7e6b-44f1-b348-5f8364d57edd">Systematic Equity Trader</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483868947/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>GCash</strong></td>
+<td><a href="https://trueinterview.io/jobs/60e2d5e4-2b30-4833-b6ab-62fb86b899e2">FX Trader / Treasury Execution Specialist</a></td>
+<td>Center City, MN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475164554/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>State Street Investment Management</strong></td>
+<td><a href="https://trueinterview.io/jobs/d68fc916-f59f-4917-9e40-84ca7443ca66">Derivatives Trader, AVP - State Street Investment Management</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4481502291/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Vestmark, Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/3c516191-bbe3-4e65-9b56-0a8f871647fe">Trader</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/vestmark/jobs/8303297">Apply</a></td>
+<td align="center">23 Oct 2026</td>
 </tr>
 </tbody>
 </table>
@@ -343,6 +413,48 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>London, England, United Kingdom</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/drweng/jobs/7912433">Apply</a></td>
 <td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Mustard Systems Ltd.</strong></td>
+<td><a href="https://trueinterview.io/jobs/e61f7732-f85c-4cae-9dc4-f170a0b1f1e0">Cricket Trader</a></td>
+<td>London, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4471875917/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>BNP Paribas</strong></td>
+<td><a href="https://trueinterview.io/jobs/11a815a6-55c1-4695-aa03-a75416e05660">G10 FX Forwards Trader</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483874417/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>DRW</strong></td>
+<td><a href="https://trueinterview.io/jobs/2660d0ba-b765-4cb9-9354-b8aa333dd490">Equity Trader</a></td>
+<td>London, England, United Kingdom</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/drweng/jobs/8223253">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Entain</strong></td>
+<td><a href="https://trueinterview.io/jobs/ecaec1d4-75f1-4723-ae6f-30da5fee5ec9">Football Trader 1</a></td>
+<td>Montevideo, Departamento de Montevideo, Uruguay</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Entain/744000157579319-football-trader-1">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Xp Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/a9bbd8cb-11e8-4ac8-a4d1-d9203a361e00">Business Analyst | Segmento Trader</a></td>
+<td>São Paulo, SP</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/xpinc/jobs/8892892002">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Blockchain.com</strong></td>
+<td><a href="https://trueinterview.io/jobs/baa3eaf1-5119-4109-aa5f-4cf224cb0707">Quantitative Trader</a></td>
+<td>London</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/blockchain/jobs/8289214">Apply</a></td>
+<td align="center">16 Oct 2026</td>
 </tr>
 </tbody>
 </table>

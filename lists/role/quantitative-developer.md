@@ -2,7 +2,7 @@
 
 # Quantitative Developer
 
-**81 open roles.** 61 in the United States & Canada · 20 elsewhere in the world.
+**103 open roles.** 71 in the United States & Canada · 32 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -444,6 +444,76 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4481791138/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
+<tr>
+<td><strong>Echo Financial Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/489e88d1-3b61-4b1f-953a-e523b3d94c53">Quantitative Analyst</a></td>
+<td>New York City Metropolitan Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4479183270/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Intime Infotech Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/2bf598bc-f9d7-4344-8ec6-3fb7f28dbdc4">Quantitative Developer</a></td>
+<td>New York City Metropolitan Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484108204/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NISA Investment Advisors, LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/9a365233-b0c4-4624-ab39-36a514d2cc3c">Quantitative Trading Analyst, Portfolio Management</a></td>
+<td>St Louis, MO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4457624792/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Digital Waffle</strong></td>
+<td><a href="https://trueinterview.io/jobs/fe013d5e-a8db-45e0-91be-7dde21246269">Quant Engineer</a></td>
+<td>New York, NY<br/>San Francisco Bay Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483888456/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ExxonMobil</strong></td>
+<td><a href="https://trueinterview.io/jobs/01eb91e0-88f1-44ac-ae4d-329878fff491">Valuation and Structuring Quant Analyst, Gas and Power</a></td>
+<td>Spring, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4421243740/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Goldman Sachs</strong></td>
+<td><a href="https://trueinterview.io/jobs/1040cf73-8048-4fc0-be75-6eaf8d24b415">Asset &amp; Wealth Management, QIS, Quantitative Equity Portfolio Construction Analyst - New York</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3002/job/186423">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/d5dedd95-80c0-4398-a1be-2ec780c0e649">Asset &amp; Wealth Management, QIS, Quantitative Liquid Alternatives Portfolio Construction Analyst - New York</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3002/job/186424">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Freddie Mac</strong></td>
+<td><a href="https://trueinterview.io/jobs/1789fcff-bc01-49a8-a50c-607b7969ec50">Quantitative Analytics Professional</a></td>
+<td>McLean, VA</td>
+<td align="center"><a href="https://careers.freddiemac.com/us/en/job/FRMAUSJR17753EXTERNAL/Quantitative-Analytics-Professional">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Millennium Management</strong></td>
+<td><a href="https://trueinterview.io/jobs/792838c2-820b-44c2-a1cb-8df6b2ded708">Quantitative Analyst – Quant Analyst Program</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://mlp.eightfold.ai/careers/job/755959471860?domain=mlp.com">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Base Power</strong></td>
+<td><a href="https://trueinterview.io/jobs/6fe2ce14-0cdb-4987-80e3-0f472919f68b">Quantitative Analyst</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/base-power/d8f62c73-d754-411e-b30f-99f856659906">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -595,6 +665,90 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>London, England, United Kingdom</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484798372/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Hunter Bond</strong></td>
+<td><a href="https://trueinterview.io/jobs/0497a6ed-fef9-4911-95fc-cdd7c5d8dc57">Production Support Engineer | Quant Trading Firm | Singapore | up to SGD 280K</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482547076/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Paradigm</strong></td>
+<td><a href="https://trueinterview.io/jobs/c9a32e77-4b52-4a26-a225-70018b4847f7">Quantitative Developer - Options Markets</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4406268743/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>eXalt Fi</strong></td>
+<td><a href="https://trueinterview.io/jobs/65b79c5b-afe3-42ef-8e10-c020bd5756a5">Quant Analyst, Exotic Rates</a></td>
+<td>London Area, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4481932002/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/4636f5aa-9e68-4ea5-8657-84542ad6774c">Quant Analyst, Linear Rates</a></td>
+<td>London Area, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4481905632/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e546f20e-b5f9-4237-9a98-79094cafdc60">Quant Analyst, Commodities</a></td>
+<td>London Area, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4481672658/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Crédit Agricole Personal Finance &amp; Mobility</strong></td>
+<td><a href="https://trueinterview.io/jobs/f63194f8-ad6c-4209-b46b-88d390ef10c7">Stage 2027 Gestion Quantitative du Risque – Validation des Modèles H/F</a></td>
+<td>Massy, France</td>
+<td align="center"><a href="https://cacf.talentview.io/jobs/bp6ty0">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Bet365</strong></td>
+<td><a href="https://trueinterview.io/jobs/c3d32c95-2d60-4669-b808-0d48f1ee68cb">Quantitative Analyst, Sports</a></td>
+<td>Stoke-On-Trent, England, United Kingdom</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Bet3651/744000158268769-quantitative-analyst-sports">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NEXTON</strong></td>
+<td><a href="https://trueinterview.io/jobs/3f3ff794-6d3e-4cb2-a0f1-76182bcb5032">Développeur C# - IT Quant Pricing Pre Trade (+ API Sophis) H/F</a></td>
+<td>Paris, Île-de-France, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/NEXTON/744000158108039-developpeur-c-it-quant-pricing-pre-trade-api-sophis-h-f">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>QCP CAPITAL PTE. LTD.</strong></td>
+<td><a href="https://trueinterview.io/jobs/526559a5-e9eb-477d-b420-d440b5e72dc3">Quantitative Developer</a></td>
+<td>Outram, Singapore</td>
+<td align="center"><a href="https://www.mycareersfuture.gov.sg/job/d75b8376b26e7612aef6414494aae232">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Standard Chartered Bank</strong></td>
+<td><a href="https://trueinterview.io/jobs/e40afc1a-06e8-436c-b824-ea3b466312c9">Quantitative Developer (Singapore, Hong Kong)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://jobs.standardchartered.com/job/Quantitative-Developer-%28Singapore%2C-Hong-Kong%29/64619-en_GB">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>HSBC</strong></td>
+<td><a href="https://trueinterview.io/jobs/9df87a2d-b530-46c0-b923-0decf0663401">Quant Developer - Front Office</a></td>
+<td>India</td>
+<td align="center"><a href="https://apply.careers.hsbc.com/job/Bangalore-Quant-Developer-Front-Office-KA-560076/1373208257/?feedId=417557">Apply</a></td>
+<td align="center">25 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Qube Research &amp; Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/b9049600-358c-4be9-88c3-6c06e70a9025">Quantitative Developer - Front End, React/C#</a></td>
+<td>London</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8883229002">Apply</a></td>
+<td align="center">13 Oct 2026</td>
 </tr>
 </tbody>
 </table>
