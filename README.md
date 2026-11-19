@@ -8,7 +8,7 @@ Use this list to find **entry-level, full-time tech roles** in software engineer
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-### Browse 822 new-grad roles by category
+### Browse 821 new-grad roles by category
 
 💻 **[Software Engineering](#-software-engineering)** (453)
 
@@ -18,7 +18,7 @@ Use this list to find **entry-level, full-time tech roles** in software engineer
 
 🔧 **[Hardware & Engineering](#-hardware--engineering)** (210)
 
-📱 **[Product & Design](#-product--design)** (22)
+📱 **[Product & Design](#-product--design)** (21)
 
 ---
 
@@ -31,7 +31,7 @@ Use this list to find **entry-level, full-time tech roles** in software engineer
 
 > **Looking for something else?**
 >
-> 🌍 For roles outside the United States & Canada, see [README-Global.md](./README-Global.md) (940)  
+> 🌍 For roles outside the United States & Canada, see [README-Global.md](./README-Global.md) (930)  
 > 🎓 For internships, see [Summer-2027-Tech-Internships](https://github.com/kevin-2023-code/Summer-2027-Tech-Internships)  
 > 📝 For what these companies ask in interviews, see [Tech-Interview-Questions](https://github.com/kevin-2023-code/Tech-Interview-Questions)  
 > 🎯 For online-assessment questions, see [Tech-OA-Questions](https://github.com/kevin-2023-code/Tech-OA-Questions)  
@@ -916,7 +916,6 @@ _Roles in the United States & Canada. Posted in the last 12 days, each with a di
 <tr><td><strong>Phantom</strong></td><td>UX Researcher</td><td>Remote — United States</td><td><a href="https://jobs.ashbyhq.com/phantom/0c422449-5b05-41ee-a000-0d5c04f78bea"><img src="assets/apply.svg" alt="Apply" width="70"></a> <a href="https://trueinterview.io/jobs/597c6a63-20e4-43ca-8900-3bc211c7379b"><img src="assets/ti.svg" alt="TrueInterview" width="22"></a></td><td>11d</td></tr>
 <tr><td><strong>DoorDash</strong></td><td>Studio Central Product Designer 🔥</td><td>San Francisco, CA<br>Seattle, WA<br>New York, NY</td><td><a href="https://job-boards.greenhouse.io/doordashusa/jobs/8358145"><img src="assets/apply.svg" alt="Apply" width="70"></a> <a href="https://trueinterview.io/jobs/5b8ee4b3-8c25-4bb2-8422-62acef6b6c18"><img src="assets/ti.svg" alt="TrueInterview" width="22"></a></td><td>12d</td></tr>
 <tr><td><strong>Neuralink</strong></td><td>Designer</td><td>Austin, TX<br>Austin, Texas, United States<br>South San Francisco, California, United States</td><td><a href="https://boards.greenhouse.io/neuralink/jobs/8197788003?gh_jid=8197788003"><img src="assets/apply.svg" alt="Apply" width="70"></a> <a href="https://trueinterview.io/jobs/61bd0161-c96d-4dc8-b76c-2e15d2f29733"><img src="assets/ti.svg" alt="TrueInterview" width="22"></a></td><td>12d</td></tr>
-<tr><td><strong>SeatGeek</strong></td><td>UX Design - New Grad</td><td>New York, NY<br>New York, New York</td><td><a href="https://seatgeek.com/jobs/8248135?gh_jid=8248135"><img src="assets/apply.svg" alt="Apply" width="70"></a> <a href="https://trueinterview.io/jobs/3dd61a1a-e1c3-4104-b776-2879638177b7"><img src="assets/ti.svg" alt="TrueInterview" width="22"></a></td><td>12d</td></tr>
 <tr><td><strong>Ubisoft</strong></td><td>Game Economy Designer</td><td>Montreal, QC<br>Montreal, Québec, Canada</td><td><a href="https://jobs.smartrecruiters.com/Ubisoft2/744000160213029-game-economy-designer"><img src="assets/apply.svg" alt="Apply" width="70"></a> <a href="https://trueinterview.io/jobs/9059f604-991f-4ae1-8ddd-5ea5764db635"><img src="assets/ti.svg" alt="TrueInterview" width="22"></a></td><td>12d</td></tr>
 </tbody>
 </table>
